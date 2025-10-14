@@ -1,0 +1,1474 @@
+{
+  "query_id": "335",
+  "title_query": "Roundup cases and Bayer",
+  "full_query": "The purpose of my report is to give businesses an idea about the scale of potential harms a single product can result in and the cost for producers. My report needs to contain specific information about the claims from individuals and organizations in any country against Bayer in Roundup cases and about settlements with details of any financial figures like penalties, compensations, etc. ",
+  "full_background": "I work for the Virginia Economic Development Partnership and I am gathering information about Roundup cases for a report on the claims against Bayer and the settlement.",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What is Roundup?": {
+      "question": "What is Roundup?",
+      "answers": {
+        "A brand of herbicide": {
+          "answer": "A brand of herbicide",
+          "references": [
+            {
+              "doc_id": "089a3a41-20d7-436d-a08b-9bdf23ea748c"
+            },
+            {
+              "doc_id": "0f859c2c-f933-4e13-8480-be800f00646d"
+            },
+            {
+              "doc_id": "1693b8d7-0ab8-4278-b024-704fe057efbd"
+            },
+            {
+              "doc_id": "1b21a2d2-0694-4738-a4c7-462cbfc73d3e"
+            },
+            {
+              "doc_id": "1c572e1c-c67d-4961-ba96-fcba1a8afd76"
+            },
+            {
+              "doc_id": "1ec88a85-9f7c-4a51-8853-1efa13ae0f7f"
+            },
+            {
+              "doc_id": "1f89d38b-1499-4d8f-81cf-590d1486e527"
+            },
+            {
+              "doc_id": "1fcaa845-605e-471f-96bf-869a6d0fb3ec"
+            },
+            {
+              "doc_id": "22d9b9bb-efa1-4f29-ab1b-6819308566b0"
+            },
+            {
+              "doc_id": "23369d85-6cc3-4725-8d06-31a4799e3b91"
+            },
+            {
+              "doc_id": "269d7e6b-0c31-41fe-ad50-77e7f0fca14e"
+            },
+            {
+              "doc_id": "26c50e4b-ac3e-44f4-8afb-b153f328ce1d"
+            },
+            {
+              "doc_id": "2b372049-948c-4299-a7d6-718ddd1a52ab"
+            },
+            {
+              "doc_id": "2cc86b4d-1c9e-4812-9ca0-7954135ea420"
+            },
+            {
+              "doc_id": "2e190a2b-468a-400a-a1b7-7c137ccfeed9"
+            },
+            {
+              "doc_id": "329d29ba-a037-4e98-8938-982336b1bbe8"
+            },
+            {
+              "doc_id": "40eba1d5-3fd2-4c84-9c76-d726ecc955ad"
+            },
+            {
+              "doc_id": "412f3eb4-1bba-4fe2-8a62-906dfe306d0c"
+            },
+            {
+              "doc_id": "428b6b50-45d6-4307-b3f3-d3bee5532856"
+            },
+            {
+              "doc_id": "43b813f9-0cef-4948-851e-d4dd9c00df77"
+            },
+            {
+              "doc_id": "44abcf49-315f-4107-b060-98e4974085be"
+            },
+            {
+              "doc_id": "58604d64-b685-4896-99b2-6cb8c9fc7071"
+            },
+            {
+              "doc_id": "590fbb5f-6862-47f8-935d-fd76fa3617df"
+            },
+            {
+              "doc_id": "6101e211-9138-41b9-86be-9ea654434972"
+            },
+            {
+              "doc_id": "61ae4ee1-99c0-4087-ace5-7c5aca6cd5e5"
+            },
+            {
+              "doc_id": "65c42d1d-0798-4460-9b7c-71d174bf80f8"
+            },
+            {
+              "doc_id": "6989cbbc-c47b-4322-bd47-0ccbd45ded8b"
+            },
+            {
+              "doc_id": "6e5d28c6-7ec0-4edc-b0c7-5a20066007ff"
+            },
+            {
+              "doc_id": "6ff25e69-4e29-4392-9a67-9ea767798837"
+            },
+            {
+              "doc_id": "7b057d81-a2d5-46f1-b1fa-7c51f3d9f934"
+            },
+            {
+              "doc_id": "7ed84ac7-bfd2-469a-8e57-510fec60ea61"
+            },
+            {
+              "doc_id": "7fbd99a9-d326-4e26-bf18-0054c9767da7"
+            },
+            {
+              "doc_id": "91cdafef-1476-4d7c-8bc4-f58bd4f02c48"
+            },
+            {
+              "doc_id": "9a3cdfec-3b2c-4e2e-978a-252d0486030b"
+            },
+            {
+              "doc_id": "9bd31cfa-9bc6-48a8-93a1-b3cdbb469dd6"
+            },
+            {
+              "doc_id": "9f5dfaeb-7461-48cf-aae8-3f8449c0148d"
+            },
+            {
+              "doc_id": "a211f4f5-2779-4aa8-8b1b-ffbee4c00b84"
+            },
+            {
+              "doc_id": "a9e094d0-8454-4f46-adc7-dd9e77a35a26"
+            },
+            {
+              "doc_id": "ab7197ac-8a23-40b9-93ce-32d950fc8128"
+            },
+            {
+              "doc_id": "b79e8f0a-0971-44f8-ae92-86f04877edaa"
+            },
+            {
+              "doc_id": "be4a31cc-f08a-468d-9441-2bbfff855f64"
+            },
+            {
+              "doc_id": "bf7b8c9e-5117-4302-a420-d3e9f79acf58"
+            },
+            {
+              "doc_id": "c2faf96f-9723-4491-9e8d-5e5fc62b852c"
+            },
+            {
+              "doc_id": "c41a5b47-8c81-479f-afca-f07a36224395"
+            },
+            {
+              "doc_id": "c4a36b6a-159e-4fe4-b61e-1cea5db69b69"
+            },
+            {
+              "doc_id": "caadc895-e4ef-416d-a9be-9cf3564d315b"
+            },
+            {
+              "doc_id": "cc1bba05-6dce-4b40-9306-9d1f90d60cc5"
+            },
+            {
+              "doc_id": "d84f62e9-4b1f-4053-87a0-d0caedb3ed9e"
+            },
+            {
+              "doc_id": "dc2dc621-1001-47ab-91a9-1dbd5beaa193"
+            },
+            {
+              "doc_id": "e32ccede-ad72-407f-a750-fd7bbae4ac3e"
+            },
+            {
+              "doc_id": "e3ffdebc-2e1b-450c-b2fc-b1fa0e78b157"
+            },
+            {
+              "doc_id": "e7e49238-e932-4dde-a2e6-0280531a2e6e"
+            },
+            {
+              "doc_id": "eb91cdc5-39f0-4d4b-99af-1dc5db64a393"
+            },
+            {
+              "doc_id": "edb3edd4-648d-4cee-8b0e-a6c9c6bbf62b"
+            },
+            {
+              "doc_id": "ee2c24ea-db20-4055-9377-d581f9ef017d"
+            },
+            {
+              "doc_id": "f830dd60-7719-478e-9773-83badd1ff491"
+            },
+            {
+              "doc_id": "fbeefdd0-f410-4630-82fc-bb061c00eed6"
+            },
+            {
+              "doc_id": "fe3eb7e5-f9ca-4d7b-9e37-0c2397f49748"
+            }
+          ]
+        },
+        "Roundup is a herbicide that main ingredient is glyphosate.": {
+          "answer": "Roundup is a herbicide that main ingredient is glyphosate.",
+          "references": [
+            {
+              "doc_id": "3008f68b-a31d-4bc8-8617-1b190bfb20aa"
+            },
+            {
+              "doc_id": "6101e211-9138-41b9-86be-9ea654434972"
+            },
+            {
+              "doc_id": "9bd31cfa-9bc6-48a8-93a1-b3cdbb469dd6"
+            }
+          ]
+        }
+      },
+      "question_id": "9ce02f3f11c17105e6dc88c16afb4221",
+      "aggregator_type": "OR",
+      "query_id": "335",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.663832+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the Roundup case?": {
+      "question": "What is the Roundup case?",
+      "answers": {
+        "A series of lawsuits against Bayer AG": {
+          "answer": "A series of lawsuits against Bayer AG",
+          "references": [
+            {
+              "doc_id": "0f859c2c-f933-4e13-8480-be800f00646d"
+            },
+            {
+              "doc_id": "18b48717-04b5-4e99-941a-3669cb37eeef"
+            },
+            {
+              "doc_id": "1b21a2d2-0694-4738-a4c7-462cbfc73d3e"
+            },
+            {
+              "doc_id": "1c572e1c-c67d-4961-ba96-fcba1a8afd76"
+            },
+            {
+              "doc_id": "1ec88a85-9f7c-4a51-8853-1efa13ae0f7f"
+            },
+            {
+              "doc_id": "1f89d38b-1499-4d8f-81cf-590d1486e527"
+            },
+            {
+              "doc_id": "1fcaa845-605e-471f-96bf-869a6d0fb3ec"
+            },
+            {
+              "doc_id": "23369d85-6cc3-4725-8d06-31a4799e3b91"
+            },
+            {
+              "doc_id": "26c50e4b-ac3e-44f4-8afb-b153f328ce1d"
+            },
+            {
+              "doc_id": "3008f68b-a31d-4bc8-8617-1b190bfb20aa"
+            },
+            {
+              "doc_id": "40eba1d5-3fd2-4c84-9c76-d726ecc955ad"
+            },
+            {
+              "doc_id": "412f3eb4-1bba-4fe2-8a62-906dfe306d0c"
+            },
+            {
+              "doc_id": "428b6b50-45d6-4307-b3f3-d3bee5532856"
+            },
+            {
+              "doc_id": "43b813f9-0cef-4948-851e-d4dd9c00df77"
+            },
+            {
+              "doc_id": "44abcf49-315f-4107-b060-98e4974085be"
+            },
+            {
+              "doc_id": "58604d64-b685-4896-99b2-6cb8c9fc7071"
+            },
+            {
+              "doc_id": "590fbb5f-6862-47f8-935d-fd76fa3617df"
+            },
+            {
+              "doc_id": "6101e211-9138-41b9-86be-9ea654434972"
+            },
+            {
+              "doc_id": "61ae4ee1-99c0-4087-ace5-7c5aca6cd5e5"
+            },
+            {
+              "doc_id": "7b057d81-a2d5-46f1-b1fa-7c51f3d9f934"
+            },
+            {
+              "doc_id": "7fbd99a9-d326-4e26-bf18-0054c9767da7"
+            },
+            {
+              "doc_id": "98b1a94f-9716-45b5-83d3-c52d164d6977"
+            },
+            {
+              "doc_id": "9a3cdfec-3b2c-4e2e-978a-252d0486030b"
+            },
+            {
+              "doc_id": "9bd31cfa-9bc6-48a8-93a1-b3cdbb469dd6"
+            },
+            {
+              "doc_id": "9f5dfaeb-7461-48cf-aae8-3f8449c0148d"
+            },
+            {
+              "doc_id": "a211f4f5-2779-4aa8-8b1b-ffbee4c00b84"
+            },
+            {
+              "doc_id": "b79e8f0a-0971-44f8-ae92-86f04877edaa"
+            },
+            {
+              "doc_id": "be4a31cc-f08a-468d-9441-2bbfff855f64"
+            },
+            {
+              "doc_id": "c2faf96f-9723-4491-9e8d-5e5fc62b852c"
+            },
+            {
+              "doc_id": "c41a5b47-8c81-479f-afca-f07a36224395"
+            },
+            {
+              "doc_id": "d4f9ba31-d30c-4013-a430-78dc086542c5"
+            },
+            {
+              "doc_id": "dc2dc621-1001-47ab-91a9-1dbd5beaa193"
+            },
+            {
+              "doc_id": "e32ccede-ad72-407f-a750-fd7bbae4ac3e"
+            },
+            {
+              "doc_id": "e7e49238-e932-4dde-a2e6-0280531a2e6e"
+            },
+            {
+              "doc_id": "eb91cdc5-39f0-4d4b-99af-1dc5db64a393"
+            },
+            {
+              "doc_id": "ee2c24ea-db20-4055-9377-d581f9ef017d"
+            },
+            {
+              "doc_id": "f830dd60-7719-478e-9773-83badd1ff491"
+            },
+            {
+              "doc_id": "fbeefdd0-f410-4630-82fc-bb061c00eed6"
+            },
+            {
+              "doc_id": "fe3eb7e5-f9ca-4d7b-9e37-0c2397f49748"
+            }
+          ]
+        },
+        "A series of lawsuits against Monsanto": {
+          "answer": "A series of lawsuits against Monsanto",
+          "references": [
+            {
+              "doc_id": "089a3a41-20d7-436d-a08b-9bdf23ea748c"
+            },
+            {
+              "doc_id": "2e190a2b-468a-400a-a1b7-7c137ccfeed9"
+            },
+            {
+              "doc_id": "6e5d28c6-7ec0-4edc-b0c7-5a20066007ff"
+            },
+            {
+              "doc_id": "7fbd99a9-d326-4e26-bf18-0054c9767da7"
+            },
+            {
+              "doc_id": "a9e094d0-8454-4f46-adc7-dd9e77a35a26"
+            },
+            {
+              "doc_id": "ab7197ac-8a23-40b9-93ce-32d950fc8128"
+            },
+            {
+              "doc_id": "c2faf96f-9723-4491-9e8d-5e5fc62b852c"
+            },
+            {
+              "doc_id": "c4a36b6a-159e-4fe4-b61e-1cea5db69b69"
+            },
+            {
+              "doc_id": "caadc895-e4ef-416d-a9be-9cf3564d315b"
+            },
+            {
+              "doc_id": "e32ccede-ad72-407f-a750-fd7bbae4ac3e"
+            },
+            {
+              "doc_id": "e7e49238-e932-4dde-a2e6-0280531a2e6e"
+            },
+            {
+              "doc_id": "eb91cdc5-39f0-4d4b-99af-1dc5db64a393"
+            },
+            {
+              "doc_id": "edb3edd4-648d-4cee-8b0e-a6c9c6bbf62b"
+            },
+            {
+              "doc_id": "fbeefdd0-f410-4630-82fc-bb061c00eed6"
+            }
+          ]
+        },
+        "A lawsuit against Monsanto company of Bayer": {
+          "answer": "A lawsuit against Monsanto company of Bayer",
+          "references": [
+            {
+              "doc_id": "1693b8d7-0ab8-4278-b024-704fe057efbd"
+            },
+            {
+              "doc_id": "4716cb95-f83e-4ecf-a70d-9bad42cb451f"
+            },
+            {
+              "doc_id": "e3ffdebc-2e1b-450c-b2fc-b1fa0e78b157"
+            }
+          ]
+        },
+        "Lawsuits against Monsanto": {
+          "answer": "Lawsuits against Monsanto",
+          "references": [
+            {
+              "doc_id": "23369d85-6cc3-4725-8d06-31a4799e3b91"
+            },
+            {
+              "doc_id": "2b372049-948c-4299-a7d6-718ddd1a52ab"
+            },
+            {
+              "doc_id": "329d29ba-a037-4e98-8938-982336b1bbe8"
+            },
+            {
+              "doc_id": "65c42d1d-0798-4460-9b7c-71d174bf80f8"
+            },
+            {
+              "doc_id": "6ff25e69-4e29-4392-9a67-9ea767798837"
+            },
+            {
+              "doc_id": "91cdafef-1476-4d7c-8bc4-f58bd4f02c48"
+            },
+            {
+              "doc_id": "bf7b8c9e-5117-4302-a420-d3e9f79acf58"
+            }
+          ]
+        }
+      },
+      "question_id": "7213b5d2e94f2ec43261dcd5cee44a62",
+      "aggregator_type": "OR",
+      "query_id": "335",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.663950+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What do the Roundup lawsuits allege?": {
+      "question": "What do the Roundup lawsuits allege?",
+      "answers": {
+        "They did not disclose that Roundup can cause cancer": {
+          "answer": "They did not disclose that Roundup can cause cancer",
+          "references": [
+            {
+              "doc_id": "089a3a41-20d7-436d-a08b-9bdf23ea748c"
+            },
+            {
+              "doc_id": "0cba0aa9-5f76-4366-bbb3-f7a73659d68d"
+            },
+            {
+              "doc_id": "0f859c2c-f933-4e13-8480-be800f00646d"
+            },
+            {
+              "doc_id": "18b48717-04b5-4e99-941a-3669cb37eeef"
+            },
+            {
+              "doc_id": "1b21a2d2-0694-4738-a4c7-462cbfc73d3e"
+            },
+            {
+              "doc_id": "1ec88a85-9f7c-4a51-8853-1efa13ae0f7f"
+            },
+            {
+              "doc_id": "2e190a2b-468a-400a-a1b7-7c137ccfeed9"
+            },
+            {
+              "doc_id": "3008f68b-a31d-4bc8-8617-1b190bfb20aa"
+            },
+            {
+              "doc_id": "329d29ba-a037-4e98-8938-982336b1bbe8"
+            },
+            {
+              "doc_id": "40eba1d5-3fd2-4c84-9c76-d726ecc955ad"
+            },
+            {
+              "doc_id": "428b6b50-45d6-4307-b3f3-d3bee5532856"
+            },
+            {
+              "doc_id": "43b813f9-0cef-4948-851e-d4dd9c00df77"
+            },
+            {
+              "doc_id": "590fbb5f-6862-47f8-935d-fd76fa3617df"
+            },
+            {
+              "doc_id": "6101e211-9138-41b9-86be-9ea654434972"
+            },
+            {
+              "doc_id": "6e5d28c6-7ec0-4edc-b0c7-5a20066007ff"
+            },
+            {
+              "doc_id": "6ff25e69-4e29-4392-9a67-9ea767798837"
+            },
+            {
+              "doc_id": "7b057d81-a2d5-46f1-b1fa-7c51f3d9f934"
+            },
+            {
+              "doc_id": "7fbd99a9-d326-4e26-bf18-0054c9767da7"
+            },
+            {
+              "doc_id": "91cdafef-1476-4d7c-8bc4-f58bd4f02c48"
+            },
+            {
+              "doc_id": "98b1a94f-9716-45b5-83d3-c52d164d6977"
+            },
+            {
+              "doc_id": "9a3cdfec-3b2c-4e2e-978a-252d0486030b"
+            },
+            {
+              "doc_id": "9bd31cfa-9bc6-48a8-93a1-b3cdbb469dd6"
+            },
+            {
+              "doc_id": "9f5dfaeb-7461-48cf-aae8-3f8449c0148d"
+            },
+            {
+              "doc_id": "a9e094d0-8454-4f46-adc7-dd9e77a35a26"
+            },
+            {
+              "doc_id": "ab7197ac-8a23-40b9-93ce-32d950fc8128"
+            },
+            {
+              "doc_id": "c0394842-b364-4258-ae13-5e6c8efdb3a7"
+            },
+            {
+              "doc_id": "c2faf96f-9723-4491-9e8d-5e5fc62b852c"
+            },
+            {
+              "doc_id": "c4a36b6a-159e-4fe4-b61e-1cea5db69b69"
+            },
+            {
+              "doc_id": "caadc895-e4ef-416d-a9be-9cf3564d315b"
+            },
+            {
+              "doc_id": "e32ccede-ad72-407f-a750-fd7bbae4ac3e"
+            },
+            {
+              "doc_id": "e7e49238-e932-4dde-a2e6-0280531a2e6e"
+            },
+            {
+              "doc_id": "eb91cdc5-39f0-4d4b-99af-1dc5db64a393"
+            },
+            {
+              "doc_id": "edb3edd4-648d-4cee-8b0e-a6c9c6bbf62b"
+            },
+            {
+              "doc_id": "f830dd60-7719-478e-9773-83badd1ff491"
+            },
+            {
+              "doc_id": "fbeefdd0-f410-4630-82fc-bb061c00eed6"
+            }
+          ]
+        },
+        "Roundup can cause cancer": {
+          "answer": "Roundup can cause cancer",
+          "references": [
+            {
+              "doc_id": "1c572e1c-c67d-4961-ba96-fcba1a8afd76"
+            },
+            {
+              "doc_id": "1fcaa845-605e-471f-96bf-869a6d0fb3ec"
+            },
+            {
+              "doc_id": "23369d85-6cc3-4725-8d06-31a4799e3b91"
+            },
+            {
+              "doc_id": "26c50e4b-ac3e-44f4-8afb-b153f328ce1d"
+            },
+            {
+              "doc_id": "2b372049-948c-4299-a7d6-718ddd1a52ab"
+            },
+            {
+              "doc_id": "329d29ba-a037-4e98-8938-982336b1bbe8"
+            },
+            {
+              "doc_id": "40eba1d5-3fd2-4c84-9c76-d726ecc955ad"
+            },
+            {
+              "doc_id": "412f3eb4-1bba-4fe2-8a62-906dfe306d0c"
+            },
+            {
+              "doc_id": "44abcf49-315f-4107-b060-98e4974085be"
+            },
+            {
+              "doc_id": "4716cb95-f83e-4ecf-a70d-9bad42cb451f"
+            },
+            {
+              "doc_id": "61ae4ee1-99c0-4087-ace5-7c5aca6cd5e5"
+            },
+            {
+              "doc_id": "65c42d1d-0798-4460-9b7c-71d174bf80f8"
+            },
+            {
+              "doc_id": "6989cbbc-c47b-4322-bd47-0ccbd45ded8b"
+            },
+            {
+              "doc_id": "6ff25e69-4e29-4392-9a67-9ea767798837"
+            },
+            {
+              "doc_id": "91cdafef-1476-4d7c-8bc4-f58bd4f02c48"
+            },
+            {
+              "doc_id": "a211f4f5-2779-4aa8-8b1b-ffbee4c00b84"
+            },
+            {
+              "doc_id": "b79e8f0a-0971-44f8-ae92-86f04877edaa"
+            },
+            {
+              "doc_id": "be4a31cc-f08a-468d-9441-2bbfff855f64"
+            },
+            {
+              "doc_id": "bf7b8c9e-5117-4302-a420-d3e9f79acf58"
+            },
+            {
+              "doc_id": "c41a5b47-8c81-479f-afca-f07a36224395"
+            },
+            {
+              "doc_id": "d4f9ba31-d30c-4013-a430-78dc086542c5"
+            },
+            {
+              "doc_id": "d84f62e9-4b1f-4053-87a0-d0caedb3ed9e"
+            },
+            {
+              "doc_id": "dc2dc621-1001-47ab-91a9-1dbd5beaa193"
+            },
+            {
+              "doc_id": "e3ffdebc-2e1b-450c-b2fc-b1fa0e78b157"
+            },
+            {
+              "doc_id": "ee2c24ea-db20-4055-9377-d581f9ef017d"
+            },
+            {
+              "doc_id": "f830dd60-7719-478e-9773-83badd1ff491"
+            }
+          ]
+        },
+        "The fumes a farmer inhaled from the herbicide caused him neurological problems, including memory loss, dizziness and headaches.": {
+          "answer": "The fumes a farmer inhaled from the herbicide caused him neurological problems, including memory loss, dizziness and headaches.",
+          "references": [
+            {
+              "doc_id": "1693b8d7-0ab8-4278-b024-704fe057efbd"
+            }
+          ]
+        }
+      },
+      "question_id": "e22de4d58215c931335934d999bfebdb",
+      "aggregator_type": "OR",
+      "query_id": "335",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.664055+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the manufacturer of Roundup herbicide?": {
+      "question": "What is the manufacturer of Roundup herbicide?",
+      "answers": {
+        "Monsanto unit of Bayer AG": {
+          "answer": "Monsanto unit of Bayer AG",
+          "references": [
+            {
+              "doc_id": "1693b8d7-0ab8-4278-b024-704fe057efbd"
+            },
+            {
+              "doc_id": "18b48717-04b5-4e99-941a-3669cb37eeef"
+            },
+            {
+              "doc_id": "1c572e1c-c67d-4961-ba96-fcba1a8afd76"
+            },
+            {
+              "doc_id": "1ec88a85-9f7c-4a51-8853-1efa13ae0f7f"
+            },
+            {
+              "doc_id": "26c50e4b-ac3e-44f4-8afb-b153f328ce1d"
+            },
+            {
+              "doc_id": "2e190a2b-468a-400a-a1b7-7c137ccfeed9"
+            },
+            {
+              "doc_id": "3008f68b-a31d-4bc8-8617-1b190bfb20aa"
+            },
+            {
+              "doc_id": "329d29ba-a037-4e98-8938-982336b1bbe8"
+            },
+            {
+              "doc_id": "40eba1d5-3fd2-4c84-9c76-d726ecc955ad"
+            },
+            {
+              "doc_id": "43b813f9-0cef-4948-851e-d4dd9c00df77"
+            },
+            {
+              "doc_id": "590fbb5f-6862-47f8-935d-fd76fa3617df"
+            },
+            {
+              "doc_id": "6101e211-9138-41b9-86be-9ea654434972"
+            },
+            {
+              "doc_id": "6989cbbc-c47b-4322-bd47-0ccbd45ded8b"
+            },
+            {
+              "doc_id": "6ff25e69-4e29-4392-9a67-9ea767798837"
+            },
+            {
+              "doc_id": "7b057d81-a2d5-46f1-b1fa-7c51f3d9f934"
+            },
+            {
+              "doc_id": "7fbd99a9-d326-4e26-bf18-0054c9767da7"
+            },
+            {
+              "doc_id": "98b1a94f-9716-45b5-83d3-c52d164d6977"
+            },
+            {
+              "doc_id": "9a3cdfec-3b2c-4e2e-978a-252d0486030b"
+            },
+            {
+              "doc_id": "9bd31cfa-9bc6-48a8-93a1-b3cdbb469dd6"
+            },
+            {
+              "doc_id": "a211f4f5-2779-4aa8-8b1b-ffbee4c00b84"
+            },
+            {
+              "doc_id": "e7e49238-e932-4dde-a2e6-0280531a2e6e"
+            },
+            {
+              "doc_id": "eb91cdc5-39f0-4d4b-99af-1dc5db64a393"
+            },
+            {
+              "doc_id": "fbeefdd0-f410-4630-82fc-bb061c00eed6"
+            }
+          ]
+        },
+        "Monsanto company": {
+          "answer": "Monsanto company",
+          "references": [
+            {
+              "doc_id": "089a3a41-20d7-436d-a08b-9bdf23ea748c"
+            },
+            {
+              "doc_id": "22d9b9bb-efa1-4f29-ab1b-6819308566b0"
+            },
+            {
+              "doc_id": "2cc86b4d-1c9e-4812-9ca0-7954135ea420"
+            },
+            {
+              "doc_id": "428b6b50-45d6-4307-b3f3-d3bee5532856"
+            },
+            {
+              "doc_id": "9f5dfaeb-7461-48cf-aae8-3f8449c0148d"
+            },
+            {
+              "doc_id": "a9e094d0-8454-4f46-adc7-dd9e77a35a26"
+            },
+            {
+              "doc_id": "ab7197ac-8a23-40b9-93ce-32d950fc8128"
+            },
+            {
+              "doc_id": "c2faf96f-9723-4491-9e8d-5e5fc62b852c"
+            },
+            {
+              "doc_id": "c4a36b6a-159e-4fe4-b61e-1cea5db69b69"
+            },
+            {
+              "doc_id": "caadc895-e4ef-416d-a9be-9cf3564d315b"
+            },
+            {
+              "doc_id": "e32ccede-ad72-407f-a750-fd7bbae4ac3e"
+            },
+            {
+              "doc_id": "e7e49238-e932-4dde-a2e6-0280531a2e6e"
+            },
+            {
+              "doc_id": "eb91cdc5-39f0-4d4b-99af-1dc5db64a393"
+            },
+            {
+              "doc_id": "edb3edd4-648d-4cee-8b0e-a6c9c6bbf62b"
+            },
+            {
+              "doc_id": "fbeefdd0-f410-4630-82fc-bb061c00eed6"
+            }
+          ]
+        },
+        "Monsanto": {
+          "answer": "Monsanto",
+          "references": [
+            {
+              "doc_id": "23369d85-6cc3-4725-8d06-31a4799e3b91"
+            },
+            {
+              "doc_id": "2b372049-948c-4299-a7d6-718ddd1a52ab"
+            },
+            {
+              "doc_id": "4716cb95-f83e-4ecf-a70d-9bad42cb451f"
+            },
+            {
+              "doc_id": "91cdafef-1476-4d7c-8bc4-f58bd4f02c48"
+            },
+            {
+              "doc_id": "b79e8f0a-0971-44f8-ae92-86f04877edaa"
+            },
+            {
+              "doc_id": "d84f62e9-4b1f-4053-87a0-d0caedb3ed9e"
+            },
+            {
+              "doc_id": "dc2dc621-1001-47ab-91a9-1dbd5beaa193"
+            },
+            {
+              "doc_id": "e3ffdebc-2e1b-450c-b2fc-b1fa0e78b157"
+            },
+            {
+              "doc_id": "ee2c24ea-db20-4055-9377-d581f9ef017d"
+            }
+          ]
+        }
+      },
+      "question_id": "06ef3ce03748ac4ddaa8f8d241faf9b0",
+      "aggregator_type": "OR",
+      "query_id": "335",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.664220+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Who is Dewayne \"Lee\" Johnson?": {
+      "question": "Who is Dewayne \"Lee\" Johnson?",
+      "answers": {
+        "One of the plaintiffs": {
+          "answer": "One of the plaintiffs",
+          "references": [
+            {
+              "doc_id": "2cc86b4d-1c9e-4812-9ca0-7954135ea420"
+            },
+            {
+              "doc_id": "329d29ba-a037-4e98-8938-982336b1bbe8"
+            },
+            {
+              "doc_id": "428b6b50-45d6-4307-b3f3-d3bee5532856"
+            },
+            {
+              "doc_id": "6101e211-9138-41b9-86be-9ea654434972"
+            },
+            {
+              "doc_id": "6e5d28c6-7ec0-4edc-b0c7-5a20066007ff"
+            },
+            {
+              "doc_id": "7fbd99a9-d326-4e26-bf18-0054c9767da7"
+            },
+            {
+              "doc_id": "98b1a94f-9716-45b5-83d3-c52d164d6977"
+            },
+            {
+              "doc_id": "a9e094d0-8454-4f46-adc7-dd9e77a35a26"
+            },
+            {
+              "doc_id": "c4a36b6a-159e-4fe4-b61e-1cea5db69b69"
+            },
+            {
+              "doc_id": "caadc895-e4ef-416d-a9be-9cf3564d315b"
+            },
+            {
+              "doc_id": "e7e49238-e932-4dde-a2e6-0280531a2e6e"
+            },
+            {
+              "doc_id": "edb3edd4-648d-4cee-8b0e-a6c9c6bbf62b"
+            },
+            {
+              "doc_id": "f830dd60-7719-478e-9773-83badd1ff491"
+            },
+            {
+              "doc_id": "fbeefdd0-f410-4630-82fc-bb061c00eed6"
+            }
+          ]
+        }
+      },
+      "question_id": "baa7c71b2bc1afa7fb01b0c429616920",
+      "aggregator_type": "OR",
+      "query_id": "335",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.664258+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How much did the court order Bayer to pay Dewayne Johnson?": {
+      "question": "How much did the court order Bayer to pay Dewayne Johnson?",
+      "answers": {
+        "$20.4 million": {
+          "answer": "$20.4 million",
+          "references": [
+            {
+              "doc_id": "f830dd60-7719-478e-9773-83badd1ff491"
+            }
+          ]
+        },
+        "289 million": {
+          "answer": "289 million",
+          "references": [
+            {
+              "doc_id": "6101e211-9138-41b9-86be-9ea654434972"
+            },
+            {
+              "doc_id": "98b1a94f-9716-45b5-83d3-c52d164d6977"
+            },
+            {
+              "doc_id": "9bd31cfa-9bc6-48a8-93a1-b3cdbb469dd6"
+            }
+          ]
+        },
+        "78 million": {
+          "answer": "78 million",
+          "references": [
+            {
+              "doc_id": "9bd31cfa-9bc6-48a8-93a1-b3cdbb469dd6"
+            }
+          ]
+        },
+        "$289 million": {
+          "answer": "$289 million",
+          "references": [
+            {
+              "doc_id": "2cc86b4d-1c9e-4812-9ca0-7954135ea420"
+            },
+            {
+              "doc_id": "2e190a2b-468a-400a-a1b7-7c137ccfeed9"
+            },
+            {
+              "doc_id": "428b6b50-45d6-4307-b3f3-d3bee5532856"
+            },
+            {
+              "doc_id": "6e5d28c6-7ec0-4edc-b0c7-5a20066007ff"
+            },
+            {
+              "doc_id": "7fbd99a9-d326-4e26-bf18-0054c9767da7"
+            },
+            {
+              "doc_id": "a9e094d0-8454-4f46-adc7-dd9e77a35a26"
+            },
+            {
+              "doc_id": "c0394842-b364-4258-ae13-5e6c8efdb3a7"
+            },
+            {
+              "doc_id": "c4a36b6a-159e-4fe4-b61e-1cea5db69b69"
+            },
+            {
+              "doc_id": "caadc895-e4ef-416d-a9be-9cf3564d315b"
+            },
+            {
+              "doc_id": "e32ccede-ad72-407f-a750-fd7bbae4ac3e"
+            },
+            {
+              "doc_id": "e7e49238-e932-4dde-a2e6-0280531a2e6e"
+            },
+            {
+              "doc_id": "fbeefdd0-f410-4630-82fc-bb061c00eed6"
+            }
+          ]
+        },
+        "$78 million": {
+          "answer": "$78 million",
+          "references": [
+            {
+              "doc_id": "2e190a2b-468a-400a-a1b7-7c137ccfeed9"
+            },
+            {
+              "doc_id": "428b6b50-45d6-4307-b3f3-d3bee5532856"
+            },
+            {
+              "doc_id": "c2faf96f-9723-4491-9e8d-5e5fc62b852c"
+            },
+            {
+              "doc_id": "fbeefdd0-f410-4630-82fc-bb061c00eed6"
+            }
+          ]
+        },
+        "approximately $290 million": {
+          "answer": "approximately $290 million",
+          "references": [
+            {
+              "doc_id": "43b813f9-0cef-4948-851e-d4dd9c00df77"
+            }
+          ]
+        },
+        "almost $300 million": {
+          "answer": "almost $300 million",
+          "references": [
+            {
+              "doc_id": "edb3edd4-648d-4cee-8b0e-a6c9c6bbf62b"
+            }
+          ]
+        },
+        "$290 million": {
+          "answer": "$290 million",
+          "references": [
+            {
+              "doc_id": "329d29ba-a037-4e98-8938-982336b1bbe8"
+            }
+          ]
+        }
+      },
+      "question_id": "23ffb570f01b787c78014ada2f7c3aa5",
+      "aggregator_type": "OR",
+      "query_id": "335",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.664348+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Approximately how many lawsuits are there in Roundup case?": {
+      "question": "Approximately how many lawsuits are there in Roundup case?",
+      "answers": {
+        "12,500": {
+          "answer": "12,500",
+          "references": []
+        },
+        "13,400": {
+          "answer": "13,400",
+          "references": [
+            {
+              "doc_id": "18b48717-04b5-4e99-941a-3669cb37eeef"
+            }
+          ]
+        },
+        "hundreds": {
+          "answer": "hundreds",
+          "references": [
+            {
+              "doc_id": "089a3a41-20d7-436d-a08b-9bdf23ea748c"
+            },
+            {
+              "doc_id": "590fbb5f-6862-47f8-935d-fd76fa3617df"
+            },
+            {
+              "doc_id": "6e5d28c6-7ec0-4edc-b0c7-5a20066007ff"
+            },
+            {
+              "doc_id": "caadc895-e4ef-416d-a9be-9cf3564d315b"
+            }
+          ]
+        },
+        "18,400 in the US": {
+          "answer": "18,400 in the US",
+          "references": [
+            {
+              "doc_id": "1ec88a85-9f7c-4a51-8853-1efa13ae0f7f"
+            }
+          ]
+        },
+        "130,000 in the US": {
+          "answer": "130,000 in the US",
+          "references": [
+            {
+              "doc_id": "2e190a2b-468a-400a-a1b7-7c137ccfeed9"
+            }
+          ]
+        },
+        "11,200": {
+          "answer": "11,200",
+          "references": [
+            {
+              "doc_id": "428b6b50-45d6-4307-b3f3-d3bee5532856"
+            }
+          ]
+        },
+        "more than 125,000": {
+          "answer": "more than 125,000",
+          "references": [
+            {
+              "doc_id": "7b057d81-a2d5-46f1-b1fa-7c51f3d9f934"
+            }
+          ]
+        },
+        "more than 13,000": {
+          "answer": "more than 13,000",
+          "references": [
+            {
+              "doc_id": "7fbd99a9-d326-4e26-bf18-0054c9767da7"
+            }
+          ]
+        },
+        "more than 13,400": {
+          "answer": "more than 13,400",
+          "references": [
+            {
+              "doc_id": "9a3cdfec-3b2c-4e2e-978a-252d0486030b"
+            }
+          ]
+        },
+        "75,000": {
+          "answer": "75,000",
+          "references": [
+            {
+              "doc_id": "af4a7034-b5bd-4bea-b887-d2eeafb93a84"
+            }
+          ]
+        },
+        "more than 400": {
+          "answer": "more than 400",
+          "references": [
+            {
+              "doc_id": "c0394842-b364-4258-ae13-5e6c8efdb3a7"
+            }
+          ]
+        },
+        "almost 13,500": {
+          "answer": "almost 13,500",
+          "references": [
+            {
+              "doc_id": "c2faf96f-9723-4491-9e8d-5e5fc62b852c"
+            }
+          ]
+        },
+        "more than 5,000": {
+          "answer": "more than 5,000",
+          "references": [
+            {
+              "doc_id": "c4a36b6a-159e-4fe4-b61e-1cea5db69b69"
+            },
+            {
+              "doc_id": "e7e49238-e932-4dde-a2e6-0280531a2e6e"
+            }
+          ]
+        },
+        "approximately 8,000": {
+          "answer": "approximately 8,000",
+          "references": [
+            {
+              "doc_id": "e32ccede-ad72-407f-a750-fd7bbae4ac3e"
+            }
+          ]
+        },
+        "thousands": {
+          "answer": "thousands",
+          "references": [
+            {
+              "doc_id": "eb91cdc5-39f0-4d4b-99af-1dc5db64a393"
+            }
+          ]
+        },
+        "more than 800": {
+          "answer": "more than 800",
+          "references": [
+            {
+              "doc_id": "edb3edd4-648d-4cee-8b0e-a6c9c6bbf62b"
+            }
+          ]
+        },
+        "11,000": {
+          "answer": "11,000",
+          "references": [
+            {
+              "doc_id": "fbeefdd0-f410-4630-82fc-bb061c00eed6"
+            }
+          ]
+        },
+        "Over 10,000": {
+          "answer": "Over 10,000",
+          "references": [
+            {
+              "doc_id": "1c572e1c-c67d-4961-ba96-fcba1a8afd76"
+            },
+            {
+              "doc_id": "61ae4ee1-99c0-4087-ace5-7c5aca6cd5e5"
+            },
+            {
+              "doc_id": "ee2c24ea-db20-4055-9377-d581f9ef017d"
+            }
+          ]
+        },
+        "125,000": {
+          "answer": "125,000",
+          "references": [
+            {
+              "doc_id": "1f89d38b-1499-4d8f-81cf-590d1486e527"
+            },
+            {
+              "doc_id": "1fcaa845-605e-471f-96bf-869a6d0fb3ec"
+            },
+            {
+              "doc_id": "a211f4f5-2779-4aa8-8b1b-ffbee4c00b84"
+            },
+            {
+              "doc_id": "be4a31cc-f08a-468d-9441-2bbfff855f64"
+            }
+          ]
+        },
+        "Tens of thousands": {
+          "answer": "Tens of thousands",
+          "references": [
+            {
+              "doc_id": "40eba1d5-3fd2-4c84-9c76-d726ecc955ad"
+            },
+            {
+              "doc_id": "44abcf49-315f-4107-b060-98e4974085be"
+            },
+            {
+              "doc_id": "f830dd60-7719-478e-9773-83badd1ff491"
+            }
+          ]
+        },
+        "Over 9000": {
+          "answer": "Over 9000",
+          "references": [
+            {
+              "doc_id": "4716cb95-f83e-4ecf-a70d-9bad42cb451f"
+            }
+          ]
+        },
+        "About 1200": {
+          "answer": "About 1200",
+          "references": [
+            {
+              "doc_id": "6989cbbc-c47b-4322-bd47-0ccbd45ded8b"
+            },
+            {
+              "doc_id": "dc2dc621-1001-47ab-91a9-1dbd5beaa193"
+            }
+          ]
+        },
+        "About 13000": {
+          "answer": "About 13000",
+          "references": [
+            {
+              "doc_id": "e3ffdebc-2e1b-450c-b2fc-b1fa0e78b157"
+            }
+          ]
+        }
+      },
+      "question_id": "aa83362e9b28d530e2b35ec2ee51f91a",
+      "aggregator_type": "OR",
+      "query_id": "335",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.664535+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What was the outcome of the Roundup lawsuits?": {
+      "question": "What was the outcome of the Roundup lawsuits?",
+      "answers": {
+        "Bayer did not concede that Roundup causes cancer": {
+          "answer": "Bayer did not concede that Roundup causes cancer",
+          "references": [
+            {
+              "doc_id": "1c572e1c-c67d-4961-ba96-fcba1a8afd76"
+            },
+            {
+              "doc_id": "3008f68b-a31d-4bc8-8617-1b190bfb20aa"
+            },
+            {
+              "doc_id": "329d29ba-a037-4e98-8938-982336b1bbe8"
+            },
+            {
+              "doc_id": "412f3eb4-1bba-4fe2-8a62-906dfe306d0c"
+            },
+            {
+              "doc_id": "6101e211-9138-41b9-86be-9ea654434972"
+            },
+            {
+              "doc_id": "61ae4ee1-99c0-4087-ace5-7c5aca6cd5e5"
+            },
+            {
+              "doc_id": "6989cbbc-c47b-4322-bd47-0ccbd45ded8b"
+            },
+            {
+              "doc_id": "6e5d28c6-7ec0-4edc-b0c7-5a20066007ff"
+            },
+            {
+              "doc_id": "98b1a94f-9716-45b5-83d3-c52d164d6977"
+            },
+            {
+              "doc_id": "9a3cdfec-3b2c-4e2e-978a-252d0486030b"
+            },
+            {
+              "doc_id": "b79e8f0a-0971-44f8-ae92-86f04877edaa"
+            },
+            {
+              "doc_id": "be4a31cc-f08a-468d-9441-2bbfff855f64"
+            },
+            {
+              "doc_id": "e7e49238-e932-4dde-a2e6-0280531a2e6e"
+            },
+            {
+              "doc_id": "f830dd60-7719-478e-9773-83badd1ff491"
+            }
+          ]
+        },
+        "Bayer agreed to a settlement": {
+          "answer": "Bayer agreed to a settlement",
+          "references": [
+            {
+              "doc_id": "26c50e4b-ac3e-44f4-8afb-b153f328ce1d"
+            },
+            {
+              "doc_id": "44abcf49-315f-4107-b060-98e4974085be"
+            },
+            {
+              "doc_id": "61ae4ee1-99c0-4087-ace5-7c5aca6cd5e5"
+            },
+            {
+              "doc_id": "7b057d81-a2d5-46f1-b1fa-7c51f3d9f934"
+            },
+            {
+              "doc_id": "9f5dfaeb-7461-48cf-aae8-3f8449c0148d"
+            },
+            {
+              "doc_id": "a211f4f5-2779-4aa8-8b1b-ffbee4c00b84"
+            },
+            {
+              "doc_id": "b79e8f0a-0971-44f8-ae92-86f04877edaa"
+            },
+            {
+              "doc_id": "be4a31cc-f08a-468d-9441-2bbfff855f64"
+            },
+            {
+              "doc_id": "d4f9ba31-d30c-4013-a430-78dc086542c5"
+            },
+            {
+              "doc_id": "ee2c24ea-db20-4055-9377-d581f9ef017d"
+            },
+            {
+              "doc_id": "f830dd60-7719-478e-9773-83badd1ff491"
+            }
+          ]
+        }
+      },
+      "question_id": "467071a9dec9c6dc3300e671c7f0dd58",
+      "aggregator_type": "OR",
+      "query_id": "335",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.664589+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the total amount in the settlement of Roundup case?": {
+      "question": "What is the total amount in the settlement of Roundup case?",
+      "answers": {
+        "$10.9 billion": {
+          "answer": "$10.9 billion",
+          "references": [
+            {
+              "doc_id": "0f859c2c-f933-4e13-8480-be800f00646d"
+            },
+            {
+              "doc_id": "44abcf49-315f-4107-b060-98e4974085be"
+            },
+            {
+              "doc_id": "7b057d81-a2d5-46f1-b1fa-7c51f3d9f934"
+            },
+            {
+              "doc_id": "be4a31cc-f08a-468d-9441-2bbfff855f64"
+            },
+            {
+              "doc_id": "f830dd60-7719-478e-9773-83badd1ff491"
+            }
+          ]
+        },
+        "several billions dollars": {
+          "answer": "several billions dollars",
+          "references": [
+            {
+              "doc_id": "58604d64-b685-4896-99b2-6cb8c9fc7071"
+            }
+          ]
+        },
+        "$10 billion": {
+          "answer": "$10 billion",
+          "references": [
+            {
+              "doc_id": "590fbb5f-6862-47f8-935d-fd76fa3617df"
+            },
+            {
+              "doc_id": "9f5dfaeb-7461-48cf-aae8-3f8449c0148d"
+            },
+            {
+              "doc_id": "a211f4f5-2779-4aa8-8b1b-ffbee4c00b84"
+            }
+          ]
+        },
+        "Between $10.1 billion to $10.9 billion": {
+          "answer": "Between $10.1 billion to $10.9 billion",
+          "references": [
+            {
+              "doc_id": "26c50e4b-ac3e-44f4-8afb-b153f328ce1d"
+            },
+            {
+              "doc_id": "b79e8f0a-0971-44f8-ae92-86f04877edaa"
+            },
+            {
+              "doc_id": "ee2c24ea-db20-4055-9377-d581f9ef017d"
+            }
+          ]
+        },
+        "$2 billion": {
+          "answer": "$2 billion",
+          "references": [
+            {
+              "doc_id": "61ae4ee1-99c0-4087-ace5-7c5aca6cd5e5"
+            }
+          ]
+        }
+      },
+      "question_id": "6358ba95cf1a4a3911ceeacbbc95085f",
+      "aggregator_type": "OR",
+      "query_id": "335",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.664647+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Why did Bayer agree upon the settlement of Roundup case?": {
+      "question": "Why did Bayer agree upon the settlement of Roundup case?",
+      "answers": {
+        "To avoid complicated and potentially costly litigation process": {
+          "answer": "To avoid complicated and potentially costly litigation process",
+          "references": [
+            {
+              "doc_id": "b79e8f0a-0971-44f8-ae92-86f04877edaa"
+            }
+          ]
+        }
+      },
+      "question_id": "aae3c49df52283845545c08b3b829c57",
+      "aggregator_type": "OR",
+      "query_id": "335",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.664665+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is Bayer doing about Roundup after the settlement?": {
+      "question": "What is Bayer doing about Roundup after the settlement?",
+      "answers": {
+        "establish a scientific committee on whether Roundup causes lymphoma": {
+          "answer": "establish a scientific committee on whether Roundup causes lymphoma",
+          "references": [
+            {
+              "doc_id": "b79e8f0a-0971-44f8-ae92-86f04877edaa"
+            }
+          ]
+        }
+      },
+      "question_id": "76d0be235f209a72a985c41c21e1ad52",
+      "aggregator_type": "OR",
+      "query_id": "335",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.664681+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

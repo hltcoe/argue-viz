@@ -1,0 +1,1357 @@
+{
+  "query_id": "380",
+  "title_query": "Russian Fishing Ship",
+  "full_query": "I want a report that explains why North Korea detained a Russian fishing ship in 2019. I am interested in all details concerning this incident including the name of the fishing ship and when and where the detention occurred.",
+  "full_background": "I am a journalist writing an article about countries seizing other countries\u2019 ships.",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What ship did North Korean border guards detain?": {
+      "question": "What ship did North Korean border guards detain?",
+      "answers": {
+        "Xianghailin-8": {
+          "answer": "Xianghailin-8",
+          "references": [
+            {
+              "doc_id": "0214a755-456f-41c2-b578-85644f62f82e"
+            },
+            {
+              "doc_id": "07f42570-00b1-4d5f-822b-590c56adf9c1"
+            },
+            {
+              "doc_id": "0b1e6406-d21b-4320-9e20-1983ebbfa5c9"
+            },
+            {
+              "doc_id": "1e9f01dd-f140-4211-a5d1-19e419111c4b"
+            },
+            {
+              "doc_id": "228b7693-b69b-4575-9c7c-a3ec31baa107"
+            },
+            {
+              "doc_id": "240e4e88-f010-4716-86ef-f96cb1a52156"
+            },
+            {
+              "doc_id": "24768b12-86ab-451e-94db-b734347eb31a"
+            },
+            {
+              "doc_id": "296878fe-b266-4382-91fd-fbb93ba7f7c8"
+            },
+            {
+              "doc_id": "325f671b-1e52-4f9c-8efb-d42c91dc8046"
+            },
+            {
+              "doc_id": "387bb949-653e-4597-83db-829caf6f99cb"
+            },
+            {
+              "doc_id": "39843c23-8e90-4f0f-b663-d5268cbc2382"
+            },
+            {
+              "doc_id": "421396f7-517b-4f5c-819f-74af5bb1ab9a"
+            },
+            {
+              "doc_id": "447ff1ec-fa8c-4e46-98ce-0957f7185ccd"
+            },
+            {
+              "doc_id": "547a6186-8804-41f7-8e4c-9edfad2e061b"
+            },
+            {
+              "doc_id": "5c629393-1e12-45af-8b57-7ae6462ec71b"
+            },
+            {
+              "doc_id": "61ec8e0d-b16a-4b80-a6f1-86bdfeb1392c"
+            },
+            {
+              "doc_id": "62406311-1676-49c2-85cc-cb4a904ccd6a"
+            },
+            {
+              "doc_id": "6de28344-de3f-4c11-bb90-3011661ed30b"
+            },
+            {
+              "doc_id": "7081ae8f-7f03-465b-bf6b-ae96ec64cd53"
+            },
+            {
+              "doc_id": "7b18a62c-0322-4d70-bbed-6959e8c96519"
+            },
+            {
+              "doc_id": "8850589c-34ab-4583-b0dc-da144c21c046"
+            },
+            {
+              "doc_id": "8ea6f522-4747-4148-b819-bea652ef025d"
+            },
+            {
+              "doc_id": "91167d27-7343-41b8-aa04-582e2ed7bdcc"
+            },
+            {
+              "doc_id": "97de59b2-96cd-4a62-a73f-87d005b71cfe"
+            },
+            {
+              "doc_id": "9b8c0156-49c1-461e-894b-641ed32c2dc9"
+            },
+            {
+              "doc_id": "9eb63e97-8e7c-4f0f-8d03-dca93cbf6c90"
+            },
+            {
+              "doc_id": "b07fff44-28d5-4e6b-96cc-1848ea5a5cef"
+            },
+            {
+              "doc_id": "b9f144a1-85ae-4e33-a317-7ea5d0d9eff2"
+            },
+            {
+              "doc_id": "bb4fde87-3de6-4ef2-adc0-b64f280aac04"
+            },
+            {
+              "doc_id": "c372819a-c14e-44c4-a937-0fd315a732ae"
+            },
+            {
+              "doc_id": "d2ae7f28-5025-4b4b-ae99-f9cd0af948f4"
+            },
+            {
+              "doc_id": "dcb892a4-0cd1-45db-811f-6922cb5ec0b2"
+            },
+            {
+              "doc_id": "e02d131b-9859-4c1f-a0a9-a8895042dea0"
+            },
+            {
+              "doc_id": "f1e1cf19-0603-40b0-905b-54110f6ae156"
+            },
+            {
+              "doc_id": "fec8d25b-f785-40e0-95aa-be7e0dad3cd7"
+            }
+          ]
+        }
+      },
+      "question_id": "e38d5738620eb90f4eff48d4da481e80",
+      "aggregator_type": "OR",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.723380+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "When did North Korea detain the Russian ship?": {
+      "question": "When did North Korea detain the Russian ship?",
+      "answers": {
+        "July 17 2019": {
+          "answer": "July 17 2019",
+          "references": [
+            {
+              "doc_id": "07f42570-00b1-4d5f-822b-590c56adf9c1"
+            },
+            {
+              "doc_id": "0b1e6406-d21b-4320-9e20-1983ebbfa5c9"
+            },
+            {
+              "doc_id": "1e9f01dd-f140-4211-a5d1-19e419111c4b"
+            },
+            {
+              "doc_id": "228b7693-b69b-4575-9c7c-a3ec31baa107"
+            },
+            {
+              "doc_id": "240e4e88-f010-4716-86ef-f96cb1a52156"
+            },
+            {
+              "doc_id": "24768b12-86ab-451e-94db-b734347eb31a"
+            },
+            {
+              "doc_id": "296878fe-b266-4382-91fd-fbb93ba7f7c8"
+            },
+            {
+              "doc_id": "325f671b-1e52-4f9c-8efb-d42c91dc8046"
+            },
+            {
+              "doc_id": "387bb949-653e-4597-83db-829caf6f99cb"
+            },
+            {
+              "doc_id": "39843c23-8e90-4f0f-b663-d5268cbc2382"
+            },
+            {
+              "doc_id": "39e47d63-d728-4946-8e90-9f8928cbad43"
+            },
+            {
+              "doc_id": "3addb285-2871-4670-866b-71c1312c9641"
+            },
+            {
+              "doc_id": "3dbc753d-457c-4f25-98fe-4df3b42ed82d"
+            },
+            {
+              "doc_id": "3e285687-678d-40e8-962e-f9dc156239c9"
+            },
+            {
+              "doc_id": "447ff1ec-fa8c-4e46-98ce-0957f7185ccd"
+            },
+            {
+              "doc_id": "504e54d5-497b-452e-b648-69e196f64a4c"
+            },
+            {
+              "doc_id": "547a6186-8804-41f7-8e4c-9edfad2e061b"
+            },
+            {
+              "doc_id": "5c629393-1e12-45af-8b57-7ae6462ec71b"
+            },
+            {
+              "doc_id": "67f4a957-604d-4143-8c2b-a678748c91f2"
+            },
+            {
+              "doc_id": "6de28344-de3f-4c11-bb90-3011661ed30b"
+            },
+            {
+              "doc_id": "7081ae8f-7f03-465b-bf6b-ae96ec64cd53"
+            },
+            {
+              "doc_id": "7784f114-7cc1-4111-a819-24e94b3b7ac9"
+            },
+            {
+              "doc_id": "7b18a62c-0322-4d70-bbed-6959e8c96519"
+            },
+            {
+              "doc_id": "8850589c-34ab-4583-b0dc-da144c21c046"
+            },
+            {
+              "doc_id": "8ea6f522-4747-4148-b819-bea652ef025d"
+            },
+            {
+              "doc_id": "8eaeb927-143c-4992-a8ff-8801ed3c163d"
+            },
+            {
+              "doc_id": "91167d27-7343-41b8-aa04-582e2ed7bdcc"
+            },
+            {
+              "doc_id": "97de59b2-96cd-4a62-a73f-87d005b71cfe"
+            },
+            {
+              "doc_id": "9b8c0156-49c1-461e-894b-641ed32c2dc9"
+            },
+            {
+              "doc_id": "9eb63e97-8e7c-4f0f-8d03-dca93cbf6c90"
+            },
+            {
+              "doc_id": "b07fff44-28d5-4e6b-96cc-1848ea5a5cef"
+            },
+            {
+              "doc_id": "b9f144a1-85ae-4e33-a317-7ea5d0d9eff2"
+            },
+            {
+              "doc_id": "c372819a-c14e-44c4-a937-0fd315a732ae"
+            },
+            {
+              "doc_id": "d2ae7f28-5025-4b4b-ae99-f9cd0af948f4"
+            },
+            {
+              "doc_id": "dcb892a4-0cd1-45db-811f-6922cb5ec0b2"
+            },
+            {
+              "doc_id": "e02d131b-9859-4c1f-a0a9-a8895042dea0"
+            },
+            {
+              "doc_id": "f1e1cf19-0603-40b0-905b-54110f6ae156"
+            },
+            {
+              "doc_id": "f4a8727e-ce94-4b42-8ef8-78acc7bbceb2"
+            },
+            {
+              "doc_id": "fec8d25b-f785-40e0-95aa-be7e0dad3cd7"
+            }
+          ]
+        },
+        "in 2019": {
+          "answer": "in 2019",
+          "references": []
+        }
+      },
+      "question_id": "22433ff7a30f9f3819ecf04db1c0f5ed",
+      "aggregator_type": "OR",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.723461+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What was the reason for the arrest of the ship?": {
+      "question": "What was the reason for the arrest of the ship?",
+      "answers": {
+        "Illegal border crossing": {
+          "answer": "Illegal border crossing",
+          "references": [
+            {
+              "doc_id": "07f42570-00b1-4d5f-822b-590c56adf9c1"
+            },
+            {
+              "doc_id": "0b1e6406-d21b-4320-9e20-1983ebbfa5c9"
+            },
+            {
+              "doc_id": "240e4e88-f010-4716-86ef-f96cb1a52156"
+            },
+            {
+              "doc_id": "24768b12-86ab-451e-94db-b734347eb31a"
+            },
+            {
+              "doc_id": "325f671b-1e52-4f9c-8efb-d42c91dc8046"
+            },
+            {
+              "doc_id": "39843c23-8e90-4f0f-b663-d5268cbc2382"
+            },
+            {
+              "doc_id": "39e47d63-d728-4946-8e90-9f8928cbad43"
+            },
+            {
+              "doc_id": "3e285687-678d-40e8-962e-f9dc156239c9"
+            },
+            {
+              "doc_id": "447ff1ec-fa8c-4e46-98ce-0957f7185ccd"
+            },
+            {
+              "doc_id": "547a6186-8804-41f7-8e4c-9edfad2e061b"
+            },
+            {
+              "doc_id": "5c629393-1e12-45af-8b57-7ae6462ec71b"
+            },
+            {
+              "doc_id": "61ec8e0d-b16a-4b80-a6f1-86bdfeb1392c"
+            },
+            {
+              "doc_id": "7784f114-7cc1-4111-a819-24e94b3b7ac9"
+            },
+            {
+              "doc_id": "8850589c-34ab-4583-b0dc-da144c21c046"
+            },
+            {
+              "doc_id": "8eaeb927-143c-4992-a8ff-8801ed3c163d"
+            },
+            {
+              "doc_id": "91167d27-7343-41b8-aa04-582e2ed7bdcc"
+            },
+            {
+              "doc_id": "92f69882-dca2-4ee4-b5a0-65a451acacdb"
+            },
+            {
+              "doc_id": "97de59b2-96cd-4a62-a73f-87d005b71cfe"
+            },
+            {
+              "doc_id": "9b8c0156-49c1-461e-894b-641ed32c2dc9"
+            },
+            {
+              "doc_id": "b07fff44-28d5-4e6b-96cc-1848ea5a5cef"
+            },
+            {
+              "doc_id": "cd88660a-3e5e-47f4-9336-35f41bceaff1"
+            },
+            {
+              "doc_id": "dcb892a4-0cd1-45db-811f-6922cb5ec0b2"
+            },
+            {
+              "doc_id": "e02d131b-9859-4c1f-a0a9-a8895042dea0"
+            },
+            {
+              "doc_id": "f1e1cf19-0603-40b0-905b-54110f6ae156"
+            }
+          ]
+        },
+        "Violation of entry regulations": {
+          "answer": "Violation of entry regulations",
+          "references": [
+            {
+              "doc_id": "3dbc753d-457c-4f25-98fe-4df3b42ed82d"
+            },
+            {
+              "doc_id": "7081ae8f-7f03-465b-bf6b-ae96ec64cd53"
+            },
+            {
+              "doc_id": "7b18a62c-0322-4d70-bbed-6959e8c96519"
+            },
+            {
+              "doc_id": "bb4fde87-3de6-4ef2-adc0-b64f280aac04"
+            }
+          ]
+        },
+        "A malfunction": {
+          "answer": "A malfunction",
+          "references": []
+        },
+        "Illegal entry the country's waters": {
+          "answer": "Illegal entry the country's waters",
+          "references": []
+        }
+      },
+      "question_id": "a3c1025485f8c6e1db2450791b2f4724",
+      "aggregator_type": "OR",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.723534+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How far from the coast did North Korea establish its military security zone?": {
+      "question": "How far from the coast did North Korea establish its military security zone?",
+      "answers": {
+        "50 nautical miles": {
+          "answer": "50 nautical miles",
+          "references": [
+            {
+              "doc_id": "07f42570-00b1-4d5f-822b-590c56adf9c1"
+            },
+            {
+              "doc_id": "240e4e88-f010-4716-86ef-f96cb1a52156"
+            },
+            {
+              "doc_id": "24768b12-86ab-451e-94db-b734347eb31a"
+            },
+            {
+              "doc_id": "5c629393-1e12-45af-8b57-7ae6462ec71b"
+            },
+            {
+              "doc_id": "62406311-1676-49c2-85cc-cb4a904ccd6a"
+            },
+            {
+              "doc_id": "7081ae8f-7f03-465b-bf6b-ae96ec64cd53"
+            },
+            {
+              "doc_id": "7784f114-7cc1-4111-a819-24e94b3b7ac9"
+            },
+            {
+              "doc_id": "97de59b2-96cd-4a62-a73f-87d005b71cfe"
+            },
+            {
+              "doc_id": "9b8c0156-49c1-461e-894b-641ed32c2dc9"
+            },
+            {
+              "doc_id": "fec8d25b-f785-40e0-95aa-be7e0dad3cd7"
+            }
+          ]
+        }
+      },
+      "question_id": "8803ff6b8f4e20567e43864a43207e5f",
+      "aggregator_type": "OR",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.723562+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How far from the North Korean coast are territorial waters?": {
+      "question": "How far from the North Korean coast are territorial waters?",
+      "answers": {
+        "12 nautical miles": {
+          "answer": "12 nautical miles",
+          "references": [
+            {
+              "doc_id": "07f42570-00b1-4d5f-822b-590c56adf9c1"
+            },
+            {
+              "doc_id": "24768b12-86ab-451e-94db-b734347eb31a"
+            },
+            {
+              "doc_id": "39843c23-8e90-4f0f-b663-d5268cbc2382"
+            },
+            {
+              "doc_id": "dcb892a4-0cd1-45db-811f-6922cb5ec0b2"
+            },
+            {
+              "doc_id": "fec8d25b-f785-40e0-95aa-be7e0dad3cd7"
+            }
+          ]
+        }
+      },
+      "question_id": "8627407db10bfdcac402bf46a4a1021d",
+      "aggregator_type": "OR",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.723590+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How far from the North Korean coast is the exclusive economic zone?": {
+      "question": "How far from the North Korean coast is the exclusive economic zone?",
+      "answers": {
+        "200 nautical miles": {
+          "answer": "200 nautical miles",
+          "references": [
+            {
+              "doc_id": "24768b12-86ab-451e-94db-b734347eb31a"
+            }
+          ]
+        }
+      },
+      "question_id": "c5153b7893de8c56fb4eb314d11f6f25",
+      "aggregator_type": "OR",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.723608+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What did the border service do after they arrested the ship?": {
+      "question": "What did the border service do after they arrested the ship?",
+      "answers": {
+        "Turned off all communications": {
+          "answer": "Turned off all communications",
+          "references": [
+            {
+              "doc_id": "240e4e88-f010-4716-86ef-f96cb1a52156"
+            },
+            {
+              "doc_id": "24768b12-86ab-451e-94db-b734347eb31a"
+            },
+            {
+              "doc_id": "387bb949-653e-4597-83db-829caf6f99cb"
+            },
+            {
+              "doc_id": "7784f114-7cc1-4111-a819-24e94b3b7ac9"
+            },
+            {
+              "doc_id": "8ea6f522-4747-4148-b819-bea652ef025d"
+            },
+            {
+              "doc_id": "91167d27-7343-41b8-aa04-582e2ed7bdcc"
+            },
+            {
+              "doc_id": "f4a8727e-ce94-4b42-8ef8-78acc7bbceb2"
+            }
+          ]
+        },
+        "Escorted the ship to the port of Wonsan": {
+          "answer": "Escorted the ship to the port of Wonsan",
+          "references": [
+            {
+              "doc_id": "228b7693-b69b-4575-9c7c-a3ec31baa107"
+            },
+            {
+              "doc_id": "240e4e88-f010-4716-86ef-f96cb1a52156"
+            },
+            {
+              "doc_id": "24768b12-86ab-451e-94db-b734347eb31a"
+            },
+            {
+              "doc_id": "387bb949-653e-4597-83db-829caf6f99cb"
+            },
+            {
+              "doc_id": "39843c23-8e90-4f0f-b663-d5268cbc2382"
+            },
+            {
+              "doc_id": "447ff1ec-fa8c-4e46-98ce-0957f7185ccd"
+            },
+            {
+              "doc_id": "61ec8e0d-b16a-4b80-a6f1-86bdfeb1392c"
+            },
+            {
+              "doc_id": "7784f114-7cc1-4111-a819-24e94b3b7ac9"
+            },
+            {
+              "doc_id": "7b18a62c-0322-4d70-bbed-6959e8c96519"
+            },
+            {
+              "doc_id": "85bbf199-3884-4944-b259-36ad4e064ece"
+            },
+            {
+              "doc_id": "8850589c-34ab-4583-b0dc-da144c21c046"
+            },
+            {
+              "doc_id": "91167d27-7343-41b8-aa04-582e2ed7bdcc"
+            },
+            {
+              "doc_id": "9b8c0156-49c1-461e-894b-641ed32c2dc9"
+            },
+            {
+              "doc_id": "dcb892a4-0cd1-45db-811f-6922cb5ec0b2"
+            },
+            {
+              "doc_id": "e02d131b-9859-4c1f-a0a9-a8895042dea0"
+            },
+            {
+              "doc_id": "f4a8727e-ce94-4b42-8ef8-78acc7bbceb2"
+            },
+            {
+              "doc_id": "fec8d25b-f785-40e0-95aa-be7e0dad3cd7"
+            }
+          ]
+        }
+      },
+      "question_id": "ba65110313b8150133d131abf7cd3158",
+      "aggregator_type": "AND",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.723662+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How many sailors were on board at the time of the arrest?": {
+      "question": "How many sailors were on board at the time of the arrest?",
+      "answers": {
+        "17": {
+          "answer": "17",
+          "references": [
+            {
+              "doc_id": "0b1e6406-d21b-4320-9e20-1983ebbfa5c9"
+            },
+            {
+              "doc_id": "10de7bfb-058d-4872-bc3f-584ee3b5ede0"
+            },
+            {
+              "doc_id": "240e4e88-f010-4716-86ef-f96cb1a52156"
+            },
+            {
+              "doc_id": "24768b12-86ab-451e-94db-b734347eb31a"
+            },
+            {
+              "doc_id": "296878fe-b266-4382-91fd-fbb93ba7f7c8"
+            },
+            {
+              "doc_id": "325f671b-1e52-4f9c-8efb-d42c91dc8046"
+            },
+            {
+              "doc_id": "387bb949-653e-4597-83db-829caf6f99cb"
+            },
+            {
+              "doc_id": "39843c23-8e90-4f0f-b663-d5268cbc2382"
+            },
+            {
+              "doc_id": "39e47d63-d728-4946-8e90-9f8928cbad43"
+            },
+            {
+              "doc_id": "3dbc753d-457c-4f25-98fe-4df3b42ed82d"
+            },
+            {
+              "doc_id": "3e285687-678d-40e8-962e-f9dc156239c9"
+            },
+            {
+              "doc_id": "447ff1ec-fa8c-4e46-98ce-0957f7185ccd"
+            },
+            {
+              "doc_id": "547a6186-8804-41f7-8e4c-9edfad2e061b"
+            },
+            {
+              "doc_id": "7081ae8f-7f03-465b-bf6b-ae96ec64cd53"
+            },
+            {
+              "doc_id": "7784f114-7cc1-4111-a819-24e94b3b7ac9"
+            },
+            {
+              "doc_id": "7b18a62c-0322-4d70-bbed-6959e8c96519"
+            },
+            {
+              "doc_id": "85bbf199-3884-4944-b259-36ad4e064ece"
+            },
+            {
+              "doc_id": "8850589c-34ab-4583-b0dc-da144c21c046"
+            },
+            {
+              "doc_id": "8ea6f522-4747-4148-b819-bea652ef025d"
+            },
+            {
+              "doc_id": "91167d27-7343-41b8-aa04-582e2ed7bdcc"
+            },
+            {
+              "doc_id": "9b8c0156-49c1-461e-894b-641ed32c2dc9"
+            },
+            {
+              "doc_id": "9eb63e97-8e7c-4f0f-8d03-dca93cbf6c90"
+            },
+            {
+              "doc_id": "bb4fde87-3de6-4ef2-adc0-b64f280aac04"
+            },
+            {
+              "doc_id": "c372819a-c14e-44c4-a937-0fd315a732ae"
+            },
+            {
+              "doc_id": "cd88660a-3e5e-47f4-9336-35f41bceaff1"
+            },
+            {
+              "doc_id": "dcb892a4-0cd1-45db-811f-6922cb5ec0b2"
+            },
+            {
+              "doc_id": "e02d131b-9859-4c1f-a0a9-a8895042dea0"
+            },
+            {
+              "doc_id": "f1e1cf19-0603-40b0-905b-54110f6ae156"
+            },
+            {
+              "doc_id": "fec8d25b-f785-40e0-95aa-be7e0dad3cd7"
+            }
+          ]
+        }
+      },
+      "question_id": "1b1802fa441a048506b6b87404b69cc9",
+      "aggregator_type": "OR",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.723716+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How many sailors on board were Russian citizens?": {
+      "question": "How many sailors on board were Russian citizens?",
+      "answers": {
+        "15": {
+          "answer": "15",
+          "references": [
+            {
+              "doc_id": "0b1e6406-d21b-4320-9e20-1983ebbfa5c9"
+            },
+            {
+              "doc_id": "228b7693-b69b-4575-9c7c-a3ec31baa107"
+            },
+            {
+              "doc_id": "240e4e88-f010-4716-86ef-f96cb1a52156"
+            },
+            {
+              "doc_id": "24768b12-86ab-451e-94db-b734347eb31a"
+            },
+            {
+              "doc_id": "296878fe-b266-4382-91fd-fbb93ba7f7c8"
+            },
+            {
+              "doc_id": "325f671b-1e52-4f9c-8efb-d42c91dc8046"
+            },
+            {
+              "doc_id": "387bb949-653e-4597-83db-829caf6f99cb"
+            },
+            {
+              "doc_id": "39e47d63-d728-4946-8e90-9f8928cbad43"
+            },
+            {
+              "doc_id": "3dbc753d-457c-4f25-98fe-4df3b42ed82d"
+            },
+            {
+              "doc_id": "3e285687-678d-40e8-962e-f9dc156239c9"
+            },
+            {
+              "doc_id": "547a6186-8804-41f7-8e4c-9edfad2e061b"
+            },
+            {
+              "doc_id": "5c629393-1e12-45af-8b57-7ae6462ec71b"
+            },
+            {
+              "doc_id": "61ec8e0d-b16a-4b80-a6f1-86bdfeb1392c"
+            },
+            {
+              "doc_id": "67f4a957-604d-4143-8c2b-a678748c91f2"
+            },
+            {
+              "doc_id": "6de28344-de3f-4c11-bb90-3011661ed30b"
+            },
+            {
+              "doc_id": "7081ae8f-7f03-465b-bf6b-ae96ec64cd53"
+            },
+            {
+              "doc_id": "7784f114-7cc1-4111-a819-24e94b3b7ac9"
+            },
+            {
+              "doc_id": "7b18a62c-0322-4d70-bbed-6959e8c96519"
+            },
+            {
+              "doc_id": "85bbf199-3884-4944-b259-36ad4e064ece"
+            },
+            {
+              "doc_id": "8850589c-34ab-4583-b0dc-da144c21c046"
+            },
+            {
+              "doc_id": "8ea6f522-4747-4148-b819-bea652ef025d"
+            },
+            {
+              "doc_id": "8eaeb927-143c-4992-a8ff-8801ed3c163d"
+            },
+            {
+              "doc_id": "91167d27-7343-41b8-aa04-582e2ed7bdcc"
+            },
+            {
+              "doc_id": "97de59b2-96cd-4a62-a73f-87d005b71cfe"
+            },
+            {
+              "doc_id": "9b8c0156-49c1-461e-894b-641ed32c2dc9"
+            },
+            {
+              "doc_id": "9eb63e97-8e7c-4f0f-8d03-dca93cbf6c90"
+            },
+            {
+              "doc_id": "b07fff44-28d5-4e6b-96cc-1848ea5a5cef"
+            },
+            {
+              "doc_id": "b9f144a1-85ae-4e33-a317-7ea5d0d9eff2"
+            },
+            {
+              "doc_id": "bb4fde87-3de6-4ef2-adc0-b64f280aac04"
+            },
+            {
+              "doc_id": "c372819a-c14e-44c4-a937-0fd315a732ae"
+            },
+            {
+              "doc_id": "cd88660a-3e5e-47f4-9336-35f41bceaff1"
+            },
+            {
+              "doc_id": "d2ae7f28-5025-4b4b-ae99-f9cd0af948f4"
+            },
+            {
+              "doc_id": "e02d131b-9859-4c1f-a0a9-a8895042dea0"
+            }
+          ]
+        }
+      },
+      "question_id": "1696311e8d3a5500b21ee5883ed1db1f",
+      "aggregator_type": "OR",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.723770+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How many sailors on board were South Korean Citizens?": {
+      "question": "How many sailors on board were South Korean Citizens?",
+      "answers": {
+        "2": {
+          "answer": "2",
+          "references": [
+            {
+              "doc_id": "0b1e6406-d21b-4320-9e20-1983ebbfa5c9"
+            },
+            {
+              "doc_id": "228b7693-b69b-4575-9c7c-a3ec31baa107"
+            },
+            {
+              "doc_id": "240e4e88-f010-4716-86ef-f96cb1a52156"
+            },
+            {
+              "doc_id": "24768b12-86ab-451e-94db-b734347eb31a"
+            },
+            {
+              "doc_id": "296878fe-b266-4382-91fd-fbb93ba7f7c8"
+            },
+            {
+              "doc_id": "325f671b-1e52-4f9c-8efb-d42c91dc8046"
+            },
+            {
+              "doc_id": "387bb949-653e-4597-83db-829caf6f99cb"
+            },
+            {
+              "doc_id": "39843c23-8e90-4f0f-b663-d5268cbc2382"
+            },
+            {
+              "doc_id": "39e47d63-d728-4946-8e90-9f8928cbad43"
+            },
+            {
+              "doc_id": "3dbc753d-457c-4f25-98fe-4df3b42ed82d"
+            },
+            {
+              "doc_id": "3e285687-678d-40e8-962e-f9dc156239c9"
+            },
+            {
+              "doc_id": "447ff1ec-fa8c-4e46-98ce-0957f7185ccd"
+            },
+            {
+              "doc_id": "547a6186-8804-41f7-8e4c-9edfad2e061b"
+            },
+            {
+              "doc_id": "5c629393-1e12-45af-8b57-7ae6462ec71b"
+            },
+            {
+              "doc_id": "61ec8e0d-b16a-4b80-a6f1-86bdfeb1392c"
+            },
+            {
+              "doc_id": "67f4a957-604d-4143-8c2b-a678748c91f2"
+            },
+            {
+              "doc_id": "6de28344-de3f-4c11-bb90-3011661ed30b"
+            },
+            {
+              "doc_id": "7081ae8f-7f03-465b-bf6b-ae96ec64cd53"
+            },
+            {
+              "doc_id": "7784f114-7cc1-4111-a819-24e94b3b7ac9"
+            },
+            {
+              "doc_id": "7b18a62c-0322-4d70-bbed-6959e8c96519"
+            },
+            {
+              "doc_id": "85bbf199-3884-4944-b259-36ad4e064ece"
+            },
+            {
+              "doc_id": "8850589c-34ab-4583-b0dc-da144c21c046"
+            },
+            {
+              "doc_id": "8ea6f522-4747-4148-b819-bea652ef025d"
+            },
+            {
+              "doc_id": "91167d27-7343-41b8-aa04-582e2ed7bdcc"
+            },
+            {
+              "doc_id": "97de59b2-96cd-4a62-a73f-87d005b71cfe"
+            },
+            {
+              "doc_id": "9b8c0156-49c1-461e-894b-641ed32c2dc9"
+            },
+            {
+              "doc_id": "9eb63e97-8e7c-4f0f-8d03-dca93cbf6c90"
+            },
+            {
+              "doc_id": "b07fff44-28d5-4e6b-96cc-1848ea5a5cef"
+            },
+            {
+              "doc_id": "b9f144a1-85ae-4e33-a317-7ea5d0d9eff2"
+            },
+            {
+              "doc_id": "bb4fde87-3de6-4ef2-adc0-b64f280aac04"
+            },
+            {
+              "doc_id": "c372819a-c14e-44c4-a937-0fd315a732ae"
+            },
+            {
+              "doc_id": "cd88660a-3e5e-47f4-9336-35f41bceaff1"
+            },
+            {
+              "doc_id": "d2ae7f28-5025-4b4b-ae99-f9cd0af948f4"
+            },
+            {
+              "doc_id": "dcb892a4-0cd1-45db-811f-6922cb5ec0b2"
+            },
+            {
+              "doc_id": "e02d131b-9859-4c1f-a0a9-a8895042dea0"
+            },
+            {
+              "doc_id": "fec8d25b-f785-40e0-95aa-be7e0dad3cd7"
+            }
+          ]
+        }
+      },
+      "question_id": "3387b4ca5578151164f836d9a1cc5bcd",
+      "aggregator_type": "OR",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.723875+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How long was there no contact with the sailors?": {
+      "question": "How long was there no contact with the sailors?",
+      "answers": {
+        "For a week": {
+          "answer": "For a week",
+          "references": [
+            {
+              "doc_id": "387bb949-653e-4597-83db-829caf6f99cb"
+            },
+            {
+              "doc_id": "5c629393-1e12-45af-8b57-7ae6462ec71b"
+            },
+            {
+              "doc_id": "91167d27-7343-41b8-aa04-582e2ed7bdcc"
+            }
+          ]
+        },
+        "about 11 days": {
+          "answer": "about 11 days",
+          "references": [
+            {
+              "doc_id": "7081ae8f-7f03-465b-bf6b-ae96ec64cd53"
+            }
+          ]
+        },
+        "9 days": {
+          "answer": "9 days",
+          "references": [
+            {
+              "doc_id": "7b18a62c-0322-4d70-bbed-6959e8c96519"
+            },
+            {
+              "doc_id": "85bbf199-3884-4944-b259-36ad4e064ece"
+            }
+          ]
+        }
+      },
+      "question_id": "7479a293d0b0d013c2e5c8b3691fcb16",
+      "aggregator_type": "OR",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.723915+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "When did a Russian embassy representative visit the ship?": {
+      "question": "When did a Russian embassy representative visit the ship?",
+      "answers": {
+        "July 23 2019": {
+          "answer": "July 23 2019",
+          "references": [
+            {
+              "doc_id": "240e4e88-f010-4716-86ef-f96cb1a52156"
+            },
+            {
+              "doc_id": "387bb949-653e-4597-83db-829caf6f99cb"
+            },
+            {
+              "doc_id": "5c629393-1e12-45af-8b57-7ae6462ec71b"
+            },
+            {
+              "doc_id": "8ea6f522-4747-4148-b819-bea652ef025d"
+            }
+          ]
+        },
+        "July 22 2019": {
+          "answer": "July 22 2019",
+          "references": []
+        }
+      },
+      "question_id": "cef3db0d2a4c489e30f8a6b73f74d06b",
+      "aggregator_type": "OR",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.723943+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Where did crew members stay after the ship was detained?": {
+      "question": "Where did crew members stay after the ship was detained?",
+      "answers": {
+        "At a hotel": {
+          "answer": "At a hotel",
+          "references": [
+            {
+              "doc_id": "0b1e6406-d21b-4320-9e20-1983ebbfa5c9"
+            },
+            {
+              "doc_id": "228b7693-b69b-4575-9c7c-a3ec31baa107"
+            },
+            {
+              "doc_id": "24768b12-86ab-451e-94db-b734347eb31a"
+            },
+            {
+              "doc_id": "39e47d63-d728-4946-8e90-9f8928cbad43"
+            },
+            {
+              "doc_id": "547a6186-8804-41f7-8e4c-9edfad2e061b"
+            },
+            {
+              "doc_id": "5c629393-1e12-45af-8b57-7ae6462ec71b"
+            },
+            {
+              "doc_id": "61ec8e0d-b16a-4b80-a6f1-86bdfeb1392c"
+            },
+            {
+              "doc_id": "7b18a62c-0322-4d70-bbed-6959e8c96519"
+            },
+            {
+              "doc_id": "85bbf199-3884-4944-b259-36ad4e064ece"
+            },
+            {
+              "doc_id": "8850589c-34ab-4583-b0dc-da144c21c046"
+            },
+            {
+              "doc_id": "8eaeb927-143c-4992-a8ff-8801ed3c163d"
+            },
+            {
+              "doc_id": "91167d27-7343-41b8-aa04-582e2ed7bdcc"
+            },
+            {
+              "doc_id": "9b8c0156-49c1-461e-894b-641ed32c2dc9"
+            },
+            {
+              "doc_id": "bb4fde87-3de6-4ef2-adc0-b64f280aac04"
+            },
+            {
+              "doc_id": "cd88660a-3e5e-47f4-9336-35f41bceaff1"
+            },
+            {
+              "doc_id": "f1e1cf19-0603-40b0-905b-54110f6ae156"
+            },
+            {
+              "doc_id": "f4a8727e-ce94-4b42-8ef8-78acc7bbceb2"
+            },
+            {
+              "doc_id": "fec8d25b-f785-40e0-95aa-be7e0dad3cd7"
+            }
+          ]
+        }
+      },
+      "question_id": "11f6adb91125eea097b9ef3499f7a4cb",
+      "aggregator_type": "OR",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.723985+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What flag was the Russian ship sailing under?": {
+      "question": "What flag was the Russian ship sailing under?",
+      "answers": {
+        "South Korean flag": {
+          "answer": "South Korean flag",
+          "references": [
+            {
+              "doc_id": "547a6186-8804-41f7-8e4c-9edfad2e061b"
+            },
+            {
+              "doc_id": "7b18a62c-0322-4d70-bbed-6959e8c96519"
+            },
+            {
+              "doc_id": "91167d27-7343-41b8-aa04-582e2ed7bdcc"
+            },
+            {
+              "doc_id": "9b8c0156-49c1-461e-894b-641ed32c2dc9"
+            },
+            {
+              "doc_id": "b9f144a1-85ae-4e33-a317-7ea5d0d9eff2"
+            }
+          ]
+        },
+        "Russian flag": {
+          "answer": "Russian flag",
+          "references": [
+            {
+              "doc_id": "cd88660a-3e5e-47f4-9336-35f41bceaff1"
+            }
+          ]
+        }
+      },
+      "question_id": "c23b7cf43f689e4b8b8ac98576011bd0",
+      "aggregator_type": "OR",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.724016+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What did the Russian ship\u2019s captain admit to?": {
+      "question": "What did the Russian ship\u2019s captain admit to?",
+      "answers": {
+        "Violating territorial waters": {
+          "answer": "Violating territorial waters",
+          "references": [
+            {
+              "doc_id": "228b7693-b69b-4575-9c7c-a3ec31baa107"
+            },
+            {
+              "doc_id": "39843c23-8e90-4f0f-b663-d5268cbc2382"
+            },
+            {
+              "doc_id": "61ec8e0d-b16a-4b80-a6f1-86bdfeb1392c"
+            },
+            {
+              "doc_id": "91167d27-7343-41b8-aa04-582e2ed7bdcc"
+            },
+            {
+              "doc_id": "97de59b2-96cd-4a62-a73f-87d005b71cfe"
+            },
+            {
+              "doc_id": "9b8c0156-49c1-461e-894b-641ed32c2dc9"
+            },
+            {
+              "doc_id": "b9f144a1-85ae-4e33-a317-7ea5d0d9eff2"
+            }
+          ]
+        }
+      },
+      "question_id": "0f82433eb0757599d0e8b0b6037b6988",
+      "aggregator_type": "OR",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.724041+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How did the Russian Foreign Ministry comment on the ship\u2019s arrest?": {
+      "question": "How did the Russian Foreign Ministry comment on the ship\u2019s arrest?",
+      "answers": {
+        "Said they were doing everything possible to resolve the situation": {
+          "answer": "Said they were doing everything possible to resolve the situation",
+          "references": [
+            {
+              "doc_id": "07f42570-00b1-4d5f-822b-590c56adf9c1"
+            },
+            {
+              "doc_id": "91167d27-7343-41b8-aa04-582e2ed7bdcc"
+            },
+            {
+              "doc_id": "9b8c0156-49c1-461e-894b-641ed32c2dc9"
+            },
+            {
+              "doc_id": "f1e1cf19-0603-40b0-905b-54110f6ae156"
+            }
+          ]
+        }
+      },
+      "question_id": "75ccbb711cee27290bc5ad0931aa3c29",
+      "aggregator_type": "OR",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.724064+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "When was the Russian ship released?": {
+      "question": "When was the Russian ship released?",
+      "answers": {
+        "July 27 2019": {
+          "answer": "July 27 2019",
+          "references": [
+            {
+              "doc_id": "0214a755-456f-41c2-b578-85644f62f82e"
+            },
+            {
+              "doc_id": "228b7693-b69b-4575-9c7c-a3ec31baa107"
+            },
+            {
+              "doc_id": "325f671b-1e52-4f9c-8efb-d42c91dc8046"
+            },
+            {
+              "doc_id": "3dbc753d-457c-4f25-98fe-4df3b42ed82d"
+            },
+            {
+              "doc_id": "447ff1ec-fa8c-4e46-98ce-0957f7185ccd"
+            },
+            {
+              "doc_id": "61ec8e0d-b16a-4b80-a6f1-86bdfeb1392c"
+            },
+            {
+              "doc_id": "7081ae8f-7f03-465b-bf6b-ae96ec64cd53"
+            },
+            {
+              "doc_id": "dcb892a4-0cd1-45db-811f-6922cb5ec0b2"
+            }
+          ]
+        },
+        "July 28th, 2019": {
+          "answer": "July 28th, 2019",
+          "references": [
+            {
+              "doc_id": "296878fe-b266-4382-91fd-fbb93ba7f7c8"
+            }
+          ]
+        }
+      },
+      "question_id": "68774e52e0f85033be447505114d7715",
+      "aggregator_type": "OR",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.724098+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Why did the Russian ship go to the South Korean port?": {
+      "question": "Why did the Russian ship go to the South Korean port?",
+      "answers": {
+        "South Korean fishermen were planning to disembark there": {
+          "answer": "South Korean fishermen were planning to disembark there",
+          "references": [
+            {
+              "doc_id": "0214a755-456f-41c2-b578-85644f62f82e"
+            },
+            {
+              "doc_id": "447ff1ec-fa8c-4e46-98ce-0957f7185ccd"
+            },
+            {
+              "doc_id": "61ec8e0d-b16a-4b80-a6f1-86bdfeb1392c"
+            },
+            {
+              "doc_id": "62406311-1676-49c2-85cc-cb4a904ccd6a"
+            },
+            {
+              "doc_id": "97de59b2-96cd-4a62-a73f-87d005b71cfe"
+            },
+            {
+              "doc_id": "dcb892a4-0cd1-45db-811f-6922cb5ec0b2"
+            }
+          ]
+        }
+      },
+      "question_id": "060048dfa810539fcd62a6e3ec6fe3f8",
+      "aggregator_type": "OR",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.724121+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How did South Korea call the North Korean actions?": {
+      "question": "How did South Korea call the North Korean actions?",
+      "answers": {
+        "Positive from a humanitarian point of view": {
+          "answer": "Positive from a humanitarian point of view",
+          "references": [
+            {
+              "doc_id": "228b7693-b69b-4575-9c7c-a3ec31baa107"
+            },
+            {
+              "doc_id": "296878fe-b266-4382-91fd-fbb93ba7f7c8"
+            },
+            {
+              "doc_id": "3dbc753d-457c-4f25-98fe-4df3b42ed82d"
+            },
+            {
+              "doc_id": "3e285687-678d-40e8-962e-f9dc156239c9"
+            },
+            {
+              "doc_id": "7081ae8f-7f03-465b-bf6b-ae96ec64cd53"
+            },
+            {
+              "doc_id": "85bbf199-3884-4944-b259-36ad4e064ece"
+            },
+            {
+              "doc_id": "dcb892a4-0cd1-45db-811f-6922cb5ec0b2"
+            }
+          ]
+        }
+      },
+      "question_id": "926de0bb2a1d5526cfb98bb5c3668dc0",
+      "aggregator_type": "OR",
+      "query_id": "380",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.724146+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

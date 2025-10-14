@@ -1,0 +1,1559 @@
+{
+  "query_id": "334",
+  "title_query": "Oxygen-generating experiment on Mars",
+  "full_query": "I am writing a report on how to create a sustainable atmosphere on Mars. My report should include the equipment needed to create the atmosphere, worst case scenarios we should plan for, and the largest number of people that could be sustained by the atmosphere. I am also interested in NASA\u2019s oxygen-generating experiment on Mars. I plan to report on the experiment plan, the experiment itself, and the results of it. I will highlight the incorporation of local materials, if any, in the creation of the sustainable atmosphere.",
+  "full_background": "I work for a tech company that may be involved in future expeditions to Mars. Our task is to determine whether it is possible to create a sustainable atmosphere for Mars expeditions. ",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What are the results of the most recent NASA experiments on creating oxygen on Mars?": {
+      "question": "What are the results of the most recent NASA experiments on creating oxygen on Mars?",
+      "answers": {
+        "Over 5 grams of oxygen/hour": {
+          "answer": "Over 5 grams of oxygen/hour",
+          "references": [
+            {
+              "doc_id": "0e38128c-1a86-47c4-b506-d6a220ec1b63"
+            },
+            {
+              "doc_id": "0fcd78b3-e830-4156-aad4-b8b1e06855f3"
+            },
+            {
+              "doc_id": "1068934a-f990-40ae-a068-79357277fbd0"
+            },
+            {
+              "doc_id": "10b7288d-fb4d-44b2-aabb-63dcbdff067a"
+            },
+            {
+              "doc_id": "16529d0c-39b5-48d4-b26e-4a452a7ebc6b"
+            },
+            {
+              "doc_id": "1cfeeb19-f2a1-4522-b092-db2f0c4b0200"
+            },
+            {
+              "doc_id": "3be5e9f9-b7fb-490d-90aa-05e569a58383"
+            },
+            {
+              "doc_id": "453d68f4-f1f8-495d-aebc-7570d69e746c"
+            },
+            {
+              "doc_id": "5c735de8-8ad5-415e-9800-e71a7ae17b01"
+            },
+            {
+              "doc_id": "64c42358-3098-4450-a263-1a71a54b50e9"
+            },
+            {
+              "doc_id": "9b8bc268-c55b-4127-8bcb-7db17237c8e9"
+            },
+            {
+              "doc_id": "a659e3f3-37b9-4e71-b5e1-5020bc4f72b3"
+            },
+            {
+              "doc_id": "a9b637ed-3450-48ea-b997-51a387d2ede1"
+            },
+            {
+              "doc_id": "beb36777-1964-4b4f-b6fa-185b09b7acf2"
+            },
+            {
+              "doc_id": "d68a71f5-d2a7-4a5a-8777-eca4c08e3837"
+            },
+            {
+              "doc_id": "eee9c88a-a139-4c72-af2a-10875aba735d"
+            },
+            {
+              "doc_id": "f7c65eae-b94a-4f0e-81f4-0a7730e29848"
+            }
+          ]
+        },
+        "5 grams": {
+          "answer": "5 grams",
+          "references": [
+            {
+              "doc_id": "2f73c974-c00c-4f77-a49d-42125c4e0c3b"
+            },
+            {
+              "doc_id": "621ab730-6c5c-4cf4-8a58-74e09580b18f"
+            },
+            {
+              "doc_id": "8ef87d98-23bc-46d4-9893-f851e96b0203"
+            }
+          ]
+        }
+      },
+      "question_id": "931957df8b49990fa0c21106df95f218",
+      "aggregator_type": "OR",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.658766+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the name of the equipment that NASA built to create oxygen?": {
+      "question": "What is the name of the equipment that NASA built to create oxygen?",
+      "answers": {
+        "The Mars Oxygen In-situ Resource Utilization Experiment (MOXIE)": {
+          "answer": "The Mars Oxygen In-situ Resource Utilization Experiment (MOXIE)",
+          "references": [
+            {
+              "doc_id": "022ffb3d-ab48-4513-a012-b3565c25a5af"
+            },
+            {
+              "doc_id": "0e38128c-1a86-47c4-b506-d6a220ec1b63"
+            },
+            {
+              "doc_id": "0fcd78b3-e830-4156-aad4-b8b1e06855f3"
+            },
+            {
+              "doc_id": "1068934a-f990-40ae-a068-79357277fbd0"
+            },
+            {
+              "doc_id": "10b7288d-fb4d-44b2-aabb-63dcbdff067a"
+            },
+            {
+              "doc_id": "1cfeeb19-f2a1-4522-b092-db2f0c4b0200"
+            },
+            {
+              "doc_id": "26b994d2-45c9-4995-b885-9f231fc79683"
+            },
+            {
+              "doc_id": "2f73c974-c00c-4f77-a49d-42125c4e0c3b"
+            },
+            {
+              "doc_id": "3be5e9f9-b7fb-490d-90aa-05e569a58383"
+            },
+            {
+              "doc_id": "3c229607-3017-439f-98cf-f2f5d57f19c2"
+            },
+            {
+              "doc_id": "453d68f4-f1f8-495d-aebc-7570d69e746c"
+            },
+            {
+              "doc_id": "45d69c9d-b7bf-4725-b80a-476dcc3c50d7"
+            },
+            {
+              "doc_id": "46a67008-03d7-4d16-a985-1c95c075316f"
+            },
+            {
+              "doc_id": "46bb91f4-2b7c-4db9-8dd4-0f8e1771d789"
+            },
+            {
+              "doc_id": "51595268-7a63-4b5e-bdb6-656faf099a41"
+            },
+            {
+              "doc_id": "543cbc5b-6420-41f4-976b-dde2b524067e"
+            },
+            {
+              "doc_id": "5c735de8-8ad5-415e-9800-e71a7ae17b01"
+            },
+            {
+              "doc_id": "621ab730-6c5c-4cf4-8a58-74e09580b18f"
+            },
+            {
+              "doc_id": "64c42358-3098-4450-a263-1a71a54b50e9"
+            },
+            {
+              "doc_id": "736ae444-d7cc-4f58-8db8-ef94608744c8"
+            },
+            {
+              "doc_id": "74f47a1b-5d68-4a23-9767-623d9832a497"
+            },
+            {
+              "doc_id": "826c3486-ef7e-416b-8731-64bd19ae94d6"
+            },
+            {
+              "doc_id": "84ff40d2-6982-420c-a4ec-6e2e320824dc"
+            },
+            {
+              "doc_id": "8ef87d98-23bc-46d4-9893-f851e96b0203"
+            },
+            {
+              "doc_id": "949eedcb-03f2-4181-bd7a-845048dbc50d"
+            },
+            {
+              "doc_id": "94be6797-91aa-4e53-9c26-4731a3b49188"
+            },
+            {
+              "doc_id": "98961465-3e52-44f8-aeaa-753ea0f10e55"
+            },
+            {
+              "doc_id": "99981532-c91e-4227-9319-b8ddd5047f2d"
+            },
+            {
+              "doc_id": "9b8bc268-c55b-4127-8bcb-7db17237c8e9"
+            },
+            {
+              "doc_id": "a81fc619-ced4-4b2a-a75a-b15d72008aa4"
+            },
+            {
+              "doc_id": "a88fedf5-0df5-468e-ab16-6e454fd3caab"
+            },
+            {
+              "doc_id": "a9b637ed-3450-48ea-b997-51a387d2ede1"
+            },
+            {
+              "doc_id": "adcd96d6-9349-463b-ac03-5c31b47fe259"
+            },
+            {
+              "doc_id": "ae4b76f8-b9f1-47fe-8abe-9abbe613f799"
+            },
+            {
+              "doc_id": "b208481b-bdda-49fc-ab73-1c0fb43fef30"
+            },
+            {
+              "doc_id": "beb36777-1964-4b4f-b6fa-185b09b7acf2"
+            },
+            {
+              "doc_id": "d68a71f5-d2a7-4a5a-8777-eca4c08e3837"
+            },
+            {
+              "doc_id": "df143abf-5b42-43cf-9235-725e9dad8cbf"
+            },
+            {
+              "doc_id": "df5c61e4-d1d4-4ce4-b724-5bad3b765e73"
+            },
+            {
+              "doc_id": "eee9c88a-a139-4c72-af2a-10875aba735d"
+            },
+            {
+              "doc_id": "f23d0347-2a7a-42e3-92ae-041c694da975"
+            },
+            {
+              "doc_id": "f7c65eae-b94a-4f0e-81f4-0a7730e29848"
+            }
+          ]
+        },
+        "Moxie": {
+          "answer": "Moxie",
+          "references": [
+            {
+              "doc_id": "25b75975-526f-4b71-9254-01dcf1a63c4d"
+            },
+            {
+              "doc_id": "2ce3b0ca-b958-4541-8255-fc70ad7186a8"
+            },
+            {
+              "doc_id": "3be5e9f9-b7fb-490d-90aa-05e569a58383"
+            },
+            {
+              "doc_id": "9b8bc268-c55b-4127-8bcb-7db17237c8e9"
+            },
+            {
+              "doc_id": "a659e3f3-37b9-4e71-b5e1-5020bc4f72b3"
+            },
+            {
+              "doc_id": "d68a71f5-d2a7-4a5a-8777-eca4c08e3837"
+            },
+            {
+              "doc_id": "f7c65eae-b94a-4f0e-81f4-0a7730e29848"
+            }
+          ]
+        },
+        "aka: Mechanical Tree": {
+          "answer": "aka: Mechanical Tree",
+          "references": [
+            {
+              "doc_id": "453d68f4-f1f8-495d-aebc-7570d69e746c"
+            },
+            {
+              "doc_id": "a659e3f3-37b9-4e71-b5e1-5020bc4f72b3"
+            }
+          ]
+        }
+      },
+      "question_id": "5d2787dddf00c9fe163ec7048e678997",
+      "aggregator_type": "OR",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.658863+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What was the cost of NASA's attempt to create oxygen?": {
+      "question": "What was the cost of NASA's attempt to create oxygen?",
+      "answers": {
+        "$3 billion": {
+          "answer": "$3 billion",
+          "references": [
+            {
+              "doc_id": "1cfeeb19-f2a1-4522-b092-db2f0c4b0200"
+            },
+            {
+              "doc_id": "826c3486-ef7e-416b-8731-64bd19ae94d6"
+            },
+            {
+              "doc_id": "ae4b76f8-b9f1-47fe-8abe-9abbe613f799"
+            }
+          ]
+        }
+      },
+      "question_id": "09374bbcacf47f05746fd691d597abf7",
+      "aggregator_type": "OR",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.658884+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "When is NASA (or other space agencies) planning to send people to Mars?": {
+      "question": "When is NASA (or other space agencies) planning to send people to Mars?",
+      "answers": {
+        "Possibly by 2030": {
+          "answer": "Possibly by 2030",
+          "references": [
+            {
+              "doc_id": "25b75975-526f-4b71-9254-01dcf1a63c4d"
+            }
+          ]
+        }
+      },
+      "question_id": "674c2f7276cb76404d867204f234d581",
+      "aggregator_type": "OR",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.658901+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How does MOXIE create oxygen?": {
+      "question": "How does MOXIE create oxygen?",
+      "answers": {
+        "electrolysis": {
+          "answer": "electrolysis",
+          "references": [
+            {
+              "doc_id": "022ffb3d-ab48-4513-a012-b3565c25a5af"
+            },
+            {
+              "doc_id": "1068934a-f990-40ae-a068-79357277fbd0"
+            },
+            {
+              "doc_id": "1cfeeb19-f2a1-4522-b092-db2f0c4b0200"
+            },
+            {
+              "doc_id": "25b75975-526f-4b71-9254-01dcf1a63c4d"
+            },
+            {
+              "doc_id": "2ce3b0ca-b958-4541-8255-fc70ad7186a8"
+            },
+            {
+              "doc_id": "3c229607-3017-439f-98cf-f2f5d57f19c2"
+            },
+            {
+              "doc_id": "453d68f4-f1f8-495d-aebc-7570d69e746c"
+            },
+            {
+              "doc_id": "621ab730-6c5c-4cf4-8a58-74e09580b18f"
+            },
+            {
+              "doc_id": "64c42358-3098-4450-a263-1a71a54b50e9"
+            },
+            {
+              "doc_id": "94be6797-91aa-4e53-9c26-4731a3b49188"
+            },
+            {
+              "doc_id": "99981532-c91e-4227-9319-b8ddd5047f2d"
+            },
+            {
+              "doc_id": "9b8bc268-c55b-4127-8bcb-7db17237c8e9"
+            },
+            {
+              "doc_id": "a659e3f3-37b9-4e71-b5e1-5020bc4f72b3"
+            },
+            {
+              "doc_id": "a9b637ed-3450-48ea-b997-51a387d2ede1"
+            },
+            {
+              "doc_id": "ae4b76f8-b9f1-47fe-8abe-9abbe613f799"
+            }
+          ]
+        },
+        "splits atoms": {
+          "answer": "splits atoms",
+          "references": [
+            {
+              "doc_id": "022ffb3d-ab48-4513-a012-b3565c25a5af"
+            },
+            {
+              "doc_id": "1068934a-f990-40ae-a068-79357277fbd0"
+            },
+            {
+              "doc_id": "1cfeeb19-f2a1-4522-b092-db2f0c4b0200"
+            },
+            {
+              "doc_id": "2f73c974-c00c-4f77-a49d-42125c4e0c3b"
+            },
+            {
+              "doc_id": "64c42358-3098-4450-a263-1a71a54b50e9"
+            },
+            {
+              "doc_id": "8ef87d98-23bc-46d4-9893-f851e96b0203"
+            },
+            {
+              "doc_id": "ae4b76f8-b9f1-47fe-8abe-9abbe613f799"
+            },
+            {
+              "doc_id": "b208481b-bdda-49fc-ab73-1c0fb43fef30"
+            }
+          ]
+        },
+        "Electrolysis of salt water in subsurface lakes on Mars": {
+          "answer": "Electrolysis of salt water in subsurface lakes on Mars",
+          "references": [
+            {
+              "doc_id": "25b75975-526f-4b71-9254-01dcf1a63c4d"
+            },
+            {
+              "doc_id": "2ce3b0ca-b958-4541-8255-fc70ad7186a8"
+            },
+            {
+              "doc_id": "8db397fb-1c34-414c-8544-88806f9ee81d"
+            }
+          ]
+        },
+        "photosynthesis": {
+          "answer": "photosynthesis",
+          "references": [
+            {
+              "doc_id": "2ce3b0ca-b958-4541-8255-fc70ad7186a8"
+            }
+          ]
+        },
+        "Using electricity and chemical properties to decompose carbon dioxide molecules": {
+          "answer": "Using electricity and chemical properties to decompose carbon dioxide molecules",
+          "references": [
+            {
+              "doc_id": "3be5e9f9-b7fb-490d-90aa-05e569a58383"
+            },
+            {
+              "doc_id": "453d68f4-f1f8-495d-aebc-7570d69e746c"
+            },
+            {
+              "doc_id": "f7c65eae-b94a-4f0e-81f4-0a7730e29848"
+            }
+          ]
+        }
+      },
+      "question_id": "97819bf0f9331b25f7e7327641d65d81",
+      "aggregator_type": "OR",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.658976+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How much oxygen does MOXIE create on average?": {
+      "question": "How much oxygen does MOXIE create on average?",
+      "answers": {
+        "10-22 grams/hour": {
+          "answer": "10-22 grams/hour",
+          "references": [
+            {
+              "doc_id": "0e38128c-1a86-47c4-b506-d6a220ec1b63"
+            },
+            {
+              "doc_id": "1068934a-f990-40ae-a068-79357277fbd0"
+            },
+            {
+              "doc_id": "1cfeeb19-f2a1-4522-b092-db2f0c4b0200"
+            },
+            {
+              "doc_id": "46a67008-03d7-4d16-a985-1c95c075316f"
+            },
+            {
+              "doc_id": "5c735de8-8ad5-415e-9800-e71a7ae17b01"
+            },
+            {
+              "doc_id": "64c42358-3098-4450-a263-1a71a54b50e9"
+            },
+            {
+              "doc_id": "94be6797-91aa-4e53-9c26-4731a3b49188"
+            },
+            {
+              "doc_id": "a9b637ed-3450-48ea-b997-51a387d2ede1"
+            },
+            {
+              "doc_id": "beb36777-1964-4b4f-b6fa-185b09b7acf2"
+            },
+            {
+              "doc_id": "eee9c88a-a139-4c72-af2a-10875aba735d"
+            }
+          ]
+        },
+        "Up to 10 grams/hour": {
+          "answer": "Up to 10 grams/hour",
+          "references": [
+            {
+              "doc_id": "453d68f4-f1f8-495d-aebc-7570d69e746c"
+            },
+            {
+              "doc_id": "543cbc5b-6420-41f4-976b-dde2b524067e"
+            },
+            {
+              "doc_id": "9b8bc268-c55b-4127-8bcb-7db17237c8e9"
+            },
+            {
+              "doc_id": "a659e3f3-37b9-4e71-b5e1-5020bc4f72b3"
+            },
+            {
+              "doc_id": "d68a71f5-d2a7-4a5a-8777-eca4c08e3837"
+            },
+            {
+              "doc_id": "f7c65eae-b94a-4f0e-81f4-0a7730e29848"
+            }
+          ]
+        }
+      },
+      "question_id": "9253e5e528dbba2b87fa56eeb4fe42e9",
+      "aggregator_type": "OR",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.659018+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What will oxygen on Mars be used for?": {
+      "question": "What will oxygen on Mars be used for?",
+      "answers": {
+        "Provide astronauts with air": {
+          "answer": "Provide astronauts with air",
+          "references": [
+            {
+              "doc_id": "022ffb3d-ab48-4513-a012-b3565c25a5af"
+            },
+            {
+              "doc_id": "1068934a-f990-40ae-a068-79357277fbd0"
+            },
+            {
+              "doc_id": "10b7288d-fb4d-44b2-aabb-63dcbdff067a"
+            },
+            {
+              "doc_id": "1bf2de01-ff12-4698-9d71-36b336a35d6f"
+            },
+            {
+              "doc_id": "2f73c974-c00c-4f77-a49d-42125c4e0c3b"
+            },
+            {
+              "doc_id": "3be5e9f9-b7fb-490d-90aa-05e569a58383"
+            },
+            {
+              "doc_id": "46bb91f4-2b7c-4db9-8dd4-0f8e1771d789"
+            },
+            {
+              "doc_id": "621ab730-6c5c-4cf4-8a58-74e09580b18f"
+            },
+            {
+              "doc_id": "64c42358-3098-4450-a263-1a71a54b50e9"
+            },
+            {
+              "doc_id": "736ae444-d7cc-4f58-8db8-ef94608744c8"
+            },
+            {
+              "doc_id": "74f47a1b-5d68-4a23-9767-623d9832a497"
+            },
+            {
+              "doc_id": "8ef87d98-23bc-46d4-9893-f851e96b0203"
+            },
+            {
+              "doc_id": "949eedcb-03f2-4181-bd7a-845048dbc50d"
+            },
+            {
+              "doc_id": "94be6797-91aa-4e53-9c26-4731a3b49188"
+            },
+            {
+              "doc_id": "99981532-c91e-4227-9319-b8ddd5047f2d"
+            },
+            {
+              "doc_id": "a659e3f3-37b9-4e71-b5e1-5020bc4f72b3"
+            },
+            {
+              "doc_id": "a81fc619-ced4-4b2a-a75a-b15d72008aa4"
+            },
+            {
+              "doc_id": "a9b637ed-3450-48ea-b997-51a387d2ede1"
+            },
+            {
+              "doc_id": "adcd96d6-9349-463b-ac03-5c31b47fe259"
+            },
+            {
+              "doc_id": "ae4b76f8-b9f1-47fe-8abe-9abbe613f799"
+            },
+            {
+              "doc_id": "b208481b-bdda-49fc-ab73-1c0fb43fef30"
+            },
+            {
+              "doc_id": "d655658c-4bff-4ed1-95c3-7b00517b7275"
+            },
+            {
+              "doc_id": "eee9c88a-a139-4c72-af2a-10875aba735d"
+            },
+            {
+              "doc_id": "f23d0347-2a7a-42e3-92ae-041c694da975"
+            },
+            {
+              "doc_id": "f7c65eae-b94a-4f0e-81f4-0a7730e29848"
+            }
+          ]
+        },
+        "refueling rockets": {
+          "answer": "refueling rockets",
+          "references": [
+            {
+              "doc_id": "022ffb3d-ab48-4513-a012-b3565c25a5af"
+            },
+            {
+              "doc_id": "1068934a-f990-40ae-a068-79357277fbd0"
+            },
+            {
+              "doc_id": "10b7288d-fb4d-44b2-aabb-63dcbdff067a"
+            },
+            {
+              "doc_id": "2f73c974-c00c-4f77-a49d-42125c4e0c3b"
+            },
+            {
+              "doc_id": "46bb91f4-2b7c-4db9-8dd4-0f8e1771d789"
+            },
+            {
+              "doc_id": "621ab730-6c5c-4cf4-8a58-74e09580b18f"
+            },
+            {
+              "doc_id": "64c42358-3098-4450-a263-1a71a54b50e9"
+            },
+            {
+              "doc_id": "736ae444-d7cc-4f58-8db8-ef94608744c8"
+            },
+            {
+              "doc_id": "8ef87d98-23bc-46d4-9893-f851e96b0203"
+            },
+            {
+              "doc_id": "949eedcb-03f2-4181-bd7a-845048dbc50d"
+            },
+            {
+              "doc_id": "94be6797-91aa-4e53-9c26-4731a3b49188"
+            },
+            {
+              "doc_id": "99981532-c91e-4227-9319-b8ddd5047f2d"
+            },
+            {
+              "doc_id": "a81fc619-ced4-4b2a-a75a-b15d72008aa4"
+            },
+            {
+              "doc_id": "a9b637ed-3450-48ea-b997-51a387d2ede1"
+            },
+            {
+              "doc_id": "adcd96d6-9349-463b-ac03-5c31b47fe259"
+            },
+            {
+              "doc_id": "ae4b76f8-b9f1-47fe-8abe-9abbe613f799"
+            },
+            {
+              "doc_id": "b208481b-bdda-49fc-ab73-1c0fb43fef30"
+            },
+            {
+              "doc_id": "d655658c-4bff-4ed1-95c3-7b00517b7275"
+            },
+            {
+              "doc_id": "eee9c88a-a139-4c72-af2a-10875aba735d"
+            },
+            {
+              "doc_id": "f23d0347-2a7a-42e3-92ae-041c694da975"
+            }
+          ]
+        },
+        "Refueling rockets used by humans to return to Earth from Mars": {
+          "answer": "Refueling rockets used by humans to return to Earth from Mars",
+          "references": [
+            {
+              "doc_id": "10b7288d-fb4d-44b2-aabb-63dcbdff067a"
+            },
+            {
+              "doc_id": "3be5e9f9-b7fb-490d-90aa-05e569a58383"
+            },
+            {
+              "doc_id": "f7c65eae-b94a-4f0e-81f4-0a7730e29848"
+            }
+          ]
+        },
+        "Solving the oxygen resource problem on Mars": {
+          "answer": "Solving the oxygen resource problem on Mars",
+          "references": [
+            {
+              "doc_id": "453d68f4-f1f8-495d-aebc-7570d69e746c"
+            },
+            {
+              "doc_id": "8db397fb-1c34-414c-8544-88806f9ee81d"
+            },
+            {
+              "doc_id": "9b8bc268-c55b-4127-8bcb-7db17237c8e9"
+            }
+          ]
+        },
+        "Future human exploration of Mars": {
+          "answer": "Future human exploration of Mars",
+          "references": [
+            {
+              "doc_id": "543cbc5b-6420-41f4-976b-dde2b524067e"
+            },
+            {
+              "doc_id": "8db397fb-1c34-414c-8544-88806f9ee81d"
+            },
+            {
+              "doc_id": "9b8bc268-c55b-4127-8bcb-7db17237c8e9"
+            },
+            {
+              "doc_id": "a659e3f3-37b9-4e71-b5e1-5020bc4f72b3"
+            },
+            {
+              "doc_id": "d68a71f5-d2a7-4a5a-8777-eca4c08e3837"
+            }
+          ]
+        },
+        "breathable gas, jet fuel, and water when mixed with hydrogen": {
+          "answer": "breathable gas, jet fuel, and water when mixed with hydrogen",
+          "references": [
+            {
+              "doc_id": "d68a71f5-d2a7-4a5a-8777-eca4c08e3837"
+            }
+          ]
+        }
+      },
+      "question_id": "3830f99038f5cb9de2a904db1984ba0a",
+      "aggregator_type": "OR",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.659131+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How much fuel is needed to launch a rocket with 4 astronauts from Mars to Earth?": {
+      "question": "How much fuel is needed to launch a rocket with 4 astronauts from Mars to Earth?",
+      "answers": {
+        "Approximately 7 tons": {
+          "answer": "Approximately 7 tons",
+          "references": [
+            {
+              "doc_id": "2f73c974-c00c-4f77-a49d-42125c4e0c3b"
+            },
+            {
+              "doc_id": "a9b637ed-3450-48ea-b997-51a387d2ede1"
+            }
+          ]
+        }
+      },
+      "question_id": "434d2db24a85c03f545b456af0ea5740",
+      "aggregator_type": "OR",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.659150+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How much oxygen is needed to launch a rocket with 4 astronauts from Mars to Earth?": {
+      "question": "How much oxygen is needed to launch a rocket with 4 astronauts from Mars to Earth?",
+      "answers": {
+        "Approximately 25 tons": {
+          "answer": "Approximately 25 tons",
+          "references": [
+            {
+              "doc_id": "621ab730-6c5c-4cf4-8a58-74e09580b18f"
+            },
+            {
+              "doc_id": "a9b637ed-3450-48ea-b997-51a387d2ede1"
+            }
+          ]
+        },
+        "27.5 tons": {
+          "answer": "27.5 tons",
+          "references": [
+            {
+              "doc_id": "2f73c974-c00c-4f77-a49d-42125c4e0c3b"
+            },
+            {
+              "doc_id": "8ef87d98-23bc-46d4-9893-f851e96b0203"
+            }
+          ]
+        }
+      },
+      "question_id": "1a79f63b85e5681e5481facd8d9ffe2d",
+      "aggregator_type": "OR",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.659180+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How is the MOXIE equipment protected?": {
+      "question": "How is the MOXIE equipment protected?",
+      "answers": {
+        "Coated with a thin layer of gold": {
+          "answer": "Coated with a thin layer of gold",
+          "references": [
+            {
+              "doc_id": "001cf2c0-0d61-4154-8281-a7b93e15df20"
+            },
+            {
+              "doc_id": "10b7288d-fb4d-44b2-aabb-63dcbdff067a"
+            },
+            {
+              "doc_id": "2f73c974-c00c-4f77-a49d-42125c4e0c3b"
+            },
+            {
+              "doc_id": "3be5e9f9-b7fb-490d-90aa-05e569a58383"
+            },
+            {
+              "doc_id": "453d68f4-f1f8-495d-aebc-7570d69e746c"
+            },
+            {
+              "doc_id": "46a67008-03d7-4d16-a985-1c95c075316f"
+            },
+            {
+              "doc_id": "a659e3f3-37b9-4e71-b5e1-5020bc4f72b3"
+            },
+            {
+              "doc_id": "a9b637ed-3450-48ea-b997-51a387d2ede1"
+            },
+            {
+              "doc_id": "adcd96d6-9349-463b-ac03-5c31b47fe259"
+            },
+            {
+              "doc_id": "f7c65eae-b94a-4f0e-81f4-0a7730e29848"
+            }
+          ]
+        },
+        "Must be made of heat-resistant material": {
+          "answer": "Must be made of heat-resistant material",
+          "references": [
+            {
+              "doc_id": "001cf2c0-0d61-4154-8281-a7b93e15df20"
+            }
+          ]
+        }
+      },
+      "question_id": "02cbd67c7e625490a5171a96670a00d9",
+      "aggregator_type": "OR",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.659298+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How does a thin layer of gold protect MOXIE?": {
+      "question": "How does a thin layer of gold protect MOXIE?",
+      "answers": {
+        "Prevents surface from heating": {
+          "answer": "Prevents surface from heating",
+          "references": [
+            {
+              "doc_id": "001cf2c0-0d61-4154-8281-a7b93e15df20"
+            },
+            {
+              "doc_id": "10b7288d-fb4d-44b2-aabb-63dcbdff067a"
+            },
+            {
+              "doc_id": "2f73c974-c00c-4f77-a49d-42125c4e0c3b"
+            },
+            {
+              "doc_id": "3be5e9f9-b7fb-490d-90aa-05e569a58383"
+            },
+            {
+              "doc_id": "a659e3f3-37b9-4e71-b5e1-5020bc4f72b3"
+            },
+            {
+              "doc_id": "a9b637ed-3450-48ea-b997-51a387d2ede1"
+            },
+            {
+              "doc_id": "adcd96d6-9349-463b-ac03-5c31b47fe259"
+            },
+            {
+              "doc_id": "f7c65eae-b94a-4f0e-81f4-0a7730e29848"
+            }
+          ]
+        },
+        "Protects nearby electronics": {
+          "answer": "Protects nearby electronics",
+          "references": [
+            {
+              "doc_id": "453d68f4-f1f8-495d-aebc-7570d69e746c"
+            },
+            {
+              "doc_id": "a659e3f3-37b9-4e71-b5e1-5020bc4f72b3"
+            },
+            {
+              "doc_id": "a9b637ed-3450-48ea-b997-51a387d2ede1"
+            },
+            {
+              "doc_id": "f7c65eae-b94a-4f0e-81f4-0a7730e29848"
+            }
+          ]
+        }
+      },
+      "question_id": "fb0e13e03190148eae2f1c00956c11d0",
+      "aggregator_type": "AND",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.659340+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How many more tests will MOXIE undergo?": {
+      "question": "How many more tests will MOXIE undergo?",
+      "answers": {
+        "Nine tests": {
+          "answer": "Nine tests",
+          "references": [
+            {
+              "doc_id": "10b7288d-fb4d-44b2-aabb-63dcbdff067a"
+            },
+            {
+              "doc_id": "2f73c974-c00c-4f77-a49d-42125c4e0c3b"
+            },
+            {
+              "doc_id": "621ab730-6c5c-4cf4-8a58-74e09580b18f"
+            },
+            {
+              "doc_id": "a9b637ed-3450-48ea-b997-51a387d2ede1"
+            }
+          ]
+        },
+        "More experiments": {
+          "answer": "More experiments",
+          "references": [
+            {
+              "doc_id": "453d68f4-f1f8-495d-aebc-7570d69e746c"
+            }
+          ]
+        },
+        "At least nine tests": {
+          "answer": "At least nine tests",
+          "references": [
+            {
+              "doc_id": "9b8bc268-c55b-4127-8bcb-7db17237c8e9"
+            }
+          ]
+        }
+      },
+      "question_id": "32d70cc24b61cadccc2f20a89e8410eb",
+      "aggregator_type": "OR",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.659378+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What pitfalls have been identified when creating oxygen from CO2 on Mars?": {
+      "question": "What pitfalls have been identified when creating oxygen from CO2 on Mars?",
+      "answers": {
+        "carbon monoxide is created": {
+          "answer": "carbon monoxide is created",
+          "references": [
+            {
+              "doc_id": "001cf2c0-0d61-4154-8281-a7b93e15df20"
+            },
+            {
+              "doc_id": "022ffb3d-ab48-4513-a012-b3565c25a5af"
+            },
+            {
+              "doc_id": "1068934a-f990-40ae-a068-79357277fbd0"
+            },
+            {
+              "doc_id": "10b7288d-fb4d-44b2-aabb-63dcbdff067a"
+            },
+            {
+              "doc_id": "2f73c974-c00c-4f77-a49d-42125c4e0c3b"
+            },
+            {
+              "doc_id": "3be5e9f9-b7fb-490d-90aa-05e569a58383"
+            },
+            {
+              "doc_id": "621ab730-6c5c-4cf4-8a58-74e09580b18f"
+            },
+            {
+              "doc_id": "64c42358-3098-4450-a263-1a71a54b50e9"
+            },
+            {
+              "doc_id": "8ef87d98-23bc-46d4-9893-f851e96b0203"
+            },
+            {
+              "doc_id": "94be6797-91aa-4e53-9c26-4731a3b49188"
+            },
+            {
+              "doc_id": "a9b637ed-3450-48ea-b997-51a387d2ede1"
+            },
+            {
+              "doc_id": "adcd96d6-9349-463b-ac03-5c31b47fe259"
+            },
+            {
+              "doc_id": "b208481b-bdda-49fc-ab73-1c0fb43fef30"
+            },
+            {
+              "doc_id": "f7c65eae-b94a-4f0e-81f4-0a7730e29848"
+            }
+          ]
+        },
+        "carbon monoxide, a byproduct, is created": {
+          "answer": "carbon monoxide, a byproduct, is created",
+          "references": [
+            {
+              "doc_id": "3be5e9f9-b7fb-490d-90aa-05e569a58383"
+            },
+            {
+              "doc_id": "f7c65eae-b94a-4f0e-81f4-0a7730e29848"
+            }
+          ]
+        }
+      },
+      "question_id": "e1ef9c9c493b2d3d5d043ee649b81c4d",
+      "aggregator_type": "OR",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.659420+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How can carbon monoxide from creating oxygen from CO2 be contained?": {
+      "question": "How can carbon monoxide from creating oxygen from CO2 be contained?",
+      "answers": {
+        "Ceramic elements can filter CO": {
+          "answer": "Ceramic elements can filter CO",
+          "references": [
+            {
+              "doc_id": "a9b637ed-3450-48ea-b997-51a387d2ede1"
+            }
+          ]
+        }
+      },
+      "question_id": "7536b0a6725180ec679daa7f967b7945",
+      "aggregator_type": "OR",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.659438+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What substance on Mars can be used to create oxygen?": {
+      "question": "What substance on Mars can be used to create oxygen?",
+      "answers": {
+        "CO2": {
+          "answer": "CO2",
+          "references": [
+            {
+              "doc_id": "001cf2c0-0d61-4154-8281-a7b93e15df20"
+            },
+            {
+              "doc_id": "022ffb3d-ab48-4513-a012-b3565c25a5af"
+            },
+            {
+              "doc_id": "044d3c5a-4cb5-4bbc-b6a1-7f14276d4f55"
+            },
+            {
+              "doc_id": "0e38128c-1a86-47c4-b506-d6a220ec1b63"
+            },
+            {
+              "doc_id": "1068934a-f990-40ae-a068-79357277fbd0"
+            },
+            {
+              "doc_id": "10b7288d-fb4d-44b2-aabb-63dcbdff067a"
+            },
+            {
+              "doc_id": "16529d0c-39b5-48d4-b26e-4a452a7ebc6b"
+            },
+            {
+              "doc_id": "1bf2de01-ff12-4698-9d71-36b336a35d6f"
+            },
+            {
+              "doc_id": "1cfeeb19-f2a1-4522-b092-db2f0c4b0200"
+            },
+            {
+              "doc_id": "25b75975-526f-4b71-9254-01dcf1a63c4d"
+            },
+            {
+              "doc_id": "2ce3b0ca-b958-4541-8255-fc70ad7186a8"
+            },
+            {
+              "doc_id": "2f73c974-c00c-4f77-a49d-42125c4e0c3b"
+            },
+            {
+              "doc_id": "328da120-5d6e-4f79-a7e3-5848c19071a1"
+            },
+            {
+              "doc_id": "3be5e9f9-b7fb-490d-90aa-05e569a58383"
+            },
+            {
+              "doc_id": "45d69c9d-b7bf-4725-b80a-476dcc3c50d7"
+            },
+            {
+              "doc_id": "46a67008-03d7-4d16-a985-1c95c075316f"
+            },
+            {
+              "doc_id": "46bb91f4-2b7c-4db9-8dd4-0f8e1771d789"
+            },
+            {
+              "doc_id": "4851d0b2-c250-4ecf-bf47-503d7f448460"
+            },
+            {
+              "doc_id": "51595268-7a63-4b5e-bdb6-656faf099a41"
+            },
+            {
+              "doc_id": "543cbc5b-6420-41f4-976b-dde2b524067e"
+            },
+            {
+              "doc_id": "64c42358-3098-4450-a263-1a71a54b50e9"
+            },
+            {
+              "doc_id": "66e83d6f-83d0-4d04-bd8b-7da53bd72e19"
+            },
+            {
+              "doc_id": "679b1bcf-458a-47b3-af5f-9908237e580e"
+            },
+            {
+              "doc_id": "6837ec02-6e15-43dc-8cea-b86a89963973"
+            },
+            {
+              "doc_id": "826c3486-ef7e-416b-8731-64bd19ae94d6"
+            },
+            {
+              "doc_id": "9280d813-e719-475a-92bd-f17af19a0643"
+            },
+            {
+              "doc_id": "949eedcb-03f2-4181-bd7a-845048dbc50d"
+            },
+            {
+              "doc_id": "94be6797-91aa-4e53-9c26-4731a3b49188"
+            },
+            {
+              "doc_id": "9b8bc268-c55b-4127-8bcb-7db17237c8e9"
+            },
+            {
+              "doc_id": "a659e3f3-37b9-4e71-b5e1-5020bc4f72b3"
+            },
+            {
+              "doc_id": "a9b637ed-3450-48ea-b997-51a387d2ede1"
+            },
+            {
+              "doc_id": "ae4b76f8-b9f1-47fe-8abe-9abbe613f799"
+            },
+            {
+              "doc_id": "b5a5e620-c536-4cbd-ada7-148410f8baec"
+            },
+            {
+              "doc_id": "beb36777-1964-4b4f-b6fa-185b09b7acf2"
+            },
+            {
+              "doc_id": "d655658c-4bff-4ed1-95c3-7b00517b7275"
+            },
+            {
+              "doc_id": "d68a71f5-d2a7-4a5a-8777-eca4c08e3837"
+            },
+            {
+              "doc_id": "eee9c88a-a139-4c72-af2a-10875aba735d"
+            },
+            {
+              "doc_id": "f23d0347-2a7a-42e3-92ae-041c694da975"
+            },
+            {
+              "doc_id": "f7c65eae-b94a-4f0e-81f4-0a7730e29848"
+            }
+          ]
+        },
+        "Carbon Dioxide": {
+          "answer": "Carbon Dioxide",
+          "references": [
+            {
+              "doc_id": "001cf2c0-0d61-4154-8281-a7b93e15df20"
+            },
+            {
+              "doc_id": "022ffb3d-ab48-4513-a012-b3565c25a5af"
+            },
+            {
+              "doc_id": "044d3c5a-4cb5-4bbc-b6a1-7f14276d4f55"
+            },
+            {
+              "doc_id": "0e38128c-1a86-47c4-b506-d6a220ec1b63"
+            },
+            {
+              "doc_id": "1068934a-f990-40ae-a068-79357277fbd0"
+            },
+            {
+              "doc_id": "10b7288d-fb4d-44b2-aabb-63dcbdff067a"
+            },
+            {
+              "doc_id": "16529d0c-39b5-48d4-b26e-4a452a7ebc6b"
+            },
+            {
+              "doc_id": "1bf2de01-ff12-4698-9d71-36b336a35d6f"
+            },
+            {
+              "doc_id": "1cfeeb19-f2a1-4522-b092-db2f0c4b0200"
+            },
+            {
+              "doc_id": "25b75975-526f-4b71-9254-01dcf1a63c4d"
+            },
+            {
+              "doc_id": "2ce3b0ca-b958-4541-8255-fc70ad7186a8"
+            },
+            {
+              "doc_id": "2f73c974-c00c-4f77-a49d-42125c4e0c3b"
+            },
+            {
+              "doc_id": "328da120-5d6e-4f79-a7e3-5848c19071a1"
+            },
+            {
+              "doc_id": "351b799e-b587-4a62-a40e-7471dcdc278c"
+            },
+            {
+              "doc_id": "3be5e9f9-b7fb-490d-90aa-05e569a58383"
+            },
+            {
+              "doc_id": "453d68f4-f1f8-495d-aebc-7570d69e746c"
+            },
+            {
+              "doc_id": "45d69c9d-b7bf-4725-b80a-476dcc3c50d7"
+            },
+            {
+              "doc_id": "46a67008-03d7-4d16-a985-1c95c075316f"
+            },
+            {
+              "doc_id": "46bb91f4-2b7c-4db9-8dd4-0f8e1771d789"
+            },
+            {
+              "doc_id": "4851d0b2-c250-4ecf-bf47-503d7f448460"
+            },
+            {
+              "doc_id": "51595268-7a63-4b5e-bdb6-656faf099a41"
+            },
+            {
+              "doc_id": "543cbc5b-6420-41f4-976b-dde2b524067e"
+            },
+            {
+              "doc_id": "621ab730-6c5c-4cf4-8a58-74e09580b18f"
+            },
+            {
+              "doc_id": "64c42358-3098-4450-a263-1a71a54b50e9"
+            },
+            {
+              "doc_id": "679b1bcf-458a-47b3-af5f-9908237e580e"
+            },
+            {
+              "doc_id": "736ae444-d7cc-4f58-8db8-ef94608744c8"
+            },
+            {
+              "doc_id": "826c3486-ef7e-416b-8731-64bd19ae94d6"
+            },
+            {
+              "doc_id": "8ef87d98-23bc-46d4-9893-f851e96b0203"
+            },
+            {
+              "doc_id": "9280d813-e719-475a-92bd-f17af19a0643"
+            },
+            {
+              "doc_id": "949eedcb-03f2-4181-bd7a-845048dbc50d"
+            },
+            {
+              "doc_id": "94be6797-91aa-4e53-9c26-4731a3b49188"
+            },
+            {
+              "doc_id": "98961465-3e52-44f8-aeaa-753ea0f10e55"
+            },
+            {
+              "doc_id": "9b8bc268-c55b-4127-8bcb-7db17237c8e9"
+            },
+            {
+              "doc_id": "9bf31c45-e5f2-4088-bb9b-c11b0ded58c2"
+            },
+            {
+              "doc_id": "a659e3f3-37b9-4e71-b5e1-5020bc4f72b3"
+            },
+            {
+              "doc_id": "a81fc619-ced4-4b2a-a75a-b15d72008aa4"
+            },
+            {
+              "doc_id": "a9b637ed-3450-48ea-b997-51a387d2ede1"
+            },
+            {
+              "doc_id": "adcd96d6-9349-463b-ac03-5c31b47fe259"
+            },
+            {
+              "doc_id": "ae4b76f8-b9f1-47fe-8abe-9abbe613f799"
+            },
+            {
+              "doc_id": "b208481b-bdda-49fc-ab73-1c0fb43fef30"
+            },
+            {
+              "doc_id": "b5a5e620-c536-4cbd-ada7-148410f8baec"
+            },
+            {
+              "doc_id": "bbf11dbd-8cae-4a7d-9896-0ed0b27f9204"
+            },
+            {
+              "doc_id": "beb36777-1964-4b4f-b6fa-185b09b7acf2"
+            },
+            {
+              "doc_id": "d655658c-4bff-4ed1-95c3-7b00517b7275"
+            },
+            {
+              "doc_id": "d68a71f5-d2a7-4a5a-8777-eca4c08e3837"
+            },
+            {
+              "doc_id": "df5c61e4-d1d4-4ce4-b724-5bad3b765e73"
+            },
+            {
+              "doc_id": "eee9c88a-a139-4c72-af2a-10875aba735d"
+            },
+            {
+              "doc_id": "f23d0347-2a7a-42e3-92ae-041c694da975"
+            },
+            {
+              "doc_id": "f7c65eae-b94a-4f0e-81f4-0a7730e29848"
+            },
+            {
+              "doc_id": "f9e3ff20-f221-446b-81f2-9cb2a5c054f6"
+            }
+          ]
+        }
+      },
+      "question_id": "353acb30ea64bf4f3f8bed55bc6c0e15",
+      "aggregator_type": "OR",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.659565+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What electrocatalyst creates oxygen from elements found on Mars?": {
+      "question": "What electrocatalyst creates oxygen from elements found on Mars?",
+      "answers": {
+        "lead-ruthenium oxide": {
+          "answer": "lead-ruthenium oxide",
+          "references": [
+            {
+              "doc_id": "3c229607-3017-439f-98cf-f2f5d57f19c2"
+            },
+            {
+              "doc_id": "51595268-7a63-4b5e-bdb6-656faf099a41"
+            },
+            {
+              "doc_id": "94be6797-91aa-4e53-9c26-4731a3b49188"
+            }
+          ]
+        }
+      },
+      "question_id": "93d4f353c281e0541f0a9e095c54bebd",
+      "aggregator_type": "OR",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.659588+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How much more energy efficient is using lead-ruthenium oxide than MOXIE?": {
+      "question": "How much more energy efficient is using lead-ruthenium oxide than MOXIE?",
+      "answers": {
+        "25 times": {
+          "answer": "25 times",
+          "references": [
+            {
+              "doc_id": "3c229607-3017-439f-98cf-f2f5d57f19c2"
+            },
+            {
+              "doc_id": "51595268-7a63-4b5e-bdb6-656faf099a41"
+            },
+            {
+              "doc_id": "94be6797-91aa-4e53-9c26-4731a3b49188"
+            }
+          ]
+        }
+      },
+      "question_id": "7da4a85d28e9e51dc623e578f6786694",
+      "aggregator_type": "OR",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.659608+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What are the advantages of using lead-ruthenium oxide?": {
+      "question": "What are the advantages of using lead-ruthenium oxide?",
+      "answers": {
+        "Equipment is lighter": {
+          "answer": "Equipment is lighter",
+          "references": [
+            {
+              "doc_id": "3c229607-3017-439f-98cf-f2f5d57f19c2"
+            },
+            {
+              "doc_id": "94be6797-91aa-4e53-9c26-4731a3b49188"
+            }
+          ]
+        }
+      },
+      "question_id": "80a33a944d411f75323256a6e91c103f",
+      "aggregator_type": "OR",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.659627+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What substance on Mars could be used to create oxygen?": {
+      "question": "What substance on Mars could be used to create oxygen?",
+      "answers": {
+        "brine": {
+          "answer": "brine",
+          "references": [
+            {
+              "doc_id": "3c229607-3017-439f-98cf-f2f5d57f19c2"
+            },
+            {
+              "doc_id": "51595268-7a63-4b5e-bdb6-656faf099a41"
+            },
+            {
+              "doc_id": "8db397fb-1c34-414c-8544-88806f9ee81d"
+            },
+            {
+              "doc_id": "94be6797-91aa-4e53-9c26-4731a3b49188"
+            },
+            {
+              "doc_id": "99981532-c91e-4227-9319-b8ddd5047f2d"
+            }
+          ]
+        },
+        "Salt lakes": {
+          "answer": "Salt lakes",
+          "references": [
+            {
+              "doc_id": "25b75975-526f-4b71-9254-01dcf1a63c4d"
+            },
+            {
+              "doc_id": "2ce3b0ca-b958-4541-8255-fc70ad7186a8"
+            },
+            {
+              "doc_id": "3c229607-3017-439f-98cf-f2f5d57f19c2"
+            },
+            {
+              "doc_id": "51595268-7a63-4b5e-bdb6-656faf099a41"
+            },
+            {
+              "doc_id": "8db397fb-1c34-414c-8544-88806f9ee81d"
+            },
+            {
+              "doc_id": "94be6797-91aa-4e53-9c26-4731a3b49188"
+            }
+          ]
+        },
+        "ice": {
+          "answer": "ice",
+          "references": []
+        },
+        "Salty water in lakes beneath Mars' surface": {
+          "answer": "Salty water in lakes beneath Mars' surface",
+          "references": [
+            {
+              "doc_id": "25b75975-526f-4b71-9254-01dcf1a63c4d"
+            },
+            {
+              "doc_id": "2ce3b0ca-b958-4541-8255-fc70ad7186a8"
+            },
+            {
+              "doc_id": "8db397fb-1c34-414c-8544-88806f9ee81d"
+            }
+          ]
+        },
+        "carbon dioxide": {
+          "answer": "carbon dioxide",
+          "references": [
+            {
+              "doc_id": "2ce3b0ca-b958-4541-8255-fc70ad7186a8"
+            },
+            {
+              "doc_id": "3be5e9f9-b7fb-490d-90aa-05e569a58383"
+            },
+            {
+              "doc_id": "453d68f4-f1f8-495d-aebc-7570d69e746c"
+            },
+            {
+              "doc_id": "543cbc5b-6420-41f4-976b-dde2b524067e"
+            },
+            {
+              "doc_id": "679b1bcf-458a-47b3-af5f-9908237e580e"
+            },
+            {
+              "doc_id": "9b8bc268-c55b-4127-8bcb-7db17237c8e9"
+            },
+            {
+              "doc_id": "a659e3f3-37b9-4e71-b5e1-5020bc4f72b3"
+            },
+            {
+              "doc_id": "d68a71f5-d2a7-4a5a-8777-eca4c08e3837"
+            },
+            {
+              "doc_id": "f7c65eae-b94a-4f0e-81f4-0a7730e29848"
+            }
+          ]
+        }
+      },
+      "question_id": "45939b4b229c8350b7c504459b39b949",
+      "aggregator_type": "OR",
+      "query_id": "334",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.659697+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

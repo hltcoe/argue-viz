@@ -1,0 +1,568 @@
+{
+  "query_id": "361",
+  "title_query": "New findings Murchison meteorite",
+  "full_query": "I am writing an article on recent discoveries about the Murchison meteorite. I am particularly interested in the composition of the meteorite, and how these new findings were achieved.",
+  "full_background": "I write short articles in \u201cAstronomy for All,\u201d a magazine for the lay reader with an interest in astronomy and related subjects. Our readers take great interest in stories on the evolution of the solar system and, of course, the life within it. ",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "Where did the Murchison meteorite make landfall?": {
+      "question": "Where did the Murchison meteorite make landfall?",
+      "answers": {
+        "Australia": {
+          "answer": "Australia",
+          "references": [
+            {
+              "doc_id": "19ea586a-b142-44a1-864e-9afd800543a8"
+            },
+            {
+              "doc_id": "2260848f-35ee-4e1a-af83-552be3589d77"
+            },
+            {
+              "doc_id": "24fc377f-a4f3-4bbc-8c92-4714466397c0"
+            },
+            {
+              "doc_id": "3537d444-0bde-4f4f-beef-1ca7c730b748"
+            },
+            {
+              "doc_id": "520b57ff-20be-4c0b-9646-11dfd847e05a"
+            },
+            {
+              "doc_id": "5cc77ad6-8969-49e0-88fe-a6676ea76ba8"
+            },
+            {
+              "doc_id": "60b2d51d-42d5-4395-9187-5304d7167a17"
+            },
+            {
+              "doc_id": "77551b50-1271-4753-b2ee-198f460f82a2"
+            },
+            {
+              "doc_id": "a76ab512-ff67-4bb8-b808-fd4442949552"
+            },
+            {
+              "doc_id": "f6162a96-ba7a-405b-99d8-8b5d824c19fc"
+            },
+            {
+              "doc_id": "f6586f74-a7d3-4441-ab53-dac9527d0efd"
+            },
+            {
+              "doc_id": "f98cef20-22d6-4daf-aae8-2ebb38f4a5c9"
+            }
+          ]
+        },
+        "Murchison, Australia": {
+          "answer": "Murchison, Australia",
+          "references": [
+            {
+              "doc_id": "5f494aa6-b7f6-49fa-b814-28e38c181e52"
+            },
+            {
+              "doc_id": "60b2d51d-42d5-4395-9187-5304d7167a17"
+            },
+            {
+              "doc_id": "75f0b9e0-8d79-49c0-9a2d-ea6393353541"
+            },
+            {
+              "doc_id": "818d2a73-7548-4aa6-8cfd-21cab5b8382d"
+            },
+            {
+              "doc_id": "96db9634-a38f-4f97-a192-e552407cf238"
+            },
+            {
+              "doc_id": "a76ab512-ff67-4bb8-b808-fd4442949552"
+            },
+            {
+              "doc_id": "cc1d103a-3d0a-4256-bbfa-0814159c641f"
+            },
+            {
+              "doc_id": "f6162a96-ba7a-405b-99d8-8b5d824c19fc"
+            },
+            {
+              "doc_id": "f6586f74-a7d3-4441-ab53-dac9527d0efd"
+            },
+            {
+              "doc_id": "f98cef20-22d6-4daf-aae8-2ebb38f4a5c9"
+            }
+          ]
+        },
+        "Muchison, Victoria state, Australia": {
+          "answer": "Muchison, Victoria state, Australia",
+          "references": [
+            {
+              "doc_id": "e386f1f4-7219-4455-bbcc-e2be5cd2e1f6"
+            }
+          ]
+        }
+      },
+      "question_id": "5bfebff0fa0de1dea80a530f767e2a79",
+      "aggregator_type": "OR",
+      "query_id": "361",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.687717+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How heavy was the Murchison meteorite?": {
+      "question": "How heavy was the Murchison meteorite?",
+      "answers": {
+        "100 kilograms": {
+          "answer": "100 kilograms",
+          "references": [
+            {
+              "doc_id": "f98cef20-22d6-4daf-aae8-2ebb38f4a5c9"
+            }
+          ]
+        }
+      },
+      "question_id": "b4d36f7027be59bf27b72bcd88d1af81",
+      "aggregator_type": "OR",
+      "query_id": "361",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.687741+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "The presolar grains in the Murchison meteorite were mostly composed of what?": {
+      "question": "The presolar grains in the Murchison meteorite were mostly composed of what?",
+      "answers": {
+        "Silicon Carbide": {
+          "answer": "Silicon Carbide",
+          "references": []
+        }
+      },
+      "question_id": "0a5644094ad099f75d526eaa346c4633",
+      "aggregator_type": "OR",
+      "query_id": "361",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.687760+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How old were these grains?": {
+      "question": "How old were these grains?",
+      "answers": {
+        "Between 5 and 7 billion years old": {
+          "answer": "Between 5 and 7 billion years old",
+          "references": [
+            {
+              "doc_id": "2260848f-35ee-4e1a-af83-552be3589d77"
+            },
+            {
+              "doc_id": "5cc77ad6-8969-49e0-88fe-a6676ea76ba8"
+            },
+            {
+              "doc_id": "5f494aa6-b7f6-49fa-b814-28e38c181e52"
+            },
+            {
+              "doc_id": "60b2d51d-42d5-4395-9187-5304d7167a17"
+            },
+            {
+              "doc_id": "75f0b9e0-8d79-49c0-9a2d-ea6393353541"
+            },
+            {
+              "doc_id": "f6586f74-a7d3-4441-ab53-dac9527d0efd"
+            },
+            {
+              "doc_id": "f98cef20-22d6-4daf-aae8-2ebb38f4a5c9"
+            }
+          ]
+        },
+        "Between 4.6 and 7.5 billion years old": {
+          "answer": "Between 4.6 and 7.5 billion years old",
+          "references": [
+            {
+              "doc_id": "24fc377f-a4f3-4bbc-8c92-4714466397c0"
+            },
+            {
+              "doc_id": "818d2a73-7548-4aa6-8cfd-21cab5b8382d"
+            },
+            {
+              "doc_id": "cc1d103a-3d0a-4256-bbfa-0814159c641f"
+            }
+          ]
+        },
+        "7  billion years old": {
+          "answer": "7  billion years old",
+          "references": [
+            {
+              "doc_id": "3537d444-0bde-4f4f-beef-1ca7c730b748"
+            },
+            {
+              "doc_id": "818d2a73-7548-4aa6-8cfd-21cab5b8382d"
+            },
+            {
+              "doc_id": "e386f1f4-7219-4455-bbcc-e2be5cd2e1f6"
+            }
+          ]
+        },
+        "7.5 billion years old": {
+          "answer": "7.5 billion years old",
+          "references": [
+            {
+              "doc_id": "520b57ff-20be-4c0b-9646-11dfd847e05a"
+            },
+            {
+              "doc_id": "cc1d103a-3d0a-4256-bbfa-0814159c641f"
+            }
+          ]
+        },
+        "7.4 billion years old": {
+          "answer": "7.4 billion years old",
+          "references": [
+            {
+              "doc_id": "77551b50-1271-4753-b2ee-198f460f82a2"
+            }
+          ]
+        },
+        "Between 4.6 and 7 billion years old": {
+          "answer": "Between 4.6 and 7 billion years old",
+          "references": [
+            {
+              "doc_id": "e386f1f4-7219-4455-bbcc-e2be5cd2e1f6"
+            }
+          ]
+        }
+      },
+      "question_id": "fe20bcbae5ca715152b810c3dc01e294",
+      "aggregator_type": "OR",
+      "query_id": "361",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.687829+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How does the age of the grains compare to that of our Solar System?": {
+      "question": "How does the age of the grains compare to that of our Solar System?",
+      "answers": {
+        "They are older than the Sun": {
+          "answer": "They are older than the Sun",
+          "references": [
+            {
+              "doc_id": "2260848f-35ee-4e1a-af83-552be3589d77"
+            },
+            {
+              "doc_id": "5cc77ad6-8969-49e0-88fe-a6676ea76ba8"
+            },
+            {
+              "doc_id": "60b2d51d-42d5-4395-9187-5304d7167a17"
+            },
+            {
+              "doc_id": "e386f1f4-7219-4455-bbcc-e2be5cd2e1f6"
+            },
+            {
+              "doc_id": "f6586f74-a7d3-4441-ab53-dac9527d0efd"
+            },
+            {
+              "doc_id": "f98cef20-22d6-4daf-aae8-2ebb38f4a5c9"
+            }
+          ]
+        },
+        "They are older than the Earth": {
+          "answer": "They are older than the Earth",
+          "references": [
+            {
+              "doc_id": "60b2d51d-42d5-4395-9187-5304d7167a17"
+            },
+            {
+              "doc_id": "e386f1f4-7219-4455-bbcc-e2be5cd2e1f6"
+            },
+            {
+              "doc_id": "f98cef20-22d6-4daf-aae8-2ebb38f4a5c9"
+            }
+          ]
+        },
+        "They are olderyhan the Solar System": {
+          "answer": "They are olderyhan the Solar System",
+          "references": [
+            {
+              "doc_id": "24fc377f-a4f3-4bbc-8c92-4714466397c0"
+            },
+            {
+              "doc_id": "3537d444-0bde-4f4f-beef-1ca7c730b748"
+            },
+            {
+              "doc_id": "77551b50-1271-4753-b2ee-198f460f82a2"
+            },
+            {
+              "doc_id": "818d2a73-7548-4aa6-8cfd-21cab5b8382d"
+            },
+            {
+              "doc_id": "e386f1f4-7219-4455-bbcc-e2be5cd2e1f6"
+            }
+          ]
+        }
+      },
+      "question_id": "2c4fcb4a173adc02f6666d64a077f143",
+      "aggregator_type": "AND",
+      "query_id": "361",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.687875+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What other materials do we have that are older than the Solar System?": {
+      "question": "What other materials do we have that are older than the Solar System?",
+      "answers": {
+        "Nothing older than presolar grains": {
+          "answer": "Nothing older than presolar grains",
+          "references": [
+            {
+              "doc_id": "60b2d51d-42d5-4395-9187-5304d7167a17"
+            },
+            {
+              "doc_id": "f98cef20-22d6-4daf-aae8-2ebb38f4a5c9"
+            }
+          ]
+        },
+        "Presolar  grains": {
+          "answer": "Presolar  grains",
+          "references": [
+            {
+              "doc_id": "3537d444-0bde-4f4f-beef-1ca7c730b748"
+            },
+            {
+              "doc_id": "5f494aa6-b7f6-49fa-b814-28e38c181e52"
+            },
+            {
+              "doc_id": "818d2a73-7548-4aa6-8cfd-21cab5b8382d"
+            },
+            {
+              "doc_id": "cc1d103a-3d0a-4256-bbfa-0814159c641f"
+            },
+            {
+              "doc_id": "e386f1f4-7219-4455-bbcc-e2be5cd2e1f6"
+            }
+          ]
+        },
+        "Dust particles": {
+          "answer": "Dust particles",
+          "references": [
+            {
+              "doc_id": "77551b50-1271-4753-b2ee-198f460f82a2"
+            }
+          ]
+        }
+      },
+      "question_id": "a91edb1bbf1b1a8b9229b965879da63e",
+      "aggregator_type": "OR",
+      "query_id": "361",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.687914+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What if any organic compounds were found in the Murchison meteorite?": {
+      "question": "What if any organic compounds were found in the Murchison meteorite?",
+      "answers": {
+        "Amino acids": {
+          "answer": "Amino acids",
+          "references": [
+            {
+              "doc_id": "19ea586a-b142-44a1-864e-9afd800543a8"
+            },
+            {
+              "doc_id": "96db9634-a38f-4f97-a192-e552407cf238"
+            },
+            {
+              "doc_id": "f6162a96-ba7a-405b-99d8-8b5d824c19fc"
+            }
+          ]
+        },
+        "Ribose": {
+          "answer": "Ribose",
+          "references": [
+            {
+              "doc_id": "46c8ae2a-624a-4b64-9414-48bb7fcfd0ef"
+            },
+            {
+              "doc_id": "f6162a96-ba7a-405b-99d8-8b5d824c19fc"
+            }
+          ]
+        },
+        "Other sugars": {
+          "answer": "Other sugars",
+          "references": [
+            {
+              "doc_id": "46c8ae2a-624a-4b64-9414-48bb7fcfd0ef"
+            },
+            {
+              "doc_id": "f6162a96-ba7a-405b-99d8-8b5d824c19fc"
+            }
+          ]
+        },
+        "Nucleobase": {
+          "answer": "Nucleobase",
+          "references": []
+        },
+        "Sugar compounds": {
+          "answer": "Sugar compounds",
+          "references": []
+        },
+        "Purines and pyrimidines": {
+          "answer": "Purines and pyrimidines",
+          "references": [
+            {
+              "doc_id": "96db9634-a38f-4f97-a192-e552407cf238"
+            }
+          ]
+        }
+      },
+      "question_id": "0b6671e7692f1942cfa276f290c4794f",
+      "aggregator_type": "AND",
+      "query_id": "361",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.687972+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What does the discovery of sugars in the meteorite indicate about the origin of life on Earth?": {
+      "question": "What does the discovery of sugars in the meteorite indicate about the origin of life on Earth?",
+      "answers": {
+        "Asteroids could have supplied organic molecules": {
+          "answer": "Asteroids could have supplied organic molecules",
+          "references": [
+            {
+              "doc_id": "46c8ae2a-624a-4b64-9414-48bb7fcfd0ef"
+            }
+          ]
+        }
+      },
+      "question_id": "c6c4debd8ab5bcec6d7c4aac89e7daec",
+      "aggregator_type": "OR",
+      "query_id": "361",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.687990+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What advances could the discovery of water molecules in the Murchison meteorite lead to?": {
+      "question": "What advances could the discovery of water molecules in the Murchison meteorite lead to?",
+      "answers": {
+        "A process for extracting water on the moon or elsewhere in space": {
+          "answer": "A process for extracting water on the moon or elsewhere in space",
+          "references": [
+            {
+              "doc_id": "a76ab512-ff67-4bb8-b808-fd4442949552"
+            }
+          ]
+        }
+      },
+      "question_id": "17081b49dfa5b22fd3dad1964dbfe670",
+      "aggregator_type": "OR",
+      "query_id": "361",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.688008+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What did the scientists use pieces of the meteorite for?": {
+      "question": "What did the scientists use pieces of the meteorite for?",
+      "answers": {
+        "To work out algorithms for identifying extraterrestrial life": {
+          "answer": "To work out algorithms for identifying extraterrestrial life",
+          "references": [
+            {
+              "doc_id": "46c8ae2a-624a-4b64-9414-48bb7fcfd0ef"
+            }
+          ]
+        },
+        "To get to know what the universe looked like before Earth was formed": {
+          "answer": "To get to know what the universe looked like before Earth was formed",
+          "references": [
+            {
+              "doc_id": "24fc377f-a4f3-4bbc-8c92-4714466397c0"
+            }
+          ]
+        },
+        "To know the origin of stars, carbon atoms in the human body, and even the origin of oxygen in the air": {
+          "answer": "To know the origin of stars, carbon atoms in the human body, and even the origin of oxygen in the air",
+          "references": [
+            {
+              "doc_id": "5f494aa6-b7f6-49fa-b814-28e38c181e52"
+            }
+          ]
+        },
+        "To get a glimpse into how galaxies form": {
+          "answer": "To get a glimpse into how galaxies form",
+          "references": [
+            {
+              "doc_id": "77551b50-1271-4753-b2ee-198f460f82a2"
+            }
+          ]
+        },
+        " To determine the age of this stardust": {
+          "answer": " To determine the age of this stardust",
+          "references": [
+            {
+              "doc_id": "818d2a73-7548-4aa6-8cfd-21cab5b8382d"
+            }
+          ]
+        },
+        "To study whether new stars form at a steady rate": {
+          "answer": "To study whether new stars form at a steady rate",
+          "references": [
+            {
+              "doc_id": "cc1d103a-3d0a-4256-bbfa-0814159c641f"
+            },
+            {
+              "doc_id": "e386f1f4-7219-4455-bbcc-e2be5cd2e1f6"
+            }
+          ]
+        },
+        "To discover if the numbers of new stars vary at different times": {
+          "answer": "To discover if the numbers of new stars vary at different times",
+          "references": [
+            {
+              "doc_id": "cc1d103a-3d0a-4256-bbfa-0814159c641f"
+            }
+          ]
+        },
+        "To get clues about the rate of star formation in the Milky Way": {
+          "answer": "To get clues about the rate of star formation in the Milky Way",
+          "references": [
+            {
+              "doc_id": "e386f1f4-7219-4455-bbcc-e2be5cd2e1f6"
+            }
+          ]
+        }
+      },
+      "question_id": "66a999527839a3f86bc511750f45ded1",
+      "aggregator_type": "OR",
+      "query_id": "361",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.688076+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

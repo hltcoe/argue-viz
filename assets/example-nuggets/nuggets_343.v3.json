@@ -1,0 +1,1016 @@
+{
+  "query_id": "343",
+  "title_query": "\"Portrait of a Lady\" found",
+  "full_query": "I would like to write an article about the Gustav Klimt's painting, \"Portrait of a Lady.\" I am primarily interested in details about how the painting was lost and where and how it was later recovered. I would also be interested in its valuation.",
+  "full_background": "I am a private detective based in Italy who is interested in Gustav Klimt's painting \"Portrait of a Lady.\"",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "When was the painting \u201cPortrait of a Lady\" completed?": {
+      "question": "When was the painting \u201cPortrait of a Lady\" completed?",
+      "answers": {
+        "Between 1916 and 1917": {
+          "answer": "Between 1916 and 1917",
+          "references": [
+            {
+              "doc_id": "01c2bfa8-86b2-4656-897f-5fdf8e482df9"
+            },
+            {
+              "doc_id": "13cd0587-2a40-49a2-bef2-63b0032e158e"
+            },
+            {
+              "doc_id": "525c0db3-5ed5-4064-8195-6c040e496982"
+            },
+            {
+              "doc_id": "5457cac4-46eb-40da-a0e2-dcb4277c3d2f"
+            },
+            {
+              "doc_id": "80a744e6-c8cf-4f25-ab32-7ee358f43b44"
+            },
+            {
+              "doc_id": "a0ee3a15-14ee-4b4a-a5a7-5f54cdf9042e"
+            },
+            {
+              "doc_id": "aaeb6a40-8532-4dba-890f-82f1242055a0"
+            },
+            {
+              "doc_id": "af3f4e32-a29a-42ed-a78a-06ebc3a15a85"
+            },
+            {
+              "doc_id": "b817011a-c55f-466e-860a-a61a5c94e009"
+            },
+            {
+              "doc_id": "cd9c9ebf-81fa-4eb0-8f53-1cab95c7b7ec"
+            },
+            {
+              "doc_id": "edf8ce6a-25f7-4655-80d6-b240ccb54651"
+            },
+            {
+              "doc_id": "f9f81b47-b5c0-48db-b297-08505f401241"
+            }
+          ]
+        },
+        "At Klimt's last years of life": {
+          "answer": "At Klimt's last years of life",
+          "references": [
+            {
+              "doc_id": "25518952-4275-4616-8962-ef90fffef703"
+            }
+          ]
+        },
+        "Between 1916 and 1918": {
+          "answer": "Between 1916 and 1918",
+          "references": [
+            {
+              "doc_id": "98bb56ac-28ae-4fe5-a189-9b29a037e55a"
+            }
+          ]
+        },
+        "In 1917": {
+          "answer": "In 1917",
+          "references": [
+            {
+              "doc_id": "0d723177-d77c-4190-981e-83f9d9d53cac"
+            },
+            {
+              "doc_id": "528c4f4b-bfdb-4ec6-8bad-125abecdd0cd"
+            },
+            {
+              "doc_id": "d79b7a8b-1d9c-4101-bf46-037a2c59f6d6"
+            }
+          ]
+        }
+      },
+      "question_id": "7baebf9efad9d04bf09b8591aaf00f8a",
+      "aggregator_type": "OR",
+      "query_id": "343",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.668619+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Who bought the painting \u201cPortrait of a Lady\"?": {
+      "question": "Who bought the painting \u201cPortrait of a Lady\"?",
+      "answers": {
+        "Giuseppe Ricci Oddi": {
+          "answer": "Giuseppe Ricci Oddi",
+          "references": [
+            {
+              "doc_id": "01c2bfa8-86b2-4656-897f-5fdf8e482df9"
+            },
+            {
+              "doc_id": "13cd0587-2a40-49a2-bef2-63b0032e158e"
+            },
+            {
+              "doc_id": "525c0db3-5ed5-4064-8195-6c040e496982"
+            },
+            {
+              "doc_id": "5457cac4-46eb-40da-a0e2-dcb4277c3d2f"
+            },
+            {
+              "doc_id": "80a744e6-c8cf-4f25-ab32-7ee358f43b44"
+            },
+            {
+              "doc_id": "98bb56ac-28ae-4fe5-a189-9b29a037e55a"
+            },
+            {
+              "doc_id": "af3f4e32-a29a-42ed-a78a-06ebc3a15a85"
+            },
+            {
+              "doc_id": "b817011a-c55f-466e-860a-a61a5c94e009"
+            },
+            {
+              "doc_id": "d79b7a8b-1d9c-4101-bf46-037a2c59f6d6"
+            }
+          ]
+        },
+        "Ricci Oddi Modern Art Gallery": {
+          "answer": "Ricci Oddi Modern Art Gallery",
+          "references": [
+            {
+              "doc_id": "0d723177-d77c-4190-981e-83f9d9d53cac"
+            }
+          ]
+        }
+      },
+      "question_id": "412d1c100e3786944b792f542f5c17c0",
+      "aggregator_type": "OR",
+      "query_id": "343",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.668660+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "When did Giuseppe Ricci Oddi buy the painting \u201cPortrait of a Lady\"?": {
+      "question": "When did Giuseppe Ricci Oddi buy the painting \u201cPortrait of a Lady\"?",
+      "answers": {
+        "1925": {
+          "answer": "1925",
+          "references": [
+            {
+              "doc_id": "0d723177-d77c-4190-981e-83f9d9d53cac"
+            },
+            {
+              "doc_id": "13cd0587-2a40-49a2-bef2-63b0032e158e"
+            },
+            {
+              "doc_id": "525c0db3-5ed5-4064-8195-6c040e496982"
+            },
+            {
+              "doc_id": "5457cac4-46eb-40da-a0e2-dcb4277c3d2f"
+            },
+            {
+              "doc_id": "80a744e6-c8cf-4f25-ab32-7ee358f43b44"
+            },
+            {
+              "doc_id": "af3f4e32-a29a-42ed-a78a-06ebc3a15a85"
+            },
+            {
+              "doc_id": "b817011a-c55f-466e-860a-a61a5c94e009"
+            },
+            {
+              "doc_id": "d79b7a8b-1d9c-4101-bf46-037a2c59f6d6"
+            }
+          ]
+        }
+      },
+      "question_id": "fdfe983db74fd8d6dafd8a9545c65a53",
+      "aggregator_type": "OR",
+      "query_id": "343",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.668689+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Where was the painting \u201cPortrait of a Lady\" kept after Giuseppe Ricci Oddi bought it?": {
+      "question": "Where was the painting \u201cPortrait of a Lady\" kept after Giuseppe Ricci Oddi bought it?",
+      "answers": {
+        "The Oddi Modern Art Gallery": {
+          "answer": "The Oddi Modern Art Gallery",
+          "references": [
+            {
+              "doc_id": "01c2bfa8-86b2-4656-897f-5fdf8e482df9"
+            },
+            {
+              "doc_id": "13cd0587-2a40-49a2-bef2-63b0032e158e"
+            },
+            {
+              "doc_id": "17689993-85ec-49bd-9ecd-51a37a6c9c72"
+            },
+            {
+              "doc_id": "19b55cc1-7a3c-434d-82bb-4284344451cf"
+            },
+            {
+              "doc_id": "1a8c2c95-35a6-4251-a73f-303912bf219b"
+            },
+            {
+              "doc_id": "25518952-4275-4616-8962-ef90fffef703"
+            },
+            {
+              "doc_id": "525c0db3-5ed5-4064-8195-6c040e496982"
+            },
+            {
+              "doc_id": "5457cac4-46eb-40da-a0e2-dcb4277c3d2f"
+            },
+            {
+              "doc_id": "6d07cd2f-b231-4b64-9f2c-42c85cb20265"
+            },
+            {
+              "doc_id": "80a744e6-c8cf-4f25-ab32-7ee358f43b44"
+            },
+            {
+              "doc_id": "83f8101f-f899-4128-92ad-d9d7fe6d59da"
+            },
+            {
+              "doc_id": "98bb56ac-28ae-4fe5-a189-9b29a037e55a"
+            },
+            {
+              "doc_id": "991087e8-8d90-4423-8357-ca288e6e0dce"
+            },
+            {
+              "doc_id": "af3f4e32-a29a-42ed-a78a-06ebc3a15a85"
+            },
+            {
+              "doc_id": "ba6e4321-3105-4f2b-bbfd-5a5d7be71cf6"
+            },
+            {
+              "doc_id": "edf8ce6a-25f7-4655-80d6-b240ccb54651"
+            }
+          ]
+        },
+        "Piacenza": {
+          "answer": "Piacenza",
+          "references": [
+            {
+              "doc_id": "25518952-4275-4616-8962-ef90fffef703"
+            }
+          ]
+        },
+        "Ricci Oddi Art Gallery": {
+          "answer": "Ricci Oddi Art Gallery",
+          "references": [
+            {
+              "doc_id": "25518952-4275-4616-8962-ef90fffef703"
+            }
+          ]
+        },
+        "Piacenza Modern Art Gallery": {
+          "answer": "Piacenza Modern Art Gallery",
+          "references": [
+            {
+              "doc_id": "bce22592-7d20-4cc5-9509-909ffe041ebb"
+            }
+          ]
+        }
+      },
+      "question_id": "e8607daa9e41330c0e65e85c7dba55a2",
+      "aggregator_type": "OR",
+      "query_id": "343",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.668748+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "When was the painting \u201cPortrait of a Lady\" stolen?": {
+      "question": "When was the painting \u201cPortrait of a Lady\" stolen?",
+      "answers": {
+        "February 22, 1997": {
+          "answer": "February 22, 1997",
+          "references": [
+            {
+              "doc_id": "01c2bfa8-86b2-4656-897f-5fdf8e482df9"
+            },
+            {
+              "doc_id": "5457cac4-46eb-40da-a0e2-dcb4277c3d2f"
+            },
+            {
+              "doc_id": "80a744e6-c8cf-4f25-ab32-7ee358f43b44"
+            },
+            {
+              "doc_id": "a0ee3a15-14ee-4b4a-a5a7-5f54cdf9042e"
+            },
+            {
+              "doc_id": "af3f4e32-a29a-42ed-a78a-06ebc3a15a85"
+            },
+            {
+              "doc_id": "b817011a-c55f-466e-860a-a61a5c94e009"
+            },
+            {
+              "doc_id": "cd9c9ebf-81fa-4eb0-8f53-1cab95c7b7ec"
+            },
+            {
+              "doc_id": "d79b7a8b-1d9c-4101-bf46-037a2c59f6d6"
+            },
+            {
+              "doc_id": "edf8ce6a-25f7-4655-80d6-b240ccb54651"
+            },
+            {
+              "doc_id": "f9f81b47-b5c0-48db-b297-08505f401241"
+            }
+          ]
+        },
+        "1997": {
+          "answer": "1997",
+          "references": [
+            {
+              "doc_id": "1a8c2c95-35a6-4251-a73f-303912bf219b"
+            },
+            {
+              "doc_id": "4d56a34e-7ad7-47e0-aa69-d584f5b7a3b6"
+            },
+            {
+              "doc_id": "525c0db3-5ed5-4064-8195-6c040e496982"
+            },
+            {
+              "doc_id": "601a2d8b-95dc-4bb1-9976-ae121851a94a"
+            },
+            {
+              "doc_id": "6d07cd2f-b231-4b64-9f2c-42c85cb20265"
+            },
+            {
+              "doc_id": "83448f85-c36d-42d4-ba0b-5ee5f778d43d"
+            },
+            {
+              "doc_id": "98bb56ac-28ae-4fe5-a189-9b29a037e55a"
+            },
+            {
+              "doc_id": "991087e8-8d90-4423-8357-ca288e6e0dce"
+            },
+            {
+              "doc_id": "a3880c7d-2bee-453a-a155-d3cffbdbce36"
+            },
+            {
+              "doc_id": "b817011a-c55f-466e-860a-a61a5c94e009"
+            },
+            {
+              "doc_id": "ba6e4321-3105-4f2b-bbfd-5a5d7be71cf6"
+            },
+            {
+              "doc_id": "bce22592-7d20-4cc5-9509-909ffe041ebb"
+            },
+            {
+              "doc_id": "d1c8a9f0-dd6d-436b-b694-2fca6044b157"
+            }
+          ]
+        },
+        "February 1997": {
+          "answer": "February 1997",
+          "references": [
+            {
+              "doc_id": "25518952-4275-4616-8962-ef90fffef703"
+            },
+            {
+              "doc_id": "aaeb6a40-8532-4dba-890f-82f1242055a0"
+            },
+            {
+              "doc_id": "d1c8a9f0-dd6d-436b-b694-2fca6044b157"
+            }
+          ]
+        },
+        "23 years ago": {
+          "answer": "23 years ago",
+          "references": [
+            {
+              "doc_id": "601a2d8b-95dc-4bb1-9976-ae121851a94a"
+            },
+            {
+              "doc_id": "83448f85-c36d-42d4-ba0b-5ee5f778d43d"
+            },
+            {
+              "doc_id": "b817011a-c55f-466e-860a-a61a5c94e009"
+            },
+            {
+              "doc_id": "bce22592-7d20-4cc5-9509-909ffe041ebb"
+            }
+          ]
+        },
+        "22 years ago": {
+          "answer": "22 years ago",
+          "references": [
+            {
+              "doc_id": "a3880c7d-2bee-453a-a155-d3cffbdbce36"
+            }
+          ]
+        },
+        "February, 1997": {
+          "answer": "February, 1997",
+          "references": [
+            {
+              "doc_id": "13cd0587-2a40-49a2-bef2-63b0032e158e"
+            },
+            {
+              "doc_id": "83f8101f-f899-4128-92ad-d9d7fe6d59da"
+            },
+            {
+              "doc_id": "98bb56ac-28ae-4fe5-a189-9b29a037e55a"
+            }
+          ]
+        },
+        "In 1997": {
+          "answer": "In 1997",
+          "references": [
+            {
+              "doc_id": "0d723177-d77c-4190-981e-83f9d9d53cac"
+            },
+            {
+              "doc_id": "528c4f4b-bfdb-4ec6-8bad-125abecdd0cd"
+            },
+            {
+              "doc_id": "6493167f-ff50-4287-8ec4-e62fc0429a05"
+            },
+            {
+              "doc_id": "678ec337-bdd2-44be-a907-33746e2bd1c4"
+            },
+            {
+              "doc_id": "9be7dc59-96c9-4d98-83a3-a0aea5a94f6b"
+            }
+          ]
+        }
+      },
+      "question_id": "d9de7535e31ff719c4df0b436d3e252e",
+      "aggregator_type": "OR",
+      "query_id": "343",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.668849+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What was the Oddi Modern Art Gallery preparing for when the painting \u201cPortrait of a Lady\" stolen?": {
+      "question": "What was the Oddi Modern Art Gallery preparing for when the painting \u201cPortrait of a Lady\" stolen?",
+      "answers": {
+        "A special exhibition": {
+          "answer": "A special exhibition",
+          "references": [
+            {
+              "doc_id": "13cd0587-2a40-49a2-bef2-63b0032e158e"
+            },
+            {
+              "doc_id": "17689993-85ec-49bd-9ecd-51a37a6c9c72"
+            },
+            {
+              "doc_id": "5457cac4-46eb-40da-a0e2-dcb4277c3d2f"
+            },
+            {
+              "doc_id": "80a744e6-c8cf-4f25-ab32-7ee358f43b44"
+            },
+            {
+              "doc_id": "83f8101f-f899-4128-92ad-d9d7fe6d59da"
+            },
+            {
+              "doc_id": "98bb56ac-28ae-4fe5-a189-9b29a037e55a"
+            },
+            {
+              "doc_id": "a0ee3a15-14ee-4b4a-a5a7-5f54cdf9042e"
+            },
+            {
+              "doc_id": "af3f4e32-a29a-42ed-a78a-06ebc3a15a85"
+            },
+            {
+              "doc_id": "ba6e4321-3105-4f2b-bbfd-5a5d7be71cf6"
+            },
+            {
+              "doc_id": "d79b7a8b-1d9c-4101-bf46-037a2c59f6d6"
+            },
+            {
+              "doc_id": "edf8ce6a-25f7-4655-80d6-b240ccb54651"
+            }
+          ]
+        },
+        "To hold an exhibition of the paining": {
+          "answer": "To hold an exhibition of the paining",
+          "references": [
+            {
+              "doc_id": "a3880c7d-2bee-453a-a155-d3cffbdbce36"
+            }
+          ]
+        },
+        "An exhibition": {
+          "answer": "An exhibition",
+          "references": [
+            {
+              "doc_id": "0d723177-d77c-4190-981e-83f9d9d53cac"
+            },
+            {
+              "doc_id": "528c4f4b-bfdb-4ec6-8bad-125abecdd0cd"
+            }
+          ]
+        }
+      },
+      "question_id": "21d161021a42821e884610addc4123d6",
+      "aggregator_type": "OR",
+      "query_id": "343",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.668898+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the value of the painting \u201cPortrait of a Lady\"?": {
+      "question": "What is the value of the painting \u201cPortrait of a Lady\"?",
+      "answers": {
+        "US$66 million": {
+          "answer": "US$66 million",
+          "references": [
+            {
+              "doc_id": "19b55cc1-7a3c-434d-82bb-4284344451cf"
+            },
+            {
+              "doc_id": "525c0db3-5ed5-4064-8195-6c040e496982"
+            },
+            {
+              "doc_id": "6493167f-ff50-4287-8ec4-e62fc0429a05"
+            },
+            {
+              "doc_id": "6d07cd2f-b231-4b64-9f2c-42c85cb20265"
+            },
+            {
+              "doc_id": "991087e8-8d90-4423-8357-ca288e6e0dce"
+            },
+            {
+              "doc_id": "b817011a-c55f-466e-860a-a61a5c94e009"
+            },
+            {
+              "doc_id": "edf8ce6a-25f7-4655-80d6-b240ccb54651"
+            }
+          ]
+        },
+        "50 million pounds": {
+          "answer": "50 million pounds",
+          "references": [
+            {
+              "doc_id": "83448f85-c36d-42d4-ba0b-5ee5f778d43d"
+            },
+            {
+              "doc_id": "bce22592-7d20-4cc5-9509-909ffe041ebb"
+            }
+          ]
+        },
+        "60 million Euros": {
+          "answer": "60 million Euros",
+          "references": [
+            {
+              "doc_id": "aaeb6a40-8532-4dba-890f-82f1242055a0"
+            }
+          ]
+        },
+        "51 million pounds": {
+          "answer": "51 million pounds",
+          "references": [
+            {
+              "doc_id": "b817011a-c55f-466e-860a-a61a5c94e009"
+            }
+          ]
+        },
+        "60 million dollars": {
+          "answer": "60 million dollars",
+          "references": [
+            {
+              "doc_id": "601a2d8b-95dc-4bb1-9976-ae121851a94a"
+            }
+          ]
+        },
+        "US$60 million": {
+          "answer": "US$60 million",
+          "references": [
+            {
+              "doc_id": "01c2bfa8-86b2-4656-897f-5fdf8e482df9"
+            }
+          ]
+        },
+        "60 million Euro Dollars": {
+          "answer": "60 million Euro Dollars",
+          "references": [
+            {
+              "doc_id": "528c4f4b-bfdb-4ec6-8bad-125abecdd0cd"
+            },
+            {
+              "doc_id": "678ec337-bdd2-44be-a907-33746e2bd1c4"
+            },
+            {
+              "doc_id": "80a744e6-c8cf-4f25-ab32-7ee358f43b44"
+            },
+            {
+              "doc_id": "9be7dc59-96c9-4d98-83a3-a0aea5a94f6b"
+            },
+            {
+              "doc_id": "a0ee3a15-14ee-4b4a-a5a7-5f54cdf9042e"
+            },
+            {
+              "doc_id": "af3f4e32-a29a-42ed-a78a-06ebc3a15a85"
+            },
+            {
+              "doc_id": "cd9c9ebf-81fa-4eb0-8f53-1cab95c7b7ec"
+            },
+            {
+              "doc_id": "f9f81b47-b5c0-48db-b297-08505f401241"
+            }
+          ]
+        }
+      },
+      "question_id": "ed80345610481624a74081f86c69062d",
+      "aggregator_type": "OR",
+      "query_id": "343",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.668976+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "When was the painting \u201cPortrait of a Lady\" found after it had been stolen?": {
+      "question": "When was the painting \u201cPortrait of a Lady\" found after it had been stolen?",
+      "answers": {
+        "December 2019": {
+          "answer": "December 2019",
+          "references": [
+            {
+              "doc_id": "01c2bfa8-86b2-4656-897f-5fdf8e482df9"
+            },
+            {
+              "doc_id": "13686616-1bb0-412d-bcd7-b21296d7178c"
+            },
+            {
+              "doc_id": "13cd0587-2a40-49a2-bef2-63b0032e158e"
+            },
+            {
+              "doc_id": "4d56a34e-7ad7-47e0-aa69-d584f5b7a3b6"
+            },
+            {
+              "doc_id": "525c0db3-5ed5-4064-8195-6c040e496982"
+            },
+            {
+              "doc_id": "5457cac4-46eb-40da-a0e2-dcb4277c3d2f"
+            },
+            {
+              "doc_id": "678ec337-bdd2-44be-a907-33746e2bd1c4"
+            },
+            {
+              "doc_id": "80a744e6-c8cf-4f25-ab32-7ee358f43b44"
+            },
+            {
+              "doc_id": "98bb56ac-28ae-4fe5-a189-9b29a037e55a"
+            },
+            {
+              "doc_id": "991087e8-8d90-4423-8357-ca288e6e0dce"
+            },
+            {
+              "doc_id": "9be7dc59-96c9-4d98-83a3-a0aea5a94f6b"
+            },
+            {
+              "doc_id": "a0ee3a15-14ee-4b4a-a5a7-5f54cdf9042e"
+            },
+            {
+              "doc_id": "af3f4e32-a29a-42ed-a78a-06ebc3a15a85"
+            },
+            {
+              "doc_id": "cd9c9ebf-81fa-4eb0-8f53-1cab95c7b7ec"
+            },
+            {
+              "doc_id": "d79b7a8b-1d9c-4101-bf46-037a2c59f6d6"
+            }
+          ]
+        },
+        "Last year": {
+          "answer": "Last year",
+          "references": [
+            {
+              "doc_id": "1a8c2c95-35a6-4251-a73f-303912bf219b"
+            }
+          ]
+        },
+        "After several decades": {
+          "answer": "After several decades",
+          "references": [
+            {
+              "doc_id": "25518952-4275-4616-8962-ef90fffef703"
+            }
+          ]
+        },
+        "23 years later": {
+          "answer": "23 years later",
+          "references": [
+            {
+              "doc_id": "528c4f4b-bfdb-4ec6-8bad-125abecdd0cd"
+            },
+            {
+              "doc_id": "f9f81b47-b5c0-48db-b297-08505f401241"
+            }
+          ]
+        }
+      },
+      "question_id": "1ec25497e5ed64b6369c54c4849e3953",
+      "aggregator_type": "OR",
+      "query_id": "343",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.669036+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Where was the painting \u201cPortrait of a Lady\" found after it had been stolen?": {
+      "question": "Where was the painting \u201cPortrait of a Lady\" found after it had been stolen?",
+      "answers": {
+        "The Oddi Modern Art Gallery": {
+          "answer": "The Oddi Modern Art Gallery",
+          "references": [
+            {
+              "doc_id": "01c2bfa8-86b2-4656-897f-5fdf8e482df9"
+            },
+            {
+              "doc_id": "0d723177-d77c-4190-981e-83f9d9d53cac"
+            },
+            {
+              "doc_id": "13cd0587-2a40-49a2-bef2-63b0032e158e"
+            },
+            {
+              "doc_id": "19b55cc1-7a3c-434d-82bb-4284344451cf"
+            },
+            {
+              "doc_id": "4d56a34e-7ad7-47e0-aa69-d584f5b7a3b6"
+            },
+            {
+              "doc_id": "525c0db3-5ed5-4064-8195-6c040e496982"
+            },
+            {
+              "doc_id": "5457cac4-46eb-40da-a0e2-dcb4277c3d2f"
+            },
+            {
+              "doc_id": "6493167f-ff50-4287-8ec4-e62fc0429a05"
+            },
+            {
+              "doc_id": "678ec337-bdd2-44be-a907-33746e2bd1c4"
+            },
+            {
+              "doc_id": "6d07cd2f-b231-4b64-9f2c-42c85cb20265"
+            },
+            {
+              "doc_id": "80a744e6-c8cf-4f25-ab32-7ee358f43b44"
+            },
+            {
+              "doc_id": "83f8101f-f899-4128-92ad-d9d7fe6d59da"
+            },
+            {
+              "doc_id": "98bb56ac-28ae-4fe5-a189-9b29a037e55a"
+            },
+            {
+              "doc_id": "991087e8-8d90-4423-8357-ca288e6e0dce"
+            },
+            {
+              "doc_id": "9be7dc59-96c9-4d98-83a3-a0aea5a94f6b"
+            },
+            {
+              "doc_id": "a0ee3a15-14ee-4b4a-a5a7-5f54cdf9042e"
+            },
+            {
+              "doc_id": "af3f4e32-a29a-42ed-a78a-06ebc3a15a85"
+            },
+            {
+              "doc_id": "ba6e4321-3105-4f2b-bbfd-5a5d7be71cf6"
+            },
+            {
+              "doc_id": "cd9c9ebf-81fa-4eb0-8f53-1cab95c7b7ec"
+            },
+            {
+              "doc_id": "d79b7a8b-1d9c-4101-bf46-037a2c59f6d6"
+            },
+            {
+              "doc_id": "edf8ce6a-25f7-4655-80d6-b240ccb54651"
+            },
+            {
+              "doc_id": "f9f81b47-b5c0-48db-b297-08505f401241"
+            }
+          ]
+        },
+        "A hidden door in the gallery": {
+          "answer": "A hidden door in the gallery",
+          "references": [
+            {
+              "doc_id": "25518952-4275-4616-8962-ef90fffef703"
+            }
+          ]
+        },
+        "The museum it had been stolen from": {
+          "answer": "The museum it had been stolen from",
+          "references": [
+            {
+              "doc_id": "601a2d8b-95dc-4bb1-9976-ae121851a94a"
+            },
+            {
+              "doc_id": "83448f85-c36d-42d4-ba0b-5ee5f778d43d"
+            },
+            {
+              "doc_id": "a3880c7d-2bee-453a-a155-d3cffbdbce36"
+            }
+          ]
+        },
+        "Piacenza Modern Art Gallery": {
+          "answer": "Piacenza Modern Art Gallery",
+          "references": [
+            {
+              "doc_id": "83448f85-c36d-42d4-ba0b-5ee5f778d43d"
+            }
+          ]
+        },
+        "North of Italy": {
+          "answer": "North of Italy",
+          "references": [
+            {
+              "doc_id": "83448f85-c36d-42d4-ba0b-5ee5f778d43d"
+            },
+            {
+              "doc_id": "b817011a-c55f-466e-860a-a61a5c94e009"
+            }
+          ]
+        },
+        "A wall in Ricci Oddi Gallery": {
+          "answer": "A wall in Ricci Oddi Gallery",
+          "references": [
+            {
+              "doc_id": "a3880c7d-2bee-453a-a155-d3cffbdbce36"
+            },
+            {
+              "doc_id": "aaeb6a40-8532-4dba-890f-82f1242055a0"
+            },
+            {
+              "doc_id": "b817011a-c55f-466e-860a-a61a5c94e009"
+            },
+            {
+              "doc_id": "d1c8a9f0-dd6d-436b-b694-2fca6044b157"
+            }
+          ]
+        },
+        "A gallery in Piacenza": {
+          "answer": "A gallery in Piacenza",
+          "references": [
+            {
+              "doc_id": "b817011a-c55f-466e-860a-a61a5c94e009"
+            }
+          ]
+        },
+        "A wall in the gallery's garden": {
+          "answer": "A wall in the gallery's garden",
+          "references": [
+            {
+              "doc_id": "b817011a-c55f-466e-860a-a61a5c94e009"
+            }
+          ]
+        },
+        "The same gallery it had been stolen from": {
+          "answer": "The same gallery it had been stolen from",
+          "references": [
+            {
+              "doc_id": "601a2d8b-95dc-4bb1-9976-ae121851a94a"
+            },
+            {
+              "doc_id": "d1c8a9f0-dd6d-436b-b694-2fca6044b157"
+            }
+          ]
+        }
+      },
+      "question_id": "8be3468311e2f7beacc0c034b52de437",
+      "aggregator_type": "OR",
+      "query_id": "343",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.669146+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Who found the painting \u201cPortrait of a Lady\" found after it had been stolen?": {
+      "question": "Who found the painting \u201cPortrait of a Lady\" found after it had been stolen?",
+      "answers": {
+        "A gardener": {
+          "answer": "A gardener",
+          "references": [
+            {
+              "doc_id": "01c2bfa8-86b2-4656-897f-5fdf8e482df9"
+            },
+            {
+              "doc_id": "0d723177-d77c-4190-981e-83f9d9d53cac"
+            },
+            {
+              "doc_id": "13686616-1bb0-412d-bcd7-b21296d7178c"
+            },
+            {
+              "doc_id": "13cd0587-2a40-49a2-bef2-63b0032e158e"
+            },
+            {
+              "doc_id": "19b55cc1-7a3c-434d-82bb-4284344451cf"
+            },
+            {
+              "doc_id": "528c4f4b-bfdb-4ec6-8bad-125abecdd0cd"
+            },
+            {
+              "doc_id": "5457cac4-46eb-40da-a0e2-dcb4277c3d2f"
+            },
+            {
+              "doc_id": "601a2d8b-95dc-4bb1-9976-ae121851a94a"
+            },
+            {
+              "doc_id": "6493167f-ff50-4287-8ec4-e62fc0429a05"
+            },
+            {
+              "doc_id": "678ec337-bdd2-44be-a907-33746e2bd1c4"
+            },
+            {
+              "doc_id": "6d07cd2f-b231-4b64-9f2c-42c85cb20265"
+            },
+            {
+              "doc_id": "80a744e6-c8cf-4f25-ab32-7ee358f43b44"
+            },
+            {
+              "doc_id": "98bb56ac-28ae-4fe5-a189-9b29a037e55a"
+            },
+            {
+              "doc_id": "9be7dc59-96c9-4d98-83a3-a0aea5a94f6b"
+            },
+            {
+              "doc_id": "a0ee3a15-14ee-4b4a-a5a7-5f54cdf9042e"
+            },
+            {
+              "doc_id": "af3f4e32-a29a-42ed-a78a-06ebc3a15a85"
+            },
+            {
+              "doc_id": "b817011a-c55f-466e-860a-a61a5c94e009"
+            },
+            {
+              "doc_id": "cd9c9ebf-81fa-4eb0-8f53-1cab95c7b7ec"
+            },
+            {
+              "doc_id": "d79b7a8b-1d9c-4101-bf46-037a2c59f6d6"
+            },
+            {
+              "doc_id": "edf8ce6a-25f7-4655-80d6-b240ccb54651"
+            },
+            {
+              "doc_id": "f9f81b47-b5c0-48db-b297-08505f401241"
+            }
+          ]
+        },
+        "The workers": {
+          "answer": "The workers",
+          "references": [
+            {
+              "doc_id": "25518952-4275-4616-8962-ef90fffef703"
+            },
+            {
+              "doc_id": "bce22592-7d20-4cc5-9509-909ffe041ebb"
+            }
+          ]
+        },
+        "A worker": {
+          "answer": "A worker",
+          "references": [
+            {
+              "doc_id": "4d56a34e-7ad7-47e0-aa69-d584f5b7a3b6"
+            },
+            {
+              "doc_id": "525c0db3-5ed5-4064-8195-6c040e496982"
+            },
+            {
+              "doc_id": "83f8101f-f899-4128-92ad-d9d7fe6d59da"
+            },
+            {
+              "doc_id": "991087e8-8d90-4423-8357-ca288e6e0dce"
+            },
+            {
+              "doc_id": "ba6e4321-3105-4f2b-bbfd-5a5d7be71cf6"
+            }
+          ]
+        }
+      },
+      "question_id": "58ad9a43472959a6f1c8107b8fd9fe1d",
+      "aggregator_type": "OR",
+      "query_id": "343",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.669301+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

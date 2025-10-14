@@ -1,0 +1,2493 @@
+{
+  "query_id": "377",
+  "title_query": "Court rulings PS 752",
+  "full_query": "I need to provide a report on how courts have ruled on claims filed against Iran\u2019s targeting of Ukrainian International Airlines flight PS 752 inside Iran\u2019s airspace. The report should include court outcomes, including dismissals and damage awards.",
+  "full_background": "I am a paralegal assisting a lawyer advocating for a Ukrainian family whose loved one died in the Ukrainian International Airlines flight PS 752.",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "When was a plane of Ukrainian International Airlines shot down by the Iranian military over Tehran?": {
+      "question": "When was a plane of Ukrainian International Airlines shot down by the Iranian military over Tehran?",
+      "answers": {
+        "January 2020": {
+          "answer": "January 2020",
+          "references": [
+            {
+              "doc_id": "0eeced44-9757-4038-bdef-f5d1e418e692"
+            },
+            {
+              "doc_id": "16ede3c2-2fe2-4237-9be2-15174835bb4c"
+            },
+            {
+              "doc_id": "22495aba-2421-47dc-9ba7-32fbb4e50853"
+            },
+            {
+              "doc_id": "260eb25d-d1a1-47a4-912f-f5f5dc967953"
+            },
+            {
+              "doc_id": "2a4be59b-18f0-4fc9-80bd-478f84acfc60"
+            },
+            {
+              "doc_id": "2bdb953c-f4cd-46d2-985a-4f353a9497d3"
+            },
+            {
+              "doc_id": "3148a778-26c4-4f07-b7e1-fee86f036225"
+            },
+            {
+              "doc_id": "34cbd4b5-9689-4af9-a8ce-7efce4bb1fa0"
+            },
+            {
+              "doc_id": "350a15b5-413a-43e2-b824-25ff4e6d0e04"
+            },
+            {
+              "doc_id": "35a96ddb-2839-4b0e-a73e-ffe8b65c7c29"
+            },
+            {
+              "doc_id": "3f91e547-ad6e-421a-874c-ee61ff3f1fab"
+            },
+            {
+              "doc_id": "463d6970-8e8e-4c0f-a037-a5cb598230f9"
+            },
+            {
+              "doc_id": "578b450f-b73f-41df-adec-deee5d4943d3"
+            },
+            {
+              "doc_id": "58eac949-f095-41ea-84e4-b617ded2214b"
+            },
+            {
+              "doc_id": "6786d93b-a604-4af1-8c53-8fd7e7cae79b"
+            },
+            {
+              "doc_id": "838046b8-aeda-47d5-8e5d-b82891de81d1"
+            },
+            {
+              "doc_id": "8f8c8511-bc24-4908-88b6-c52c77220fb1"
+            },
+            {
+              "doc_id": "cca0f13d-1e5e-4727-9433-e580d1a76f72"
+            },
+            {
+              "doc_id": "ccacaf7a-4f01-46c6-8397-f4911ddaedaf"
+            },
+            {
+              "doc_id": "e3deebea-061c-4bf3-9029-8e943b792bd7"
+            },
+            {
+              "doc_id": "e98a5e65-82dd-4d42-9276-c327ba5110a5"
+            },
+            {
+              "doc_id": "eb3f4a38-8e55-4aa6-8a36-cd57b023dc11"
+            },
+            {
+              "doc_id": "ec501ce8-0917-4464-b254-8c4facd527db"
+            },
+            {
+              "doc_id": "ed1c3962-b13d-4ea3-adb4-13b960f97b52"
+            },
+            {
+              "doc_id": "ed1e1ed3-15d7-49ac-ae63-b37737213194"
+            }
+          ]
+        },
+        "2020": {
+          "answer": "2020",
+          "references": [
+            {
+              "doc_id": "0eeced44-9757-4038-bdef-f5d1e418e692"
+            },
+            {
+              "doc_id": "16ede3c2-2fe2-4237-9be2-15174835bb4c"
+            },
+            {
+              "doc_id": "260eb25d-d1a1-47a4-912f-f5f5dc967953"
+            },
+            {
+              "doc_id": "2a4be59b-18f0-4fc9-80bd-478f84acfc60"
+            },
+            {
+              "doc_id": "2bdb953c-f4cd-46d2-985a-4f353a9497d3"
+            },
+            {
+              "doc_id": "3148a778-26c4-4f07-b7e1-fee86f036225"
+            },
+            {
+              "doc_id": "34cbd4b5-9689-4af9-a8ce-7efce4bb1fa0"
+            },
+            {
+              "doc_id": "350a15b5-413a-43e2-b824-25ff4e6d0e04"
+            },
+            {
+              "doc_id": "463d6970-8e8e-4c0f-a037-a5cb598230f9"
+            },
+            {
+              "doc_id": "578b450f-b73f-41df-adec-deee5d4943d3"
+            },
+            {
+              "doc_id": "6786d93b-a604-4af1-8c53-8fd7e7cae79b"
+            },
+            {
+              "doc_id": "838046b8-aeda-47d5-8e5d-b82891de81d1"
+            },
+            {
+              "doc_id": "8f8c8511-bc24-4908-88b6-c52c77220fb1"
+            },
+            {
+              "doc_id": "cca0f13d-1e5e-4727-9433-e580d1a76f72"
+            },
+            {
+              "doc_id": "ccacaf7a-4f01-46c6-8397-f4911ddaedaf"
+            },
+            {
+              "doc_id": "e3deebea-061c-4bf3-9029-8e943b792bd7"
+            },
+            {
+              "doc_id": "e98a5e65-82dd-4d42-9276-c327ba5110a5"
+            },
+            {
+              "doc_id": "eb3f4a38-8e55-4aa6-8a36-cd57b023dc11"
+            },
+            {
+              "doc_id": "ec501ce8-0917-4464-b254-8c4facd527db"
+            },
+            {
+              "doc_id": "ed1c3962-b13d-4ea3-adb4-13b960f97b52"
+            },
+            {
+              "doc_id": "ed1e1ed3-15d7-49ac-ae63-b37737213194"
+            }
+          ]
+        },
+        "Thursday, 18th of Dey": {
+          "answer": "Thursday, 18th of Dey",
+          "references": []
+        },
+        "18th of Dey 1398": {
+          "answer": "18th of Dey 1398",
+          "references": [
+            {
+              "doc_id": "0fdd8ded-b7a6-497a-9b77-8a777290bdc0"
+            },
+            {
+              "doc_id": "14b22974-053f-4b89-a623-4fd6beebdb8c"
+            },
+            {
+              "doc_id": "275df138-53f5-4746-8374-17577e485adb"
+            },
+            {
+              "doc_id": "3690ec3d-22a9-44f3-b13a-407ed9ea96c6"
+            },
+            {
+              "doc_id": "38e7a96a-aa6e-4667-9334-3477f32b7872"
+            },
+            {
+              "doc_id": "41e8ca94-05a5-440f-bea8-4ae04344abe8"
+            },
+            {
+              "doc_id": "51f17a03-d5ce-4fcf-9f88-c64b32e9d8c5"
+            },
+            {
+              "doc_id": "5aa603f6-5234-44b4-9669-174985cb3f6b"
+            },
+            {
+              "doc_id": "609d323c-2b6b-447f-bdf0-ebeaf3be3a8f"
+            },
+            {
+              "doc_id": "63c5e45c-3ede-4a09-9ee4-adf442c9a21b"
+            },
+            {
+              "doc_id": "85b89fbe-e5fb-45bd-8c27-8d63a5f74e08"
+            },
+            {
+              "doc_id": "8d7b95d2-cbae-44c6-9660-1375fb8cd2a2"
+            },
+            {
+              "doc_id": "90e0ef5f-9d8c-487b-b894-8526301610c2"
+            },
+            {
+              "doc_id": "917de250-3ba3-4971-8662-0ba5911b7c79"
+            },
+            {
+              "doc_id": "95ad81d2-ffe1-4e5a-b120-8583cb0d120f"
+            },
+            {
+              "doc_id": "978ce7c3-092e-4e6c-9664-acaa097a4275"
+            },
+            {
+              "doc_id": "9ba887a5-5565-4009-98bd-cecdbf8702f2"
+            },
+            {
+              "doc_id": "9c7119d5-85bf-4985-89b6-5bed6130d755"
+            },
+            {
+              "doc_id": "af44e107-05fb-4af7-9433-ed4bb5fd1df9"
+            },
+            {
+              "doc_id": "b1887487-e536-4922-a7f1-15d0149d0079"
+            },
+            {
+              "doc_id": "bac1c54b-4434-46eb-93ef-49382cc0b4b0"
+            },
+            {
+              "doc_id": "c91d0193-1b4d-439c-9e5b-d0ca846af324"
+            },
+            {
+              "doc_id": "cab9d159-436c-4c42-8a2e-ac860fb0004c"
+            },
+            {
+              "doc_id": "cc0dc58e-a27f-4a0e-917a-ac3d0c184b54"
+            },
+            {
+              "doc_id": "ed650184-5de4-4c8d-9051-654ba92458bd"
+            },
+            {
+              "doc_id": "fb0276b0-4d0d-437d-8f77-d02cc152a5da"
+            },
+            {
+              "doc_id": "fda90c18-0ab2-4bc6-b3c3-906307ac8630"
+            }
+          ]
+        },
+        "January 8th 2020": {
+          "answer": "January 8th 2020",
+          "references": [
+            {
+              "doc_id": "2c64f314-bc23-4d85-93e8-0fffa1e31b2f"
+            },
+            {
+              "doc_id": "35a96ddb-2839-4b0e-a73e-ffe8b65c7c29"
+            },
+            {
+              "doc_id": "60b13034-922d-4eee-81c2-daf001ae7b56"
+            },
+            {
+              "doc_id": "8316645d-7730-465f-968e-592c8538db75"
+            },
+            {
+              "doc_id": "cc7c17cd-f56b-4e24-a4e5-b0f38a243d6c"
+            },
+            {
+              "doc_id": "fb0276b0-4d0d-437d-8f77-d02cc152a5da"
+            }
+          ]
+        },
+        "January 8th": {
+          "answer": "January 8th",
+          "references": [
+            {
+              "doc_id": "2ce7abe1-fd8c-49bb-a773-e4a85656ffbd"
+            },
+            {
+              "doc_id": "30f8879f-cca1-4b18-b8f4-9252da94920e"
+            },
+            {
+              "doc_id": "7d360a1c-15f7-4ce6-a88c-639437d5f40d"
+            }
+          ]
+        },
+        "18th od Dey": {
+          "answer": "18th od Dey",
+          "references": [
+            {
+              "doc_id": "30f8879f-cca1-4b18-b8f4-9252da94920e"
+            },
+            {
+              "doc_id": "63c5e45c-3ede-4a09-9ee4-adf442c9a21b"
+            },
+            {
+              "doc_id": "754b609f-18a6-4ff0-aa10-f7bbb8639adb"
+            },
+            {
+              "doc_id": "786dbdee-8362-4c53-b263-c704cdf3ec27"
+            },
+            {
+              "doc_id": "83b7b26d-555e-44d6-9004-310774bfd123"
+            },
+            {
+              "doc_id": "a06fe822-85d0-4d61-a535-fd72d45aaa95"
+            },
+            {
+              "doc_id": "c897adf5-0c74-419e-9500-90cf02077575"
+            },
+            {
+              "doc_id": "f57ceaaf-5511-4c42-bda7-6cbd9f2e3ee5"
+            }
+          ]
+        },
+        "Dey of 1398": {
+          "answer": "Dey of 1398",
+          "references": [
+            {
+              "doc_id": "ae25d5cb-1cdb-48ea-b002-f3fcd5d2649e"
+            },
+            {
+              "doc_id": "cab9d159-436c-4c42-8a2e-ac860fb0004c"
+            },
+            {
+              "doc_id": "ed650184-5de4-4c8d-9051-654ba92458bd"
+            }
+          ]
+        },
+        "January 8": {
+          "answer": "January 8",
+          "references": [
+            {
+              "doc_id": "00f4b5be-8cf6-4e28-a34a-0a66c2a6b50f"
+            },
+            {
+              "doc_id": "0eeced44-9757-4038-bdef-f5d1e418e692"
+            },
+            {
+              "doc_id": "1d4eab55-6a91-4682-8f77-cc5d086000de"
+            },
+            {
+              "doc_id": "2462b859-6f8a-4569-8a48-29bab00bfbe6"
+            },
+            {
+              "doc_id": "260eb25d-d1a1-47a4-912f-f5f5dc967953"
+            },
+            {
+              "doc_id": "2a4be59b-18f0-4fc9-80bd-478f84acfc60"
+            },
+            {
+              "doc_id": "2bdb953c-f4cd-46d2-985a-4f353a9497d3"
+            },
+            {
+              "doc_id": "30cfa20c-75c2-417c-a9b1-685ece3e8799"
+            },
+            {
+              "doc_id": "3148a778-26c4-4f07-b7e1-fee86f036225"
+            },
+            {
+              "doc_id": "33120538-27ae-4426-ab84-325e727b7b99"
+            },
+            {
+              "doc_id": "3bf8c47e-26ce-4114-b1e9-a6581a56d76a"
+            },
+            {
+              "doc_id": "463d6970-8e8e-4c0f-a037-a5cb598230f9"
+            },
+            {
+              "doc_id": "578b450f-b73f-41df-adec-deee5d4943d3"
+            },
+            {
+              "doc_id": "57e39815-d9c8-4209-9473-a6a16b69d623"
+            },
+            {
+              "doc_id": "6786d93b-a604-4af1-8c53-8fd7e7cae79b"
+            },
+            {
+              "doc_id": "69aee40e-0c02-4474-b82e-a260b1fc73f7"
+            },
+            {
+              "doc_id": "8a49d77e-2146-4364-bfe6-9ed9ebeb962e"
+            },
+            {
+              "doc_id": "8dad9629-c43b-42ef-afdd-a6c63c042fcd"
+            },
+            {
+              "doc_id": "8f8c8511-bc24-4908-88b6-c52c77220fb1"
+            },
+            {
+              "doc_id": "9b979f50-54cc-43b8-a665-db70f22fb083"
+            },
+            {
+              "doc_id": "b0f34e2c-05e7-4c70-b18f-9b6a02b44279"
+            },
+            {
+              "doc_id": "c1ea68b8-0ba9-4bfe-8674-e5a89c7e54e2"
+            },
+            {
+              "doc_id": "cca0f13d-1e5e-4727-9433-e580d1a76f72"
+            },
+            {
+              "doc_id": "ccacaf7a-4f01-46c6-8397-f4911ddaedaf"
+            },
+            {
+              "doc_id": "dba4f578-e869-4aef-8fbc-4e398986b758"
+            },
+            {
+              "doc_id": "e05d4481-255a-4d65-b501-212dfca6ed5d"
+            },
+            {
+              "doc_id": "e3deebea-061c-4bf3-9029-8e943b792bd7"
+            },
+            {
+              "doc_id": "e98a5e65-82dd-4d42-9276-c327ba5110a5"
+            },
+            {
+              "doc_id": "eb3f4a38-8e55-4aa6-8a36-cd57b023dc11"
+            },
+            {
+              "doc_id": "ec501ce8-0917-4464-b254-8c4facd527db"
+            },
+            {
+              "doc_id": "fab5f03f-90fa-461b-9587-5086e9ab3a12"
+            }
+          ]
+        },
+        "January 8 2020": {
+          "answer": "January 8 2020",
+          "references": [
+            {
+              "doc_id": "58eac949-f095-41ea-84e4-b617ded2214b"
+            },
+            {
+              "doc_id": "77427a77-61ac-4179-964f-2438b2876a7a"
+            },
+            {
+              "doc_id": "89d16661-c914-4581-a85b-a133d5603e92"
+            },
+            {
+              "doc_id": "8bef7dde-0f0b-4317-aae3-e55aff82d675"
+            },
+            {
+              "doc_id": "8ed89419-70e9-456d-ae9b-45de54df060c"
+            },
+            {
+              "doc_id": "c1142fb6-233c-439a-8962-b9fce6d35c1f"
+            },
+            {
+              "doc_id": "d354c55a-abfc-4fa1-a90f-51d01be7d23f"
+            },
+            {
+              "doc_id": "e29f2413-5325-4062-a595-b21158757119"
+            },
+            {
+              "doc_id": "ff2f5c71-c102-4c19-9f68-09a0628b2d5f"
+            }
+          ]
+        },
+        "January8": {
+          "answer": "January8",
+          "references": [
+            {
+              "doc_id": "5be6760c-3d10-4c4c-aa21-9d3b08ffc0ce"
+            },
+            {
+              "doc_id": "7169e662-0b49-4819-90ee-f0315a3620d3"
+            },
+            {
+              "doc_id": "a85a67fb-9566-447d-bea9-a42a8354c9e0"
+            },
+            {
+              "doc_id": "cff91cf5-3d02-4c44-9159-eab5f7d9dc92"
+            },
+            {
+              "doc_id": "d4fd2594-3253-4356-9fe9-0065cc60eb16"
+            },
+            {
+              "doc_id": "dad54259-36bb-4e57-a471-2d01015f7c6b"
+            },
+            {
+              "doc_id": "f48e9b2d-11e4-4d08-8c2c-ada823aa645a"
+            }
+          ]
+        }
+      },
+      "question_id": "d088fb8f70baedad57f5d0ee7f3c049e",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.716744+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How many people did the plane crash kill?": {
+      "question": "How many people did the plane crash kill?",
+      "answers": {
+        "176": {
+          "answer": "176",
+          "references": [
+            {
+              "doc_id": "00f4b5be-8cf6-4e28-a34a-0a66c2a6b50f"
+            },
+            {
+              "doc_id": "06a71384-e71f-4158-8e7a-80bc76fddb39"
+            },
+            {
+              "doc_id": "0c17541e-f2b9-4501-a1ec-4d013bf7ccf2"
+            },
+            {
+              "doc_id": "0eeced44-9757-4038-bdef-f5d1e418e692"
+            },
+            {
+              "doc_id": "0fdd8ded-b7a6-497a-9b77-8a777290bdc0"
+            },
+            {
+              "doc_id": "14b22974-053f-4b89-a623-4fd6beebdb8c"
+            },
+            {
+              "doc_id": "1d4eab55-6a91-4682-8f77-cc5d086000de"
+            },
+            {
+              "doc_id": "22495aba-2421-47dc-9ba7-32fbb4e50853"
+            },
+            {
+              "doc_id": "228156aa-d821-4aa1-bf26-e46231db003e"
+            },
+            {
+              "doc_id": "2462b859-6f8a-4569-8a48-29bab00bfbe6"
+            },
+            {
+              "doc_id": "260eb25d-d1a1-47a4-912f-f5f5dc967953"
+            },
+            {
+              "doc_id": "29809042-6cb0-4331-9aa3-6806a5f61d62"
+            },
+            {
+              "doc_id": "2a4be59b-18f0-4fc9-80bd-478f84acfc60"
+            },
+            {
+              "doc_id": "2bdb953c-f4cd-46d2-985a-4f353a9497d3"
+            },
+            {
+              "doc_id": "2c64f314-bc23-4d85-93e8-0fffa1e31b2f"
+            },
+            {
+              "doc_id": "2ce7abe1-fd8c-49bb-a773-e4a85656ffbd"
+            },
+            {
+              "doc_id": "3148a778-26c4-4f07-b7e1-fee86f036225"
+            },
+            {
+              "doc_id": "33120538-27ae-4426-ab84-325e727b7b99"
+            },
+            {
+              "doc_id": "35a96ddb-2839-4b0e-a73e-ffe8b65c7c29"
+            },
+            {
+              "doc_id": "3690ec3d-22a9-44f3-b13a-407ed9ea96c6"
+            },
+            {
+              "doc_id": "387b2b3d-37ce-42ae-a278-b640c5c4d246"
+            },
+            {
+              "doc_id": "38e7a96a-aa6e-4667-9334-3477f32b7872"
+            },
+            {
+              "doc_id": "3bf8c47e-26ce-4114-b1e9-a6581a56d76a"
+            },
+            {
+              "doc_id": "3f91e547-ad6e-421a-874c-ee61ff3f1fab"
+            },
+            {
+              "doc_id": "41e8ca94-05a5-440f-bea8-4ae04344abe8"
+            },
+            {
+              "doc_id": "463d6970-8e8e-4c0f-a037-a5cb598230f9"
+            },
+            {
+              "doc_id": "47e0e10a-74c4-4be1-869f-1d03cd453493"
+            },
+            {
+              "doc_id": "49287886-48f2-4d6b-8eb4-f0e88fcd25ff"
+            },
+            {
+              "doc_id": "4aaef299-d6b0-48ab-90bd-79bbd20caa35"
+            },
+            {
+              "doc_id": "51f17a03-d5ce-4fcf-9f88-c64b32e9d8c5"
+            },
+            {
+              "doc_id": "5593d8e4-5c1e-4459-a545-d09d84adc8e0"
+            },
+            {
+              "doc_id": "578b450f-b73f-41df-adec-deee5d4943d3"
+            },
+            {
+              "doc_id": "58eac949-f095-41ea-84e4-b617ded2214b"
+            },
+            {
+              "doc_id": "5aa603f6-5234-44b4-9669-174985cb3f6b"
+            },
+            {
+              "doc_id": "5be6760c-3d10-4c4c-aa21-9d3b08ffc0ce"
+            },
+            {
+              "doc_id": "5ed9bf62-f659-41d1-88dd-735686de4a87"
+            },
+            {
+              "doc_id": "609d323c-2b6b-447f-bdf0-ebeaf3be3a8f"
+            },
+            {
+              "doc_id": "60b13034-922d-4eee-81c2-daf001ae7b56"
+            },
+            {
+              "doc_id": "63c5e45c-3ede-4a09-9ee4-adf442c9a21b"
+            },
+            {
+              "doc_id": "655a2fa8-79e9-423a-8752-cc7099488a94"
+            },
+            {
+              "doc_id": "6786d93b-a604-4af1-8c53-8fd7e7cae79b"
+            },
+            {
+              "doc_id": "69aee40e-0c02-4474-b82e-a260b1fc73f7"
+            },
+            {
+              "doc_id": "7169e662-0b49-4819-90ee-f0315a3620d3"
+            },
+            {
+              "doc_id": "754b609f-18a6-4ff0-aa10-f7bbb8639adb"
+            },
+            {
+              "doc_id": "77427a77-61ac-4179-964f-2438b2876a7a"
+            },
+            {
+              "doc_id": "786dbdee-8362-4c53-b263-c704cdf3ec27"
+            },
+            {
+              "doc_id": "7d360a1c-15f7-4ce6-a88c-639437d5f40d"
+            },
+            {
+              "doc_id": "83b7b26d-555e-44d6-9004-310774bfd123"
+            },
+            {
+              "doc_id": "89d16661-c914-4581-a85b-a133d5603e92"
+            },
+            {
+              "doc_id": "8a49d77e-2146-4364-bfe6-9ed9ebeb962e"
+            },
+            {
+              "doc_id": "8bef7dde-0f0b-4317-aae3-e55aff82d675"
+            },
+            {
+              "doc_id": "8d7b95d2-cbae-44c6-9660-1375fb8cd2a2"
+            },
+            {
+              "doc_id": "8dad9629-c43b-42ef-afdd-a6c63c042fcd"
+            },
+            {
+              "doc_id": "8ed89419-70e9-456d-ae9b-45de54df060c"
+            },
+            {
+              "doc_id": "8f8c8511-bc24-4908-88b6-c52c77220fb1"
+            },
+            {
+              "doc_id": "917de250-3ba3-4971-8662-0ba5911b7c79"
+            },
+            {
+              "doc_id": "95ad81d2-ffe1-4e5a-b120-8583cb0d120f"
+            },
+            {
+              "doc_id": "9615cb6f-9431-4a04-b888-5881a65e76c3"
+            },
+            {
+              "doc_id": "96603466-10f7-46d3-bbc4-4e8a52eb0562"
+            },
+            {
+              "doc_id": "978ce7c3-092e-4e6c-9664-acaa097a4275"
+            },
+            {
+              "doc_id": "9b979f50-54cc-43b8-a665-db70f22fb083"
+            },
+            {
+              "doc_id": "9ba887a5-5565-4009-98bd-cecdbf8702f2"
+            },
+            {
+              "doc_id": "9c7119d5-85bf-4985-89b6-5bed6130d755"
+            },
+            {
+              "doc_id": "a06fe822-85d0-4d61-a535-fd72d45aaa95"
+            },
+            {
+              "doc_id": "a85a67fb-9566-447d-bea9-a42a8354c9e0"
+            },
+            {
+              "doc_id": "ae25d5cb-1cdb-48ea-b002-f3fcd5d2649e"
+            },
+            {
+              "doc_id": "af44e107-05fb-4af7-9433-ed4bb5fd1df9"
+            },
+            {
+              "doc_id": "b0f34e2c-05e7-4c70-b18f-9b6a02b44279"
+            },
+            {
+              "doc_id": "b1887487-e536-4922-a7f1-15d0149d0079"
+            },
+            {
+              "doc_id": "b33dfb1e-1c38-4a1b-8b38-6af116715cf7"
+            },
+            {
+              "doc_id": "b38de9b2-f1cd-45b7-88cf-731b33cc88d1"
+            },
+            {
+              "doc_id": "b7a65b03-139a-438c-902b-8ef80d5f8dad"
+            },
+            {
+              "doc_id": "bac1c54b-4434-46eb-93ef-49382cc0b4b0"
+            },
+            {
+              "doc_id": "c1142fb6-233c-439a-8962-b9fce6d35c1f"
+            },
+            {
+              "doc_id": "c17472a0-acb4-4dca-bc05-b1b9f2aa6aca"
+            },
+            {
+              "doc_id": "c1ea68b8-0ba9-4bfe-8674-e5a89c7e54e2"
+            },
+            {
+              "doc_id": "c8667400-14bb-4999-b354-2972e88a2b29"
+            },
+            {
+              "doc_id": "c897adf5-0c74-419e-9500-90cf02077575"
+            },
+            {
+              "doc_id": "c91d0193-1b4d-439c-9e5b-d0ca846af324"
+            },
+            {
+              "doc_id": "c9586fbd-29e8-4201-b9fa-8c4ef7f3f23b"
+            },
+            {
+              "doc_id": "cab9d159-436c-4c42-8a2e-ac860fb0004c"
+            },
+            {
+              "doc_id": "cc0dc58e-a27f-4a0e-917a-ac3d0c184b54"
+            },
+            {
+              "doc_id": "cc7c17cd-f56b-4e24-a4e5-b0f38a243d6c"
+            },
+            {
+              "doc_id": "cca0f13d-1e5e-4727-9433-e580d1a76f72"
+            },
+            {
+              "doc_id": "ccacaf7a-4f01-46c6-8397-f4911ddaedaf"
+            },
+            {
+              "doc_id": "cff91cf5-3d02-4c44-9159-eab5f7d9dc92"
+            },
+            {
+              "doc_id": "d354c55a-abfc-4fa1-a90f-51d01be7d23f"
+            },
+            {
+              "doc_id": "d4fd2594-3253-4356-9fe9-0065cc60eb16"
+            },
+            {
+              "doc_id": "d70d2a27-8980-4cde-953b-3737c5a44949"
+            },
+            {
+              "doc_id": "dad54259-36bb-4e57-a471-2d01015f7c6b"
+            },
+            {
+              "doc_id": "db99cab7-573a-4586-be88-f748bb9ba303"
+            },
+            {
+              "doc_id": "dba4f578-e869-4aef-8fbc-4e398986b758"
+            },
+            {
+              "doc_id": "e05d4481-255a-4d65-b501-212dfca6ed5d"
+            },
+            {
+              "doc_id": "e29f2413-5325-4062-a595-b21158757119"
+            },
+            {
+              "doc_id": "e2ee2738-33a9-426d-abd6-e10975dfec69"
+            },
+            {
+              "doc_id": "e3deebea-061c-4bf3-9029-8e943b792bd7"
+            },
+            {
+              "doc_id": "e98a5e65-82dd-4d42-9276-c327ba5110a5"
+            },
+            {
+              "doc_id": "ec501ce8-0917-4464-b254-8c4facd527db"
+            },
+            {
+              "doc_id": "ed1c3962-b13d-4ea3-adb4-13b960f97b52"
+            },
+            {
+              "doc_id": "ed1e1ed3-15d7-49ac-ae63-b37737213194"
+            },
+            {
+              "doc_id": "ed650184-5de4-4c8d-9051-654ba92458bd"
+            },
+            {
+              "doc_id": "f57ceaaf-5511-4c42-bda7-6cbd9f2e3ee5"
+            },
+            {
+              "doc_id": "f58cbd0d-d04e-4906-bd11-ef621f8aff15"
+            },
+            {
+              "doc_id": "fab5f03f-90fa-461b-9587-5086e9ab3a12"
+            },
+            {
+              "doc_id": "fb0276b0-4d0d-437d-8f77-d02cc152a5da"
+            },
+            {
+              "doc_id": "fda90c18-0ab2-4bc6-b3c3-906307ac8630"
+            },
+            {
+              "doc_id": "ff2f5c71-c102-4c19-9f68-09a0628b2d5f"
+            }
+          ]
+        },
+        "167": {
+          "answer": "167",
+          "references": []
+        },
+        "63": {
+          "answer": "63",
+          "references": []
+        }
+      },
+      "question_id": "0dedd3ce2db620d2133473d0849d7368",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.716946+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How many crash victims were Canadian citizens?": {
+      "question": "How many crash victims were Canadian citizens?",
+      "answers": {
+        "138": {
+          "answer": "138",
+          "references": [
+            {
+              "doc_id": "30f8879f-cca1-4b18-b8f4-9252da94920e"
+            },
+            {
+              "doc_id": "6786d93b-a604-4af1-8c53-8fd7e7cae79b"
+            },
+            {
+              "doc_id": "77427a77-61ac-4179-964f-2438b2876a7a"
+            },
+            {
+              "doc_id": "ed1c3962-b13d-4ea3-adb4-13b960f97b52"
+            },
+            {
+              "doc_id": "ed1e1ed3-15d7-49ac-ae63-b37737213194"
+            }
+          ]
+        },
+        "85": {
+          "answer": "85",
+          "references": [
+            {
+              "doc_id": "2c64f314-bc23-4d85-93e8-0fffa1e31b2f"
+            }
+          ]
+        },
+        "63": {
+          "answer": "63",
+          "references": [
+            {
+              "doc_id": "0eeced44-9757-4038-bdef-f5d1e418e692"
+            },
+            {
+              "doc_id": "1d4eab55-6a91-4682-8f77-cc5d086000de"
+            },
+            {
+              "doc_id": "578b450f-b73f-41df-adec-deee5d4943d3"
+            },
+            {
+              "doc_id": "57e39815-d9c8-4209-9473-a6a16b69d623"
+            },
+            {
+              "doc_id": "655a2fa8-79e9-423a-8752-cc7099488a94"
+            },
+            {
+              "doc_id": "8a49d77e-2146-4364-bfe6-9ed9ebeb962e"
+            },
+            {
+              "doc_id": "c9586fbd-29e8-4201-b9fa-8c4ef7f3f23b"
+            },
+            {
+              "doc_id": "ccacaf7a-4f01-46c6-8397-f4911ddaedaf"
+            },
+            {
+              "doc_id": "ec501ce8-0917-4464-b254-8c4facd527db"
+            }
+          ]
+        },
+        "55": {
+          "answer": "55",
+          "references": [
+            {
+              "doc_id": "34cbd4b5-9689-4af9-a8ce-7efce4bb1fa0"
+            },
+            {
+              "doc_id": "58eac949-f095-41ea-84e4-b617ded2214b"
+            },
+            {
+              "doc_id": "e29f2413-5325-4062-a595-b21158757119"
+            },
+            {
+              "doc_id": "ff2f5c71-c102-4c19-9f68-09a0628b2d5f"
+            }
+          ]
+        },
+        "57": {
+          "answer": "57",
+          "references": [
+            {
+              "doc_id": "3bf8c47e-26ce-4114-b1e9-a6581a56d76a"
+            },
+            {
+              "doc_id": "7169e662-0b49-4819-90ee-f0315a3620d3"
+            },
+            {
+              "doc_id": "8ed89419-70e9-456d-ae9b-45de54df060c"
+            },
+            {
+              "doc_id": "9b979f50-54cc-43b8-a665-db70f22fb083"
+            },
+            {
+              "doc_id": "d70d2a27-8980-4cde-953b-3737c5a44949"
+            }
+          ]
+        },
+        "85, including permanent residents": {
+          "answer": "85, including permanent residents",
+          "references": [
+            {
+              "doc_id": "06a71384-e71f-4158-8e7a-80bc76fddb39"
+            },
+            {
+              "doc_id": "5be6760c-3d10-4c4c-aa21-9d3b08ffc0ce"
+            },
+            {
+              "doc_id": "a85a67fb-9566-447d-bea9-a42a8354c9e0"
+            },
+            {
+              "doc_id": "cff91cf5-3d02-4c44-9159-eab5f7d9dc92"
+            }
+          ]
+        }
+      },
+      "question_id": "1c22908e124e59bd7c0e48b5766acaa5",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.717031+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How did Iran's government explain the reason for the plane crash?": {
+      "question": "How did Iran's government explain the reason for the plane crash?",
+      "answers": {
+        "As a catastrophic mistake": {
+          "answer": "As a catastrophic mistake",
+          "references": [
+            {
+              "doc_id": "22495aba-2421-47dc-9ba7-32fbb4e50853"
+            },
+            {
+              "doc_id": "29809042-6cb0-4331-9aa3-6806a5f61d62"
+            },
+            {
+              "doc_id": "58eac949-f095-41ea-84e4-b617ded2214b"
+            },
+            {
+              "doc_id": "d354c55a-abfc-4fa1-a90f-51d01be7d23f"
+            },
+            {
+              "doc_id": "ed1e1ed3-15d7-49ac-ae63-b37737213194"
+            }
+          ]
+        },
+        "As a mistake": {
+          "answer": "As a mistake",
+          "references": [
+            {
+              "doc_id": "00f4b5be-8cf6-4e28-a34a-0a66c2a6b50f"
+            },
+            {
+              "doc_id": "06a71384-e71f-4158-8e7a-80bc76fddb39"
+            },
+            {
+              "doc_id": "0eeced44-9757-4038-bdef-f5d1e418e692"
+            },
+            {
+              "doc_id": "16ede3c2-2fe2-4237-9be2-15174835bb4c"
+            },
+            {
+              "doc_id": "22f5aa97-6dcd-4d68-9bf3-d794dc61ab93"
+            },
+            {
+              "doc_id": "2462b859-6f8a-4569-8a48-29bab00bfbe6"
+            },
+            {
+              "doc_id": "260eb25d-d1a1-47a4-912f-f5f5dc967953"
+            },
+            {
+              "doc_id": "3148a778-26c4-4f07-b7e1-fee86f036225"
+            },
+            {
+              "doc_id": "33120538-27ae-4426-ab84-325e727b7b99"
+            },
+            {
+              "doc_id": "463d6970-8e8e-4c0f-a037-a5cb598230f9"
+            },
+            {
+              "doc_id": "47e0e10a-74c4-4be1-869f-1d03cd453493"
+            },
+            {
+              "doc_id": "578b450f-b73f-41df-adec-deee5d4943d3"
+            },
+            {
+              "doc_id": "57e39815-d9c8-4209-9473-a6a16b69d623"
+            },
+            {
+              "doc_id": "5be6760c-3d10-4c4c-aa21-9d3b08ffc0ce"
+            },
+            {
+              "doc_id": "655a2fa8-79e9-423a-8752-cc7099488a94"
+            },
+            {
+              "doc_id": "69aee40e-0c02-4474-b82e-a260b1fc73f7"
+            },
+            {
+              "doc_id": "7169e662-0b49-4819-90ee-f0315a3620d3"
+            },
+            {
+              "doc_id": "77427a77-61ac-4179-964f-2438b2876a7a"
+            },
+            {
+              "doc_id": "7d360a1c-15f7-4ce6-a88c-639437d5f40d"
+            },
+            {
+              "doc_id": "7e797eb2-ae51-4faf-bb83-e1023918381d"
+            },
+            {
+              "doc_id": "8dad9629-c43b-42ef-afdd-a6c63c042fcd"
+            },
+            {
+              "doc_id": "8f8c8511-bc24-4908-88b6-c52c77220fb1"
+            },
+            {
+              "doc_id": "96603466-10f7-46d3-bbc4-4e8a52eb0562"
+            },
+            {
+              "doc_id": "9b979f50-54cc-43b8-a665-db70f22fb083"
+            },
+            {
+              "doc_id": "a85a67fb-9566-447d-bea9-a42a8354c9e0"
+            },
+            {
+              "doc_id": "b0f34e2c-05e7-4c70-b18f-9b6a02b44279"
+            },
+            {
+              "doc_id": "b1224655-9c7a-4452-a0cc-7a6b1e3f04ed"
+            },
+            {
+              "doc_id": "b6148ffb-0896-45ae-862e-aa10f011fbe8"
+            },
+            {
+              "doc_id": "c17472a0-acb4-4dca-bc05-b1b9f2aa6aca"
+            },
+            {
+              "doc_id": "c1ea68b8-0ba9-4bfe-8674-e5a89c7e54e2"
+            },
+            {
+              "doc_id": "c8667400-14bb-4999-b354-2972e88a2b29"
+            },
+            {
+              "doc_id": "cca0f13d-1e5e-4727-9433-e580d1a76f72"
+            },
+            {
+              "doc_id": "ccacaf7a-4f01-46c6-8397-f4911ddaedaf"
+            },
+            {
+              "doc_id": "cff91cf5-3d02-4c44-9159-eab5f7d9dc92"
+            },
+            {
+              "doc_id": "d432d956-9c9b-4c75-98b9-3c287de7eab1"
+            },
+            {
+              "doc_id": "d70d2a27-8980-4cde-953b-3737c5a44949"
+            },
+            {
+              "doc_id": "dad54259-36bb-4e57-a471-2d01015f7c6b"
+            },
+            {
+              "doc_id": "db99cab7-573a-4586-be88-f748bb9ba303"
+            },
+            {
+              "doc_id": "dba4f578-e869-4aef-8fbc-4e398986b758"
+            },
+            {
+              "doc_id": "e05d4481-255a-4d65-b501-212dfca6ed5d"
+            },
+            {
+              "doc_id": "e29f2413-5325-4062-a595-b21158757119"
+            },
+            {
+              "doc_id": "e2ee2738-33a9-426d-abd6-e10975dfec69"
+            },
+            {
+              "doc_id": "e3deebea-061c-4bf3-9029-8e943b792bd7"
+            },
+            {
+              "doc_id": "e98a5e65-82dd-4d42-9276-c327ba5110a5"
+            },
+            {
+              "doc_id": "eb3f4a38-8e55-4aa6-8a36-cd57b023dc11"
+            },
+            {
+              "doc_id": "ec501ce8-0917-4464-b254-8c4facd527db"
+            },
+            {
+              "doc_id": "ed1c3962-b13d-4ea3-adb4-13b960f97b52"
+            },
+            {
+              "doc_id": "ed1e1ed3-15d7-49ac-ae63-b37737213194"
+            },
+            {
+              "doc_id": "f58cbd0d-d04e-4906-bd11-ef621f8aff15"
+            },
+            {
+              "doc_id": "fb0276b0-4d0d-437d-8f77-d02cc152a5da"
+            },
+            {
+              "doc_id": "ff2f5c71-c102-4c19-9f68-09a0628b2d5f"
+            }
+          ]
+        },
+        "human error": {
+          "answer": "human error",
+          "references": [
+            {
+              "doc_id": "0c17541e-f2b9-4501-a1ec-4d013bf7ccf2"
+            },
+            {
+              "doc_id": "0fdd8ded-b7a6-497a-9b77-8a777290bdc0"
+            },
+            {
+              "doc_id": "14b22974-053f-4b89-a623-4fd6beebdb8c"
+            },
+            {
+              "doc_id": "228156aa-d821-4aa1-bf26-e46231db003e"
+            },
+            {
+              "doc_id": "2ce7abe1-fd8c-49bb-a773-e4a85656ffbd"
+            },
+            {
+              "doc_id": "30f8879f-cca1-4b18-b8f4-9252da94920e"
+            },
+            {
+              "doc_id": "35a96ddb-2839-4b0e-a73e-ffe8b65c7c29"
+            },
+            {
+              "doc_id": "3690ec3d-22a9-44f3-b13a-407ed9ea96c6"
+            },
+            {
+              "doc_id": "38e7a96a-aa6e-4667-9334-3477f32b7872"
+            },
+            {
+              "doc_id": "3f91e547-ad6e-421a-874c-ee61ff3f1fab"
+            },
+            {
+              "doc_id": "41e8ca94-05a5-440f-bea8-4ae04344abe8"
+            },
+            {
+              "doc_id": "4d903d5e-948e-40e9-b4ae-4012de19c16e"
+            },
+            {
+              "doc_id": "5aa603f6-5234-44b4-9669-174985cb3f6b"
+            },
+            {
+              "doc_id": "5ba2db39-c14e-438f-b570-007ebb5455eb"
+            },
+            {
+              "doc_id": "60b13034-922d-4eee-81c2-daf001ae7b56"
+            },
+            {
+              "doc_id": "63c5e45c-3ede-4a09-9ee4-adf442c9a21b"
+            },
+            {
+              "doc_id": "754b609f-18a6-4ff0-aa10-f7bbb8639adb"
+            },
+            {
+              "doc_id": "83b7b26d-555e-44d6-9004-310774bfd123"
+            },
+            {
+              "doc_id": "90e0ef5f-9d8c-487b-b894-8526301610c2"
+            },
+            {
+              "doc_id": "917de250-3ba3-4971-8662-0ba5911b7c79"
+            },
+            {
+              "doc_id": "95ad81d2-ffe1-4e5a-b120-8583cb0d120f"
+            },
+            {
+              "doc_id": "9615cb6f-9431-4a04-b888-5881a65e76c3"
+            },
+            {
+              "doc_id": "a06fe822-85d0-4d61-a535-fd72d45aaa95"
+            },
+            {
+              "doc_id": "ae25d5cb-1cdb-48ea-b002-f3fcd5d2649e"
+            },
+            {
+              "doc_id": "af44e107-05fb-4af7-9433-ed4bb5fd1df9"
+            },
+            {
+              "doc_id": "b1887487-e536-4922-a7f1-15d0149d0079"
+            },
+            {
+              "doc_id": "bac1c54b-4434-46eb-93ef-49382cc0b4b0"
+            },
+            {
+              "doc_id": "c91d0193-1b4d-439c-9e5b-d0ca846af324"
+            },
+            {
+              "doc_id": "cab9d159-436c-4c42-8a2e-ac860fb0004c"
+            },
+            {
+              "doc_id": "cc0dc58e-a27f-4a0e-917a-ac3d0c184b54"
+            },
+            {
+              "doc_id": "cc7c17cd-f56b-4e24-a4e5-b0f38a243d6c"
+            },
+            {
+              "doc_id": "ed650184-5de4-4c8d-9051-654ba92458bd"
+            },
+            {
+              "doc_id": "fda90c18-0ab2-4bc6-b3c3-906307ac8630"
+            }
+          ]
+        },
+        "As a technical": {
+          "answer": "As a technical",
+          "references": []
+        },
+        "As a technical malfunction": {
+          "answer": "As a technical malfunction",
+          "references": [
+            {
+              "doc_id": "3bf8c47e-26ce-4114-b1e9-a6581a56d76a"
+            },
+            {
+              "doc_id": "8a49d77e-2146-4364-bfe6-9ed9ebeb962e"
+            },
+            {
+              "doc_id": "9b979f50-54cc-43b8-a665-db70f22fb083"
+            },
+            {
+              "doc_id": "b6148ffb-0896-45ae-862e-aa10f011fbe8"
+            },
+            {
+              "doc_id": "e3deebea-061c-4bf3-9029-8e943b792bd7"
+            },
+            {
+              "doc_id": "e98a5e65-82dd-4d42-9276-c327ba5110a5"
+            }
+          ]
+        },
+        "As an accident": {
+          "answer": "As an accident",
+          "references": [
+            {
+              "doc_id": "3bf8c47e-26ce-4114-b1e9-a6581a56d76a"
+            }
+          ]
+        },
+        "Technical issue": {
+          "answer": "Technical issue",
+          "references": [
+            {
+              "doc_id": "2c0a2364-9a0f-4f4f-b9e3-9e3a9301a6c2"
+            },
+            {
+              "doc_id": "387b2b3d-37ce-42ae-a278-b640c5c4d246"
+            },
+            {
+              "doc_id": "5593d8e4-5c1e-4459-a545-d09d84adc8e0"
+            },
+            {
+              "doc_id": "8bef7dde-0f0b-4317-aae3-e55aff82d675"
+            },
+            {
+              "doc_id": "c9586fbd-29e8-4201-b9fa-8c4ef7f3f23b"
+            },
+            {
+              "doc_id": "f48e9b2d-11e4-4d08-8c2c-ada823aa645a"
+            }
+          ]
+        }
+      },
+      "question_id": "82cb3f76b74122505409b6fef181c1a5",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.717204+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Which court ruled in 2021 that Iran must pay damages to families of the deceased?": {
+      "question": "Which court ruled in 2021 that Iran must pay damages to families of the deceased?",
+      "answers": {
+        "The Supreme Court of the Canadian province of Ontario": {
+          "answer": "The Supreme Court of the Canadian province of Ontario",
+          "references": [
+            {
+              "doc_id": "00f4b5be-8cf6-4e28-a34a-0a66c2a6b50f"
+            },
+            {
+              "doc_id": "16ede3c2-2fe2-4237-9be2-15174835bb4c"
+            },
+            {
+              "doc_id": "260eb25d-d1a1-47a4-912f-f5f5dc967953"
+            },
+            {
+              "doc_id": "34cbd4b5-9689-4af9-a8ce-7efce4bb1fa0"
+            },
+            {
+              "doc_id": "3bf8c47e-26ce-4114-b1e9-a6581a56d76a"
+            },
+            {
+              "doc_id": "58eac949-f095-41ea-84e4-b617ded2214b"
+            },
+            {
+              "doc_id": "6e326518-20af-494e-b5e3-303d0aec0b95"
+            },
+            {
+              "doc_id": "8e09df11-90c5-4a4b-be46-99727a1e6dbb"
+            },
+            {
+              "doc_id": "9b979f50-54cc-43b8-a665-db70f22fb083"
+            },
+            {
+              "doc_id": "9fe5dd46-65f5-4559-afa7-b860a9ca806b"
+            },
+            {
+              "doc_id": "a85a67fb-9566-447d-bea9-a42a8354c9e0"
+            },
+            {
+              "doc_id": "c17472a0-acb4-4dca-bc05-b1b9f2aa6aca"
+            },
+            {
+              "doc_id": "c9820606-c025-4b45-af3e-e9da2989de57"
+            },
+            {
+              "doc_id": "cff91cf5-3d02-4c44-9159-eab5f7d9dc92"
+            },
+            {
+              "doc_id": "ed1c3962-b13d-4ea3-adb4-13b960f97b52"
+            },
+            {
+              "doc_id": "ed1e1ed3-15d7-49ac-ae63-b37737213194"
+            }
+          ]
+        }
+      },
+      "question_id": "c13b38528854c1cda7708ab5deb774f1",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.717253+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Whom did the families of the deceased sue in the Supreme Court of the Canadian province of Ontario?": {
+      "question": "Whom did the families of the deceased sue in the Supreme Court of the Canadian province of Ontario?",
+      "answers": {
+        "Leaders of the Islamic State": {
+          "answer": "Leaders of the Islamic State",
+          "references": [
+            {
+              "doc_id": "ed1e1ed3-15d7-49ac-ae63-b37737213194"
+            }
+          ]
+        },
+        "Iran's Supreme Leader Ayatollah Ali Khamenei": {
+          "answer": "Iran's Supreme Leader Ayatollah Ali Khamenei",
+          "references": [
+            {
+              "doc_id": "16ede3c2-2fe2-4237-9be2-15174835bb4c"
+            },
+            {
+              "doc_id": "2c64f314-bc23-4d85-93e8-0fffa1e31b2f"
+            },
+            {
+              "doc_id": "3390eae6-76d9-4327-b2d3-fed9227a6eb1"
+            },
+            {
+              "doc_id": "34cbd4b5-9689-4af9-a8ce-7efce4bb1fa0"
+            },
+            {
+              "doc_id": "49287886-48f2-4d6b-8eb4-f0e88fcd25ff"
+            },
+            {
+              "doc_id": "6786d93b-a604-4af1-8c53-8fd7e7cae79b"
+            },
+            {
+              "doc_id": "90e0ef5f-9d8c-487b-b894-8526301610c2"
+            },
+            {
+              "doc_id": "9c7119d5-85bf-4985-89b6-5bed6130d755"
+            },
+            {
+              "doc_id": "c17472a0-acb4-4dca-bc05-b1b9f2aa6aca"
+            },
+            {
+              "doc_id": "c9820606-c025-4b45-af3e-e9da2989de57"
+            },
+            {
+              "doc_id": "ed1c3962-b13d-4ea3-adb4-13b960f97b52"
+            },
+            {
+              "doc_id": "ed1e1ed3-15d7-49ac-ae63-b37737213194"
+            }
+          ]
+        },
+        "Top commanders of the Islamic Revolutionary Guard Corps": {
+          "answer": "Top commanders of the Islamic Revolutionary Guard Corps",
+          "references": [
+            {
+              "doc_id": "3390eae6-76d9-4327-b2d3-fed9227a6eb1"
+            },
+            {
+              "doc_id": "ed1c3962-b13d-4ea3-adb4-13b960f97b52"
+            },
+            {
+              "doc_id": "ed1e1ed3-15d7-49ac-ae63-b37737213194"
+            }
+          ]
+        },
+        "IRGC": {
+          "answer": "IRGC",
+          "references": [
+            {
+              "doc_id": "2c64f314-bc23-4d85-93e8-0fffa1e31b2f"
+            }
+          ]
+        },
+        "Armed Forces": {
+          "answer": "Armed Forces",
+          "references": [
+            {
+              "doc_id": "2c64f314-bc23-4d85-93e8-0fffa1e31b2f"
+            }
+          ]
+        },
+        "Amir Ali Hajizadeh, the commander of the IRGC Aerospace Forces": {
+          "answer": "Amir Ali Hajizadeh, the commander of the IRGC Aerospace Forces",
+          "references": [
+            {
+              "doc_id": "3690ec3d-22a9-44f3-b13a-407ed9ea96c6"
+            },
+            {
+              "doc_id": "49287886-48f2-4d6b-8eb4-f0e88fcd25ff"
+            },
+            {
+              "doc_id": "90e0ef5f-9d8c-487b-b894-8526301610c2"
+            },
+            {
+              "doc_id": "95ad81d2-ffe1-4e5a-b120-8583cb0d120f"
+            },
+            {
+              "doc_id": "9c7119d5-85bf-4985-89b6-5bed6130d755"
+            },
+            {
+              "doc_id": "fda90c18-0ab2-4bc6-b3c3-906307ac8630"
+            }
+          ]
+        },
+        "Ali Shamkhani, the secretary of the Supreme National Security Council of Iran": {
+          "answer": "Ali Shamkhani, the secretary of the Supreme National Security Council of Iran",
+          "references": [
+            {
+              "doc_id": "3690ec3d-22a9-44f3-b13a-407ed9ea96c6"
+            },
+            {
+              "doc_id": "9c7119d5-85bf-4985-89b6-5bed6130d755"
+            },
+            {
+              "doc_id": "fda90c18-0ab2-4bc6-b3c3-906307ac8630"
+            }
+          ]
+        },
+        "Hossein Salami, the commander-in-chief of the Islamic Revolutionary Guard Corps": {
+          "answer": "Hossein Salami, the commander-in-chief of the Islamic Revolutionary Guard Corps",
+          "references": [
+            {
+              "doc_id": "3690ec3d-22a9-44f3-b13a-407ed9ea96c6"
+            },
+            {
+              "doc_id": "90e0ef5f-9d8c-487b-b894-8526301610c2"
+            },
+            {
+              "doc_id": "95ad81d2-ffe1-4e5a-b120-8583cb0d120f"
+            },
+            {
+              "doc_id": "9c7119d5-85bf-4985-89b6-5bed6130d755"
+            },
+            {
+              "doc_id": "fda90c18-0ab2-4bc6-b3c3-906307ac8630"
+            }
+          ]
+        },
+        "Mohammad Hossein Bagheri, the Chief of Staff of the Armed Forces of the Islamic Republic of Iran": {
+          "answer": "Mohammad Hossein Bagheri, the Chief of Staff of the Armed Forces of the Islamic Republic of Iran",
+          "references": [
+            {
+              "doc_id": "3690ec3d-22a9-44f3-b13a-407ed9ea96c6"
+            },
+            {
+              "doc_id": "90e0ef5f-9d8c-487b-b894-8526301610c2"
+            },
+            {
+              "doc_id": "95ad81d2-ffe1-4e5a-b120-8583cb0d120f"
+            },
+            {
+              "doc_id": "9c7119d5-85bf-4985-89b6-5bed6130d755"
+            },
+            {
+              "doc_id": "fda90c18-0ab2-4bc6-b3c3-906307ac8630"
+            }
+          ]
+        },
+        "Commander in chief of The Islamic Republic of Iran Army": {
+          "answer": "Commander in chief of The Islamic Republic of Iran Army",
+          "references": [
+            {
+              "doc_id": "90e0ef5f-9d8c-487b-b894-8526301610c2"
+            },
+            {
+              "doc_id": "95ad81d2-ffe1-4e5a-b120-8583cb0d120f"
+            },
+            {
+              "doc_id": "9c7119d5-85bf-4985-89b6-5bed6130d755"
+            }
+          ]
+        },
+        "Iran": {
+          "answer": "Iran",
+          "references": [
+            {
+              "doc_id": "16ede3c2-2fe2-4237-9be2-15174835bb4c"
+            },
+            {
+              "doc_id": "3390eae6-76d9-4327-b2d3-fed9227a6eb1"
+            },
+            {
+              "doc_id": "34cbd4b5-9689-4af9-a8ce-7efce4bb1fa0"
+            },
+            {
+              "doc_id": "6786d93b-a604-4af1-8c53-8fd7e7cae79b"
+            },
+            {
+              "doc_id": "6e326518-20af-494e-b5e3-303d0aec0b95"
+            },
+            {
+              "doc_id": "c9820606-c025-4b45-af3e-e9da2989de57"
+            },
+            {
+              "doc_id": "eb3f4a38-8e55-4aa6-8a36-cd57b023dc11"
+            }
+          ]
+        },
+        "Islamic Revolutionary Guard Corps": {
+          "answer": "Islamic Revolutionary Guard Corps",
+          "references": [
+            {
+              "doc_id": "16ede3c2-2fe2-4237-9be2-15174835bb4c"
+            },
+            {
+              "doc_id": "34cbd4b5-9689-4af9-a8ce-7efce4bb1fa0"
+            },
+            {
+              "doc_id": "c9820606-c025-4b45-af3e-e9da2989de57"
+            }
+          ]
+        },
+        "Iran's Armed Forces": {
+          "answer": "Iran's Armed Forces",
+          "references": [
+            {
+              "doc_id": "16ede3c2-2fe2-4237-9be2-15174835bb4c"
+            },
+            {
+              "doc_id": "34cbd4b5-9689-4af9-a8ce-7efce4bb1fa0"
+            },
+            {
+              "doc_id": "c17472a0-acb4-4dca-bc05-b1b9f2aa6aca"
+            },
+            {
+              "doc_id": "c9820606-c025-4b45-af3e-e9da2989de57"
+            }
+          ]
+        },
+        "Iran's high rank military officials": {
+          "answer": "Iran's high rank military officials",
+          "references": [
+            {
+              "doc_id": "6786d93b-a604-4af1-8c53-8fd7e7cae79b"
+            },
+            {
+              "doc_id": "c17472a0-acb4-4dca-bc05-b1b9f2aa6aca"
+            }
+          ]
+        },
+        "Iranian Government": {
+          "answer": "Iranian Government",
+          "references": [
+            {
+              "doc_id": "58eac949-f095-41ea-84e4-b617ded2214b"
+            },
+            {
+              "doc_id": "a85a67fb-9566-447d-bea9-a42a8354c9e0"
+            },
+            {
+              "doc_id": "cff91cf5-3d02-4c44-9159-eab5f7d9dc92"
+            }
+          ]
+        }
+      },
+      "question_id": "822b2c2eb087ebd42cb1f204873715d1",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.717449+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What was the amount of the compensation sought at the time of filing the lawsuit at the Supreme Court of Ontario by the families of those killed in the plane crash??": {
+      "question": "What was the amount of the compensation sought at the time of filing the lawsuit at the Supreme Court of Ontario by the families of those killed in the plane crash??",
+      "answers": {
+        "$1.2 billion": {
+          "answer": "$1.2 billion",
+          "references": [
+            {
+              "doc_id": "ed1c3962-b13d-4ea3-adb4-13b960f97b52"
+            },
+            {
+              "doc_id": "ed1e1ed3-15d7-49ac-ae63-b37737213194"
+            }
+          ]
+        },
+        "1.5 billion Canadian dollars": {
+          "answer": "1.5 billion Canadian dollars",
+          "references": [
+            {
+              "doc_id": "2c64f314-bc23-4d85-93e8-0fffa1e31b2f"
+            },
+            {
+              "doc_id": "49287886-48f2-4d6b-8eb4-f0e88fcd25ff"
+            },
+            {
+              "doc_id": "9ba887a5-5565-4009-98bd-cecdbf8702f2"
+            }
+          ]
+        },
+        "$1.1 billion": {
+          "answer": "$1.1 billion",
+          "references": [
+            {
+              "doc_id": "3bf8c47e-26ce-4114-b1e9-a6581a56d76a"
+            },
+            {
+              "doc_id": "49287886-48f2-4d6b-8eb4-f0e88fcd25ff"
+            },
+            {
+              "doc_id": "6786d93b-a604-4af1-8c53-8fd7e7cae79b"
+            },
+            {
+              "doc_id": "9b979f50-54cc-43b8-a665-db70f22fb083"
+            },
+            {
+              "doc_id": "9ba887a5-5565-4009-98bd-cecdbf8702f2"
+            }
+          ]
+        },
+        "$1.25 billion": {
+          "answer": "$1.25 billion",
+          "references": [
+            {
+              "doc_id": "a2c0bd4b-8092-4d69-9c61-d4aba9a3dce7"
+            }
+          ]
+        },
+        "Can$ 1.5 billion": {
+          "answer": "Can$ 1.5 billion",
+          "references": [
+            {
+              "doc_id": "58eac949-f095-41ea-84e4-b617ded2214b"
+            },
+            {
+              "doc_id": "a85a67fb-9566-447d-bea9-a42a8354c9e0"
+            },
+            {
+              "doc_id": "cff91cf5-3d02-4c44-9159-eab5f7d9dc92"
+            }
+          ]
+        }
+      },
+      "question_id": "03d2f235d8a5105852e2b30f4f330771",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.717509+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What did the Ontario Supreme Court classify the shooting down of Flight 752 as in its ruling?": {
+      "question": "What did the Ontario Supreme Court classify the shooting down of Flight 752 as in its ruling?",
+      "answers": {
+        "An act of terrorism": {
+          "answer": "An act of terrorism",
+          "references": [
+            {
+              "doc_id": "00f4b5be-8cf6-4e28-a34a-0a66c2a6b50f"
+            },
+            {
+              "doc_id": "16ede3c2-2fe2-4237-9be2-15174835bb4c"
+            },
+            {
+              "doc_id": "260eb25d-d1a1-47a4-912f-f5f5dc967953"
+            },
+            {
+              "doc_id": "275df138-53f5-4746-8374-17577e485adb"
+            },
+            {
+              "doc_id": "2c64f314-bc23-4d85-93e8-0fffa1e31b2f"
+            },
+            {
+              "doc_id": "3148a778-26c4-4f07-b7e1-fee86f036225"
+            },
+            {
+              "doc_id": "34cbd4b5-9689-4af9-a8ce-7efce4bb1fa0"
+            },
+            {
+              "doc_id": "35a96ddb-2839-4b0e-a73e-ffe8b65c7c29"
+            },
+            {
+              "doc_id": "3690ec3d-22a9-44f3-b13a-407ed9ea96c6"
+            },
+            {
+              "doc_id": "41e8ca94-05a5-440f-bea8-4ae04344abe8"
+            },
+            {
+              "doc_id": "49287886-48f2-4d6b-8eb4-f0e88fcd25ff"
+            },
+            {
+              "doc_id": "4d903d5e-948e-40e9-b4ae-4012de19c16e"
+            },
+            {
+              "doc_id": "53194602-60fe-4ac7-98b4-d1c2f1177550"
+            },
+            {
+              "doc_id": "58eac949-f095-41ea-84e4-b617ded2214b"
+            },
+            {
+              "doc_id": "6e326518-20af-494e-b5e3-303d0aec0b95"
+            },
+            {
+              "doc_id": "6e70b44b-0fd9-4cee-bfce-255188922e43"
+            },
+            {
+              "doc_id": "754b609f-18a6-4ff0-aa10-f7bbb8639adb"
+            },
+            {
+              "doc_id": "89e3e4c7-7711-41f3-8a82-de46a08cd162"
+            },
+            {
+              "doc_id": "8d6c6c7e-13b7-4aad-bed0-227915806d08"
+            },
+            {
+              "doc_id": "8e09df11-90c5-4a4b-be46-99727a1e6dbb"
+            },
+            {
+              "doc_id": "8f8c8511-bc24-4908-88b6-c52c77220fb1"
+            },
+            {
+              "doc_id": "90e0ef5f-9d8c-487b-b894-8526301610c2"
+            },
+            {
+              "doc_id": "95ad81d2-ffe1-4e5a-b120-8583cb0d120f"
+            },
+            {
+              "doc_id": "978ce7c3-092e-4e6c-9664-acaa097a4275"
+            },
+            {
+              "doc_id": "99a07458-1929-4677-a3e1-d065be5725e0"
+            },
+            {
+              "doc_id": "9c7119d5-85bf-4985-89b6-5bed6130d755"
+            },
+            {
+              "doc_id": "9fe5dd46-65f5-4559-afa7-b860a9ca806b"
+            },
+            {
+              "doc_id": "a2c0bd4b-8092-4d69-9c61-d4aba9a3dce7"
+            },
+            {
+              "doc_id": "a31aef2b-67fa-40c2-83fc-86ae11a6c8fc"
+            },
+            {
+              "doc_id": "a85a67fb-9566-447d-bea9-a42a8354c9e0"
+            },
+            {
+              "doc_id": "c17472a0-acb4-4dca-bc05-b1b9f2aa6aca"
+            },
+            {
+              "doc_id": "c6978192-ccaf-47af-a78d-1aec68550002"
+            },
+            {
+              "doc_id": "c91d0193-1b4d-439c-9e5b-d0ca846af324"
+            },
+            {
+              "doc_id": "c9820606-c025-4b45-af3e-e9da2989de57"
+            },
+            {
+              "doc_id": "cc0dc58e-a27f-4a0e-917a-ac3d0c184b54"
+            },
+            {
+              "doc_id": "cc7c17cd-f56b-4e24-a4e5-b0f38a243d6c"
+            },
+            {
+              "doc_id": "cff91cf5-3d02-4c44-9159-eab5f7d9dc92"
+            },
+            {
+              "doc_id": "e3deebea-061c-4bf3-9029-8e943b792bd7"
+            },
+            {
+              "doc_id": "eb3f4a38-8e55-4aa6-8a36-cd57b023dc11"
+            },
+            {
+              "doc_id": "ed1c3962-b13d-4ea3-adb4-13b960f97b52"
+            },
+            {
+              "doc_id": "ed650184-5de4-4c8d-9051-654ba92458bd"
+            },
+            {
+              "doc_id": "fc0cd14c-0092-484f-8b65-1c366b728665"
+            }
+          ]
+        },
+        "Deliberate": {
+          "answer": "Deliberate",
+          "references": [
+            {
+              "doc_id": "35a96ddb-2839-4b0e-a73e-ffe8b65c7c29"
+            },
+            {
+              "doc_id": "41e8ca94-05a5-440f-bea8-4ae04344abe8"
+            },
+            {
+              "doc_id": "53194602-60fe-4ac7-98b4-d1c2f1177550"
+            },
+            {
+              "doc_id": "6e70b44b-0fd9-4cee-bfce-255188922e43"
+            },
+            {
+              "doc_id": "754b609f-18a6-4ff0-aa10-f7bbb8639adb"
+            },
+            {
+              "doc_id": "8d6c6c7e-13b7-4aad-bed0-227915806d08"
+            },
+            {
+              "doc_id": "95ad81d2-ffe1-4e5a-b120-8583cb0d120f"
+            },
+            {
+              "doc_id": "978ce7c3-092e-4e6c-9664-acaa097a4275"
+            },
+            {
+              "doc_id": "9c7119d5-85bf-4985-89b6-5bed6130d755"
+            },
+            {
+              "doc_id": "a31aef2b-67fa-40c2-83fc-86ae11a6c8fc"
+            },
+            {
+              "doc_id": "c6978192-ccaf-47af-a78d-1aec68550002"
+            },
+            {
+              "doc_id": "c91d0193-1b4d-439c-9e5b-d0ca846af324"
+            },
+            {
+              "doc_id": "cc7c17cd-f56b-4e24-a4e5-b0f38a243d6c"
+            },
+            {
+              "doc_id": "ed650184-5de4-4c8d-9051-654ba92458bd"
+            }
+          ]
+        }
+      },
+      "question_id": "1433e60810f9efb74413ee42003f33d0",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.717615+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Whose opinion was the Ontario Supreme Court's decision based on?": {
+      "question": "Whose opinion was the Ontario Supreme Court's decision based on?",
+      "answers": {
+        "Experts": {
+          "answer": "Experts",
+          "references": [
+            {
+              "doc_id": "00f4b5be-8cf6-4e28-a34a-0a66c2a6b50f"
+            },
+            {
+              "doc_id": "16ede3c2-2fe2-4237-9be2-15174835bb4c"
+            },
+            {
+              "doc_id": "260eb25d-d1a1-47a4-912f-f5f5dc967953"
+            },
+            {
+              "doc_id": "34cbd4b5-9689-4af9-a8ce-7efce4bb1fa0"
+            },
+            {
+              "doc_id": "6e326518-20af-494e-b5e3-303d0aec0b95"
+            },
+            {
+              "doc_id": "89e3e4c7-7711-41f3-8a82-de46a08cd162"
+            },
+            {
+              "doc_id": "8e09df11-90c5-4a4b-be46-99727a1e6dbb"
+            },
+            {
+              "doc_id": "9fe5dd46-65f5-4559-afa7-b860a9ca806b"
+            },
+            {
+              "doc_id": "c9820606-c025-4b45-af3e-e9da2989de57"
+            },
+            {
+              "doc_id": "eb3f4a38-8e55-4aa6-8a36-cd57b023dc11"
+            }
+          ]
+        },
+        "Two experts": {
+          "answer": "Two experts",
+          "references": [
+            {
+              "doc_id": "00f4b5be-8cf6-4e28-a34a-0a66c2a6b50f"
+            },
+            {
+              "doc_id": "16ede3c2-2fe2-4237-9be2-15174835bb4c"
+            },
+            {
+              "doc_id": "260eb25d-d1a1-47a4-912f-f5f5dc967953"
+            },
+            {
+              "doc_id": "34cbd4b5-9689-4af9-a8ce-7efce4bb1fa0"
+            },
+            {
+              "doc_id": "6e326518-20af-494e-b5e3-303d0aec0b95"
+            },
+            {
+              "doc_id": "89e3e4c7-7711-41f3-8a82-de46a08cd162"
+            },
+            {
+              "doc_id": "8e09df11-90c5-4a4b-be46-99727a1e6dbb"
+            },
+            {
+              "doc_id": "9fe5dd46-65f5-4559-afa7-b860a9ca806b"
+            },
+            {
+              "doc_id": "c9820606-c025-4b45-af3e-e9da2989de57"
+            },
+            {
+              "doc_id": "cc7c17cd-f56b-4e24-a4e5-b0f38a243d6c"
+            },
+            {
+              "doc_id": "eb3f4a38-8e55-4aa6-8a36-cd57b023dc11"
+            }
+          ]
+        },
+        "Family members of victims": {
+          "answer": "Family members of victims",
+          "references": [
+            {
+              "doc_id": "58eac949-f095-41ea-84e4-b617ded2214b"
+            },
+            {
+              "doc_id": "cff91cf5-3d02-4c44-9159-eab5f7d9dc92"
+            }
+          ]
+        }
+      },
+      "question_id": "3c318761dff3f6fb2270ee6be6645e82",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.717684+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What did an expert in the Ontario Supreme court conclude about the actions of the Iranian Revolutionary Guards?": {
+      "question": "What did an expert in the Ontario Supreme court conclude about the actions of the Iranian Revolutionary Guards?",
+      "answers": {
+        "aware of the civilian nature of the aircraft": {
+          "answer": "aware of the civilian nature of the aircraft",
+          "references": [
+            {
+              "doc_id": "00f4b5be-8cf6-4e28-a34a-0a66c2a6b50f"
+            },
+            {
+              "doc_id": "16ede3c2-2fe2-4237-9be2-15174835bb4c"
+            },
+            {
+              "doc_id": "260eb25d-d1a1-47a4-912f-f5f5dc967953"
+            },
+            {
+              "doc_id": "34cbd4b5-9689-4af9-a8ce-7efce4bb1fa0"
+            },
+            {
+              "doc_id": "6e326518-20af-494e-b5e3-303d0aec0b95"
+            },
+            {
+              "doc_id": "8e09df11-90c5-4a4b-be46-99727a1e6dbb"
+            },
+            {
+              "doc_id": "9fe5dd46-65f5-4559-afa7-b860a9ca806b"
+            },
+            {
+              "doc_id": "c9820606-c025-4b45-af3e-e9da2989de57"
+            },
+            {
+              "doc_id": "eb3f4a38-8e55-4aa6-8a36-cd57b023dc11"
+            }
+          ]
+        },
+        "deliberately shot down the aircraft": {
+          "answer": "deliberately shot down the aircraft",
+          "references": [
+            {
+              "doc_id": "00f4b5be-8cf6-4e28-a34a-0a66c2a6b50f"
+            },
+            {
+              "doc_id": "16ede3c2-2fe2-4237-9be2-15174835bb4c"
+            },
+            {
+              "doc_id": "2c64f314-bc23-4d85-93e8-0fffa1e31b2f"
+            },
+            {
+              "doc_id": "34cbd4b5-9689-4af9-a8ce-7efce4bb1fa0"
+            },
+            {
+              "doc_id": "35a96ddb-2839-4b0e-a73e-ffe8b65c7c29"
+            },
+            {
+              "doc_id": "3690ec3d-22a9-44f3-b13a-407ed9ea96c6"
+            },
+            {
+              "doc_id": "6e326518-20af-494e-b5e3-303d0aec0b95"
+            },
+            {
+              "doc_id": "8e09df11-90c5-4a4b-be46-99727a1e6dbb"
+            },
+            {
+              "doc_id": "9fe5dd46-65f5-4559-afa7-b860a9ca806b"
+            },
+            {
+              "doc_id": "a85a67fb-9566-447d-bea9-a42a8354c9e0"
+            },
+            {
+              "doc_id": "eb3f4a38-8e55-4aa6-8a36-cd57b023dc11"
+            }
+          ]
+        },
+        "aimed to destroy the aircraft": {
+          "answer": "aimed to destroy the aircraft",
+          "references": [
+            {
+              "doc_id": "00f4b5be-8cf6-4e28-a34a-0a66c2a6b50f"
+            },
+            {
+              "doc_id": "16ede3c2-2fe2-4237-9be2-15174835bb4c"
+            },
+            {
+              "doc_id": "34cbd4b5-9689-4af9-a8ce-7efce4bb1fa0"
+            },
+            {
+              "doc_id": "8e09df11-90c5-4a4b-be46-99727a1e6dbb"
+            }
+          ]
+        }
+      },
+      "question_id": "99945e9e3ca0bac532b3467b37f4c16d",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.717752+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Based on the Ontario Supreme Court ruling, against whom did Canadian lawyers file a class action lawsuit in connection with the plane crash?": {
+      "question": "Based on the Ontario Supreme Court ruling, against whom did Canadian lawyers file a class action lawsuit in connection with the plane crash?",
+      "answers": {
+        "Iranian authorities": {
+          "answer": "Iranian authorities",
+          "references": [
+            {
+              "doc_id": "3390eae6-76d9-4327-b2d3-fed9227a6eb1"
+            },
+            {
+              "doc_id": "34cbd4b5-9689-4af9-a8ce-7efce4bb1fa0"
+            },
+            {
+              "doc_id": "58eac949-f095-41ea-84e4-b617ded2214b"
+            },
+            {
+              "doc_id": "9b979f50-54cc-43b8-a665-db70f22fb083"
+            },
+            {
+              "doc_id": "a85a67fb-9566-447d-bea9-a42a8354c9e0"
+            }
+          ]
+        }
+      },
+      "question_id": "b352cd4149c910a9d07f7dde74cd011b",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.717784+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What amount of reparations did Canadian lawyers seek in the class action lawsuit against the Iranian authorities?": {
+      "question": "What amount of reparations did Canadian lawyers seek in the class action lawsuit against the Iranian authorities?",
+      "answers": {
+        "1.1 billion US dollars": {
+          "answer": "1.1 billion US dollars",
+          "references": [
+            {
+              "doc_id": "3390eae6-76d9-4327-b2d3-fed9227a6eb1"
+            },
+            {
+              "doc_id": "3bf8c47e-26ce-4114-b1e9-a6581a56d76a"
+            },
+            {
+              "doc_id": "6786d93b-a604-4af1-8c53-8fd7e7cae79b"
+            },
+            {
+              "doc_id": "9b979f50-54cc-43b8-a665-db70f22fb083"
+            },
+            {
+              "doc_id": "a06fe822-85d0-4d61-a535-fd72d45aaa95"
+            }
+          ]
+        },
+        "1.5 billion Canadian dollars": {
+          "answer": "1.5 billion Canadian dollars",
+          "references": [
+            {
+              "doc_id": "3390eae6-76d9-4327-b2d3-fed9227a6eb1"
+            },
+            {
+              "doc_id": "49287886-48f2-4d6b-8eb4-f0e88fcd25ff"
+            },
+            {
+              "doc_id": "58eac949-f095-41ea-84e4-b617ded2214b"
+            },
+            {
+              "doc_id": "a06fe822-85d0-4d61-a535-fd72d45aaa95"
+            },
+            {
+              "doc_id": "a85a67fb-9566-447d-bea9-a42a8354c9e0"
+            },
+            {
+              "doc_id": "cff91cf5-3d02-4c44-9159-eab5f7d9dc92"
+            }
+          ]
+        }
+      },
+      "question_id": "0c9e7748c06b3d7a60e644cecfcb55f3",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.717823+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Why was the name of the lead plaintiff withheld in the class action lawsuit against Iranian authorities?": {
+      "question": "Why was the name of the lead plaintiff withheld in the class action lawsuit against Iranian authorities?",
+      "answers": {
+        "a risk of persecution for plaintiff's family in Iran": {
+          "answer": "a risk of persecution for plaintiff's family in Iran",
+          "references": [
+            {
+              "doc_id": "3390eae6-76d9-4327-b2d3-fed9227a6eb1"
+            },
+            {
+              "doc_id": "49287886-48f2-4d6b-8eb4-f0e88fcd25ff"
+            }
+          ]
+        }
+      },
+      "question_id": "548b5044da5ab8a4c29f06f335e7c713",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.717848+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Why did Iranian authorities state the Ontario Supreme Court had no jurisdiction over the shooting of the Ukrainian plane by Iranian military?": {
+      "question": "Why did Iranian authorities state the Ontario Supreme Court had no jurisdiction over the shooting of the Ukrainian plane by Iranian military?",
+      "answers": {
+        "The downing of the aircraft occurred outside of Canada": {
+          "answer": "The downing of the aircraft occurred outside of Canada",
+          "references": [
+            {
+              "doc_id": "20c81881-7d86-4433-8ab9-ba3801989595"
+            },
+            {
+              "doc_id": "244fd986-798c-4442-8b88-86294af6150c"
+            },
+            {
+              "doc_id": "2c64f314-bc23-4d85-93e8-0fffa1e31b2f"
+            },
+            {
+              "doc_id": "34cbd4b5-9689-4af9-a8ce-7efce4bb1fa0"
+            },
+            {
+              "doc_id": "41e8ca94-05a5-440f-bea8-4ae04344abe8"
+            },
+            {
+              "doc_id": "4d903d5e-948e-40e9-b4ae-4012de19c16e"
+            },
+            {
+              "doc_id": "6e70b44b-0fd9-4cee-bfce-255188922e43"
+            },
+            {
+              "doc_id": "8316645d-7730-465f-968e-592c8538db75"
+            },
+            {
+              "doc_id": "89e3e4c7-7711-41f3-8a82-de46a08cd162"
+            },
+            {
+              "doc_id": "90e0ef5f-9d8c-487b-b894-8526301610c2"
+            },
+            {
+              "doc_id": "978ce7c3-092e-4e6c-9664-acaa097a4275"
+            },
+            {
+              "doc_id": "99a07458-1929-4677-a3e1-d065be5725e0"
+            },
+            {
+              "doc_id": "9c7119d5-85bf-4985-89b6-5bed6130d755"
+            },
+            {
+              "doc_id": "9fe5dd46-65f5-4559-afa7-b860a9ca806b"
+            },
+            {
+              "doc_id": "a31aef2b-67fa-40c2-83fc-86ae11a6c8fc"
+            },
+            {
+              "doc_id": "aead2d0f-6e09-4d39-a4cb-2479396249af"
+            },
+            {
+              "doc_id": "e3deebea-061c-4bf3-9029-8e943b792bd7"
+            },
+            {
+              "doc_id": "ed1e1ed3-15d7-49ac-ae63-b37737213194"
+            }
+          ]
+        }
+      },
+      "question_id": "f123c845c73ea670810cda70ee70475d",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.717890+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "According to a 2012 Canadian law, to which foreign countries does Canadian jurisdiction apply?": {
+      "question": "According to a 2012 Canadian law, to which foreign countries does Canadian jurisdiction apply?",
+      "answers": {
+        "applies to countries designated as \u201cforeign state sponsors of terrorism\u201d": {
+          "answer": "applies to countries designated as \u201cforeign state sponsors of terrorism\u201d",
+          "references": [
+            {
+              "doc_id": "49287886-48f2-4d6b-8eb4-f0e88fcd25ff"
+            },
+            {
+              "doc_id": "53194602-60fe-4ac7-98b4-d1c2f1177550"
+            },
+            {
+              "doc_id": "ed1c3962-b13d-4ea3-adb4-13b960f97b52"
+            },
+            {
+              "doc_id": "ed1e1ed3-15d7-49ac-ae63-b37737213194"
+            }
+          ]
+        }
+      },
+      "question_id": "fff6835c16865441116bc2b0a3c738d8",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.717915+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Why does Canadian jurisdiction apply to Iran?": {
+      "question": "Why does Canadian jurisdiction apply to Iran?",
+      "answers": {
+        "Iran is on its list of \"foreign state sponsors of terrorism\"": {
+          "answer": "Iran is on its list of \"foreign state sponsors of terrorism\"",
+          "references": [
+            {
+              "doc_id": "49287886-48f2-4d6b-8eb4-f0e88fcd25ff"
+            },
+            {
+              "doc_id": "ed1c3962-b13d-4ea3-adb4-13b960f97b52"
+            },
+            {
+              "doc_id": "ed1e1ed3-15d7-49ac-ae63-b37737213194"
+            }
+          ]
+        }
+      },
+      "question_id": "eef58f67520743110233682d8cdeaebf",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.717937+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What makes seeking reparations from Iran a lengthy and complex process for Canada?": {
+      "question": "What makes seeking reparations from Iran a lengthy and complex process for Canada?",
+      "answers": {
+        "Canada not having diplomatic relations with Iran": {
+          "answer": "Canada not having diplomatic relations with Iran",
+          "references": [
+            {
+              "doc_id": "c17472a0-acb4-4dca-bc05-b1b9f2aa6aca"
+            },
+            {
+              "doc_id": "ed1c3962-b13d-4ea3-adb4-13b960f97b52"
+            },
+            {
+              "doc_id": "ed1e1ed3-15d7-49ac-ae63-b37737213194"
+            }
+          ]
+        }
+      },
+      "question_id": "09c97f3a5a6cc8632b3ea9f313bbc288",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.717986+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What was the reaction of the Iranian Foreign Minister to the Canadian lawyers\u2019 demands for payments in their class action lawsuit?": {
+      "question": "What was the reaction of the Iranian Foreign Minister to the Canadian lawyers\u2019 demands for payments in their class action lawsuit?",
+      "answers": {
+        "the Iranian Foreign Minister rejected the Canadian lawyers\u2019 demands": {
+          "answer": "the Iranian Foreign Minister rejected the Canadian lawyers\u2019 demands",
+          "references": [
+            {
+              "doc_id": "3390eae6-76d9-4327-b2d3-fed9227a6eb1"
+            },
+            {
+              "doc_id": "9b979f50-54cc-43b8-a665-db70f22fb083"
+            },
+            {
+              "doc_id": "9fe5dd46-65f5-4559-afa7-b860a9ca806b"
+            }
+          ]
+        }
+      },
+      "question_id": "930c21b14bfc338df566284a0e440b32",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.718011+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Why did the Iranian Foreign Minister reject the demands for payments from the Canadian lawyers?": {
+      "question": "Why did the Iranian Foreign Minister reject the demands for payments from the Canadian lawyers?",
+      "answers": {
+        "on the grounds of the demands having no basis": {
+          "answer": "on the grounds of the demands having no basis",
+          "references": [
+            {
+              "doc_id": "2c64f314-bc23-4d85-93e8-0fffa1e31b2f"
+            },
+            {
+              "doc_id": "3390eae6-76d9-4327-b2d3-fed9227a6eb1"
+            },
+            {
+              "doc_id": "34cbd4b5-9689-4af9-a8ce-7efce4bb1fa0"
+            },
+            {
+              "doc_id": "3bf8c47e-26ce-4114-b1e9-a6581a56d76a"
+            },
+            {
+              "doc_id": "47e0e10a-74c4-4be1-869f-1d03cd453493"
+            },
+            {
+              "doc_id": "89e3e4c7-7711-41f3-8a82-de46a08cd162"
+            }
+          ]
+        }
+      },
+      "question_id": "07710e6297e064b6d91d9187d0917da3",
+      "aggregator_type": "OR",
+      "query_id": "377",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.718038+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

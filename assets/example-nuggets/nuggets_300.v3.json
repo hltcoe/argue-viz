@@ -1,0 +1,3151 @@
+{
+  "query_id": "300",
+  "title_query": "Japan suicide rate COVID-19",
+  "full_query": "I need a report on suicide rates in Japan during the COVID-19 pandemic.  This would include cases in which the pandemic is identified as a causal factor, but also other factors from that period even if not clearly associated with the pandemic.  I am not looking for information on suicide rates in Japan more generally, however, unless that is used as a basis for comparison with rates during the pandemic.",
+  "full_background": "I am a researcher at the National Institutes of Health charged with studying the impact of the coronavirus pandemic on suicide rates in Japan.",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "How many years has it been since Japan had the same high suicide rate as it did during the COVID 19 pandemic?": {
+      "question": "How many years has it been since Japan had the same high suicide rate as it did during the COVID 19 pandemic?",
+      "answers": {
+        "More than 10": {
+          "answer": "More than 10",
+          "references": [
+            {
+              "doc_id": "08fe5abc-c7b5-4b2a-966b-a86a17e8c133"
+            },
+            {
+              "doc_id": "1e39c7d0-89a1-4590-9556-d67a78b9903e"
+            },
+            {
+              "doc_id": "23435d31-41f2-4af9-b68f-c7fba9542cb8"
+            },
+            {
+              "doc_id": "27164e1c-9793-4506-8069-cb44d5f967c3"
+            },
+            {
+              "doc_id": "335f101d-ccfb-43e9-bfe4-276d18313dae"
+            },
+            {
+              "doc_id": "44b5a209-4f36-459e-98f5-5d4777fc3b6e"
+            },
+            {
+              "doc_id": "4be7d12e-2c52-457a-b343-cf75fe1fcf76"
+            },
+            {
+              "doc_id": "53882109-3da6-4eb2-aa83-e2596676ff6c"
+            },
+            {
+              "doc_id": "56b44b0f-fd8d-4d81-bae9-7f8d80e6b745"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "73fd4154-e827-4494-acd4-bbfbb05882f8"
+            },
+            {
+              "doc_id": "78dcb179-1642-4d96-a52c-0b02391fc5f9"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            },
+            {
+              "doc_id": "91ab57a5-8cb9-4ddb-baa8-b1f0a302bde2"
+            },
+            {
+              "doc_id": "92cc4841-9dc4-4fb9-827d-1cc18c88cae0"
+            },
+            {
+              "doc_id": "940572fb-8b1d-4647-8eaa-2f8f5f4acf52"
+            },
+            {
+              "doc_id": "b79adcac-a9f0-4c1d-a0bf-4ca2b12b1cc0"
+            },
+            {
+              "doc_id": "ba30498c-9dbf-4b1d-bbfa-bcdca4548b18"
+            },
+            {
+              "doc_id": "c0ab5c94-fd1f-4f96-8a77-0de0bcaa1e1d"
+            },
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            },
+            {
+              "doc_id": "df866869-6c9c-4d0e-9c51-3e4f437431ba"
+            },
+            {
+              "doc_id": "dfc82fdd-b654-481d-94d6-2c098801e1af"
+            },
+            {
+              "doc_id": "e1da1017-07b4-4c8a-8d88-3b30dee8d4bd"
+            },
+            {
+              "doc_id": "e2f53a89-a8de-4f43-8fec-6e846787f61f"
+            },
+            {
+              "doc_id": "ea058900-5b0a-4a83-8cdb-58631de5c852"
+            },
+            {
+              "doc_id": "ec58a81d-65d4-491a-a46c-8adde331d763"
+            }
+          ]
+        },
+        "a decade": {
+          "answer": "a decade",
+          "references": [
+            {
+              "doc_id": "56b44b0f-fd8d-4d81-bae9-7f8d80e6b745"
+            },
+            {
+              "doc_id": "6150acae-d7e3-475d-9e9e-2f17600df413"
+            },
+            {
+              "doc_id": "7e19709c-0f56-4d67-a450-d97baf8c0f00"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            }
+          ]
+        },
+        "several years": {
+          "answer": "several years",
+          "references": [
+            {
+              "doc_id": "210b7041-cda8-4ff8-99a9-3d5c08e040ee"
+            }
+          ]
+        },
+        "11": {
+          "answer": "11",
+          "references": [
+            {
+              "doc_id": "44b5a209-4f36-459e-98f5-5d4777fc3b6e"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "78dcb179-1642-4d96-a52c-0b02391fc5f9"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            },
+            {
+              "doc_id": "b79adcac-a9f0-4c1d-a0bf-4ca2b12b1cc0"
+            },
+            {
+              "doc_id": "c0ab5c94-fd1f-4f96-8a77-0de0bcaa1e1d"
+            }
+          ]
+        }
+      },
+      "question_id": "cb8a20a7ef05532c793541b8fb65e68f",
+      "aggregator_type": "OR",
+      "query_id": "300",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.622829+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How many Japanese died in 2020 as a result of suicide?": {
+      "question": "How many Japanese died in 2020 as a result of suicide?",
+      "answers": {
+        "20,919": {
+          "answer": "20,919",
+          "references": [
+            {
+              "doc_id": "1e39c7d0-89a1-4590-9556-d67a78b9903e"
+            },
+            {
+              "doc_id": "26b401fe-7a56-4f85-a091-a89c9e6721de"
+            },
+            {
+              "doc_id": "27164e1c-9793-4506-8069-cb44d5f967c3"
+            },
+            {
+              "doc_id": "44b5a209-4f36-459e-98f5-5d4777fc3b6e"
+            },
+            {
+              "doc_id": "53882109-3da6-4eb2-aa83-e2596676ff6c"
+            },
+            {
+              "doc_id": "56b44b0f-fd8d-4d81-bae9-7f8d80e6b745"
+            },
+            {
+              "doc_id": "6150acae-d7e3-475d-9e9e-2f17600df413"
+            },
+            {
+              "doc_id": "73fd4154-e827-4494-acd4-bbfbb05882f8"
+            },
+            {
+              "doc_id": "7e19709c-0f56-4d67-a450-d97baf8c0f00"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "91ab57a5-8cb9-4ddb-baa8-b1f0a302bde2"
+            },
+            {
+              "doc_id": "92cc4841-9dc4-4fb9-827d-1cc18c88cae0"
+            },
+            {
+              "doc_id": "940572fb-8b1d-4647-8eaa-2f8f5f4acf52"
+            },
+            {
+              "doc_id": "df866869-6c9c-4d0e-9c51-3e4f437431ba"
+            },
+            {
+              "doc_id": "dfc82fdd-b654-481d-94d6-2c098801e1af"
+            },
+            {
+              "doc_id": "e1da1017-07b4-4c8a-8d88-3b30dee8d4bd"
+            }
+          ]
+        },
+        "almost 21,000": {
+          "answer": "almost 21,000",
+          "references": [
+            {
+              "doc_id": "3f02f366-b762-4e6f-914d-2cc168e582c8"
+            }
+          ]
+        },
+        "20,000": {
+          "answer": "20,000",
+          "references": [
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "78dcb179-1642-4d96-a52c-0b02391fc5f9"
+            }
+          ]
+        },
+        "more than 20,900": {
+          "answer": "more than 20,900",
+          "references": [
+            {
+              "doc_id": "c0ab5c94-fd1f-4f96-8a77-0de0bcaa1e1d"
+            }
+          ]
+        },
+        "20291": {
+          "answer": "20291",
+          "references": []
+        },
+        "21000": {
+          "answer": "21000",
+          "references": [
+            {
+              "doc_id": "23435d31-41f2-4af9-b68f-c7fba9542cb8"
+            }
+          ]
+        },
+        "21081": {
+          "answer": "21081",
+          "references": [
+            {
+              "doc_id": "08fe5abc-c7b5-4b2a-966b-a86a17e8c133"
+            }
+          ]
+        },
+        "21077": {
+          "answer": "21077",
+          "references": [
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            },
+            {
+              "doc_id": "e2f53a89-a8de-4f43-8fec-6e846787f61f"
+            }
+          ]
+        }
+      },
+      "question_id": "25eb4fafbb2fc802a8f889bafae208b8",
+      "aggregator_type": "OR",
+      "query_id": "300",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.622966+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How much did the suicide rate in Japan increase in 2020 relative to 2019?": {
+      "question": "How much did the suicide rate in Japan increase in 2020 relative to 2019?",
+      "answers": {
+        "3.7%": {
+          "answer": "3.7%",
+          "references": [
+            {
+              "doc_id": "1e39c7d0-89a1-4590-9556-d67a78b9903e"
+            },
+            {
+              "doc_id": "23435d31-41f2-4af9-b68f-c7fba9542cb8"
+            },
+            {
+              "doc_id": "26b401fe-7a56-4f85-a091-a89c9e6721de"
+            },
+            {
+              "doc_id": "44b5a209-4f36-459e-98f5-5d4777fc3b6e"
+            },
+            {
+              "doc_id": "56b44b0f-fd8d-4d81-bae9-7f8d80e6b745"
+            },
+            {
+              "doc_id": "6150acae-d7e3-475d-9e9e-2f17600df413"
+            },
+            {
+              "doc_id": "73fd4154-e827-4494-acd4-bbfbb05882f8"
+            },
+            {
+              "doc_id": "78dcb179-1642-4d96-a52c-0b02391fc5f9"
+            },
+            {
+              "doc_id": "7e19709c-0f56-4d67-a450-d97baf8c0f00"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "92cc4841-9dc4-4fb9-827d-1cc18c88cae0"
+            },
+            {
+              "doc_id": "940572fb-8b1d-4647-8eaa-2f8f5f4acf52"
+            }
+          ]
+        },
+        "16% (in July-October)": {
+          "answer": "16% (in July-October)",
+          "references": [
+            {
+              "doc_id": "210b7041-cda8-4ff8-99a9-3d5c08e040ee"
+            },
+            {
+              "doc_id": "379ed495-7cc8-481b-a7cb-3eaa0421ef3f"
+            },
+            {
+              "doc_id": "68a6ccf1-ec07-4aee-ae48-e974a80ba9ca"
+            },
+            {
+              "doc_id": "e41263f6-140a-458d-b8c8-2a5a7a6ae8b2"
+            }
+          ]
+        },
+        "About 4.46%": {
+          "answer": "About 4.46%",
+          "references": []
+        },
+        "3.2%": {
+          "answer": "3.2%",
+          "references": [
+            {
+              "doc_id": "08fe5abc-c7b5-4b2a-966b-a86a17e8c133"
+            }
+          ]
+        }
+      },
+      "question_id": "8a8fb876bf8d66ce21286fa021694be7",
+      "aggregator_type": "OR",
+      "query_id": "300",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.623122+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "For which gender is suicide more common in Japan?": {
+      "question": "For which gender is suicide more common in Japan?",
+      "answers": {
+        "Men": {
+          "answer": "Men",
+          "references": [
+            {
+              "doc_id": "08fe5abc-c7b5-4b2a-966b-a86a17e8c133"
+            },
+            {
+              "doc_id": "26b401fe-7a56-4f85-a091-a89c9e6721de"
+            },
+            {
+              "doc_id": "336b2eb7-5618-4dcf-a0dd-5976b368bd9e"
+            },
+            {
+              "doc_id": "3f02f366-b762-4e6f-914d-2cc168e582c8"
+            },
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "73fd4154-e827-4494-acd4-bbfbb05882f8"
+            },
+            {
+              "doc_id": "7e19709c-0f56-4d67-a450-d97baf8c0f00"
+            },
+            {
+              "doc_id": "92cc4841-9dc4-4fb9-827d-1cc18c88cae0"
+            },
+            {
+              "doc_id": "ba30498c-9dbf-4b1d-bbfa-bcdca4548b18"
+            },
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            },
+            {
+              "doc_id": "d0614cca-1a44-4531-a44e-315dd1c295d0"
+            },
+            {
+              "doc_id": "dfc82fdd-b654-481d-94d6-2c098801e1af"
+            },
+            {
+              "doc_id": "e1da1017-07b4-4c8a-8d88-3b30dee8d4bd"
+            }
+          ]
+        },
+        "Women": {
+          "answer": "Women",
+          "references": []
+        }
+      },
+      "question_id": "d0e31ed346817f89fdc077f5d281cfc2",
+      "aggregator_type": "OR",
+      "query_id": "300",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.623180+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Which gender contributed most to the increase in the suicide rate in Japan in 2020?": {
+      "question": "Which gender contributed most to the increase in the suicide rate in Japan in 2020?",
+      "answers": {
+        "Women": {
+          "answer": "Women",
+          "references": [
+            {
+              "doc_id": "01db45e2-9407-444d-a27c-b8b6a0313ea9"
+            },
+            {
+              "doc_id": "08016395-6934-4a90-94a0-6be08f1536fd"
+            },
+            {
+              "doc_id": "0821ae4a-6de1-4d6b-b349-15236bdb24b9"
+            },
+            {
+              "doc_id": "08fe5abc-c7b5-4b2a-966b-a86a17e8c133"
+            },
+            {
+              "doc_id": "1e39c7d0-89a1-4590-9556-d67a78b9903e"
+            },
+            {
+              "doc_id": "1f25189e-507a-4fa6-8468-61437413d430"
+            },
+            {
+              "doc_id": "23435d31-41f2-4af9-b68f-c7fba9542cb8"
+            },
+            {
+              "doc_id": "26b401fe-7a56-4f85-a091-a89c9e6721de"
+            },
+            {
+              "doc_id": "27164e1c-9793-4506-8069-cb44d5f967c3"
+            },
+            {
+              "doc_id": "274e241e-74cf-4c89-a61f-6b273b385b6b"
+            },
+            {
+              "doc_id": "336b2eb7-5618-4dcf-a0dd-5976b368bd9e"
+            },
+            {
+              "doc_id": "379ed495-7cc8-481b-a7cb-3eaa0421ef3f"
+            },
+            {
+              "doc_id": "3864a0e5-8ecd-4ec6-bf9c-8c2b4b46888a"
+            },
+            {
+              "doc_id": "3d87798e-3c15-4793-91c8-a02014a7ec19"
+            },
+            {
+              "doc_id": "3f02f366-b762-4e6f-914d-2cc168e582c8"
+            },
+            {
+              "doc_id": "44b5a209-4f36-459e-98f5-5d4777fc3b6e"
+            },
+            {
+              "doc_id": "4b0655d6-fa26-43f0-9ed6-354e874587fc"
+            },
+            {
+              "doc_id": "4be7d12e-2c52-457a-b343-cf75fe1fcf76"
+            },
+            {
+              "doc_id": "56b44b0f-fd8d-4d81-bae9-7f8d80e6b745"
+            },
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "6150acae-d7e3-475d-9e9e-2f17600df413"
+            },
+            {
+              "doc_id": "68a6ccf1-ec07-4aee-ae48-e974a80ba9ca"
+            },
+            {
+              "doc_id": "73fd4154-e827-4494-acd4-bbfbb05882f8"
+            },
+            {
+              "doc_id": "7e19709c-0f56-4d67-a450-d97baf8c0f00"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            },
+            {
+              "doc_id": "8e45c80f-f63b-4eca-9976-79185811cd7d"
+            },
+            {
+              "doc_id": "904f8373-88db-4def-b28c-d4ec29c8d4de"
+            },
+            {
+              "doc_id": "91ab57a5-8cb9-4ddb-baa8-b1f0a302bde2"
+            },
+            {
+              "doc_id": "9208c414-4040-4667-a195-37723c8b57b3"
+            },
+            {
+              "doc_id": "92cc4841-9dc4-4fb9-827d-1cc18c88cae0"
+            },
+            {
+              "doc_id": "940572fb-8b1d-4647-8eaa-2f8f5f4acf52"
+            },
+            {
+              "doc_id": "96e9dbd4-75ff-4ce5-bac3-a62f9a3ffef7"
+            },
+            {
+              "doc_id": "9b88d9ad-7d39-4ccd-925a-fb313b2cd4b3"
+            },
+            {
+              "doc_id": "9fd63610-ddf2-4f60-b164-788b8674444d"
+            },
+            {
+              "doc_id": "ac5eebe9-5a40-4f08-a14a-797595284000"
+            },
+            {
+              "doc_id": "b79adcac-a9f0-4c1d-a0bf-4ca2b12b1cc0"
+            },
+            {
+              "doc_id": "ba30498c-9dbf-4b1d-bbfa-bcdca4548b18"
+            },
+            {
+              "doc_id": "c0ab5c94-fd1f-4f96-8a77-0de0bcaa1e1d"
+            },
+            {
+              "doc_id": "c81fec68-c6c8-4bc9-bb3a-7e5c3d003dc8"
+            },
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            },
+            {
+              "doc_id": "d35cb1c3-06ee-4116-bf06-ae398c64fb8b"
+            },
+            {
+              "doc_id": "df866869-6c9c-4d0e-9c51-3e4f437431ba"
+            },
+            {
+              "doc_id": "dfc82fdd-b654-481d-94d6-2c098801e1af"
+            },
+            {
+              "doc_id": "e1da1017-07b4-4c8a-8d88-3b30dee8d4bd"
+            },
+            {
+              "doc_id": "e2f53a89-a8de-4f43-8fec-6e846787f61f"
+            },
+            {
+              "doc_id": "e41263f6-140a-458d-b8c8-2a5a7a6ae8b2"
+            },
+            {
+              "doc_id": "e4595db6-d24f-4a42-bdf2-4f7f20a8610d"
+            },
+            {
+              "doc_id": "e5c1ed0a-fa91-4a42-90a4-fa5ad2a91f76"
+            },
+            {
+              "doc_id": "ea058900-5b0a-4a83-8cdb-58631de5c852"
+            },
+            {
+              "doc_id": "ec58a81d-65d4-491a-a46c-8adde331d763"
+            },
+            {
+              "doc_id": "ed87c1ab-cdf3-4ba4-a0ac-a6ddfe0846e4"
+            },
+            {
+              "doc_id": "ff6bed72-03c8-4cf9-ba9d-fbe786ee191d"
+            }
+          ]
+        }
+      },
+      "question_id": "6faffa8832fa598a7dac1aa416983c11",
+      "aggregator_type": "OR",
+      "query_id": "300",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.623291+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Which population group, apart from women, contributed most to the increase in the suicide rate in Japan in 2020?": {
+      "question": "Which population group, apart from women, contributed most to the increase in the suicide rate in Japan in 2020?",
+      "answers": {
+        "Children": {
+          "answer": "Children",
+          "references": [
+            {
+              "doc_id": "0197a247-cd63-44bf-8869-bf04249dab29"
+            },
+            {
+              "doc_id": "08fe5abc-c7b5-4b2a-966b-a86a17e8c133"
+            },
+            {
+              "doc_id": "191bb6b1-48c9-47b5-becd-6d4345d63aa7"
+            },
+            {
+              "doc_id": "1e39c7d0-89a1-4590-9556-d67a78b9903e"
+            },
+            {
+              "doc_id": "26b401fe-7a56-4f85-a091-a89c9e6721de"
+            },
+            {
+              "doc_id": "379ed495-7cc8-481b-a7cb-3eaa0421ef3f"
+            },
+            {
+              "doc_id": "56b44b0f-fd8d-4d81-bae9-7f8d80e6b745"
+            },
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "6150acae-d7e3-475d-9e9e-2f17600df413"
+            },
+            {
+              "doc_id": "73fd4154-e827-4494-acd4-bbfbb05882f8"
+            },
+            {
+              "doc_id": "7e19709c-0f56-4d67-a450-d97baf8c0f00"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "85a6f839-8b4f-4dbc-b5e2-7b1f7797300c"
+            },
+            {
+              "doc_id": "8e45c80f-f63b-4eca-9976-79185811cd7d"
+            },
+            {
+              "doc_id": "91ab57a5-8cb9-4ddb-baa8-b1f0a302bde2"
+            },
+            {
+              "doc_id": "9208c414-4040-4667-a195-37723c8b57b3"
+            },
+            {
+              "doc_id": "940572fb-8b1d-4647-8eaa-2f8f5f4acf52"
+            },
+            {
+              "doc_id": "96e9dbd4-75ff-4ce5-bac3-a62f9a3ffef7"
+            },
+            {
+              "doc_id": "9b88d9ad-7d39-4ccd-925a-fb313b2cd4b3"
+            },
+            {
+              "doc_id": "ac5eebe9-5a40-4f08-a14a-797595284000"
+            },
+            {
+              "doc_id": "c4186ce4-e61f-44d4-9350-ec1e96adaded"
+            },
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            },
+            {
+              "doc_id": "df866869-6c9c-4d0e-9c51-3e4f437431ba"
+            },
+            {
+              "doc_id": "e1da1017-07b4-4c8a-8d88-3b30dee8d4bd"
+            },
+            {
+              "doc_id": "e2f53a89-a8de-4f43-8fec-6e846787f61f"
+            },
+            {
+              "doc_id": "e4595db6-d24f-4a42-bdf2-4f7f20a8610d"
+            },
+            {
+              "doc_id": "e5c1ed0a-fa91-4a42-90a4-fa5ad2a91f76"
+            }
+          ]
+        },
+        "youth": {
+          "answer": "youth",
+          "references": [
+            {
+              "doc_id": "3d87798e-3c15-4793-91c8-a02014a7ec19"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "b79adcac-a9f0-4c1d-a0bf-4ca2b12b1cc0"
+            },
+            {
+              "doc_id": "c0ab5c94-fd1f-4f96-8a77-0de0bcaa1e1d"
+            }
+          ]
+        },
+        "teenagers": {
+          "answer": "teenagers",
+          "references": [
+            {
+              "doc_id": "379ed495-7cc8-481b-a7cb-3eaa0421ef3f"
+            },
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "68a6ccf1-ec07-4aee-ae48-e974a80ba9ca"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "85a6f839-8b4f-4dbc-b5e2-7b1f7797300c"
+            },
+            {
+              "doc_id": "e41263f6-140a-458d-b8c8-2a5a7a6ae8b2"
+            }
+          ]
+        },
+        "small town residents": {
+          "answer": "small town residents",
+          "references": [
+            {
+              "doc_id": "68a6ccf1-ec07-4aee-ae48-e974a80ba9ca"
+            },
+            {
+              "doc_id": "e41263f6-140a-458d-b8c8-2a5a7a6ae8b2"
+            }
+          ]
+        },
+        "Japanese expats living abroad": {
+          "answer": "Japanese expats living abroad",
+          "references": [
+            {
+              "doc_id": "afc7498e-1490-449b-aa8a-31f0c9c99552"
+            }
+          ]
+        },
+        "homemakers": {
+          "answer": "homemakers",
+          "references": [
+            {
+              "doc_id": "379ed495-7cc8-481b-a7cb-3eaa0421ef3f"
+            }
+          ]
+        }
+      },
+      "question_id": "44906e2e0e3fa64e7389efd49fe25766",
+      "aggregator_type": "OR",
+      "query_id": "300",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.623418+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How much did the suicide rate of Japanese women increase in 2020 relative to 2019?": {
+      "question": "How much did the suicide rate of Japanese women increase in 2020 relative to 2019?",
+      "answers": {
+        "Approximately 83%": {
+          "answer": "Approximately 83%",
+          "references": [
+            {
+              "doc_id": "904f8373-88db-4def-b28c-d4ec29c8d4de"
+            },
+            {
+              "doc_id": "9fd63610-ddf2-4f60-b164-788b8674444d"
+            },
+            {
+              "doc_id": "d35cb1c3-06ee-4116-bf06-ae398c64fb8b"
+            }
+          ]
+        },
+        "37% (in July-October)": {
+          "answer": "37% (in July-October)",
+          "references": [
+            {
+              "doc_id": "379ed495-7cc8-481b-a7cb-3eaa0421ef3f"
+            }
+          ]
+        },
+        "15%": {
+          "answer": "15%",
+          "references": [
+            {
+              "doc_id": "08fe5abc-c7b5-4b2a-966b-a86a17e8c133"
+            },
+            {
+              "doc_id": "26b401fe-7a56-4f85-a091-a89c9e6721de"
+            },
+            {
+              "doc_id": "3f02f366-b762-4e6f-914d-2cc168e582c8"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            },
+            {
+              "doc_id": "92cc4841-9dc4-4fb9-827d-1cc18c88cae0"
+            },
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            },
+            {
+              "doc_id": "e1da1017-07b4-4c8a-8d88-3b30dee8d4bd"
+            }
+          ]
+        },
+        "70% in October": {
+          "answer": "70% in October",
+          "references": [
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            }
+          ]
+        },
+        "14.5%": {
+          "answer": "14.5%",
+          "references": [
+            {
+              "doc_id": "ed87c1ab-cdf3-4ba4-a0ac-a6ddfe0846e4"
+            }
+          ]
+        },
+        "About 112%": {
+          "answer": "About 112%",
+          "references": []
+        },
+        "18.81%": {
+          "answer": "18.81%",
+          "references": []
+        }
+      },
+      "question_id": "95e642dee17100a551164616eac2d837",
+      "aggregator_type": "OR",
+      "query_id": "300",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.623503+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What was the increase in the suicide rate among Japanese women in their 20s in 2020 relative to 2019?": {
+      "question": "What was the increase in the suicide rate among Japanese women in their 20s in 2020 relative to 2019?",
+      "answers": {
+        "17%": {
+          "answer": "17%",
+          "references": [
+            {
+              "doc_id": "7e19709c-0f56-4d67-a450-d97baf8c0f00"
+            }
+          ]
+        },
+        "15%": {
+          "answer": "15%",
+          "references": []
+        }
+      },
+      "question_id": "f333fb994d81ae00375340cfe259d859",
+      "aggregator_type": "OR",
+      "query_id": "300",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.623539+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What was the increase in the suicide rate among Japanese women 19 and younger in 2020 relative to 2019?": {
+      "question": "What was the increase in the suicide rate among Japanese women 19 and younger in 2020 relative to 2019?",
+      "answers": {
+        "14%": {
+          "answer": "14%",
+          "references": [
+            {
+              "doc_id": "7e19709c-0f56-4d67-a450-d97baf8c0f00"
+            }
+          ]
+        }
+      },
+      "question_id": "1eea2c97fa6ee1df9f1a97dfa4103f15",
+      "aggregator_type": "OR",
+      "query_id": "300",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.623558+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What was the increase in the suicide rate among Japanese elementary and high school students in 2020 compared to 2019?": {
+      "question": "What was the increase in the suicide rate among Japanese elementary and high school students in 2020 compared to 2019?",
+      "answers": {
+        "30%": {
+          "answer": "30%",
+          "references": [
+            {
+              "doc_id": "7e19709c-0f56-4d67-a450-d97baf8c0f00"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            }
+          ]
+        },
+        "49% (in July-October)": {
+          "answer": "49% (in July-October)",
+          "references": [
+            {
+              "doc_id": "379ed495-7cc8-481b-a7cb-3eaa0421ef3f"
+            }
+          ]
+        },
+        "25%": {
+          "answer": "25%",
+          "references": []
+        },
+        "0.14%": {
+          "answer": "0.14%",
+          "references": []
+        },
+        "41.3%": {
+          "answer": "41.3%",
+          "references": []
+        },
+        "16.7": {
+          "answer": "16.7",
+          "references": []
+        },
+        "16.7%": {
+          "answer": "16.7%",
+          "references": [
+            {
+              "doc_id": "0197a247-cd63-44bf-8869-bf04249dab29"
+            }
+          ]
+        },
+        "73%": {
+          "answer": "73%",
+          "references": [
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            }
+          ]
+        }
+      },
+      "question_id": "7e58be4bfb7e108c88cf7b8632ca7039",
+      "aggregator_type": "OR",
+      "query_id": "300",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.623638+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How did the COVID 19 pandemic affect the Japanese population\u2019s mental health?": {
+      "question": "How did the COVID 19 pandemic affect the Japanese population\u2019s mental health?",
+      "answers": {
+        "negatively": {
+          "answer": "negatively",
+          "references": [
+            {
+              "doc_id": "0197a247-cd63-44bf-8869-bf04249dab29"
+            },
+            {
+              "doc_id": "0821ae4a-6de1-4d6b-b349-15236bdb24b9"
+            },
+            {
+              "doc_id": "08fe5abc-c7b5-4b2a-966b-a86a17e8c133"
+            },
+            {
+              "doc_id": "0c403463-48aa-4225-a040-f771f15c0cb6"
+            },
+            {
+              "doc_id": "1bdecd39-f35a-4ed3-bba1-23db5e1c0fd5"
+            },
+            {
+              "doc_id": "1e39c7d0-89a1-4590-9556-d67a78b9903e"
+            },
+            {
+              "doc_id": "23435d31-41f2-4af9-b68f-c7fba9542cb8"
+            },
+            {
+              "doc_id": "26b401fe-7a56-4f85-a091-a89c9e6721de"
+            },
+            {
+              "doc_id": "27164e1c-9793-4506-8069-cb44d5f967c3"
+            },
+            {
+              "doc_id": "274e241e-74cf-4c89-a61f-6b273b385b6b"
+            },
+            {
+              "doc_id": "336b2eb7-5618-4dcf-a0dd-5976b368bd9e"
+            },
+            {
+              "doc_id": "379ed495-7cc8-481b-a7cb-3eaa0421ef3f"
+            },
+            {
+              "doc_id": "3d87798e-3c15-4793-91c8-a02014a7ec19"
+            },
+            {
+              "doc_id": "3f02f366-b762-4e6f-914d-2cc168e582c8"
+            },
+            {
+              "doc_id": "4a5aca07-9cfc-4c6d-bc57-7dc8701d43e1"
+            },
+            {
+              "doc_id": "4b0655d6-fa26-43f0-9ed6-354e874587fc"
+            },
+            {
+              "doc_id": "53882109-3da6-4eb2-aa83-e2596676ff6c"
+            },
+            {
+              "doc_id": "56b44b0f-fd8d-4d81-bae9-7f8d80e6b745"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "78dcb179-1642-4d96-a52c-0b02391fc5f9"
+            },
+            {
+              "doc_id": "7e19709c-0f56-4d67-a450-d97baf8c0f00"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            },
+            {
+              "doc_id": "8f6f06c9-bf09-484e-9b60-c5e5c5b33372"
+            },
+            {
+              "doc_id": "91ab57a5-8cb9-4ddb-baa8-b1f0a302bde2"
+            },
+            {
+              "doc_id": "92cc4841-9dc4-4fb9-827d-1cc18c88cae0"
+            },
+            {
+              "doc_id": "9b88d9ad-7d39-4ccd-925a-fb313b2cd4b3"
+            },
+            {
+              "doc_id": "afc7498e-1490-449b-aa8a-31f0c9c99552"
+            },
+            {
+              "doc_id": "c81fec68-c6c8-4bc9-bb3a-7e5c3d003dc8"
+            },
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            },
+            {
+              "doc_id": "d35cb1c3-06ee-4116-bf06-ae398c64fb8b"
+            },
+            {
+              "doc_id": "d6649dac-f217-4751-8a40-bf67416c06e4"
+            },
+            {
+              "doc_id": "df866869-6c9c-4d0e-9c51-3e4f437431ba"
+            },
+            {
+              "doc_id": "dfc82fdd-b654-481d-94d6-2c098801e1af"
+            },
+            {
+              "doc_id": "e12b5712-6ebc-4aa2-b4f3-7a36dcdf304e"
+            },
+            {
+              "doc_id": "e1da1017-07b4-4c8a-8d88-3b30dee8d4bd"
+            },
+            {
+              "doc_id": "e2f53a89-a8de-4f43-8fec-6e846787f61f"
+            },
+            {
+              "doc_id": "e41263f6-140a-458d-b8c8-2a5a7a6ae8b2"
+            },
+            {
+              "doc_id": "e4595db6-d24f-4a42-bdf2-4f7f20a8610d"
+            },
+            {
+              "doc_id": "e5c1ed0a-fa91-4a42-90a4-fa5ad2a91f76"
+            },
+            {
+              "doc_id": "ea058900-5b0a-4a83-8cdb-58631de5c852"
+            },
+            {
+              "doc_id": "ec58a81d-65d4-491a-a46c-8adde331d763"
+            },
+            {
+              "doc_id": "fdd59bb9-f872-4399-b23a-cd5b564f6db0"
+            },
+            {
+              "doc_id": "ff6bed72-03c8-4cf9-ba9d-fbe786ee191d"
+            }
+          ]
+        }
+      },
+      "question_id": "13d9aab7187f5e4a0a4de70601f397da",
+      "aggregator_type": "OR",
+      "query_id": "300",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.623753+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What were some general problems that the pandemic caused?": {
+      "question": "What were some general problems that the pandemic caused?",
+      "answers": {
+        "Economic difficulties": {
+          "answer": "Economic difficulties",
+          "references": [
+            {
+              "doc_id": "0821ae4a-6de1-4d6b-b349-15236bdb24b9"
+            },
+            {
+              "doc_id": "08fe5abc-c7b5-4b2a-966b-a86a17e8c133"
+            },
+            {
+              "doc_id": "0c56121e-8928-4871-9da0-0134f2932b2b"
+            },
+            {
+              "doc_id": "165931f5-4a50-467e-bc8f-95360446a42d"
+            },
+            {
+              "doc_id": "17aa1143-a392-4600-ba6e-bc12107d8d16"
+            },
+            {
+              "doc_id": "1dbeb478-b6bc-47f6-aa5f-0fd445f8de29"
+            },
+            {
+              "doc_id": "1e39c7d0-89a1-4590-9556-d67a78b9903e"
+            },
+            {
+              "doc_id": "26b401fe-7a56-4f85-a091-a89c9e6721de"
+            },
+            {
+              "doc_id": "27164e1c-9793-4506-8069-cb44d5f967c3"
+            },
+            {
+              "doc_id": "274e241e-74cf-4c89-a61f-6b273b385b6b"
+            },
+            {
+              "doc_id": "2b37c6bc-687e-4351-8df8-1fba321b4abb"
+            },
+            {
+              "doc_id": "336b2eb7-5618-4dcf-a0dd-5976b368bd9e"
+            },
+            {
+              "doc_id": "3864a0e5-8ecd-4ec6-bf9c-8c2b4b46888a"
+            },
+            {
+              "doc_id": "3c023d9d-3241-4bc3-9f71-d7906c0c3adb"
+            },
+            {
+              "doc_id": "3f02f366-b762-4e6f-914d-2cc168e582c8"
+            },
+            {
+              "doc_id": "44b5a209-4f36-459e-98f5-5d4777fc3b6e"
+            },
+            {
+              "doc_id": "53882109-3da6-4eb2-aa83-e2596676ff6c"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "5870f4d2-f404-45f1-8693-72d279dc2993"
+            },
+            {
+              "doc_id": "68a6ccf1-ec07-4aee-ae48-e974a80ba9ca"
+            },
+            {
+              "doc_id": "73fd4154-e827-4494-acd4-bbfbb05882f8"
+            },
+            {
+              "doc_id": "7c9ccf11-7d6a-40f3-8334-21207d1d9be3"
+            },
+            {
+              "doc_id": "7e19709c-0f56-4d67-a450-d97baf8c0f00"
+            },
+            {
+              "doc_id": "8537c7a3-3ef6-4d9f-b0ce-3700f371ebce"
+            },
+            {
+              "doc_id": "85db919a-9b30-42d7-acee-5cc355403a6d"
+            },
+            {
+              "doc_id": "8e632c8e-36e6-4146-9b3b-481fc6da9459"
+            },
+            {
+              "doc_id": "904f8373-88db-4def-b28c-d4ec29c8d4de"
+            },
+            {
+              "doc_id": "91ab57a5-8cb9-4ddb-baa8-b1f0a302bde2"
+            },
+            {
+              "doc_id": "9208c414-4040-4667-a195-37723c8b57b3"
+            },
+            {
+              "doc_id": "92cc4841-9dc4-4fb9-827d-1cc18c88cae0"
+            },
+            {
+              "doc_id": "957de1dd-666f-49d1-882c-751c133440ca"
+            },
+            {
+              "doc_id": "9b88d9ad-7d39-4ccd-925a-fb313b2cd4b3"
+            },
+            {
+              "doc_id": "ac5eebe9-5a40-4f08-a14a-797595284000"
+            },
+            {
+              "doc_id": "ae7d752c-3d0c-4c66-b775-4d7f833cab57"
+            },
+            {
+              "doc_id": "b79adcac-a9f0-4c1d-a0bf-4ca2b12b1cc0"
+            },
+            {
+              "doc_id": "ba30498c-9dbf-4b1d-bbfa-bcdca4548b18"
+            },
+            {
+              "doc_id": "c7186d49-99a9-4fba-bde3-f6506b200e3c"
+            },
+            {
+              "doc_id": "c81fec68-c6c8-4bc9-bb3a-7e5c3d003dc8"
+            },
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            },
+            {
+              "doc_id": "cd174413-66b0-4aa9-98fe-a92466f31f4e"
+            },
+            {
+              "doc_id": "cdf4b848-856f-4c2f-81f0-d98acc60a135"
+            },
+            {
+              "doc_id": "d35cb1c3-06ee-4116-bf06-ae398c64fb8b"
+            },
+            {
+              "doc_id": "dfc82fdd-b654-481d-94d6-2c098801e1af"
+            },
+            {
+              "doc_id": "e1da1017-07b4-4c8a-8d88-3b30dee8d4bd"
+            },
+            {
+              "doc_id": "e41263f6-140a-458d-b8c8-2a5a7a6ae8b2"
+            },
+            {
+              "doc_id": "e5c1ed0a-fa91-4a42-90a4-fa5ad2a91f76"
+            },
+            {
+              "doc_id": "ec58a81d-65d4-491a-a46c-8adde331d763"
+            },
+            {
+              "doc_id": "fdd59bb9-f872-4399-b23a-cd5b564f6db0"
+            }
+          ]
+        },
+        "Family difficulties": {
+          "answer": "Family difficulties",
+          "references": [
+            {
+              "doc_id": "0197a247-cd63-44bf-8869-bf04249dab29"
+            },
+            {
+              "doc_id": "0821ae4a-6de1-4d6b-b349-15236bdb24b9"
+            },
+            {
+              "doc_id": "08fe5abc-c7b5-4b2a-966b-a86a17e8c133"
+            },
+            {
+              "doc_id": "1bdecd39-f35a-4ed3-bba1-23db5e1c0fd5"
+            },
+            {
+              "doc_id": "1e39c7d0-89a1-4590-9556-d67a78b9903e"
+            },
+            {
+              "doc_id": "210b7041-cda8-4ff8-99a9-3d5c08e040ee"
+            },
+            {
+              "doc_id": "23435d31-41f2-4af9-b68f-c7fba9542cb8"
+            },
+            {
+              "doc_id": "26b401fe-7a56-4f85-a091-a89c9e6721de"
+            },
+            {
+              "doc_id": "2b37c6bc-687e-4351-8df8-1fba321b4abb"
+            },
+            {
+              "doc_id": "336b2eb7-5618-4dcf-a0dd-5976b368bd9e"
+            },
+            {
+              "doc_id": "3864a0e5-8ecd-4ec6-bf9c-8c2b4b46888a"
+            },
+            {
+              "doc_id": "53882109-3da6-4eb2-aa83-e2596676ff6c"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "73fd4154-e827-4494-acd4-bbfbb05882f8"
+            },
+            {
+              "doc_id": "77491bbf-8737-4029-bbd5-f3517a389bdd"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            },
+            {
+              "doc_id": "91ab57a5-8cb9-4ddb-baa8-b1f0a302bde2"
+            },
+            {
+              "doc_id": "9208c414-4040-4667-a195-37723c8b57b3"
+            },
+            {
+              "doc_id": "9b88d9ad-7d39-4ccd-925a-fb313b2cd4b3"
+            },
+            {
+              "doc_id": "ac5eebe9-5a40-4f08-a14a-797595284000"
+            },
+            {
+              "doc_id": "ae7d752c-3d0c-4c66-b775-4d7f833cab57"
+            },
+            {
+              "doc_id": "afc7498e-1490-449b-aa8a-31f0c9c99552"
+            },
+            {
+              "doc_id": "b2a8d73f-2ba8-4ad8-8cbf-0bb5cdd9961d"
+            },
+            {
+              "doc_id": "ba30498c-9dbf-4b1d-bbfa-bcdca4548b18"
+            },
+            {
+              "doc_id": "c81fec68-c6c8-4bc9-bb3a-7e5c3d003dc8"
+            },
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            },
+            {
+              "doc_id": "cdf4b848-856f-4c2f-81f0-d98acc60a135"
+            },
+            {
+              "doc_id": "e4595db6-d24f-4a42-bdf2-4f7f20a8610d"
+            },
+            {
+              "doc_id": "e5c1ed0a-fa91-4a42-90a4-fa5ad2a91f76"
+            },
+            {
+              "doc_id": "ec58a81d-65d4-491a-a46c-8adde331d763"
+            },
+            {
+              "doc_id": "fdd59bb9-f872-4399-b23a-cd5b564f6db0"
+            }
+          ]
+        },
+        "Travel restrictions": {
+          "answer": "Travel restrictions",
+          "references": [
+            {
+              "doc_id": "165931f5-4a50-467e-bc8f-95360446a42d"
+            },
+            {
+              "doc_id": "ae7d752c-3d0c-4c66-b775-4d7f833cab57"
+            },
+            {
+              "doc_id": "b2a8d73f-2ba8-4ad8-8cbf-0bb5cdd9961d"
+            }
+          ]
+        },
+        "Event cancellations": {
+          "answer": "Event cancellations",
+          "references": [
+            {
+              "doc_id": "165931f5-4a50-467e-bc8f-95360446a42d"
+            },
+            {
+              "doc_id": "b2a8d73f-2ba8-4ad8-8cbf-0bb5cdd9961d"
+            }
+          ]
+        },
+        "Goods shortages": {
+          "answer": "Goods shortages",
+          "references": [
+            {
+              "doc_id": "165931f5-4a50-467e-bc8f-95360446a42d"
+            },
+            {
+              "doc_id": "2b37c6bc-687e-4351-8df8-1fba321b4abb"
+            }
+          ]
+        },
+        "Medical supplies shortages": {
+          "answer": "Medical supplies shortages",
+          "references": [
+            {
+              "doc_id": "165931f5-4a50-467e-bc8f-95360446a42d"
+            },
+            {
+              "doc_id": "1f25189e-507a-4fa6-8468-61437413d430"
+            }
+          ]
+        },
+        "Public places closures": {
+          "answer": "Public places closures",
+          "references": [
+            {
+              "doc_id": "165931f5-4a50-467e-bc8f-95360446a42d"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "85db919a-9b30-42d7-acee-5cc355403a6d"
+            },
+            {
+              "doc_id": "b2a8d73f-2ba8-4ad8-8cbf-0bb5cdd9961d"
+            },
+            {
+              "doc_id": "c7186d49-99a9-4fba-bde3-f6506b200e3c"
+            },
+            {
+              "doc_id": "cd78b44f-7229-4875-ad88-b6a6690f49d6"
+            }
+          ]
+        },
+        "Childhood poverty": {
+          "answer": "Childhood poverty",
+          "references": []
+        },
+        "emotional burnout": {
+          "answer": "emotional burnout",
+          "references": [
+            {
+              "doc_id": "210b7041-cda8-4ff8-99a9-3d5c08e040ee"
+            },
+            {
+              "doc_id": "41bdab55-9a02-42f2-8c68-39d543fb4324"
+            }
+          ]
+        },
+        "anxiety": {
+          "answer": "anxiety",
+          "references": [
+            {
+              "doc_id": "210b7041-cda8-4ff8-99a9-3d5c08e040ee"
+            },
+            {
+              "doc_id": "2b37c6bc-687e-4351-8df8-1fba321b4abb"
+            },
+            {
+              "doc_id": "2bd12f67-86f6-4de6-bd58-14debfd4cea6"
+            },
+            {
+              "doc_id": "3c023d9d-3241-4bc3-9f71-d7906c0c3adb"
+            },
+            {
+              "doc_id": "41bdab55-9a02-42f2-8c68-39d543fb4324"
+            },
+            {
+              "doc_id": "44b5a209-4f36-459e-98f5-5d4777fc3b6e"
+            },
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "68a6ccf1-ec07-4aee-ae48-e974a80ba9ca"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "873cb1ae-6762-4e20-b31e-db276c98a841"
+            },
+            {
+              "doc_id": "ae7d752c-3d0c-4c66-b775-4d7f833cab57"
+            },
+            {
+              "doc_id": "c0ab5c94-fd1f-4f96-8a77-0de0bcaa1e1d"
+            },
+            {
+              "doc_id": "c7186d49-99a9-4fba-bde3-f6506b200e3c"
+            },
+            {
+              "doc_id": "e41263f6-140a-458d-b8c8-2a5a7a6ae8b2"
+            }
+          ]
+        },
+        "mental health issues": {
+          "answer": "mental health issues",
+          "references": [
+            {
+              "doc_id": "210b7041-cda8-4ff8-99a9-3d5c08e040ee"
+            },
+            {
+              "doc_id": "2bd12f67-86f6-4de6-bd58-14debfd4cea6"
+            },
+            {
+              "doc_id": "3c023d9d-3241-4bc3-9f71-d7906c0c3adb"
+            },
+            {
+              "doc_id": "3f02f366-b762-4e6f-914d-2cc168e582c8"
+            },
+            {
+              "doc_id": "41bdab55-9a02-42f2-8c68-39d543fb4324"
+            },
+            {
+              "doc_id": "4b0655d6-fa26-43f0-9ed6-354e874587fc"
+            },
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "78dcb179-1642-4d96-a52c-0b02391fc5f9"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "873cb1ae-6762-4e20-b31e-db276c98a841"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            },
+            {
+              "doc_id": "957de1dd-666f-49d1-882c-751c133440ca"
+            },
+            {
+              "doc_id": "983d7683-6c36-4c8c-86ef-cef4e3d8a6a3"
+            },
+            {
+              "doc_id": "ae7d752c-3d0c-4c66-b775-4d7f833cab57"
+            },
+            {
+              "doc_id": "bd4350d5-18a2-4635-b6bc-6b0ace586fc5"
+            },
+            {
+              "doc_id": "c0ab5c94-fd1f-4f96-8a77-0de0bcaa1e1d"
+            },
+            {
+              "doc_id": "c7186d49-99a9-4fba-bde3-f6506b200e3c"
+            },
+            {
+              "doc_id": "e41263f6-140a-458d-b8c8-2a5a7a6ae8b2"
+            },
+            {
+              "doc_id": "ff6bed72-03c8-4cf9-ba9d-fbe786ee191d"
+            }
+          ]
+        },
+        "chronic fatigue": {
+          "answer": "chronic fatigue",
+          "references": [
+            {
+              "doc_id": "210b7041-cda8-4ff8-99a9-3d5c08e040ee"
+            }
+          ]
+        },
+        "sleep issues": {
+          "answer": "sleep issues",
+          "references": [
+            {
+              "doc_id": "210b7041-cda8-4ff8-99a9-3d5c08e040ee"
+            }
+          ]
+        },
+        "health-related fears": {
+          "answer": "health-related fears",
+          "references": [
+            {
+              "doc_id": "210b7041-cda8-4ff8-99a9-3d5c08e040ee"
+            },
+            {
+              "doc_id": "2b37c6bc-687e-4351-8df8-1fba321b4abb"
+            },
+            {
+              "doc_id": "3c023d9d-3241-4bc3-9f71-d7906c0c3adb"
+            },
+            {
+              "doc_id": "41bdab55-9a02-42f2-8c68-39d543fb4324"
+            },
+            {
+              "doc_id": "44b5a209-4f36-459e-98f5-5d4777fc3b6e"
+            },
+            {
+              "doc_id": "4bf44f53-a338-4454-bad1-c0566edc268f"
+            },
+            {
+              "doc_id": "68a6ccf1-ec07-4aee-ae48-e974a80ba9ca"
+            },
+            {
+              "doc_id": "873cb1ae-6762-4e20-b31e-db276c98a841"
+            },
+            {
+              "doc_id": "957de1dd-666f-49d1-882c-751c133440ca"
+            }
+          ]
+        },
+        "employment and economy-related fears": {
+          "answer": "employment and economy-related fears",
+          "references": [
+            {
+              "doc_id": "210b7041-cda8-4ff8-99a9-3d5c08e040ee"
+            },
+            {
+              "doc_id": "2b37c6bc-687e-4351-8df8-1fba321b4abb"
+            },
+            {
+              "doc_id": "3c023d9d-3241-4bc3-9f71-d7906c0c3adb"
+            },
+            {
+              "doc_id": "44b5a209-4f36-459e-98f5-5d4777fc3b6e"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "68a6ccf1-ec07-4aee-ae48-e974a80ba9ca"
+            },
+            {
+              "doc_id": "ae7d752c-3d0c-4c66-b775-4d7f833cab57"
+            }
+          ]
+        },
+        "stress": {
+          "answer": "stress",
+          "references": [
+            {
+              "doc_id": "210b7041-cda8-4ff8-99a9-3d5c08e040ee"
+            },
+            {
+              "doc_id": "3d87798e-3c15-4793-91c8-a02014a7ec19"
+            },
+            {
+              "doc_id": "44b5a209-4f36-459e-98f5-5d4777fc3b6e"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "b2a8d73f-2ba8-4ad8-8cbf-0bb5cdd9961d"
+            },
+            {
+              "doc_id": "b79adcac-a9f0-4c1d-a0bf-4ca2b12b1cc0"
+            }
+          ]
+        },
+        "divorce": {
+          "answer": "divorce",
+          "references": [
+            {
+              "doc_id": "210b7041-cda8-4ff8-99a9-3d5c08e040ee"
+            }
+          ]
+        },
+        "domestic violence": {
+          "answer": "domestic violence",
+          "references": [
+            {
+              "doc_id": "210b7041-cda8-4ff8-99a9-3d5c08e040ee"
+            },
+            {
+              "doc_id": "379ed495-7cc8-481b-a7cb-3eaa0421ef3f"
+            },
+            {
+              "doc_id": "3c023d9d-3241-4bc3-9f71-d7906c0c3adb"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            },
+            {
+              "doc_id": "afc7498e-1490-449b-aa8a-31f0c9c99552"
+            }
+          ]
+        },
+        "loss of spontaneity ": {
+          "answer": "loss of spontaneity ",
+          "references": [
+            {
+              "doc_id": "210b7041-cda8-4ff8-99a9-3d5c08e040ee"
+            },
+            {
+              "doc_id": "2b37c6bc-687e-4351-8df8-1fba321b4abb"
+            }
+          ]
+        },
+        "depression": {
+          "answer": "depression",
+          "references": [
+            {
+              "doc_id": "210b7041-cda8-4ff8-99a9-3d5c08e040ee"
+            },
+            {
+              "doc_id": "2b37c6bc-687e-4351-8df8-1fba321b4abb"
+            },
+            {
+              "doc_id": "2bd12f67-86f6-4de6-bd58-14debfd4cea6"
+            },
+            {
+              "doc_id": "3c023d9d-3241-4bc3-9f71-d7906c0c3adb"
+            },
+            {
+              "doc_id": "4b0655d6-fa26-43f0-9ed6-354e874587fc"
+            },
+            {
+              "doc_id": "4bf44f53-a338-4454-bad1-c0566edc268f"
+            },
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "78dcb179-1642-4d96-a52c-0b02391fc5f9"
+            },
+            {
+              "doc_id": "873cb1ae-6762-4e20-b31e-db276c98a841"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            },
+            {
+              "doc_id": "c7186d49-99a9-4fba-bde3-f6506b200e3c"
+            }
+          ]
+        },
+        "increased vulnerability of already vulnerable groups": {
+          "answer": "increased vulnerability of already vulnerable groups",
+          "references": [
+            {
+              "doc_id": "2b37c6bc-687e-4351-8df8-1fba321b4abb"
+            },
+            {
+              "doc_id": "3c023d9d-3241-4bc3-9f71-d7906c0c3adb"
+            },
+            {
+              "doc_id": "3f02f366-b762-4e6f-914d-2cc168e582c8"
+            },
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "68a6ccf1-ec07-4aee-ae48-e974a80ba9ca"
+            },
+            {
+              "doc_id": "7c9ccf11-7d6a-40f3-8334-21207d1d9be3"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            },
+            {
+              "doc_id": "ae7d752c-3d0c-4c66-b775-4d7f833cab57"
+            },
+            {
+              "doc_id": "cd78b44f-7229-4875-ad88-b6a6690f49d6"
+            },
+            {
+              "doc_id": "e41263f6-140a-458d-b8c8-2a5a7a6ae8b2"
+            }
+          ]
+        },
+        "social isolation": {
+          "answer": "social isolation",
+          "references": [
+            {
+              "doc_id": "01db45e2-9407-444d-a27c-b8b6a0313ea9"
+            },
+            {
+              "doc_id": "08016395-6934-4a90-94a0-6be08f1536fd"
+            },
+            {
+              "doc_id": "165931f5-4a50-467e-bc8f-95360446a42d"
+            },
+            {
+              "doc_id": "1f25189e-507a-4fa6-8468-61437413d430"
+            },
+            {
+              "doc_id": "2bd12f67-86f6-4de6-bd58-14debfd4cea6"
+            },
+            {
+              "doc_id": "3f02f366-b762-4e6f-914d-2cc168e582c8"
+            },
+            {
+              "doc_id": "41bdab55-9a02-42f2-8c68-39d543fb4324"
+            },
+            {
+              "doc_id": "4b0655d6-fa26-43f0-9ed6-354e874587fc"
+            },
+            {
+              "doc_id": "4bf44f53-a338-4454-bad1-c0566edc268f"
+            },
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "68a6ccf1-ec07-4aee-ae48-e974a80ba9ca"
+            },
+            {
+              "doc_id": "78dcb179-1642-4d96-a52c-0b02391fc5f9"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "873cb1ae-6762-4e20-b31e-db276c98a841"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            },
+            {
+              "doc_id": "ae7d752c-3d0c-4c66-b775-4d7f833cab57"
+            },
+            {
+              "doc_id": "afc7498e-1490-449b-aa8a-31f0c9c99552"
+            },
+            {
+              "doc_id": "b2a8d73f-2ba8-4ad8-8cbf-0bb5cdd9961d"
+            },
+            {
+              "doc_id": "b79adcac-a9f0-4c1d-a0bf-4ca2b12b1cc0"
+            },
+            {
+              "doc_id": "c7186d49-99a9-4fba-bde3-f6506b200e3c"
+            },
+            {
+              "doc_id": "cd78b44f-7229-4875-ad88-b6a6690f49d6"
+            },
+            {
+              "doc_id": "e41263f6-140a-458d-b8c8-2a5a7a6ae8b2"
+            },
+            {
+              "doc_id": "ea058900-5b0a-4a83-8cdb-58631de5c852"
+            },
+            {
+              "doc_id": "ed87c1ab-cdf3-4ba4-a0ac-a6ddfe0846e4"
+            },
+            {
+              "doc_id": "f0dd4b06-3c94-4607-8bff-3f3413294d72"
+            },
+            {
+              "doc_id": "ff6bed72-03c8-4cf9-ba9d-fbe786ee191d"
+            }
+          ]
+        },
+        "loneliness": {
+          "answer": "loneliness",
+          "references": [
+            {
+              "doc_id": "01db45e2-9407-444d-a27c-b8b6a0313ea9"
+            },
+            {
+              "doc_id": "08016395-6934-4a90-94a0-6be08f1536fd"
+            },
+            {
+              "doc_id": "1f25189e-507a-4fa6-8468-61437413d430"
+            },
+            {
+              "doc_id": "2bd12f67-86f6-4de6-bd58-14debfd4cea6"
+            },
+            {
+              "doc_id": "3d87798e-3c15-4793-91c8-a02014a7ec19"
+            },
+            {
+              "doc_id": "3f02f366-b762-4e6f-914d-2cc168e582c8"
+            },
+            {
+              "doc_id": "41bdab55-9a02-42f2-8c68-39d543fb4324"
+            },
+            {
+              "doc_id": "4b0655d6-fa26-43f0-9ed6-354e874587fc"
+            },
+            {
+              "doc_id": "4bf44f53-a338-4454-bad1-c0566edc268f"
+            },
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "78dcb179-1642-4d96-a52c-0b02391fc5f9"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "873cb1ae-6762-4e20-b31e-db276c98a841"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            },
+            {
+              "doc_id": "afc7498e-1490-449b-aa8a-31f0c9c99552"
+            },
+            {
+              "doc_id": "b79adcac-a9f0-4c1d-a0bf-4ca2b12b1cc0"
+            },
+            {
+              "doc_id": "c0ab5c94-fd1f-4f96-8a77-0de0bcaa1e1d"
+            },
+            {
+              "doc_id": "c7186d49-99a9-4fba-bde3-f6506b200e3c"
+            },
+            {
+              "doc_id": "cd78b44f-7229-4875-ad88-b6a6690f49d6"
+            },
+            {
+              "doc_id": "ea058900-5b0a-4a83-8cdb-58631de5c852"
+            },
+            {
+              "doc_id": "ed87c1ab-cdf3-4ba4-a0ac-a6ddfe0846e4"
+            },
+            {
+              "doc_id": "ff6bed72-03c8-4cf9-ba9d-fbe786ee191d"
+            }
+          ]
+        },
+        "lack of access to mental health services": {
+          "answer": "lack of access to mental health services",
+          "references": [
+            {
+              "doc_id": "2bd12f67-86f6-4de6-bd58-14debfd4cea6"
+            },
+            {
+              "doc_id": "c7186d49-99a9-4fba-bde3-f6506b200e3c"
+            }
+          ]
+        },
+        "increased load for working mothers": {
+          "answer": "increased load for working mothers",
+          "references": [
+            {
+              "doc_id": "379ed495-7cc8-481b-a7cb-3eaa0421ef3f"
+            },
+            {
+              "doc_id": "3c023d9d-3241-4bc3-9f71-d7906c0c3adb"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "b79adcac-a9f0-4c1d-a0bf-4ca2b12b1cc0"
+            }
+          ]
+        },
+        "increased abortion rates": {
+          "answer": "increased abortion rates",
+          "references": [
+            {
+              "doc_id": "3c023d9d-3241-4bc3-9f71-d7906c0c3adb"
+            }
+          ]
+        },
+        "increased unemployment in female-dominated sectors": {
+          "answer": "increased unemployment in female-dominated sectors",
+          "references": [
+            {
+              "doc_id": "3f02f366-b762-4e6f-914d-2cc168e582c8"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "904f8373-88db-4def-b28c-d4ec29c8d4de"
+            }
+          ]
+        },
+        "loss of control": {
+          "answer": "loss of control",
+          "references": [
+            {
+              "doc_id": "41bdab55-9a02-42f2-8c68-39d543fb4324"
+            },
+            {
+              "doc_id": "44b5a209-4f36-459e-98f5-5d4777fc3b6e"
+            }
+          ]
+        },
+        "decrease in productivity and other work-related issues": {
+          "answer": "decrease in productivity and other work-related issues",
+          "references": [
+            {
+              "doc_id": "41bdab55-9a02-42f2-8c68-39d543fb4324"
+            },
+            {
+              "doc_id": "b2a8d73f-2ba8-4ad8-8cbf-0bb5cdd9961d"
+            }
+          ]
+        },
+        "increased unemployment": {
+          "answer": "increased unemployment",
+          "references": [
+            {
+              "doc_id": "68a6ccf1-ec07-4aee-ae48-e974a80ba9ca"
+            },
+            {
+              "doc_id": "7c9ccf11-7d6a-40f3-8334-21207d1d9be3"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "904f8373-88db-4def-b28c-d4ec29c8d4de"
+            },
+            {
+              "doc_id": "957de1dd-666f-49d1-882c-751c133440ca"
+            },
+            {
+              "doc_id": "ae7d752c-3d0c-4c66-b775-4d7f833cab57"
+            },
+            {
+              "doc_id": "b79adcac-a9f0-4c1d-a0bf-4ca2b12b1cc0"
+            },
+            {
+              "doc_id": "c7186d49-99a9-4fba-bde3-f6506b200e3c"
+            },
+            {
+              "doc_id": "cd174413-66b0-4aa9-98fe-a92466f31f4e"
+            },
+            {
+              "doc_id": "e41263f6-140a-458d-b8c8-2a5a7a6ae8b2"
+            }
+          ]
+        },
+        "inflation": {
+          "answer": "inflation",
+          "references": [
+            {
+              "doc_id": "7c9ccf11-7d6a-40f3-8334-21207d1d9be3"
+            }
+          ]
+        },
+        "increased inequality": {
+          "answer": "increased inequality",
+          "references": [
+            {
+              "doc_id": "7c9ccf11-7d6a-40f3-8334-21207d1d9be3"
+            },
+            {
+              "doc_id": "cd174413-66b0-4aa9-98fe-a92466f31f4e"
+            }
+          ]
+        },
+        "increased government control": {
+          "answer": "increased government control",
+          "references": [
+            {
+              "doc_id": "165931f5-4a50-467e-bc8f-95360446a42d"
+            },
+            {
+              "doc_id": "7c9ccf11-7d6a-40f3-8334-21207d1d9be3"
+            }
+          ]
+        },
+        "decrease in pregnancies": {
+          "answer": "decrease in pregnancies",
+          "references": [
+            {
+              "doc_id": "8537c7a3-3ef6-4d9f-b0ce-3700f371ebce"
+            }
+          ]
+        },
+        "decrease in marriages": {
+          "answer": "decrease in marriages",
+          "references": [
+            {
+              "doc_id": "8537c7a3-3ef6-4d9f-b0ce-3700f371ebce"
+            },
+            {
+              "doc_id": "8cf352b3-d4f3-4c3d-a70d-42b4d06d1e1f"
+            },
+            {
+              "doc_id": "d1aa21a4-d238-4c22-9c9a-9171fb57c4c5"
+            }
+          ]
+        },
+        "decreased birth rate": {
+          "answer": "decreased birth rate",
+          "references": [
+            {
+              "doc_id": "8537c7a3-3ef6-4d9f-b0ce-3700f371ebce"
+            },
+            {
+              "doc_id": "8cf352b3-d4f3-4c3d-a70d-42b4d06d1e1f"
+            },
+            {
+              "doc_id": "b79adcac-a9f0-4c1d-a0bf-4ca2b12b1cc0"
+            },
+            {
+              "doc_id": "d1aa21a4-d238-4c22-9c9a-9171fb57c4c5"
+            }
+          ]
+        },
+        "social welfare system crisis": {
+          "answer": "social welfare system crisis",
+          "references": [
+            {
+              "doc_id": "8537c7a3-3ef6-4d9f-b0ce-3700f371ebce"
+            }
+          ]
+        },
+        "restaurant bankruptcies": {
+          "answer": "restaurant bankruptcies",
+          "references": [
+            {
+              "doc_id": "85db919a-9b30-42d7-acee-5cc355403a6d"
+            }
+          ]
+        },
+        "lack of regular medical care": {
+          "answer": "lack of regular medical care",
+          "references": [
+            {
+              "doc_id": "957de1dd-666f-49d1-882c-751c133440ca"
+            },
+            {
+              "doc_id": "c7186d49-99a9-4fba-bde3-f6506b200e3c"
+            },
+            {
+              "doc_id": "f0dd4b06-3c94-4607-8bff-3f3413294d72"
+            }
+          ]
+        },
+        "increased credit and debt": {
+          "answer": "increased credit and debt",
+          "references": [
+            {
+              "doc_id": "cd174413-66b0-4aa9-98fe-a92466f31f4e"
+            }
+          ]
+        },
+        "changes in consumer behavior": {
+          "answer": "changes in consumer behavior",
+          "references": [
+            {
+              "doc_id": "0c56121e-8928-4871-9da0-0134f2932b2b"
+            },
+            {
+              "doc_id": "b2a8d73f-2ba8-4ad8-8cbf-0bb5cdd9961d"
+            },
+            {
+              "doc_id": "cd174413-66b0-4aa9-98fe-a92466f31f4e"
+            }
+          ]
+        },
+        "increase in substance abuse": {
+          "answer": "increase in substance abuse",
+          "references": [
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "f0dd4b06-3c94-4607-8bff-3f3413294d72"
+            }
+          ]
+        },
+        "changes in global trade": {
+          "answer": "changes in global trade",
+          "references": [
+            {
+              "doc_id": "0c56121e-8928-4871-9da0-0134f2932b2b"
+            },
+            {
+              "doc_id": "2b37c6bc-687e-4351-8df8-1fba321b4abb"
+            },
+            {
+              "doc_id": "7c9ccf11-7d6a-40f3-8334-21207d1d9be3"
+            }
+          ]
+        },
+        "spread of conspiracy theories": {
+          "answer": "spread of conspiracy theories",
+          "references": [
+            {
+              "doc_id": "165931f5-4a50-467e-bc8f-95360446a42d"
+            }
+          ]
+        },
+        "increased divorce rate": {
+          "answer": "increased divorce rate",
+          "references": [
+            {
+              "doc_id": "210b7041-cda8-4ff8-99a9-3d5c08e040ee"
+            },
+            {
+              "doc_id": "4bf44f53-a338-4454-bad1-c0566edc268f"
+            }
+          ]
+        }
+      },
+      "question_id": "cdf8484b0a009044c92316cd2af0ae92",
+      "aggregator_type": "AND",
+      "query_id": "300",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.624730+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What effects of the pandemic led to the increased rate of suicide in Japan in 2020?": {
+      "question": "What effects of the pandemic led to the increased rate of suicide in Japan in 2020?",
+      "answers": {
+        "Unemployment": {
+          "answer": "Unemployment",
+          "references": [
+            {
+              "doc_id": "0821ae4a-6de1-4d6b-b349-15236bdb24b9"
+            },
+            {
+              "doc_id": "08fe5abc-c7b5-4b2a-966b-a86a17e8c133"
+            },
+            {
+              "doc_id": "26b401fe-7a56-4f85-a091-a89c9e6721de"
+            },
+            {
+              "doc_id": "27164e1c-9793-4506-8069-cb44d5f967c3"
+            },
+            {
+              "doc_id": "274e241e-74cf-4c89-a61f-6b273b385b6b"
+            },
+            {
+              "doc_id": "336b2eb7-5618-4dcf-a0dd-5976b368bd9e"
+            },
+            {
+              "doc_id": "3f02f366-b762-4e6f-914d-2cc168e582c8"
+            },
+            {
+              "doc_id": "44b5a209-4f36-459e-98f5-5d4777fc3b6e"
+            },
+            {
+              "doc_id": "47b25420-7324-42cb-849e-15452c22aa65"
+            },
+            {
+              "doc_id": "4be7d12e-2c52-457a-b343-cf75fe1fcf76"
+            },
+            {
+              "doc_id": "53882109-3da6-4eb2-aa83-e2596676ff6c"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "68a6ccf1-ec07-4aee-ae48-e974a80ba9ca"
+            },
+            {
+              "doc_id": "73fd4154-e827-4494-acd4-bbfbb05882f8"
+            },
+            {
+              "doc_id": "7e19709c-0f56-4d67-a450-d97baf8c0f00"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "8f6f06c9-bf09-484e-9b60-c5e5c5b33372"
+            },
+            {
+              "doc_id": "904f8373-88db-4def-b28c-d4ec29c8d4de"
+            },
+            {
+              "doc_id": "9208c414-4040-4667-a195-37723c8b57b3"
+            },
+            {
+              "doc_id": "92cc4841-9dc4-4fb9-827d-1cc18c88cae0"
+            },
+            {
+              "doc_id": "957de1dd-666f-49d1-882c-751c133440ca"
+            },
+            {
+              "doc_id": "b79adcac-a9f0-4c1d-a0bf-4ca2b12b1cc0"
+            },
+            {
+              "doc_id": "ba30498c-9dbf-4b1d-bbfa-bcdca4548b18"
+            },
+            {
+              "doc_id": "c81fec68-c6c8-4bc9-bb3a-7e5c3d003dc8"
+            },
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            },
+            {
+              "doc_id": "d35cb1c3-06ee-4116-bf06-ae398c64fb8b"
+            },
+            {
+              "doc_id": "e2f53a89-a8de-4f43-8fec-6e846787f61f"
+            },
+            {
+              "doc_id": "e41263f6-140a-458d-b8c8-2a5a7a6ae8b2"
+            },
+            {
+              "doc_id": "e5c1ed0a-fa91-4a42-90a4-fa5ad2a91f76"
+            },
+            {
+              "doc_id": "ec58a81d-65d4-491a-a46c-8adde331d763"
+            },
+            {
+              "doc_id": "fdd59bb9-f872-4399-b23a-cd5b564f6db0"
+            }
+          ]
+        },
+        "social isolation": {
+          "answer": "social isolation",
+          "references": [
+            {
+              "doc_id": "0197a247-cd63-44bf-8869-bf04249dab29"
+            },
+            {
+              "doc_id": "01db45e2-9407-444d-a27c-b8b6a0313ea9"
+            },
+            {
+              "doc_id": "08016395-6934-4a90-94a0-6be08f1536fd"
+            },
+            {
+              "doc_id": "0821ae4a-6de1-4d6b-b349-15236bdb24b9"
+            },
+            {
+              "doc_id": "08fe5abc-c7b5-4b2a-966b-a86a17e8c133"
+            },
+            {
+              "doc_id": "0c403463-48aa-4225-a040-f771f15c0cb6"
+            },
+            {
+              "doc_id": "1f25189e-507a-4fa6-8468-61437413d430"
+            },
+            {
+              "doc_id": "23435d31-41f2-4af9-b68f-c7fba9542cb8"
+            },
+            {
+              "doc_id": "26b401fe-7a56-4f85-a091-a89c9e6721de"
+            },
+            {
+              "doc_id": "27164e1c-9793-4506-8069-cb44d5f967c3"
+            },
+            {
+              "doc_id": "335f101d-ccfb-43e9-bfe4-276d18313dae"
+            },
+            {
+              "doc_id": "3f02f366-b762-4e6f-914d-2cc168e582c8"
+            },
+            {
+              "doc_id": "47b25420-7324-42cb-849e-15452c22aa65"
+            },
+            {
+              "doc_id": "4b0655d6-fa26-43f0-9ed6-354e874587fc"
+            },
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "68a6ccf1-ec07-4aee-ae48-e974a80ba9ca"
+            },
+            {
+              "doc_id": "78dcb179-1642-4d96-a52c-0b02391fc5f9"
+            },
+            {
+              "doc_id": "7e19709c-0f56-4d67-a450-d97baf8c0f00"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "873cb1ae-6762-4e20-b31e-db276c98a841"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            },
+            {
+              "doc_id": "8f6f06c9-bf09-484e-9b60-c5e5c5b33372"
+            },
+            {
+              "doc_id": "96e9dbd4-75ff-4ce5-bac3-a62f9a3ffef7"
+            },
+            {
+              "doc_id": "afc7498e-1490-449b-aa8a-31f0c9c99552"
+            },
+            {
+              "doc_id": "c81fec68-c6c8-4bc9-bb3a-7e5c3d003dc8"
+            },
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            },
+            {
+              "doc_id": "d6649dac-f217-4751-8a40-bf67416c06e4"
+            },
+            {
+              "doc_id": "df866869-6c9c-4d0e-9c51-3e4f437431ba"
+            },
+            {
+              "doc_id": "e1da1017-07b4-4c8a-8d88-3b30dee8d4bd"
+            },
+            {
+              "doc_id": "e2f53a89-a8de-4f43-8fec-6e846787f61f"
+            },
+            {
+              "doc_id": "e41263f6-140a-458d-b8c8-2a5a7a6ae8b2"
+            },
+            {
+              "doc_id": "e4595db6-d24f-4a42-bdf2-4f7f20a8610d"
+            },
+            {
+              "doc_id": "e5c1ed0a-fa91-4a42-90a4-fa5ad2a91f76"
+            },
+            {
+              "doc_id": "ea058900-5b0a-4a83-8cdb-58631de5c852"
+            },
+            {
+              "doc_id": "ed87c1ab-cdf3-4ba4-a0ac-a6ddfe0846e4"
+            },
+            {
+              "doc_id": "ff6bed72-03c8-4cf9-ba9d-fbe786ee191d"
+            }
+          ]
+        },
+        "worry about the future": {
+          "answer": "worry about the future",
+          "references": [
+            {
+              "doc_id": "08fe5abc-c7b5-4b2a-966b-a86a17e8c133"
+            },
+            {
+              "doc_id": "336b2eb7-5618-4dcf-a0dd-5976b368bd9e"
+            },
+            {
+              "doc_id": "44b5a209-4f36-459e-98f5-5d4777fc3b6e"
+            },
+            {
+              "doc_id": "7e19709c-0f56-4d67-a450-d97baf8c0f00"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "873cb1ae-6762-4e20-b31e-db276c98a841"
+            },
+            {
+              "doc_id": "8f6f06c9-bf09-484e-9b60-c5e5c5b33372"
+            },
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            }
+          ]
+        },
+        "loneliness": {
+          "answer": "loneliness",
+          "references": [
+            {
+              "doc_id": "01db45e2-9407-444d-a27c-b8b6a0313ea9"
+            },
+            {
+              "doc_id": "08016395-6934-4a90-94a0-6be08f1536fd"
+            },
+            {
+              "doc_id": "1f25189e-507a-4fa6-8468-61437413d430"
+            },
+            {
+              "doc_id": "3f02f366-b762-4e6f-914d-2cc168e582c8"
+            },
+            {
+              "doc_id": "4bf44f53-a338-4454-bad1-c0566edc268f"
+            },
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "78dcb179-1642-4d96-a52c-0b02391fc5f9"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "873cb1ae-6762-4e20-b31e-db276c98a841"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            },
+            {
+              "doc_id": "afc7498e-1490-449b-aa8a-31f0c9c99552"
+            },
+            {
+              "doc_id": "c0ab5c94-fd1f-4f96-8a77-0de0bcaa1e1d"
+            },
+            {
+              "doc_id": "ea058900-5b0a-4a83-8cdb-58631de5c852"
+            },
+            {
+              "doc_id": "ed87c1ab-cdf3-4ba4-a0ac-a6ddfe0846e4"
+            },
+            {
+              "doc_id": "ff6bed72-03c8-4cf9-ba9d-fbe786ee191d"
+            }
+          ]
+        },
+        "psychological pressure": {
+          "answer": "psychological pressure",
+          "references": [
+            {
+              "doc_id": "44b5a209-4f36-459e-98f5-5d4777fc3b6e"
+            }
+          ]
+        },
+        "changes in living conditions": {
+          "answer": "changes in living conditions",
+          "references": [
+            {
+              "doc_id": "44b5a209-4f36-459e-98f5-5d4777fc3b6e"
+            },
+            {
+              "doc_id": "b79adcac-a9f0-4c1d-a0bf-4ca2b12b1cc0"
+            }
+          ]
+        },
+        "increase in celebrity suicides": {
+          "answer": "increase in celebrity suicides",
+          "references": [
+            {
+              "doc_id": "44b5a209-4f36-459e-98f5-5d4777fc3b6e"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            }
+          ]
+        },
+        "depression": {
+          "answer": "depression",
+          "references": [
+            {
+              "doc_id": "4b0655d6-fa26-43f0-9ed6-354e874587fc"
+            },
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "78dcb179-1642-4d96-a52c-0b02391fc5f9"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "873cb1ae-6762-4e20-b31e-db276c98a841"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            }
+          ]
+        },
+        "domestic violence": {
+          "answer": "domestic violence",
+          "references": [
+            {
+              "doc_id": "379ed495-7cc8-481b-a7cb-3eaa0421ef3f"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            },
+            {
+              "doc_id": "afc7498e-1490-449b-aa8a-31f0c9c99552"
+            }
+          ]
+        },
+        "school closures": {
+          "answer": "school closures",
+          "references": [
+            {
+              "doc_id": "68a6ccf1-ec07-4aee-ae48-e974a80ba9ca"
+            }
+          ]
+        },
+        "increased load for working mothers": {
+          "answer": "increased load for working mothers",
+          "references": [
+            {
+              "doc_id": "379ed495-7cc8-481b-a7cb-3eaa0421ef3f"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            }
+          ]
+        },
+        "Financial problems": {
+          "answer": "Financial problems",
+          "references": [
+            {
+              "doc_id": "0821ae4a-6de1-4d6b-b349-15236bdb24b9"
+            },
+            {
+              "doc_id": "274e241e-74cf-4c89-a61f-6b273b385b6b"
+            },
+            {
+              "doc_id": "ac5eebe9-5a40-4f08-a14a-797595284000"
+            },
+            {
+              "doc_id": "ba30498c-9dbf-4b1d-bbfa-bcdca4548b18"
+            },
+            {
+              "doc_id": "c81fec68-c6c8-4bc9-bb3a-7e5c3d003dc8"
+            },
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            },
+            {
+              "doc_id": "dfc82fdd-b654-481d-94d6-2c098801e1af"
+            },
+            {
+              "doc_id": "e1da1017-07b4-4c8a-8d88-3b30dee8d4bd"
+            },
+            {
+              "doc_id": "ec58a81d-65d4-491a-a46c-8adde331d763"
+            },
+            {
+              "doc_id": "fdd59bb9-f872-4399-b23a-cd5b564f6db0"
+            }
+          ]
+        },
+        "Domestic violence": {
+          "answer": "Domestic violence",
+          "references": [
+            {
+              "doc_id": "73fd4154-e827-4494-acd4-bbfbb05882f8"
+            },
+            {
+              "doc_id": "9208c414-4040-4667-a195-37723c8b57b3"
+            },
+            {
+              "doc_id": "ac5eebe9-5a40-4f08-a14a-797595284000"
+            },
+            {
+              "doc_id": "e4595db6-d24f-4a42-bdf2-4f7f20a8610d"
+            }
+          ]
+        },
+        "Spread of the disease": {
+          "answer": "Spread of the disease",
+          "references": [
+            {
+              "doc_id": "d0614cca-1a44-4531-a44e-315dd1c295d0"
+            }
+          ]
+        }
+      },
+      "question_id": "245a51864a2948f456aea95042604de9",
+      "aggregator_type": "AND",
+      "query_id": "300",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.625565+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How did feelings of guilt affect the suicide rate in Japan in 2020?": {
+      "question": "How did feelings of guilt affect the suicide rate in Japan in 2020?",
+      "answers": {
+        "increased suicide rate": {
+          "answer": "increased suicide rate",
+          "references": [
+            {
+              "doc_id": "0197a247-cd63-44bf-8869-bf04249dab29"
+            },
+            {
+              "doc_id": "08fe5abc-c7b5-4b2a-966b-a86a17e8c133"
+            },
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "7e19709c-0f56-4d67-a450-d97baf8c0f00"
+            }
+          ]
+        }
+      },
+      "question_id": "70f26095e568ad0d2be397966733d499",
+      "aggregator_type": "OR",
+      "query_id": "300",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.625598+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What causes a psychotic crisis that may lead to suicide?": {
+      "question": "What causes a psychotic crisis that may lead to suicide?",
+      "answers": {
+        "Fear of poverty": {
+          "answer": "Fear of poverty",
+          "references": [
+            {
+              "doc_id": "0821ae4a-6de1-4d6b-b349-15236bdb24b9"
+            },
+            {
+              "doc_id": "08fe5abc-c7b5-4b2a-966b-a86a17e8c133"
+            },
+            {
+              "doc_id": "274e241e-74cf-4c89-a61f-6b273b385b6b"
+            },
+            {
+              "doc_id": "44b5a209-4f36-459e-98f5-5d4777fc3b6e"
+            },
+            {
+              "doc_id": "92cc4841-9dc4-4fb9-827d-1cc18c88cae0"
+            },
+            {
+              "doc_id": "9fd63610-ddf2-4f60-b164-788b8674444d"
+            },
+            {
+              "doc_id": "ba30498c-9dbf-4b1d-bbfa-bcdca4548b18"
+            },
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            }
+          ]
+        },
+        "widespread unemployment": {
+          "answer": "widespread unemployment",
+          "references": [
+            {
+              "doc_id": "0821ae4a-6de1-4d6b-b349-15236bdb24b9"
+            },
+            {
+              "doc_id": "336b2eb7-5618-4dcf-a0dd-5976b368bd9e"
+            },
+            {
+              "doc_id": "3864a0e5-8ecd-4ec6-bf9c-8c2b4b46888a"
+            },
+            {
+              "doc_id": "3f02f366-b762-4e6f-914d-2cc168e582c8"
+            },
+            {
+              "doc_id": "44b5a209-4f36-459e-98f5-5d4777fc3b6e"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "68a6ccf1-ec07-4aee-ae48-e974a80ba9ca"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "904f8373-88db-4def-b28c-d4ec29c8d4de"
+            },
+            {
+              "doc_id": "957de1dd-666f-49d1-882c-751c133440ca"
+            },
+            {
+              "doc_id": "9fd63610-ddf2-4f60-b164-788b8674444d"
+            },
+            {
+              "doc_id": "b79adcac-a9f0-4c1d-a0bf-4ca2b12b1cc0"
+            },
+            {
+              "doc_id": "e41263f6-140a-458d-b8c8-2a5a7a6ae8b2"
+            }
+          ]
+        },
+        "social isolation": {
+          "answer": "social isolation",
+          "references": [
+            {
+              "doc_id": "0197a247-cd63-44bf-8869-bf04249dab29"
+            },
+            {
+              "doc_id": "01db45e2-9407-444d-a27c-b8b6a0313ea9"
+            },
+            {
+              "doc_id": "08016395-6934-4a90-94a0-6be08f1536fd"
+            },
+            {
+              "doc_id": "0821ae4a-6de1-4d6b-b349-15236bdb24b9"
+            },
+            {
+              "doc_id": "08fe5abc-c7b5-4b2a-966b-a86a17e8c133"
+            },
+            {
+              "doc_id": "1f25189e-507a-4fa6-8468-61437413d430"
+            },
+            {
+              "doc_id": "23435d31-41f2-4af9-b68f-c7fba9542cb8"
+            },
+            {
+              "doc_id": "3f02f366-b762-4e6f-914d-2cc168e582c8"
+            },
+            {
+              "doc_id": "47b25420-7324-42cb-849e-15452c22aa65"
+            },
+            {
+              "doc_id": "4b0655d6-fa26-43f0-9ed6-354e874587fc"
+            },
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "5870f4d2-f404-45f1-8693-72d279dc2993"
+            },
+            {
+              "doc_id": "68a6ccf1-ec07-4aee-ae48-e974a80ba9ca"
+            },
+            {
+              "doc_id": "77491bbf-8737-4029-bbd5-f3517a389bdd"
+            },
+            {
+              "doc_id": "78dcb179-1642-4d96-a52c-0b02391fc5f9"
+            },
+            {
+              "doc_id": "7c106495-4262-43d6-9793-9006933cda2a"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "873cb1ae-6762-4e20-b31e-db276c98a841"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            },
+            {
+              "doc_id": "96e9dbd4-75ff-4ce5-bac3-a62f9a3ffef7"
+            },
+            {
+              "doc_id": "9fd63610-ddf2-4f60-b164-788b8674444d"
+            },
+            {
+              "doc_id": "afc7498e-1490-449b-aa8a-31f0c9c99552"
+            },
+            {
+              "doc_id": "b79adcac-a9f0-4c1d-a0bf-4ca2b12b1cc0"
+            },
+            {
+              "doc_id": "c81fec68-c6c8-4bc9-bb3a-7e5c3d003dc8"
+            },
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            },
+            {
+              "doc_id": "e1da1017-07b4-4c8a-8d88-3b30dee8d4bd"
+            },
+            {
+              "doc_id": "e41263f6-140a-458d-b8c8-2a5a7a6ae8b2"
+            },
+            {
+              "doc_id": "e4595db6-d24f-4a42-bdf2-4f7f20a8610d"
+            },
+            {
+              "doc_id": "e5c1ed0a-fa91-4a42-90a4-fa5ad2a91f76"
+            },
+            {
+              "doc_id": "ea058900-5b0a-4a83-8cdb-58631de5c852"
+            },
+            {
+              "doc_id": "ed87c1ab-cdf3-4ba4-a0ac-a6ddfe0846e4"
+            },
+            {
+              "doc_id": "ff6bed72-03c8-4cf9-ba9d-fbe786ee191d"
+            }
+          ]
+        },
+        "loneliness": {
+          "answer": "loneliness",
+          "references": [
+            {
+              "doc_id": "01db45e2-9407-444d-a27c-b8b6a0313ea9"
+            },
+            {
+              "doc_id": "08016395-6934-4a90-94a0-6be08f1536fd"
+            },
+            {
+              "doc_id": "1f25189e-507a-4fa6-8468-61437413d430"
+            },
+            {
+              "doc_id": "3d87798e-3c15-4793-91c8-a02014a7ec19"
+            },
+            {
+              "doc_id": "3f02f366-b762-4e6f-914d-2cc168e582c8"
+            },
+            {
+              "doc_id": "4b0655d6-fa26-43f0-9ed6-354e874587fc"
+            },
+            {
+              "doc_id": "56f7e575-d216-42a6-ac0a-6aabf2d5aa12"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "78dcb179-1642-4d96-a52c-0b02391fc5f9"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "873cb1ae-6762-4e20-b31e-db276c98a841"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            },
+            {
+              "doc_id": "afc7498e-1490-449b-aa8a-31f0c9c99552"
+            },
+            {
+              "doc_id": "c0ab5c94-fd1f-4f96-8a77-0de0bcaa1e1d"
+            },
+            {
+              "doc_id": "ea058900-5b0a-4a83-8cdb-58631de5c852"
+            },
+            {
+              "doc_id": "ed87c1ab-cdf3-4ba4-a0ac-a6ddfe0846e4"
+            },
+            {
+              "doc_id": "ff6bed72-03c8-4cf9-ba9d-fbe786ee191d"
+            }
+          ]
+        },
+        "domestic violence": {
+          "answer": "domestic violence",
+          "references": [
+            {
+              "doc_id": "379ed495-7cc8-481b-a7cb-3eaa0421ef3f"
+            },
+            {
+              "doc_id": "5709e6d9-8945-4025-af43-9fb6ca0a7f11"
+            },
+            {
+              "doc_id": "8a0e3c38-f457-4b78-a268-f9aed12fc266"
+            },
+            {
+              "doc_id": "afc7498e-1490-449b-aa8a-31f0c9c99552"
+            }
+          ]
+        },
+        "increased load for working mothers": {
+          "answer": "increased load for working mothers",
+          "references": [
+            {
+              "doc_id": "379ed495-7cc8-481b-a7cb-3eaa0421ef3f"
+            },
+            {
+              "doc_id": "836170ec-8625-47e6-be91-ff11451617c2"
+            },
+            {
+              "doc_id": "b79adcac-a9f0-4c1d-a0bf-4ca2b12b1cc0"
+            }
+          ]
+        },
+        "Unemployment": {
+          "answer": "Unemployment",
+          "references": [
+            {
+              "doc_id": "274e241e-74cf-4c89-a61f-6b273b385b6b"
+            },
+            {
+              "doc_id": "47b25420-7324-42cb-849e-15452c22aa65"
+            },
+            {
+              "doc_id": "73fd4154-e827-4494-acd4-bbfbb05882f8"
+            },
+            {
+              "doc_id": "7c106495-4262-43d6-9793-9006933cda2a"
+            },
+            {
+              "doc_id": "92cc4841-9dc4-4fb9-827d-1cc18c88cae0"
+            },
+            {
+              "doc_id": "ba30498c-9dbf-4b1d-bbfa-bcdca4548b18"
+            },
+            {
+              "doc_id": "c81fec68-c6c8-4bc9-bb3a-7e5c3d003dc8"
+            },
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            },
+            {
+              "doc_id": "e1da1017-07b4-4c8a-8d88-3b30dee8d4bd"
+            },
+            {
+              "doc_id": "e5c1ed0a-fa91-4a42-90a4-fa5ad2a91f76"
+            },
+            {
+              "doc_id": "ec58a81d-65d4-491a-a46c-8adde331d763"
+            },
+            {
+              "doc_id": "fdd59bb9-f872-4399-b23a-cd5b564f6db0"
+            }
+          ]
+        },
+        "Economic ": {
+          "answer": "Economic ",
+          "references": []
+        },
+        "Economic recession": {
+          "answer": "Economic recession",
+          "references": [
+            {
+              "doc_id": "26b401fe-7a56-4f85-a091-a89c9e6721de"
+            },
+            {
+              "doc_id": "73fd4154-e827-4494-acd4-bbfbb05882f8"
+            },
+            {
+              "doc_id": "9208c414-4040-4667-a195-37723c8b57b3"
+            },
+            {
+              "doc_id": "c81fec68-c6c8-4bc9-bb3a-7e5c3d003dc8"
+            },
+            {
+              "doc_id": "cc611c28-88e4-48fe-9f4f-b9a2a3d23824"
+            },
+            {
+              "doc_id": "dfc82fdd-b654-481d-94d6-2c098801e1af"
+            }
+          ]
+        },
+        "Financial problems": {
+          "answer": "Financial problems",
+          "references": [
+            {
+              "doc_id": "0821ae4a-6de1-4d6b-b349-15236bdb24b9"
+            },
+            {
+              "doc_id": "ac5eebe9-5a40-4f08-a14a-797595284000"
+            },
+            {
+              "doc_id": "ba30498c-9dbf-4b1d-bbfa-bcdca4548b18"
+            },
+            {
+              "doc_id": "c81fec68-c6c8-4bc9-bb3a-7e5c3d003dc8"
+            },
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            },
+            {
+              "doc_id": "dfc82fdd-b654-481d-94d6-2c098801e1af"
+            },
+            {
+              "doc_id": "ec58a81d-65d4-491a-a46c-8adde331d763"
+            },
+            {
+              "doc_id": "fdd59bb9-f872-4399-b23a-cd5b564f6db0"
+            }
+          ]
+        },
+        "Domestic violence": {
+          "answer": "Domestic violence",
+          "references": [
+            {
+              "doc_id": "73fd4154-e827-4494-acd4-bbfbb05882f8"
+            },
+            {
+              "doc_id": "9208c414-4040-4667-a195-37723c8b57b3"
+            },
+            {
+              "doc_id": "ac5eebe9-5a40-4f08-a14a-797595284000"
+            },
+            {
+              "doc_id": "cafe4d90-c9b6-4aa5-9778-fb46ad129cec"
+            },
+            {
+              "doc_id": "e4595db6-d24f-4a42-bdf2-4f7f20a8610d"
+            }
+          ]
+        },
+        "Health factors": {
+          "answer": "Health factors",
+          "references": [
+            {
+              "doc_id": "dfc82fdd-b654-481d-94d6-2c098801e1af"
+            }
+          ]
+        },
+        "Pressure at work": {
+          "answer": "Pressure at work",
+          "references": [
+            {
+              "doc_id": "cc611c28-88e4-48fe-9f4f-b9a2a3d23824"
+            }
+          ]
+        }
+      },
+      "question_id": "038186ce90c374b6c6d46b9644baffa5",
+      "aggregator_type": "AND",
+      "query_id": "300",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.625890+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

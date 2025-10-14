@@ -1,0 +1,1771 @@
+{
+  "query_id": "303",
+  "title_query": "Palestinian Leaders and Abraham Accords",
+  "full_query": "I want a narrowly-focused report in which the key question addressed is the reactions of Palestinian leaders to the Abraham Accords.  I am not interested in other details on, for example, the negotiation of or the signing of the Abraham Acords.",
+  "full_background": "I work for the Arab League as an intern and I am gathering information on the response of Palestinian leaders toward the Abraham Accords.",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What are the Abraham Accords?": {
+      "question": "What are the Abraham Accords?",
+      "answers": {
+        "Peace agreements": {
+          "answer": "Peace agreements",
+          "references": [
+            {
+              "doc_id": "23ad3a4e-1077-43a7-9e88-3b9a48dd48dc"
+            },
+            {
+              "doc_id": "2764ffc1-82ee-4d78-b1ad-ba465fbdc191"
+            },
+            {
+              "doc_id": "32aa054b-b148-46c5-ac05-b0352460d8aa"
+            },
+            {
+              "doc_id": "3a71a411-0555-4d19-9579-5ca57284f953"
+            },
+            {
+              "doc_id": "41ddce3a-388e-4217-8879-c127c04efcb0"
+            },
+            {
+              "doc_id": "55cccbd1-8b87-4ab4-909f-00d7443ddb77"
+            },
+            {
+              "doc_id": "5ae92538-2777-4ffa-b669-1333fdb56c1a"
+            },
+            {
+              "doc_id": "65ab4bcf-ad30-480e-9523-0db699807e52"
+            },
+            {
+              "doc_id": "665822d4-ab51-4901-b3f7-ad6c102c2755"
+            },
+            {
+              "doc_id": "747ac4c2-cc09-44de-a344-cb5818027051"
+            },
+            {
+              "doc_id": "762cb8bc-68e7-42fd-9f02-8edb36bbd6cd"
+            },
+            {
+              "doc_id": "7acd1876-56c0-446b-a315-1ff19d237a82"
+            },
+            {
+              "doc_id": "7eb2e19c-4eef-47b1-afe6-40673eb89894"
+            },
+            {
+              "doc_id": "96fbb5d4-ccd9-437d-85d3-70805b8ac473"
+            },
+            {
+              "doc_id": "9824f476-fb8e-4a71-bce9-5cd6cea912ac"
+            },
+            {
+              "doc_id": "9a7799a3-d518-4a64-90b7-e0d99f062332"
+            },
+            {
+              "doc_id": "a954d2ab-c674-4cca-b0e2-3a9c96292411"
+            },
+            {
+              "doc_id": "a9587eae-a91c-4380-8808-a1664f9b4f5b"
+            },
+            {
+              "doc_id": "b25e04f2-556b-4cab-ac49-2252350f53ae"
+            },
+            {
+              "doc_id": "c809ea60-7672-4cf6-a88a-3764099c4704"
+            },
+            {
+              "doc_id": "cb588606-26d0-4ff5-83ee-cb54ef22b01c"
+            },
+            {
+              "doc_id": "cf912ce5-68b8-4909-b11c-44d11eb821d7"
+            },
+            {
+              "doc_id": "e12ccb4d-5b27-4568-b190-3f78cec2805a"
+            },
+            {
+              "doc_id": "ea3abfa5-1841-4771-b839-81219de14d9e"
+            }
+          ]
+        },
+        "normalized the relationship between some Arab nations and Israel": {
+          "answer": "normalized the relationship between some Arab nations and Israel",
+          "references": [
+            {
+              "doc_id": "07b89e5d-0ece-4470-8004-2990c1017ed8"
+            },
+            {
+              "doc_id": "1c3fdd6e-8215-468d-b48b-44211cb2b9b7"
+            },
+            {
+              "doc_id": "20926e51-ba88-4b07-9ce7-4504b65447d2"
+            },
+            {
+              "doc_id": "23ad3a4e-1077-43a7-9e88-3b9a48dd48dc"
+            },
+            {
+              "doc_id": "2ca8bcbd-fee1-41e6-9d79-94aa54e8656a"
+            },
+            {
+              "doc_id": "32aa4fb8-1aed-44db-ada8-85676f571fdf"
+            },
+            {
+              "doc_id": "42038426-9ff3-427e-bd88-842aeaad2090"
+            },
+            {
+              "doc_id": "4955fb8d-530f-4412-bbd7-6ea9b6f5bac9"
+            },
+            {
+              "doc_id": "55149b4c-6d01-479c-a4b0-46c22faa6e10"
+            },
+            {
+              "doc_id": "55cccbd1-8b87-4ab4-909f-00d7443ddb77"
+            },
+            {
+              "doc_id": "586ec250-8082-4abf-ba8b-966442bdd1a1"
+            },
+            {
+              "doc_id": "5c08371b-ff0a-47a8-ae1a-f702beff05e6"
+            },
+            {
+              "doc_id": "5fc5bebc-254f-4441-9536-d49cec52efbc"
+            },
+            {
+              "doc_id": "63ac95a2-c040-436e-8721-5bd56915c48c"
+            },
+            {
+              "doc_id": "762cb8bc-68e7-42fd-9f02-8edb36bbd6cd"
+            },
+            {
+              "doc_id": "787885ee-402e-47cb-8665-d6f83a0939d9"
+            },
+            {
+              "doc_id": "7acd1876-56c0-446b-a315-1ff19d237a82"
+            },
+            {
+              "doc_id": "8cedc258-5dc7-429d-b7b8-b373abfb19a5"
+            },
+            {
+              "doc_id": "8eac052b-6764-4092-af4f-63acd7ea8c71"
+            },
+            {
+              "doc_id": "96fbb5d4-ccd9-437d-85d3-70805b8ac473"
+            },
+            {
+              "doc_id": "97b5a174-cdb5-4636-8b4f-cd9ddd980dfb"
+            },
+            {
+              "doc_id": "9824f476-fb8e-4a71-bce9-5cd6cea912ac"
+            },
+            {
+              "doc_id": "9a7799a3-d518-4a64-90b7-e0d99f062332"
+            },
+            {
+              "doc_id": "9aa4993e-cffd-408d-94b5-7f3557d8b052"
+            },
+            {
+              "doc_id": "a954d2ab-c674-4cca-b0e2-3a9c96292411"
+            },
+            {
+              "doc_id": "a9587eae-a91c-4380-8808-a1664f9b4f5b"
+            },
+            {
+              "doc_id": "bc37b3b9-89b8-45c1-b7bf-dc6cf2b935e4"
+            },
+            {
+              "doc_id": "cb588606-26d0-4ff5-83ee-cb54ef22b01c"
+            },
+            {
+              "doc_id": "ce2964c9-fb2e-4488-a3c2-0f000ccf5352"
+            },
+            {
+              "doc_id": "d258bd73-cdac-4561-b5db-854e1c3c21b9"
+            },
+            {
+              "doc_id": "e18b725a-9e4e-46d6-aecd-e375c4e557e5"
+            },
+            {
+              "doc_id": "e846439d-2bc5-4a4d-a9cf-fc7e1681bfcd"
+            },
+            {
+              "doc_id": "ea3abfa5-1841-4771-b839-81219de14d9e"
+            },
+            {
+              "doc_id": "f28d0810-cfba-4f85-a4d8-452c9c402199"
+            },
+            {
+              "doc_id": "f8159df7-1669-4c6f-96e9-dd55ca4b2955"
+            },
+            {
+              "doc_id": "f9105e0c-28d7-4651-854d-46dbd6a5f874"
+            },
+            {
+              "doc_id": "fd854b37-6828-40e0-b9ab-47de6dde0567"
+            }
+          ]
+        }
+      },
+      "question_id": "6890a64920824b66678c384dbd466d24",
+      "aggregator_type": "OR",
+      "query_id": "303",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.633010+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Which are the first two Arab nations that signed the Accords?": {
+      "question": "Which are the first two Arab nations that signed the Accords?",
+      "answers": {
+        "United Arab Emirates": {
+          "answer": "United Arab Emirates",
+          "references": [
+            {
+              "doc_id": "08a6812c-86b3-4466-86b1-c6e0902e25e9"
+            },
+            {
+              "doc_id": "08fa55f9-5403-45d8-bdf1-6127317359af"
+            },
+            {
+              "doc_id": "0a3fa4e4-3c38-4a1f-9701-a9cf94f2b228"
+            },
+            {
+              "doc_id": "0e27198d-bdb2-4250-95fc-e14253477457"
+            },
+            {
+              "doc_id": "17d31e7f-84d5-4746-98d8-b04cd55cd19c"
+            },
+            {
+              "doc_id": "1c3fdd6e-8215-468d-b48b-44211cb2b9b7"
+            },
+            {
+              "doc_id": "1ea6f3b6-5d3e-44dd-af09-3c16039e8d7c"
+            },
+            {
+              "doc_id": "20837c15-9534-4f21-b364-a0f57d5ac08b"
+            },
+            {
+              "doc_id": "20926e51-ba88-4b07-9ce7-4504b65447d2"
+            },
+            {
+              "doc_id": "2140eef8-9adb-4f40-836b-e09dbd83a9e3"
+            },
+            {
+              "doc_id": "22a89ae2-36e8-4aa9-93ac-e2a9a35b0a49"
+            },
+            {
+              "doc_id": "2764ffc1-82ee-4d78-b1ad-ba465fbdc191"
+            },
+            {
+              "doc_id": "288d9f03-6be3-45d3-be32-0456a1c40b3f"
+            },
+            {
+              "doc_id": "28e8b8c8-415e-4f92-af30-90ea05449638"
+            },
+            {
+              "doc_id": "2f812e70-7bfb-4af5-8f37-2026b76542dc"
+            },
+            {
+              "doc_id": "2fdea4ba-2a68-4e6a-b5d1-e865c97e8dac"
+            },
+            {
+              "doc_id": "37caa17a-970b-407e-aa0d-b5ccaeda661c"
+            },
+            {
+              "doc_id": "3b6b2e60-367c-4692-99a8-46bb681cd4f8"
+            },
+            {
+              "doc_id": "42038426-9ff3-427e-bd88-842aeaad2090"
+            },
+            {
+              "doc_id": "4955fb8d-530f-4412-bbd7-6ea9b6f5bac9"
+            },
+            {
+              "doc_id": "4f74063f-1bce-460e-8e23-6b7857827fe4"
+            },
+            {
+              "doc_id": "5140886c-a507-4906-9060-3e5be9862ce5"
+            },
+            {
+              "doc_id": "524e1932-abc5-4807-9f34-3d3fa8714fb9"
+            },
+            {
+              "doc_id": "541223b4-76e1-467e-9589-5d548761b99b"
+            },
+            {
+              "doc_id": "552ee334-ce0f-4938-bd67-02a6f8cc12d9"
+            },
+            {
+              "doc_id": "55cccbd1-8b87-4ab4-909f-00d7443ddb77"
+            },
+            {
+              "doc_id": "586ec250-8082-4abf-ba8b-966442bdd1a1"
+            },
+            {
+              "doc_id": "5c08371b-ff0a-47a8-ae1a-f702beff05e6"
+            },
+            {
+              "doc_id": "5da3a2e3-9246-4ccb-a6a8-acd8de1d99b3"
+            },
+            {
+              "doc_id": "5e59a283-e166-44e6-a064-8ec4b5936e95"
+            },
+            {
+              "doc_id": "63ac95a2-c040-436e-8721-5bd56915c48c"
+            },
+            {
+              "doc_id": "63c59f2e-e596-4d41-8d92-6fcc4a8db917"
+            },
+            {
+              "doc_id": "64346593-98f7-4854-b30d-0a2d04967e95"
+            },
+            {
+              "doc_id": "65ab4bcf-ad30-480e-9523-0db699807e52"
+            },
+            {
+              "doc_id": "683bd2b0-eef3-4026-bb39-372fe39fd642"
+            },
+            {
+              "doc_id": "70a1c703-bcf1-482b-9d68-176ec132f659"
+            },
+            {
+              "doc_id": "718d3d46-88b5-417f-a2a7-c3279ce8ab0b"
+            },
+            {
+              "doc_id": "7236b1c6-3c24-4fd1-b86a-0755c8cc8dde"
+            },
+            {
+              "doc_id": "762cb8bc-68e7-42fd-9f02-8edb36bbd6cd"
+            },
+            {
+              "doc_id": "774d56ba-3c53-4bc5-a082-af842aae9efd"
+            },
+            {
+              "doc_id": "787885ee-402e-47cb-8665-d6f83a0939d9"
+            },
+            {
+              "doc_id": "7acd1876-56c0-446b-a315-1ff19d237a82"
+            },
+            {
+              "doc_id": "7e0f0ede-7d69-4379-a17e-45b6f416b2ac"
+            },
+            {
+              "doc_id": "887f6dc4-0ebd-4be4-a8e7-792e246fb032"
+            },
+            {
+              "doc_id": "8cedc258-5dc7-429d-b7b8-b373abfb19a5"
+            },
+            {
+              "doc_id": "8cf67db4-4b9f-41b9-8387-f94639ba1782"
+            },
+            {
+              "doc_id": "8dc0b858-bed6-42c0-a918-e7b37944ae61"
+            },
+            {
+              "doc_id": "8eac052b-6764-4092-af4f-63acd7ea8c71"
+            },
+            {
+              "doc_id": "9350b064-c0f1-4133-b4d9-28df807d28b9"
+            },
+            {
+              "doc_id": "9a7799a3-d518-4a64-90b7-e0d99f062332"
+            },
+            {
+              "doc_id": "9a99dea6-98ad-471e-add7-11c34d0dbb2a"
+            },
+            {
+              "doc_id": "9aa4993e-cffd-408d-94b5-7f3557d8b052"
+            },
+            {
+              "doc_id": "9c51be05-bf28-4256-86ac-ae48291aaa95"
+            },
+            {
+              "doc_id": "a461300c-53b2-4aaf-a459-feefa29b9176"
+            },
+            {
+              "doc_id": "a616ac7e-8628-41c2-8f6c-a359cd2dbb02"
+            },
+            {
+              "doc_id": "a9f4ae31-e2fc-45f5-b064-87d94c1cc059"
+            },
+            {
+              "doc_id": "a9f73838-c202-4040-a45e-24114a6817ac"
+            },
+            {
+              "doc_id": "ab3def57-13c8-4b4a-adad-fef89be611c0"
+            },
+            {
+              "doc_id": "b10f2505-8218-457c-8efa-ea79ea97b01c"
+            },
+            {
+              "doc_id": "b133a636-3f10-4aaa-a099-cb105dbdc44b"
+            },
+            {
+              "doc_id": "b27907cf-83a7-4932-9641-c899d40a9962"
+            },
+            {
+              "doc_id": "b6efd7ab-2e6e-4e3b-a089-fdffda3464f1"
+            },
+            {
+              "doc_id": "bc37b3b9-89b8-45c1-b7bf-dc6cf2b935e4"
+            },
+            {
+              "doc_id": "bfdb82fe-2b4f-4da7-9255-84ca44caf5bd"
+            },
+            {
+              "doc_id": "c0fbf8a9-c4b7-43f0-b6a5-09a36a68d963"
+            },
+            {
+              "doc_id": "c9beeb34-780c-4009-9264-334b91213c8c"
+            },
+            {
+              "doc_id": "cc32d39d-cb5c-4855-9f7f-a2c090d167ea"
+            },
+            {
+              "doc_id": "cda11c86-6b5f-4d91-9c0d-52467547e7da"
+            },
+            {
+              "doc_id": "ce0e3ad7-4a6d-4c2c-8468-0048a84964a3"
+            },
+            {
+              "doc_id": "cfb492cc-ac47-419f-9d05-46d72dcb2990"
+            },
+            {
+              "doc_id": "d258bd73-cdac-4561-b5db-854e1c3c21b9"
+            },
+            {
+              "doc_id": "d7fd157d-2e66-409c-be3a-e260a5eb6858"
+            },
+            {
+              "doc_id": "dc01ab04-1a1b-4358-808e-25b2b394059d"
+            },
+            {
+              "doc_id": "de238bd6-6580-43fb-aa38-29d0ee81e5f5"
+            },
+            {
+              "doc_id": "e846439d-2bc5-4a4d-a9cf-fc7e1681bfcd"
+            },
+            {
+              "doc_id": "ea3abfa5-1841-4771-b839-81219de14d9e"
+            },
+            {
+              "doc_id": "ef3f8134-0470-40fe-94e4-6596fac2242f"
+            },
+            {
+              "doc_id": "f1815c58-e34e-4d40-9b05-ddc7b28251b0"
+            },
+            {
+              "doc_id": "f4a30403-e5e2-430d-be7b-e8ac23fbc08b"
+            },
+            {
+              "doc_id": "f8159df7-1669-4c6f-96e9-dd55ca4b2955"
+            },
+            {
+              "doc_id": "fafc0f60-a7ef-44a3-b99d-bde336992483"
+            },
+            {
+              "doc_id": "fb2bfe7d-1017-47c8-87e9-d447501c6d26"
+            }
+          ]
+        },
+        "Bahrain": {
+          "answer": "Bahrain",
+          "references": [
+            {
+              "doc_id": "0e06ecab-4cf4-4346-aa10-ef90fdea233d"
+            },
+            {
+              "doc_id": "1c3fdd6e-8215-468d-b48b-44211cb2b9b7"
+            },
+            {
+              "doc_id": "20837c15-9534-4f21-b364-a0f57d5ac08b"
+            },
+            {
+              "doc_id": "2140eef8-9adb-4f40-836b-e09dbd83a9e3"
+            },
+            {
+              "doc_id": "22a89ae2-36e8-4aa9-93ac-e2a9a35b0a49"
+            },
+            {
+              "doc_id": "28e8b8c8-415e-4f92-af30-90ea05449638"
+            },
+            {
+              "doc_id": "2f812e70-7bfb-4af5-8f37-2026b76542dc"
+            },
+            {
+              "doc_id": "2fdea4ba-2a68-4e6a-b5d1-e865c97e8dac"
+            },
+            {
+              "doc_id": "37caa17a-970b-407e-aa0d-b5ccaeda661c"
+            },
+            {
+              "doc_id": "42038426-9ff3-427e-bd88-842aeaad2090"
+            },
+            {
+              "doc_id": "524e1932-abc5-4807-9f34-3d3fa8714fb9"
+            },
+            {
+              "doc_id": "541223b4-76e1-467e-9589-5d548761b99b"
+            },
+            {
+              "doc_id": "552ee334-ce0f-4938-bd67-02a6f8cc12d9"
+            },
+            {
+              "doc_id": "55cccbd1-8b87-4ab4-909f-00d7443ddb77"
+            },
+            {
+              "doc_id": "5c08371b-ff0a-47a8-ae1a-f702beff05e6"
+            },
+            {
+              "doc_id": "5da3a2e3-9246-4ccb-a6a8-acd8de1d99b3"
+            },
+            {
+              "doc_id": "63c59f2e-e596-4d41-8d92-6fcc4a8db917"
+            },
+            {
+              "doc_id": "64346593-98f7-4854-b30d-0a2d04967e95"
+            },
+            {
+              "doc_id": "65ab4bcf-ad30-480e-9523-0db699807e52"
+            },
+            {
+              "doc_id": "683bd2b0-eef3-4026-bb39-372fe39fd642"
+            },
+            {
+              "doc_id": "70a1c703-bcf1-482b-9d68-176ec132f659"
+            },
+            {
+              "doc_id": "718d3d46-88b5-417f-a2a7-c3279ce8ab0b"
+            },
+            {
+              "doc_id": "762cb8bc-68e7-42fd-9f02-8edb36bbd6cd"
+            },
+            {
+              "doc_id": "774d56ba-3c53-4bc5-a082-af842aae9efd"
+            },
+            {
+              "doc_id": "827950c7-4e0c-48a3-b2aa-a54dd6329e76"
+            },
+            {
+              "doc_id": "887f6dc4-0ebd-4be4-a8e7-792e246fb032"
+            },
+            {
+              "doc_id": "8cf67db4-4b9f-41b9-8387-f94639ba1782"
+            },
+            {
+              "doc_id": "8dc0b858-bed6-42c0-a918-e7b37944ae61"
+            },
+            {
+              "doc_id": "9350b064-c0f1-4133-b4d9-28df807d28b9"
+            },
+            {
+              "doc_id": "97b5a174-cdb5-4636-8b4f-cd9ddd980dfb"
+            },
+            {
+              "doc_id": "9a7799a3-d518-4a64-90b7-e0d99f062332"
+            },
+            {
+              "doc_id": "9aa4993e-cffd-408d-94b5-7f3557d8b052"
+            },
+            {
+              "doc_id": "a616ac7e-8628-41c2-8f6c-a359cd2dbb02"
+            },
+            {
+              "doc_id": "a9f4ae31-e2fc-45f5-b064-87d94c1cc059"
+            },
+            {
+              "doc_id": "bc37b3b9-89b8-45c1-b7bf-dc6cf2b935e4"
+            },
+            {
+              "doc_id": "c9beeb34-780c-4009-9264-334b91213c8c"
+            },
+            {
+              "doc_id": "cda11c86-6b5f-4d91-9c0d-52467547e7da"
+            },
+            {
+              "doc_id": "ce0e3ad7-4a6d-4c2c-8468-0048a84964a3"
+            },
+            {
+              "doc_id": "cfb492cc-ac47-419f-9d05-46d72dcb2990"
+            },
+            {
+              "doc_id": "d258bd73-cdac-4561-b5db-854e1c3c21b9"
+            },
+            {
+              "doc_id": "d7fd157d-2e66-409c-be3a-e260a5eb6858"
+            },
+            {
+              "doc_id": "dc01ab04-1a1b-4358-808e-25b2b394059d"
+            },
+            {
+              "doc_id": "e846439d-2bc5-4a4d-a9cf-fc7e1681bfcd"
+            },
+            {
+              "doc_id": "ea3abfa5-1841-4771-b839-81219de14d9e"
+            },
+            {
+              "doc_id": "ef3f8134-0470-40fe-94e4-6596fac2242f"
+            },
+            {
+              "doc_id": "f1815c58-e34e-4d40-9b05-ddc7b28251b0"
+            },
+            {
+              "doc_id": "f8159df7-1669-4c6f-96e9-dd55ca4b2955"
+            },
+            {
+              "doc_id": "fafc0f60-a7ef-44a3-b99d-bde336992483"
+            },
+            {
+              "doc_id": "fb2bfe7d-1017-47c8-87e9-d447501c6d26"
+            }
+          ]
+        },
+        "Jordan": {
+          "answer": "Jordan",
+          "references": []
+        }
+      },
+      "question_id": "1cad19a263d9e16614cfb248aa80a21b",
+      "aggregator_type": "AND",
+      "query_id": "303",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.633206+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "When were the Abraham Accords signed?": {
+      "question": "When were the Abraham Accords signed?",
+      "answers": {
+        "September 2020": {
+          "answer": "September 2020",
+          "references": [
+            {
+              "doc_id": "20926e51-ba88-4b07-9ce7-4504b65447d2"
+            },
+            {
+              "doc_id": "2764ffc1-82ee-4d78-b1ad-ba465fbdc191"
+            },
+            {
+              "doc_id": "2ca8bcbd-fee1-41e6-9d79-94aa54e8656a"
+            },
+            {
+              "doc_id": "3b6b2e60-367c-4692-99a8-46bb681cd4f8"
+            },
+            {
+              "doc_id": "42038426-9ff3-427e-bd88-842aeaad2090"
+            },
+            {
+              "doc_id": "55cccbd1-8b87-4ab4-909f-00d7443ddb77"
+            },
+            {
+              "doc_id": "5fc5bebc-254f-4441-9536-d49cec52efbc"
+            },
+            {
+              "doc_id": "683bd2b0-eef3-4026-bb39-372fe39fd642"
+            },
+            {
+              "doc_id": "762cb8bc-68e7-42fd-9f02-8edb36bbd6cd"
+            },
+            {
+              "doc_id": "7acd1876-56c0-446b-a315-1ff19d237a82"
+            },
+            {
+              "doc_id": "8cedc258-5dc7-429d-b7b8-b373abfb19a5"
+            },
+            {
+              "doc_id": "8eac052b-6764-4092-af4f-63acd7ea8c71"
+            },
+            {
+              "doc_id": "97b5a174-cdb5-4636-8b4f-cd9ddd980dfb"
+            },
+            {
+              "doc_id": "a616ac7e-8628-41c2-8f6c-a359cd2dbb02"
+            },
+            {
+              "doc_id": "a954d2ab-c674-4cca-b0e2-3a9c96292411"
+            },
+            {
+              "doc_id": "cc32d39d-cb5c-4855-9f7f-a2c090d167ea"
+            },
+            {
+              "doc_id": "f8159df7-1669-4c6f-96e9-dd55ca4b2955"
+            },
+            {
+              "doc_id": "fcf3073e-e149-4c19-b66b-0e2b4f11102b"
+            },
+            {
+              "doc_id": "fd854b37-6828-40e0-b9ab-47de6dde0567"
+            }
+          ]
+        },
+        "Shahrivar 25, 1399": {
+          "answer": "Shahrivar 25, 1399",
+          "references": [
+            {
+              "doc_id": "2fdea4ba-2a68-4e6a-b5d1-e865c97e8dac"
+            },
+            {
+              "doc_id": "552ee334-ce0f-4938-bd67-02a6f8cc12d9"
+            }
+          ]
+        },
+        "2020": {
+          "answer": "2020",
+          "references": [
+            {
+              "doc_id": "5da3a2e3-9246-4ccb-a6a8-acd8de1d99b3"
+            }
+          ]
+        },
+        "September 15, 2020": {
+          "answer": "September 15, 2020",
+          "references": [
+            {
+              "doc_id": "5da3a2e3-9246-4ccb-a6a8-acd8de1d99b3"
+            }
+          ]
+        },
+        "Shahrivar 25": {
+          "answer": "Shahrivar 25",
+          "references": [
+            {
+              "doc_id": "7e0f0ede-7d69-4379-a17e-45b6f416b2ac"
+            }
+          ]
+        },
+        "Shahrivar 1399": {
+          "answer": "Shahrivar 1399",
+          "references": [
+            {
+              "doc_id": "9350b064-c0f1-4133-b4d9-28df807d28b9"
+            }
+          ]
+        },
+        "August 13, 2020": {
+          "answer": "August 13, 2020",
+          "references": [
+            {
+              "doc_id": "9aa4993e-cffd-408d-94b5-7f3557d8b052"
+            },
+            {
+              "doc_id": "bfe9eb76-fdd0-477d-b34b-b2bfd5b011cb"
+            },
+            {
+              "doc_id": "c809ea60-7672-4cf6-a88a-3764099c4704"
+            },
+            {
+              "doc_id": "c9beeb34-780c-4009-9264-334b91213c8c"
+            },
+            {
+              "doc_id": "ce2964c9-fb2e-4488-a3c2-0f000ccf5352"
+            },
+            {
+              "doc_id": "d258bd73-cdac-4561-b5db-854e1c3c21b9"
+            }
+          ]
+        },
+        "Mordad 13, 1399": {
+          "answer": "Mordad 13, 1399",
+          "references": [
+            {
+              "doc_id": "9aa4993e-cffd-408d-94b5-7f3557d8b052"
+            }
+          ]
+        },
+        "Second half of 2020": {
+          "answer": "Second half of 2020",
+          "references": [
+            {
+              "doc_id": "dc01ab04-1a1b-4358-808e-25b2b394059d"
+            }
+          ]
+        },
+        "August 2020": {
+          "answer": "August 2020",
+          "references": [
+            {
+              "doc_id": "dc01ab04-1a1b-4358-808e-25b2b394059d"
+            }
+          ]
+        }
+      },
+      "question_id": "cbfc8201ee7cd4d5e22d1feb91705762",
+      "aggregator_type": "OR",
+      "query_id": "303",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.633352+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Who brokered the negotiation and signing of the Abraham Accords?": {
+      "question": "Who brokered the negotiation and signing of the Abraham Accords?",
+      "answers": {
+        "The US under Trump\u2019s administration": {
+          "answer": "The US under Trump\u2019s administration",
+          "references": [
+            {
+              "doc_id": "08fa55f9-5403-45d8-bdf1-6127317359af"
+            },
+            {
+              "doc_id": "0e06ecab-4cf4-4346-aa10-ef90fdea233d"
+            },
+            {
+              "doc_id": "1c3fdd6e-8215-468d-b48b-44211cb2b9b7"
+            },
+            {
+              "doc_id": "22a89ae2-36e8-4aa9-93ac-e2a9a35b0a49"
+            },
+            {
+              "doc_id": "2764ffc1-82ee-4d78-b1ad-ba465fbdc191"
+            },
+            {
+              "doc_id": "2ca8bcbd-fee1-41e6-9d79-94aa54e8656a"
+            },
+            {
+              "doc_id": "2fdea4ba-2a68-4e6a-b5d1-e865c97e8dac"
+            },
+            {
+              "doc_id": "387415f4-c20c-48eb-a22d-6f8c84e97887"
+            },
+            {
+              "doc_id": "41ddce3a-388e-4217-8879-c127c04efcb0"
+            },
+            {
+              "doc_id": "42038426-9ff3-427e-bd88-842aeaad2090"
+            },
+            {
+              "doc_id": "46793a6f-0a07-42cc-a6ad-ed8b30ce20a7"
+            },
+            {
+              "doc_id": "4955fb8d-530f-4412-bbd7-6ea9b6f5bac9"
+            },
+            {
+              "doc_id": "516910b2-e2a8-457f-b008-bacb3b94dc05"
+            },
+            {
+              "doc_id": "524e1932-abc5-4807-9f34-3d3fa8714fb9"
+            },
+            {
+              "doc_id": "55149b4c-6d01-479c-a4b0-46c22faa6e10"
+            },
+            {
+              "doc_id": "552ee334-ce0f-4938-bd67-02a6f8cc12d9"
+            },
+            {
+              "doc_id": "55cccbd1-8b87-4ab4-909f-00d7443ddb77"
+            },
+            {
+              "doc_id": "586ec250-8082-4abf-ba8b-966442bdd1a1"
+            },
+            {
+              "doc_id": "5ae92538-2777-4ffa-b669-1333fdb56c1a"
+            },
+            {
+              "doc_id": "5c08371b-ff0a-47a8-ae1a-f702beff05e6"
+            },
+            {
+              "doc_id": "5da3a2e3-9246-4ccb-a6a8-acd8de1d99b3"
+            },
+            {
+              "doc_id": "5e59a283-e166-44e6-a064-8ec4b5936e95"
+            },
+            {
+              "doc_id": "5ee2b159-eafc-406d-be08-9956a71bf917"
+            },
+            {
+              "doc_id": "5fc5bebc-254f-4441-9536-d49cec52efbc"
+            },
+            {
+              "doc_id": "63ac95a2-c040-436e-8721-5bd56915c48c"
+            },
+            {
+              "doc_id": "63c59f2e-e596-4d41-8d92-6fcc4a8db917"
+            },
+            {
+              "doc_id": "65ab4bcf-ad30-480e-9523-0db699807e52"
+            },
+            {
+              "doc_id": "665822d4-ab51-4901-b3f7-ad6c102c2755"
+            },
+            {
+              "doc_id": "683bd2b0-eef3-4026-bb39-372fe39fd642"
+            },
+            {
+              "doc_id": "718d3d46-88b5-417f-a2a7-c3279ce8ab0b"
+            },
+            {
+              "doc_id": "762cb8bc-68e7-42fd-9f02-8edb36bbd6cd"
+            },
+            {
+              "doc_id": "787885ee-402e-47cb-8665-d6f83a0939d9"
+            },
+            {
+              "doc_id": "7acd1876-56c0-446b-a315-1ff19d237a82"
+            },
+            {
+              "doc_id": "7e0f0ede-7d69-4379-a17e-45b6f416b2ac"
+            },
+            {
+              "doc_id": "7eb2e19c-4eef-47b1-afe6-40673eb89894"
+            },
+            {
+              "doc_id": "84672026-fe3e-46a9-b9d5-ea9d43285ef5"
+            },
+            {
+              "doc_id": "887f6dc4-0ebd-4be4-a8e7-792e246fb032"
+            },
+            {
+              "doc_id": "8cedc258-5dc7-429d-b7b8-b373abfb19a5"
+            },
+            {
+              "doc_id": "8eac052b-6764-4092-af4f-63acd7ea8c71"
+            },
+            {
+              "doc_id": "97b5a174-cdb5-4636-8b4f-cd9ddd980dfb"
+            },
+            {
+              "doc_id": "9a7799a3-d518-4a64-90b7-e0d99f062332"
+            },
+            {
+              "doc_id": "9a7ce6db-9964-491f-bac5-e745056849f0"
+            },
+            {
+              "doc_id": "9aa4993e-cffd-408d-94b5-7f3557d8b052"
+            },
+            {
+              "doc_id": "a461300c-53b2-4aaf-a459-feefa29b9176"
+            },
+            {
+              "doc_id": "a616ac7e-8628-41c2-8f6c-a359cd2dbb02"
+            },
+            {
+              "doc_id": "a954d2ab-c674-4cca-b0e2-3a9c96292411"
+            },
+            {
+              "doc_id": "a9587eae-a91c-4380-8808-a1664f9b4f5b"
+            },
+            {
+              "doc_id": "a9f73838-c202-4040-a45e-24114a6817ac"
+            },
+            {
+              "doc_id": "ae67e5b8-26d1-4220-bf32-f4bf52190a3d"
+            },
+            {
+              "doc_id": "b133a636-3f10-4aaa-a099-cb105dbdc44b"
+            },
+            {
+              "doc_id": "b25e04f2-556b-4cab-ac49-2252350f53ae"
+            },
+            {
+              "doc_id": "bc37b3b9-89b8-45c1-b7bf-dc6cf2b935e4"
+            },
+            {
+              "doc_id": "c2c3d36a-d28e-4068-ad08-72f0fd874c79"
+            },
+            {
+              "doc_id": "c809ea60-7672-4cf6-a88a-3764099c4704"
+            },
+            {
+              "doc_id": "c9beeb34-780c-4009-9264-334b91213c8c"
+            },
+            {
+              "doc_id": "ce0e3ad7-4a6d-4c2c-8468-0048a84964a3"
+            },
+            {
+              "doc_id": "ceda7bec-9bf2-4ab3-b59a-fc88fe097b35"
+            },
+            {
+              "doc_id": "cf912ce5-68b8-4909-b11c-44d11eb821d7"
+            },
+            {
+              "doc_id": "d258bd73-cdac-4561-b5db-854e1c3c21b9"
+            },
+            {
+              "doc_id": "d79ae646-8ebc-4ede-ae07-996f2d47a28b"
+            },
+            {
+              "doc_id": "d7fd157d-2e66-409c-be3a-e260a5eb6858"
+            },
+            {
+              "doc_id": "e1cb4c6a-4b60-445a-ab1c-514ae4cecbe6"
+            },
+            {
+              "doc_id": "e846439d-2bc5-4a4d-a9cf-fc7e1681bfcd"
+            },
+            {
+              "doc_id": "ea3abfa5-1841-4771-b839-81219de14d9e"
+            },
+            {
+              "doc_id": "ef3f8134-0470-40fe-94e4-6596fac2242f"
+            },
+            {
+              "doc_id": "f1815c58-e34e-4d40-9b05-ddc7b28251b0"
+            },
+            {
+              "doc_id": "f28d0810-cfba-4f85-a4d8-452c9c402199"
+            },
+            {
+              "doc_id": "f4a30403-e5e2-430d-be7b-e8ac23fbc08b"
+            },
+            {
+              "doc_id": "f65059f5-275b-4412-92ff-a9c0e7f4c2db"
+            },
+            {
+              "doc_id": "f6842680-a9aa-48ca-ba8e-0f94365fadee"
+            },
+            {
+              "doc_id": "f8159df7-1669-4c6f-96e9-dd55ca4b2955"
+            },
+            {
+              "doc_id": "fafc0f60-a7ef-44a3-b99d-bde336992483"
+            },
+            {
+              "doc_id": "fbe6564a-9ec8-4fa4-871c-98486695e72f"
+            },
+            {
+              "doc_id": "fcf3073e-e149-4c19-b66b-0e2b4f11102b"
+            }
+          ]
+        },
+        "The USA": {
+          "answer": "The USA",
+          "references": [
+            {
+              "doc_id": "07b89e5d-0ece-4470-8004-2990c1017ed8"
+            },
+            {
+              "doc_id": "08a6812c-86b3-4466-86b1-c6e0902e25e9"
+            },
+            {
+              "doc_id": "0a3fa4e4-3c38-4a1f-9701-a9cf94f2b228"
+            },
+            {
+              "doc_id": "2f812e70-7bfb-4af5-8f37-2026b76542dc"
+            },
+            {
+              "doc_id": "4f74063f-1bce-460e-8e23-6b7857827fe4"
+            },
+            {
+              "doc_id": "70a1c703-bcf1-482b-9d68-176ec132f659"
+            },
+            {
+              "doc_id": "8dc0b858-bed6-42c0-a918-e7b37944ae61"
+            },
+            {
+              "doc_id": "9a99dea6-98ad-471e-add7-11c34d0dbb2a"
+            },
+            {
+              "doc_id": "9c51be05-bf28-4256-86ac-ae48291aaa95"
+            },
+            {
+              "doc_id": "b10f2505-8218-457c-8efa-ea79ea97b01c"
+            },
+            {
+              "doc_id": "b27907cf-83a7-4932-9641-c899d40a9962"
+            },
+            {
+              "doc_id": "bfdb82fe-2b4f-4da7-9255-84ca44caf5bd"
+            },
+            {
+              "doc_id": "ef3f8134-0470-40fe-94e4-6596fac2242f"
+            }
+          ]
+        }
+      },
+      "question_id": "44e8021fcbb312f189fed20e21fe6633",
+      "aggregator_type": "OR",
+      "query_id": "303",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.633550+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What impact did the Abraham Accords have on the Palestinian issue  with Middle Eastern diplomacy?": {
+      "question": "What impact did the Abraham Accords have on the Palestinian issue  with Middle Eastern diplomacy?",
+      "answers": {
+        "Isolated it": {
+          "answer": "Isolated it",
+          "references": [
+            {
+              "doc_id": "28e96275-5e61-4105-966e-d63222787f6c"
+            },
+            {
+              "doc_id": "32aa4fb8-1aed-44db-ada8-85676f571fdf"
+            },
+            {
+              "doc_id": "a9f4ae31-e2fc-45f5-b064-87d94c1cc059"
+            }
+          ]
+        }
+      },
+      "question_id": "4e1cb764484f01828ee656cbd709cd00",
+      "aggregator_type": "OR",
+      "query_id": "303",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.633580+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What support did Palestine rely to promote statehood?": {
+      "question": "What support did Palestine rely to promote statehood?",
+      "answers": {
+        "Arab World": {
+          "answer": "Arab World",
+          "references": [
+            {
+              "doc_id": "5fc5bebc-254f-4441-9536-d49cec52efbc"
+            },
+            {
+              "doc_id": "63ac95a2-c040-436e-8721-5bd56915c48c"
+            },
+            {
+              "doc_id": "65ab4bcf-ad30-480e-9523-0db699807e52"
+            },
+            {
+              "doc_id": "fbe6564a-9ec8-4fa4-871c-98486695e72f"
+            }
+          ]
+        }
+      },
+      "question_id": "cde0e1bc2127541946df71d8c53103a6",
+      "aggregator_type": "OR",
+      "query_id": "303",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.633602+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What did Palestine feel about the signing of the Abraham Accords?": {
+      "question": "What did Palestine feel about the signing of the Abraham Accords?",
+      "answers": {
+        "Betrayed": {
+          "answer": "Betrayed",
+          "references": [
+            {
+              "doc_id": "08a6812c-86b3-4466-86b1-c6e0902e25e9"
+            },
+            {
+              "doc_id": "08fa55f9-5403-45d8-bdf1-6127317359af"
+            },
+            {
+              "doc_id": "0a3fa4e4-3c38-4a1f-9701-a9cf94f2b228"
+            },
+            {
+              "doc_id": "0e06ecab-4cf4-4346-aa10-ef90fdea233d"
+            },
+            {
+              "doc_id": "17d31e7f-84d5-4746-98d8-b04cd55cd19c"
+            },
+            {
+              "doc_id": "1ea6f3b6-5d3e-44dd-af09-3c16039e8d7c"
+            },
+            {
+              "doc_id": "22a89ae2-36e8-4aa9-93ac-e2a9a35b0a49"
+            },
+            {
+              "doc_id": "2329412b-f546-426b-9ace-a0b78f808594"
+            },
+            {
+              "doc_id": "23ad3a4e-1077-43a7-9e88-3b9a48dd48dc"
+            },
+            {
+              "doc_id": "2764ffc1-82ee-4d78-b1ad-ba465fbdc191"
+            },
+            {
+              "doc_id": "28e8b8c8-415e-4f92-af30-90ea05449638"
+            },
+            {
+              "doc_id": "28e96275-5e61-4105-966e-d63222787f6c"
+            },
+            {
+              "doc_id": "2a41d0bc-80c9-487d-b447-155584a43d1c"
+            },
+            {
+              "doc_id": "37caa17a-970b-407e-aa0d-b5ccaeda661c"
+            },
+            {
+              "doc_id": "41ddce3a-388e-4217-8879-c127c04efcb0"
+            },
+            {
+              "doc_id": "42038426-9ff3-427e-bd88-842aeaad2090"
+            },
+            {
+              "doc_id": "4955fb8d-530f-4412-bbd7-6ea9b6f5bac9"
+            },
+            {
+              "doc_id": "524e1932-abc5-4807-9f34-3d3fa8714fb9"
+            },
+            {
+              "doc_id": "53c9450d-eb26-4cb7-acde-47cc3d652991"
+            },
+            {
+              "doc_id": "589cb877-ea9c-4833-b184-cbd15d09d11e"
+            },
+            {
+              "doc_id": "5c08371b-ff0a-47a8-ae1a-f702beff05e6"
+            },
+            {
+              "doc_id": "5fc5bebc-254f-4441-9536-d49cec52efbc"
+            },
+            {
+              "doc_id": "683bd2b0-eef3-4026-bb39-372fe39fd642"
+            },
+            {
+              "doc_id": "747ac4c2-cc09-44de-a344-cb5818027051"
+            },
+            {
+              "doc_id": "7e0f0ede-7d69-4379-a17e-45b6f416b2ac"
+            },
+            {
+              "doc_id": "827950c7-4e0c-48a3-b2aa-a54dd6329e76"
+            },
+            {
+              "doc_id": "8dc0b858-bed6-42c0-a918-e7b37944ae61"
+            },
+            {
+              "doc_id": "8eac052b-6764-4092-af4f-63acd7ea8c71"
+            },
+            {
+              "doc_id": "9350b064-c0f1-4133-b4d9-28df807d28b9"
+            },
+            {
+              "doc_id": "96fbb5d4-ccd9-437d-85d3-70805b8ac473"
+            },
+            {
+              "doc_id": "97b5a174-cdb5-4636-8b4f-cd9ddd980dfb"
+            },
+            {
+              "doc_id": "991e5d9b-fd42-43f1-bb08-d5a0bcd11dd4"
+            },
+            {
+              "doc_id": "9a7799a3-d518-4a64-90b7-e0d99f062332"
+            },
+            {
+              "doc_id": "9c51be05-bf28-4256-86ac-ae48291aaa95"
+            },
+            {
+              "doc_id": "9c6a0097-4204-4650-861d-6de0d35867da"
+            },
+            {
+              "doc_id": "a461300c-53b2-4aaf-a459-feefa29b9176"
+            },
+            {
+              "doc_id": "a954d2ab-c674-4cca-b0e2-3a9c96292411"
+            },
+            {
+              "doc_id": "a9587eae-a91c-4380-8808-a1664f9b4f5b"
+            },
+            {
+              "doc_id": "a9f4ae31-e2fc-45f5-b064-87d94c1cc059"
+            },
+            {
+              "doc_id": "a9f73838-c202-4040-a45e-24114a6817ac"
+            },
+            {
+              "doc_id": "ae67e5b8-26d1-4220-bf32-f4bf52190a3d"
+            },
+            {
+              "doc_id": "b27907cf-83a7-4932-9641-c899d40a9962"
+            },
+            {
+              "doc_id": "b6efd7ab-2e6e-4e3b-a089-fdffda3464f1"
+            },
+            {
+              "doc_id": "bfdb82fe-2b4f-4da7-9255-84ca44caf5bd"
+            },
+            {
+              "doc_id": "c0fbf8a9-c4b7-43f0-b6a5-09a36a68d963"
+            },
+            {
+              "doc_id": "cb588606-26d0-4ff5-83ee-cb54ef22b01c"
+            },
+            {
+              "doc_id": "cda11c86-6b5f-4d91-9c0d-52467547e7da"
+            },
+            {
+              "doc_id": "ce2964c9-fb2e-4488-a3c2-0f000ccf5352"
+            },
+            {
+              "doc_id": "cfb492cc-ac47-419f-9d05-46d72dcb2990"
+            },
+            {
+              "doc_id": "de238bd6-6580-43fb-aa38-29d0ee81e5f5"
+            },
+            {
+              "doc_id": "f28d0810-cfba-4f85-a4d8-452c9c402199"
+            },
+            {
+              "doc_id": "f4a30403-e5e2-430d-be7b-e8ac23fbc08b"
+            }
+          ]
+        },
+        "Abandoned": {
+          "answer": "Abandoned",
+          "references": [
+            {
+              "doc_id": "63c59f2e-e596-4d41-8d92-6fcc4a8db917"
+            },
+            {
+              "doc_id": "787885ee-402e-47cb-8665-d6f83a0939d9"
+            }
+          ]
+        },
+        "Provoked": {
+          "answer": "Provoked",
+          "references": [
+            {
+              "doc_id": "23ad3a4e-1077-43a7-9e88-3b9a48dd48dc"
+            },
+            {
+              "doc_id": "2764ffc1-82ee-4d78-b1ad-ba465fbdc191"
+            },
+            {
+              "doc_id": "747ac4c2-cc09-44de-a344-cb5818027051"
+            }
+          ]
+        }
+      },
+      "question_id": "dd73b31f0e6cc7b86a4168b80e83c238",
+      "aggregator_type": "OR",
+      "query_id": "303",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.633724+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What happened in Palestine immediately after the signing of the Abraham Accords?": {
+      "question": "What happened in Palestine immediately after the signing of the Abraham Accords?",
+      "answers": {
+        "Fierce protests": {
+          "answer": "Fierce protests",
+          "references": [
+            {
+              "doc_id": "0e06ecab-4cf4-4346-aa10-ef90fdea233d"
+            },
+            {
+              "doc_id": "2ca8bcbd-fee1-41e6-9d79-94aa54e8656a"
+            },
+            {
+              "doc_id": "32aa054b-b148-46c5-ac05-b0352460d8aa"
+            },
+            {
+              "doc_id": "41ddce3a-388e-4217-8879-c127c04efcb0"
+            },
+            {
+              "doc_id": "4955fb8d-530f-4412-bbd7-6ea9b6f5bac9"
+            },
+            {
+              "doc_id": "5ae92538-2777-4ffa-b669-1333fdb56c1a"
+            },
+            {
+              "doc_id": "63c59f2e-e596-4d41-8d92-6fcc4a8db917"
+            },
+            {
+              "doc_id": "762cb8bc-68e7-42fd-9f02-8edb36bbd6cd"
+            },
+            {
+              "doc_id": "787885ee-402e-47cb-8665-d6f83a0939d9"
+            },
+            {
+              "doc_id": "991e5d9b-fd42-43f1-bb08-d5a0bcd11dd4"
+            },
+            {
+              "doc_id": "9a7799a3-d518-4a64-90b7-e0d99f062332"
+            },
+            {
+              "doc_id": "9a7ce6db-9964-491f-bac5-e745056849f0"
+            },
+            {
+              "doc_id": "cb588606-26d0-4ff5-83ee-cb54ef22b01c"
+            },
+            {
+              "doc_id": "ce2964c9-fb2e-4488-a3c2-0f000ccf5352"
+            },
+            {
+              "doc_id": "d79ae646-8ebc-4ede-ae07-996f2d47a28b"
+            },
+            {
+              "doc_id": "d912ac5c-2f17-4da2-90b9-561c372fd220"
+            },
+            {
+              "doc_id": "e12ccb4d-5b27-4568-b190-3f78cec2805a"
+            },
+            {
+              "doc_id": "e1cb4c6a-4b60-445a-ab1c-514ae4cecbe6"
+            },
+            {
+              "doc_id": "f6842680-a9aa-48ca-ba8e-0f94365fadee"
+            }
+          ]
+        },
+        "Leaders of different factions expressed disapproval": {
+          "answer": "Leaders of different factions expressed disapproval",
+          "references": [
+            {
+              "doc_id": "08a6812c-86b3-4466-86b1-c6e0902e25e9"
+            },
+            {
+              "doc_id": "0a3fa4e4-3c38-4a1f-9701-a9cf94f2b228"
+            },
+            {
+              "doc_id": "0e06ecab-4cf4-4346-aa10-ef90fdea233d"
+            },
+            {
+              "doc_id": "17d31e7f-84d5-4746-98d8-b04cd55cd19c"
+            },
+            {
+              "doc_id": "1ea6f3b6-5d3e-44dd-af09-3c16039e8d7c"
+            },
+            {
+              "doc_id": "20837c15-9534-4f21-b364-a0f57d5ac08b"
+            },
+            {
+              "doc_id": "28e8b8c8-415e-4f92-af30-90ea05449638"
+            },
+            {
+              "doc_id": "387415f4-c20c-48eb-a22d-6f8c84e97887"
+            },
+            {
+              "doc_id": "5c08371b-ff0a-47a8-ae1a-f702beff05e6"
+            },
+            {
+              "doc_id": "683bd2b0-eef3-4026-bb39-372fe39fd642"
+            },
+            {
+              "doc_id": "70a1c703-bcf1-482b-9d68-176ec132f659"
+            },
+            {
+              "doc_id": "718d3d46-88b5-417f-a2a7-c3279ce8ab0b"
+            },
+            {
+              "doc_id": "7236b1c6-3c24-4fd1-b86a-0755c8cc8dde"
+            },
+            {
+              "doc_id": "887f6dc4-0ebd-4be4-a8e7-792e246fb032"
+            },
+            {
+              "doc_id": "9a99dea6-98ad-471e-add7-11c34d0dbb2a"
+            },
+            {
+              "doc_id": "9c51be05-bf28-4256-86ac-ae48291aaa95"
+            },
+            {
+              "doc_id": "9c6a0097-4204-4650-861d-6de0d35867da"
+            },
+            {
+              "doc_id": "a9f73838-c202-4040-a45e-24114a6817ac"
+            },
+            {
+              "doc_id": "b133a636-3f10-4aaa-a099-cb105dbdc44b"
+            },
+            {
+              "doc_id": "bfdb82fe-2b4f-4da7-9255-84ca44caf5bd"
+            },
+            {
+              "doc_id": "cda11c86-6b5f-4d91-9c0d-52467547e7da"
+            },
+            {
+              "doc_id": "de238bd6-6580-43fb-aa38-29d0ee81e5f5"
+            },
+            {
+              "doc_id": "f4a30403-e5e2-430d-be7b-e8ac23fbc08b"
+            }
+          ]
+        },
+        "Protests": {
+          "answer": "Protests",
+          "references": [
+            {
+              "doc_id": "7236b1c6-3c24-4fd1-b86a-0755c8cc8dde"
+            }
+          ]
+        }
+      },
+      "question_id": "1e468efe3a206af3d65da3365414e56e",
+      "aggregator_type": "OR",
+      "query_id": "303",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.633818+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What statement did Palestinian leader Abbas make after the Abraham Accords were signed?": {
+      "question": "What statement did Palestinian leader Abbas make after the Abraham Accords were signed?",
+      "answers": {
+        "\"strong opposition and condemnation\"": {
+          "answer": "\"strong opposition and condemnation\"",
+          "references": [
+            {
+              "doc_id": "08a6812c-86b3-4466-86b1-c6e0902e25e9"
+            },
+            {
+              "doc_id": "08fa55f9-5403-45d8-bdf1-6127317359af"
+            },
+            {
+              "doc_id": "0e06ecab-4cf4-4346-aa10-ef90fdea233d"
+            },
+            {
+              "doc_id": "109c477e-7824-4299-ab9e-ef7e3e98f1cd"
+            },
+            {
+              "doc_id": "20926e51-ba88-4b07-9ce7-4504b65447d2"
+            },
+            {
+              "doc_id": "2329412b-f546-426b-9ace-a0b78f808594"
+            },
+            {
+              "doc_id": "23ad3a4e-1077-43a7-9e88-3b9a48dd48dc"
+            },
+            {
+              "doc_id": "2764ffc1-82ee-4d78-b1ad-ba465fbdc191"
+            },
+            {
+              "doc_id": "28e8b8c8-415e-4f92-af30-90ea05449638"
+            },
+            {
+              "doc_id": "2d863032-5956-4f0f-bafd-19ec94686b89"
+            },
+            {
+              "doc_id": "37caa17a-970b-407e-aa0d-b5ccaeda661c"
+            },
+            {
+              "doc_id": "3a71a411-0555-4d19-9579-5ca57284f953"
+            },
+            {
+              "doc_id": "41ddce3a-388e-4217-8879-c127c04efcb0"
+            },
+            {
+              "doc_id": "42038426-9ff3-427e-bd88-842aeaad2090"
+            },
+            {
+              "doc_id": "46793a6f-0a07-42cc-a6ad-ed8b30ce20a7"
+            },
+            {
+              "doc_id": "4d8a5ca4-4cf5-4456-ad3e-3f9d8ead45a3"
+            },
+            {
+              "doc_id": "5140886c-a507-4906-9060-3e5be9862ce5"
+            },
+            {
+              "doc_id": "524e1932-abc5-4807-9f34-3d3fa8714fb9"
+            },
+            {
+              "doc_id": "53c9450d-eb26-4cb7-acde-47cc3d652991"
+            },
+            {
+              "doc_id": "5ae92538-2777-4ffa-b669-1333fdb56c1a"
+            },
+            {
+              "doc_id": "747ac4c2-cc09-44de-a344-cb5818027051"
+            },
+            {
+              "doc_id": "7e0f0ede-7d69-4379-a17e-45b6f416b2ac"
+            },
+            {
+              "doc_id": "7eb2e19c-4eef-47b1-afe6-40673eb89894"
+            },
+            {
+              "doc_id": "8dc0b858-bed6-42c0-a918-e7b37944ae61"
+            },
+            {
+              "doc_id": "9350b064-c0f1-4133-b4d9-28df807d28b9"
+            },
+            {
+              "doc_id": "96fbb5d4-ccd9-437d-85d3-70805b8ac473"
+            },
+            {
+              "doc_id": "97b5a174-cdb5-4636-8b4f-cd9ddd980dfb"
+            },
+            {
+              "doc_id": "9a7799a3-d518-4a64-90b7-e0d99f062332"
+            },
+            {
+              "doc_id": "a954d2ab-c674-4cca-b0e2-3a9c96292411"
+            },
+            {
+              "doc_id": "a9587eae-a91c-4380-8808-a1664f9b4f5b"
+            },
+            {
+              "doc_id": "b10f2505-8218-457c-8efa-ea79ea97b01c"
+            },
+            {
+              "doc_id": "b25e04f2-556b-4cab-ac49-2252350f53ae"
+            },
+            {
+              "doc_id": "b27907cf-83a7-4932-9641-c899d40a9962"
+            },
+            {
+              "doc_id": "c0fbf8a9-c4b7-43f0-b6a5-09a36a68d963"
+            },
+            {
+              "doc_id": "ce16ddbd-dac2-4563-b19e-5aeac8e170f1"
+            },
+            {
+              "doc_id": "cf912ce5-68b8-4909-b11c-44d11eb821d7"
+            },
+            {
+              "doc_id": "cfb492cc-ac47-419f-9d05-46d72dcb2990"
+            },
+            {
+              "doc_id": "d79ae646-8ebc-4ede-ae07-996f2d47a28b"
+            },
+            {
+              "doc_id": "d912ac5c-2f17-4da2-90b9-561c372fd220"
+            },
+            {
+              "doc_id": "e12ccb4d-5b27-4568-b190-3f78cec2805a"
+            },
+            {
+              "doc_id": "e1cb4c6a-4b60-445a-ab1c-514ae4cecbe6"
+            },
+            {
+              "doc_id": "e29f6e92-7fbf-4e48-ae76-d77d1c6e6a06"
+            },
+            {
+              "doc_id": "e846439d-2bc5-4a4d-a9cf-fc7e1681bfcd"
+            },
+            {
+              "doc_id": "f28d0810-cfba-4f85-a4d8-452c9c402199"
+            },
+            {
+              "doc_id": "f65059f5-275b-4412-92ff-a9c0e7f4c2db"
+            },
+            {
+              "doc_id": "f6842680-a9aa-48ca-ba8e-0f94365fadee"
+            },
+            {
+              "doc_id": "f9352742-2ae3-4543-b8fb-a1712fba7f55"
+            },
+            {
+              "doc_id": "f9b10347-c89a-4794-82a4-7a328407aad2"
+            },
+            {
+              "doc_id": "fbe6564a-9ec8-4fa4-871c-98486695e72f"
+            }
+          ]
+        }
+      },
+      "question_id": "03ffc537afdd103780c94fe5b5e6faca",
+      "aggregator_type": "OR",
+      "query_id": "303",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.633933+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What did Palestinian leaders do after the Abraham Accords were signed?": {
+      "question": "What did Palestinian leaders do after the Abraham Accords were signed?",
+      "answers": {
+        "They required the Arab League to convene an emergency meeting": {
+          "answer": "They required the Arab League to convene an emergency meeting",
+          "references": [
+            {
+              "doc_id": "08a6812c-86b3-4466-86b1-c6e0902e25e9"
+            },
+            {
+              "doc_id": "23ad3a4e-1077-43a7-9e88-3b9a48dd48dc"
+            },
+            {
+              "doc_id": "267eb48d-9365-49c5-b511-127ec7d7c86f"
+            },
+            {
+              "doc_id": "2764ffc1-82ee-4d78-b1ad-ba465fbdc191"
+            },
+            {
+              "doc_id": "288d9f03-6be3-45d3-be32-0456a1c40b3f"
+            },
+            {
+              "doc_id": "2a41d0bc-80c9-487d-b447-155584a43d1c"
+            },
+            {
+              "doc_id": "516910b2-e2a8-457f-b008-bacb3b94dc05"
+            },
+            {
+              "doc_id": "541223b4-76e1-467e-9589-5d548761b99b"
+            },
+            {
+              "doc_id": "5ee2b159-eafc-406d-be08-9956a71bf917"
+            },
+            {
+              "doc_id": "70a1c703-bcf1-482b-9d68-176ec132f659"
+            },
+            {
+              "doc_id": "747ac4c2-cc09-44de-a344-cb5818027051"
+            },
+            {
+              "doc_id": "85833401-5360-49b8-98d6-2b0f6bd27554"
+            },
+            {
+              "doc_id": "a347e244-06f7-46ab-a93d-747987026369"
+            },
+            {
+              "doc_id": "a954d2ab-c674-4cca-b0e2-3a9c96292411"
+            },
+            {
+              "doc_id": "ce2964c9-fb2e-4488-a3c2-0f000ccf5352"
+            },
+            {
+              "doc_id": "f6842680-a9aa-48ca-ba8e-0f94365fadee"
+            }
+          ]
+        },
+        " they contacted several Arab country leaders": {
+          "answer": " they contacted several Arab country leaders",
+          "references": [
+            {
+              "doc_id": "63ac95a2-c040-436e-8721-5bd56915c48c"
+            },
+            {
+              "doc_id": "7eb2e19c-4eef-47b1-afe6-40673eb89894"
+            }
+          ]
+        },
+        "Announced that it would sever all relations with Israel and the United States": {
+          "answer": "Announced that it would sever all relations with Israel and the United States",
+          "references": [
+            {
+              "doc_id": "1c887460-2e88-4dbe-9f4c-92f480e4f8f5"
+            },
+            {
+              "doc_id": "ce16ddbd-dac2-4563-b19e-5aeac8e170f1"
+            }
+          ]
+        }
+      },
+      "question_id": "9c3cb4e5e8c50ea65333cce1b1d28b43",
+      "aggregator_type": "OR",
+      "query_id": "303",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.634000+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1172 @@
+{
+  "query_id": "372",
+  "title_query": "Tour-de-France collision crash",
+  "full_query": "I'm looking for a report on spectators deliberately derailing a cyclist during the Tour de France. I need to understand which incidents were deliberate, and which were accidents. My report also needs to include why these spectators caused the accidents, whether there was something personal involved or attention-seeking or even political machinations.",
+  "full_background": "I'm a journalist for a sensationalist newspaper.",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "Who has caused the accident of Tour de France competitors?": {
+      "question": "Who has caused the accident of Tour de France competitors?",
+      "answers": {
+        "A French woman holding up a poster": {
+          "answer": "A French woman holding up a poster",
+          "references": [
+            {
+              "doc_id": "058fd413-34ef-4b01-945b-50e6f156fee6"
+            },
+            {
+              "doc_id": "1a86c782-9a85-4ddb-83f9-3f1dfcc98661"
+            },
+            {
+              "doc_id": "1f85665e-5f6d-4848-9486-ec1e8ac7c1fe"
+            },
+            {
+              "doc_id": "27404773-ed25-488b-90f5-b0c5e048173d"
+            },
+            {
+              "doc_id": "2f954a83-59a8-4b87-8aaf-48c8686728d7"
+            },
+            {
+              "doc_id": "2fd3cea8-86b9-478c-8fb4-bf65a9533e74"
+            },
+            {
+              "doc_id": "677ca945-8725-4329-af10-d817352511f8"
+            },
+            {
+              "doc_id": "79f489b7-d55b-43c8-a4f3-8f897b2fbcd9"
+            },
+            {
+              "doc_id": "81ce8892-bf36-437e-af7b-b240c3f81e0c"
+            },
+            {
+              "doc_id": "84ad0eb4-a23a-4abc-a0aa-ad36c406df0b"
+            },
+            {
+              "doc_id": "b444e390-a4fa-4d27-9294-101b4a6ecf75"
+            },
+            {
+              "doc_id": "b9c9ab8c-1f82-4c34-b232-2a483b44c51a"
+            },
+            {
+              "doc_id": "ea5e572b-5ea5-4d02-8943-23af930ea413"
+            },
+            {
+              "doc_id": "ef30bb2e-9227-489d-b515-6246d18e969b"
+            },
+            {
+              "doc_id": "f62e38bb-bf42-44e1-b501-230ebcfeb948"
+            },
+            {
+              "doc_id": "f6d196bf-6995-4974-9b26-8571e0089b5a"
+            },
+            {
+              "doc_id": "fae64bdf-bfb2-4987-b1c0-62017ec6a555"
+            }
+          ]
+        },
+        "A woman holding a poster": {
+          "answer": "A woman holding a poster",
+          "references": [
+            {
+              "doc_id": "149b899f-a310-45aa-ac29-6cf8de208848"
+            }
+          ]
+        },
+        "A fan with a poster": {
+          "answer": "A fan with a poster",
+          "references": [
+            {
+              "doc_id": "197ec77e-1839-48ce-a491-98afd5ebfe43"
+            },
+            {
+              "doc_id": "1f5fc9da-2883-4653-b347-5efda63fdf25"
+            },
+            {
+              "doc_id": "2ab3fe6e-abb4-456e-bd95-def3545ed55d"
+            },
+            {
+              "doc_id": "44f5276a-cf53-4b7c-a215-8c36f86a0f2a"
+            },
+            {
+              "doc_id": "450f774c-c677-4c2b-93ba-dd05a6f14701"
+            },
+            {
+              "doc_id": "498e1fb5-c4a1-40a3-b695-30bee5431bf4"
+            },
+            {
+              "doc_id": "4e048632-3b82-4ecc-9303-8ada9db3babc"
+            },
+            {
+              "doc_id": "59e84ee0-b9ae-4cd4-b71b-f0603a823e36"
+            },
+            {
+              "doc_id": "74b6d1bd-3800-4762-a7c9-5b611820aa35"
+            },
+            {
+              "doc_id": "90f1c9e3-23ed-45c0-9144-35a938948ca5"
+            },
+            {
+              "doc_id": "93609887-f49d-4463-b119-7fb1f48d0b8b"
+            },
+            {
+              "doc_id": "a978cf10-ea6c-4688-920a-653d8f0e1031"
+            },
+            {
+              "doc_id": "bb574fff-1f26-4585-ba02-717fbbbd707e"
+            },
+            {
+              "doc_id": "ced0e0f5-fade-44e4-89f7-0ed20cebfc45"
+            },
+            {
+              "doc_id": "d9130d00-b5bf-455e-b30c-8d1de6e365c1"
+            },
+            {
+              "doc_id": "f25eb0e0-142d-4113-9b1f-3429d97cfa7f"
+            },
+            {
+              "doc_id": "f633e145-feee-45f2-ade2-878af04cc495"
+            }
+          ]
+        },
+        "A spectator holding a poster": {
+          "answer": "A spectator holding a poster",
+          "references": [
+            {
+              "doc_id": "324ca036-0877-42a0-8922-277d75abeeed"
+            },
+            {
+              "doc_id": "5add2132-f52c-4f3b-95df-8062cc86d9d6"
+            },
+            {
+              "doc_id": "71eab56d-c2b3-446c-a8f7-ca03fb1efae8"
+            },
+            {
+              "doc_id": "7f381ec5-32cc-410b-9f11-3a5d15a00031"
+            },
+            {
+              "doc_id": "86cccbc7-7050-4d3b-84b5-1b6a2852885c"
+            },
+            {
+              "doc_id": "963c813d-2926-4f07-8d89-de2ef3822837"
+            },
+            {
+              "doc_id": "9ceac66d-8263-4e10-806e-14a9507d7130"
+            },
+            {
+              "doc_id": "c4f6754a-5cbb-4c4f-9be6-26a439826a75"
+            },
+            {
+              "doc_id": "d1493a79-ab87-4ac9-a176-2d2b2736d453"
+            },
+            {
+              "doc_id": "ee620a37-90e9-4ddc-8d77-ebdff9b70a94"
+            }
+          ]
+        },
+        "A spectator": {
+          "answer": "A spectator",
+          "references": [
+            {
+              "doc_id": "89b75914-6cc3-4d96-a7e8-5a4caaf73153"
+            }
+          ]
+        }
+      },
+      "question_id": "1e53b4856dd329d3693678ed8a5183c1",
+      "aggregator_type": "OR",
+      "query_id": "372",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.702440+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How did a French woman cause the accident with Tour de France competitors?": {
+      "question": "How did a French woman cause the accident with Tour de France competitors?",
+      "answers": {
+        "Stepped into the cyclists' path": {
+          "answer": "Stepped into the cyclists' path",
+          "references": [
+            {
+              "doc_id": "058fd413-34ef-4b01-945b-50e6f156fee6"
+            },
+            {
+              "doc_id": "149b899f-a310-45aa-ac29-6cf8de208848"
+            },
+            {
+              "doc_id": "197ec77e-1839-48ce-a491-98afd5ebfe43"
+            },
+            {
+              "doc_id": "1a86c782-9a85-4ddb-83f9-3f1dfcc98661"
+            },
+            {
+              "doc_id": "1f5fc9da-2883-4653-b347-5efda63fdf25"
+            },
+            {
+              "doc_id": "1f85665e-5f6d-4848-9486-ec1e8ac7c1fe"
+            },
+            {
+              "doc_id": "27404773-ed25-488b-90f5-b0c5e048173d"
+            },
+            {
+              "doc_id": "2f954a83-59a8-4b87-8aaf-48c8686728d7"
+            },
+            {
+              "doc_id": "2fd3cea8-86b9-478c-8fb4-bf65a9533e74"
+            },
+            {
+              "doc_id": "498e1fb5-c4a1-40a3-b695-30bee5431bf4"
+            },
+            {
+              "doc_id": "4e048632-3b82-4ecc-9303-8ada9db3babc"
+            },
+            {
+              "doc_id": "59e84ee0-b9ae-4cd4-b71b-f0603a823e36"
+            },
+            {
+              "doc_id": "5add2132-f52c-4f3b-95df-8062cc86d9d6"
+            },
+            {
+              "doc_id": "7f381ec5-32cc-410b-9f11-3a5d15a00031"
+            },
+            {
+              "doc_id": "81ce8892-bf36-437e-af7b-b240c3f81e0c"
+            },
+            {
+              "doc_id": "84ad0eb4-a23a-4abc-a0aa-ad36c406df0b"
+            },
+            {
+              "doc_id": "86cccbc7-7050-4d3b-84b5-1b6a2852885c"
+            },
+            {
+              "doc_id": "90f1c9e3-23ed-45c0-9144-35a938948ca5"
+            },
+            {
+              "doc_id": "93609887-f49d-4463-b119-7fb1f48d0b8b"
+            },
+            {
+              "doc_id": "963c813d-2926-4f07-8d89-de2ef3822837"
+            },
+            {
+              "doc_id": "9ceac66d-8263-4e10-806e-14a9507d7130"
+            },
+            {
+              "doc_id": "a978cf10-ea6c-4688-920a-653d8f0e1031"
+            },
+            {
+              "doc_id": "b444e390-a4fa-4d27-9294-101b4a6ecf75"
+            },
+            {
+              "doc_id": "b9c9ab8c-1f82-4c34-b232-2a483b44c51a"
+            },
+            {
+              "doc_id": "c4f6754a-5cbb-4c4f-9be6-26a439826a75"
+            },
+            {
+              "doc_id": "d1493a79-ab87-4ac9-a176-2d2b2736d453"
+            },
+            {
+              "doc_id": "d9130d00-b5bf-455e-b30c-8d1de6e365c1"
+            },
+            {
+              "doc_id": "ea5e572b-5ea5-4d02-8943-23af930ea413"
+            },
+            {
+              "doc_id": "ef30bb2e-9227-489d-b515-6246d18e969b"
+            },
+            {
+              "doc_id": "f62e38bb-bf42-44e1-b501-230ebcfeb948"
+            },
+            {
+              "doc_id": "f633e145-feee-45f2-ade2-878af04cc495"
+            }
+          ]
+        },
+        "Held a poster at cyclists' path": {
+          "answer": "Held a poster at cyclists' path",
+          "references": [
+            {
+              "doc_id": "540af073-8ab0-4517-848c-bf439e8f3220"
+            },
+            {
+              "doc_id": "d66bd0ba-1a74-4a9a-9755-51442f36ffee"
+            }
+          ]
+        }
+      },
+      "question_id": "714d5437cc31c15d333385be487bc71c",
+      "aggregator_type": "OR",
+      "query_id": "372",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.702507+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Q: Why did a Tour de France spectator cause an accident for the cyclists?": {
+      "question": "Q: Why did a Tour de France spectator cause an accident for the cyclists?",
+      "answers": {
+        "Seeking media attention": {
+          "answer": "Seeking media attention",
+          "references": [
+            {
+              "doc_id": "1f85665e-5f6d-4848-9486-ec1e8ac7c1fe"
+            },
+            {
+              "doc_id": "27404773-ed25-488b-90f5-b0c5e048173d"
+            },
+            {
+              "doc_id": "2fd3cea8-86b9-478c-8fb4-bf65a9533e74"
+            },
+            {
+              "doc_id": "44f5276a-cf53-4b7c-a215-8c36f86a0f2a"
+            },
+            {
+              "doc_id": "4e048632-3b82-4ecc-9303-8ada9db3babc"
+            },
+            {
+              "doc_id": "81ce8892-bf36-437e-af7b-b240c3f81e0c"
+            },
+            {
+              "doc_id": "89b75914-6cc3-4d96-a7e8-5a4caaf73153"
+            },
+            {
+              "doc_id": "90f1c9e3-23ed-45c0-9144-35a938948ca5"
+            },
+            {
+              "doc_id": "93609887-f49d-4463-b119-7fb1f48d0b8b"
+            },
+            {
+              "doc_id": "9ceac66d-8263-4e10-806e-14a9507d7130"
+            },
+            {
+              "doc_id": "a978cf10-ea6c-4688-920a-653d8f0e1031"
+            },
+            {
+              "doc_id": "b444e390-a4fa-4d27-9294-101b4a6ecf75"
+            },
+            {
+              "doc_id": "b9c9ab8c-1f82-4c34-b232-2a483b44c51a"
+            },
+            {
+              "doc_id": "ced0e0f5-fade-44e4-89f7-0ed20cebfc45"
+            },
+            {
+              "doc_id": "d1493a79-ab87-4ac9-a176-2d2b2736d453"
+            },
+            {
+              "doc_id": "d9130d00-b5bf-455e-b30c-8d1de6e365c1"
+            },
+            {
+              "doc_id": "f25eb0e0-142d-4113-9b1f-3429d97cfa7f"
+            },
+            {
+              "doc_id": "f62e38bb-bf42-44e1-b501-230ebcfeb948"
+            },
+            {
+              "doc_id": "f8f28ce9-7f53-4bda-98a6-3508f2883b31"
+            }
+          ]
+        }
+      },
+      "question_id": "198818d6a6165251a4f0da6daaed8d40",
+      "aggregator_type": "OR",
+      "query_id": "372",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.702547+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Q: What was on the poster of a Tour de France spectator who caused an accident?": {
+      "question": "Q: What was on the poster of a Tour de France spectator who caused an accident?",
+      "answers": {
+        "A comic inscription Allez Opi-Omi": {
+          "answer": "A comic inscription Allez Opi-Omi",
+          "references": [
+            {
+              "doc_id": "1a86c782-9a85-4ddb-83f9-3f1dfcc98661"
+            },
+            {
+              "doc_id": "1f85665e-5f6d-4848-9486-ec1e8ac7c1fe"
+            },
+            {
+              "doc_id": "27404773-ed25-488b-90f5-b0c5e048173d"
+            },
+            {
+              "doc_id": "2f954a83-59a8-4b87-8aaf-48c8686728d7"
+            },
+            {
+              "doc_id": "5add2132-f52c-4f3b-95df-8062cc86d9d6"
+            },
+            {
+              "doc_id": "71eab56d-c2b3-446c-a8f7-ca03fb1efae8"
+            },
+            {
+              "doc_id": "84ad0eb4-a23a-4abc-a0aa-ad36c406df0b"
+            },
+            {
+              "doc_id": "9ceac66d-8263-4e10-806e-14a9507d7130"
+            },
+            {
+              "doc_id": "b444e390-a4fa-4d27-9294-101b4a6ecf75"
+            },
+            {
+              "doc_id": "d1493a79-ab87-4ac9-a176-2d2b2736d453"
+            },
+            {
+              "doc_id": "ef30bb2e-9227-489d-b515-6246d18e969b"
+            }
+          ]
+        },
+        "grandma and grandpa in German": {
+          "answer": "grandma and grandpa in German",
+          "references": [
+            {
+              "doc_id": "149b899f-a310-45aa-ac29-6cf8de208848"
+            }
+          ]
+        }
+      },
+      "question_id": "f845eb4b955711e65ca05a868dc66c13",
+      "aggregator_type": "OR",
+      "query_id": "372",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.702585+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How many competitors were reportedly involved in the crash?": {
+      "question": "How many competitors were reportedly involved in the crash?",
+      "answers": {
+        "Two to several dozen": {
+          "answer": "Two to several dozen",
+          "references": [
+            {
+              "doc_id": "1a86c782-9a85-4ddb-83f9-3f1dfcc98661"
+            },
+            {
+              "doc_id": "1f5fc9da-2883-4653-b347-5efda63fdf25"
+            },
+            {
+              "doc_id": "2f954a83-59a8-4b87-8aaf-48c8686728d7"
+            },
+            {
+              "doc_id": "2fd3cea8-86b9-478c-8fb4-bf65a9533e74"
+            },
+            {
+              "doc_id": "44f5276a-cf53-4b7c-a215-8c36f86a0f2a"
+            },
+            {
+              "doc_id": "4e048632-3b82-4ecc-9303-8ada9db3babc"
+            },
+            {
+              "doc_id": "5add2132-f52c-4f3b-95df-8062cc86d9d6"
+            },
+            {
+              "doc_id": "93609887-f49d-4463-b119-7fb1f48d0b8b"
+            },
+            {
+              "doc_id": "ea5e572b-5ea5-4d02-8943-23af930ea413"
+            },
+            {
+              "doc_id": "fae64bdf-bfb2-4987-b1c0-62017ec6a555"
+            }
+          ]
+        },
+        "Quite a few": {
+          "answer": "Quite a few",
+          "references": [
+            {
+              "doc_id": "b444e390-a4fa-4d27-9294-101b4a6ecf75"
+            },
+            {
+              "doc_id": "c4f6754a-5cbb-4c4f-9be6-26a439826a75"
+            },
+            {
+              "doc_id": "d1493a79-ab87-4ac9-a176-2d2b2736d453"
+            },
+            {
+              "doc_id": "ef30bb2e-9227-489d-b515-6246d18e969b"
+            }
+          ]
+        }
+      },
+      "question_id": "21716129c1834f51ea740841e9d1cf51",
+      "aggregator_type": "OR",
+      "query_id": "372",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.702625+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How many cyclists were estimated to be injured?": {
+      "question": "How many cyclists were estimated to be injured?",
+      "answers": {
+        "20": {
+          "answer": "20",
+          "references": [
+            {
+              "doc_id": "44f5276a-cf53-4b7c-a215-8c36f86a0f2a"
+            },
+            {
+              "doc_id": "71eab56d-c2b3-446c-a8f7-ca03fb1efae8"
+            },
+            {
+              "doc_id": "74b6d1bd-3800-4762-a7c9-5b611820aa35"
+            },
+            {
+              "doc_id": "90f1c9e3-23ed-45c0-9144-35a938948ca5"
+            },
+            {
+              "doc_id": "f6d196bf-6995-4974-9b26-8571e0089b5a"
+            },
+            {
+              "doc_id": "f8f28ce9-7f53-4bda-98a6-3508f2883b31"
+            },
+            {
+              "doc_id": "fae64bdf-bfb2-4987-b1c0-62017ec6a555"
+            }
+          ]
+        },
+        "9": {
+          "answer": "9",
+          "references": [
+            {
+              "doc_id": "149b899f-a310-45aa-ac29-6cf8de208848"
+            },
+            {
+              "doc_id": "ef30bb2e-9227-489d-b515-6246d18e969b"
+            }
+          ]
+        },
+        "dozens": {
+          "answer": "dozens",
+          "references": [
+            {
+              "doc_id": "84ad0eb4-a23a-4abc-a0aa-ad36c406df0b"
+            },
+            {
+              "doc_id": "f25eb0e0-142d-4113-9b1f-3429d97cfa7f"
+            }
+          ]
+        },
+        "21": {
+          "answer": "21",
+          "references": [
+            {
+              "doc_id": "1f85665e-5f6d-4848-9486-ec1e8ac7c1fe"
+            }
+          ]
+        },
+        "Several dozen": {
+          "answer": "Several dozen",
+          "references": [
+            {
+              "doc_id": "2f954a83-59a8-4b87-8aaf-48c8686728d7"
+            },
+            {
+              "doc_id": "5add2132-f52c-4f3b-95df-8062cc86d9d6"
+            },
+            {
+              "doc_id": "7f381ec5-32cc-410b-9f11-3a5d15a00031"
+            }
+          ]
+        },
+        "Quite a few": {
+          "answer": "Quite a few",
+          "references": [
+            {
+              "doc_id": "b444e390-a4fa-4d27-9294-101b4a6ecf75"
+            },
+            {
+              "doc_id": "c4f6754a-5cbb-4c4f-9be6-26a439826a75"
+            }
+          ]
+        }
+      },
+      "question_id": "84d09a50aa11eb7c5a69572e1a13293d",
+      "aggregator_type": "OR",
+      "query_id": "372",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.702694+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Who was the first Tour de France cyclist who was hit?": {
+      "question": "Who was the first Tour de France cyclist who was hit?",
+      "answers": {
+        "Tony Martin": {
+          "answer": "Tony Martin",
+          "references": [
+            {
+              "doc_id": "058fd413-34ef-4b01-945b-50e6f156fee6"
+            },
+            {
+              "doc_id": "149b899f-a310-45aa-ac29-6cf8de208848"
+            },
+            {
+              "doc_id": "1a86c782-9a85-4ddb-83f9-3f1dfcc98661"
+            },
+            {
+              "doc_id": "1f5fc9da-2883-4653-b347-5efda63fdf25"
+            },
+            {
+              "doc_id": "1f85665e-5f6d-4848-9486-ec1e8ac7c1fe"
+            },
+            {
+              "doc_id": "2ab3fe6e-abb4-456e-bd95-def3545ed55d"
+            },
+            {
+              "doc_id": "2f954a83-59a8-4b87-8aaf-48c8686728d7"
+            },
+            {
+              "doc_id": "324ca036-0877-42a0-8922-277d75abeeed"
+            },
+            {
+              "doc_id": "44f5276a-cf53-4b7c-a215-8c36f86a0f2a"
+            },
+            {
+              "doc_id": "59e84ee0-b9ae-4cd4-b71b-f0603a823e36"
+            },
+            {
+              "doc_id": "5add2132-f52c-4f3b-95df-8062cc86d9d6"
+            },
+            {
+              "doc_id": "677ca945-8725-4329-af10-d817352511f8"
+            },
+            {
+              "doc_id": "74b6d1bd-3800-4762-a7c9-5b611820aa35"
+            },
+            {
+              "doc_id": "7f381ec5-32cc-410b-9f11-3a5d15a00031"
+            },
+            {
+              "doc_id": "81ce8892-bf36-437e-af7b-b240c3f81e0c"
+            },
+            {
+              "doc_id": "84ad0eb4-a23a-4abc-a0aa-ad36c406df0b"
+            },
+            {
+              "doc_id": "963c813d-2926-4f07-8d89-de2ef3822837"
+            },
+            {
+              "doc_id": "9ceac66d-8263-4e10-806e-14a9507d7130"
+            },
+            {
+              "doc_id": "b444e390-a4fa-4d27-9294-101b4a6ecf75"
+            },
+            {
+              "doc_id": "b9c9ab8c-1f82-4c34-b232-2a483b44c51a"
+            },
+            {
+              "doc_id": "bb574fff-1f26-4585-ba02-717fbbbd707e"
+            },
+            {
+              "doc_id": "d1493a79-ab87-4ac9-a176-2d2b2736d453"
+            },
+            {
+              "doc_id": "d66bd0ba-1a74-4a9a-9755-51442f36ffee"
+            },
+            {
+              "doc_id": "d9130d00-b5bf-455e-b30c-8d1de6e365c1"
+            },
+            {
+              "doc_id": "ea5e572b-5ea5-4d02-8943-23af930ea413"
+            },
+            {
+              "doc_id": "f633e145-feee-45f2-ade2-878af04cc495"
+            },
+            {
+              "doc_id": "fae64bdf-bfb2-4987-b1c0-62017ec6a555"
+            }
+          ]
+        }
+      },
+      "question_id": "9130406e8726794042e3eb4840841496",
+      "aggregator_type": "OR",
+      "query_id": "372",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.702740+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Which competitors ended up leaving the race because of the accident?": {
+      "question": "Which competitors ended up leaving the race because of the accident?",
+      "answers": {
+        "Jascha S\u00fctterlin": {
+          "answer": "Jascha S\u00fctterlin",
+          "references": [
+            {
+              "doc_id": "1a86c782-9a85-4ddb-83f9-3f1dfcc98661"
+            },
+            {
+              "doc_id": "1f85665e-5f6d-4848-9486-ec1e8ac7c1fe"
+            },
+            {
+              "doc_id": "4e048632-3b82-4ecc-9303-8ada9db3babc"
+            },
+            {
+              "doc_id": "59e84ee0-b9ae-4cd4-b71b-f0603a823e36"
+            },
+            {
+              "doc_id": "81ce8892-bf36-437e-af7b-b240c3f81e0c"
+            },
+            {
+              "doc_id": "84ad0eb4-a23a-4abc-a0aa-ad36c406df0b"
+            },
+            {
+              "doc_id": "963c813d-2926-4f07-8d89-de2ef3822837"
+            },
+            {
+              "doc_id": "b444e390-a4fa-4d27-9294-101b4a6ecf75"
+            },
+            {
+              "doc_id": "b9c9ab8c-1f82-4c34-b232-2a483b44c51a"
+            },
+            {
+              "doc_id": "d66bd0ba-1a74-4a9a-9755-51442f36ffee"
+            },
+            {
+              "doc_id": "ef30bb2e-9227-489d-b515-6246d18e969b"
+            },
+            {
+              "doc_id": "f25eb0e0-142d-4113-9b1f-3429d97cfa7f"
+            }
+          ]
+        },
+        "Marc M\u00fcller": {
+          "answer": "Marc M\u00fcller",
+          "references": []
+        },
+        "Marc Soler": {
+          "answer": "Marc Soler",
+          "references": []
+        }
+      },
+      "question_id": "320773fbbb2a44ea61cf3d2fd45b7e09",
+      "aggregator_type": "OR",
+      "query_id": "372",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.702783+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What injuries did cyclist Marc Soler suffer?": {
+      "question": "What injuries did cyclist Marc Soler suffer?",
+      "answers": {
+        "Two broken arms": {
+          "answer": "Two broken arms",
+          "references": [
+            {
+              "doc_id": "44f5276a-cf53-4b7c-a215-8c36f86a0f2a"
+            },
+            {
+              "doc_id": "74b6d1bd-3800-4762-a7c9-5b611820aa35"
+            },
+            {
+              "doc_id": "84ad0eb4-a23a-4abc-a0aa-ad36c406df0b"
+            },
+            {
+              "doc_id": "ced0e0f5-fade-44e4-89f7-0ed20cebfc45"
+            }
+          ]
+        },
+        "Three fractures in left arm": {
+          "answer": "Three fractures in left arm",
+          "references": [
+            {
+              "doc_id": "058fd413-34ef-4b01-945b-50e6f156fee6"
+            },
+            {
+              "doc_id": "324ca036-0877-42a0-8922-277d75abeeed"
+            }
+          ]
+        }
+      },
+      "question_id": "8cc2ec41974bcbf4b1ea5b06c0e8d1e4",
+      "aggregator_type": "OR",
+      "query_id": "372",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.702813+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What injuries did Cyril Lemoine  suffer?": {
+      "question": "What injuries did Cyril Lemoine  suffer?",
+      "answers": {
+        "multiple rib fractures": {
+          "answer": "multiple rib fractures",
+          "references": [
+            {
+              "doc_id": "74b6d1bd-3800-4762-a7c9-5b611820aa35"
+            },
+            {
+              "doc_id": "ced0e0f5-fade-44e4-89f7-0ed20cebfc45"
+            }
+          ]
+        },
+        "A collapsed lung": {
+          "answer": "A collapsed lung",
+          "references": [
+            {
+              "doc_id": "74b6d1bd-3800-4762-a7c9-5b611820aa35"
+            },
+            {
+              "doc_id": "ced0e0f5-fade-44e4-89f7-0ed20cebfc45"
+            }
+          ]
+        }
+      },
+      "question_id": "84d1cd825f54b1109c979e63044944f1",
+      "aggregator_type": "AND",
+      "query_id": "372",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.702840+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Which injured Tour de France competitor still managed to finish third?": {
+      "question": "Which injured Tour de France competitor still managed to finish third?",
+      "answers": {
+        "Primoz Roglic": {
+          "answer": "Primoz Roglic",
+          "references": [
+            {
+              "doc_id": "81ce8892-bf36-437e-af7b-b240c3f81e0c"
+            }
+          ]
+        }
+      },
+      "question_id": "800e88992ec5f36cd960a9244151e355",
+      "aggregator_type": "OR",
+      "query_id": "372",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.702858+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Where did the Tour de France accident take place?": {
+      "question": "Where did the Tour de France accident take place?",
+      "answers": {
+        "The first stage of the Great Loop": {
+          "answer": "The first stage of the Great Loop",
+          "references": [
+            {
+              "doc_id": "74b6d1bd-3800-4762-a7c9-5b611820aa35"
+            }
+          ]
+        },
+        "45 kilometers before the finish": {
+          "answer": "45 kilometers before the finish",
+          "references": [
+            {
+              "doc_id": "197ec77e-1839-48ce-a491-98afd5ebfe43"
+            },
+            {
+              "doc_id": "1f85665e-5f6d-4848-9486-ec1e8ac7c1fe"
+            },
+            {
+              "doc_id": "2fd3cea8-86b9-478c-8fb4-bf65a9533e74"
+            },
+            {
+              "doc_id": "44f5276a-cf53-4b7c-a215-8c36f86a0f2a"
+            },
+            {
+              "doc_id": "74b6d1bd-3800-4762-a7c9-5b611820aa35"
+            },
+            {
+              "doc_id": "79f489b7-d55b-43c8-a4f3-8f897b2fbcd9"
+            },
+            {
+              "doc_id": "7f381ec5-32cc-410b-9f11-3a5d15a00031"
+            },
+            {
+              "doc_id": "81ce8892-bf36-437e-af7b-b240c3f81e0c"
+            },
+            {
+              "doc_id": "84ad0eb4-a23a-4abc-a0aa-ad36c406df0b"
+            },
+            {
+              "doc_id": "963c813d-2926-4f07-8d89-de2ef3822837"
+            },
+            {
+              "doc_id": "9ceac66d-8263-4e10-806e-14a9507d7130"
+            },
+            {
+              "doc_id": "ced0e0f5-fade-44e4-89f7-0ed20cebfc45"
+            },
+            {
+              "doc_id": "d9130d00-b5bf-455e-b30c-8d1de6e365c1"
+            },
+            {
+              "doc_id": "ea5e572b-5ea5-4d02-8943-23af930ea413"
+            }
+          ]
+        },
+        "Brittany region": {
+          "answer": "Brittany region",
+          "references": [
+            {
+              "doc_id": "149b899f-a310-45aa-ac29-6cf8de208848"
+            }
+          ]
+        },
+        "Brest region": {
+          "answer": "Brest region",
+          "references": [
+            {
+              "doc_id": "d66bd0ba-1a74-4a9a-9755-51442f36ffee"
+            }
+          ]
+        },
+        "8 kilometers  before the finishing line": {
+          "answer": "8 kilometers  before the finishing line",
+          "references": [
+            {
+              "doc_id": "1f85665e-5f6d-4848-9486-ec1e8ac7c1fe"
+            },
+            {
+              "doc_id": "7f381ec5-32cc-410b-9f11-3a5d15a00031"
+            }
+          ]
+        },
+        "50 kilometers before the finish": {
+          "answer": "50 kilometers before the finish",
+          "references": [
+            {
+              "doc_id": "324ca036-0877-42a0-8922-277d75abeeed"
+            }
+          ]
+        },
+        "47 kilometers from the finish": {
+          "answer": "47 kilometers from the finish",
+          "references": [
+            {
+              "doc_id": "b9c9ab8c-1f82-4c34-b232-2a483b44c51a"
+            }
+          ]
+        }
+      },
+      "question_id": "0068d3079fe7f07f1c7b67e67962875e",
+      "aggregator_type": "AND",
+      "query_id": "372",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.703013+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How was the culprit who caused the Tour de France accident identified?": {
+      "question": "How was the culprit who caused the Tour de France accident identified?",
+      "answers": {
+        "A wanted poster": {
+          "answer": "A wanted poster",
+          "references": [
+            {
+              "doc_id": "44f5276a-cf53-4b7c-a215-8c36f86a0f2a"
+            },
+            {
+              "doc_id": "84ad0eb4-a23a-4abc-a0aa-ad36c406df0b"
+            }
+          ]
+        }
+      },
+      "question_id": "0d41a4b1c5a91358eff99d6af5bc2e12",
+      "aggregator_type": "OR",
+      "query_id": "372",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.703034+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Where was the culprit apprehended?": {
+      "question": "Where was the culprit apprehended?",
+      "answers": {
+        "In Landerneau": {
+          "answer": "In Landerneau",
+          "references": [
+            {
+              "doc_id": "27404773-ed25-488b-90f5-b0c5e048173d"
+            },
+            {
+              "doc_id": "90f1c9e3-23ed-45c0-9144-35a938948ca5"
+            },
+            {
+              "doc_id": "ea5e572b-5ea5-4d02-8943-23af930ea413"
+            },
+            {
+              "doc_id": "f62e38bb-bf42-44e1-b501-230ebcfeb948"
+            },
+            {
+              "doc_id": "f6d196bf-6995-4974-9b26-8571e0089b5a"
+            }
+          ]
+        }
+      },
+      "question_id": "bb6e95715e01ebbc657c8f34fa9f657c",
+      "aggregator_type": "OR",
+      "query_id": "372",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.703057+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the penalty for failing to comply with safety regulations?": {
+      "question": "What is the penalty for failing to comply with safety regulations?",
+      "answers": {
+        "A year behind bars": {
+          "answer": "A year behind bars",
+          "references": [
+            {
+              "doc_id": "84ad0eb4-a23a-4abc-a0aa-ad36c406df0b"
+            }
+          ]
+        },
+        "A fine of 15,000 Euros": {
+          "answer": "A fine of 15,000 Euros",
+          "references": [
+            {
+              "doc_id": "27404773-ed25-488b-90f5-b0c5e048173d"
+            },
+            {
+              "doc_id": "84ad0eb4-a23a-4abc-a0aa-ad36c406df0b"
+            }
+          ]
+        }
+      },
+      "question_id": "c30996c62445bc7ea42d08285a877d23",
+      "aggregator_type": "AND",
+      "query_id": "372",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.703082+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What happened to the person who caused the Tour de France accident?": {
+      "question": "What happened to the person who caused the Tour de France accident?",
+      "answers": {
+        "The lawsuit was dropped": {
+          "answer": "The lawsuit was dropped",
+          "references": [
+            {
+              "doc_id": "677ca945-8725-4329-af10-d817352511f8"
+            },
+            {
+              "doc_id": "f6d196bf-6995-4974-9b26-8571e0089b5a"
+            }
+          ]
+        },
+        "The organizer dropped lawsuit": {
+          "answer": "The organizer dropped lawsuit",
+          "references": [
+            {
+              "doc_id": "86cccbc7-7050-4d3b-84b5-1b6a2852885c"
+            }
+          ]
+        },
+        "Faced lawsuit": {
+          "answer": "Faced lawsuit",
+          "references": [
+            {
+              "doc_id": "9ceac66d-8263-4e10-806e-14a9507d7130"
+            },
+            {
+              "doc_id": "b444e390-a4fa-4d27-9294-101b4a6ecf75"
+            },
+            {
+              "doc_id": "b9c9ab8c-1f82-4c34-b232-2a483b44c51a"
+            },
+            {
+              "doc_id": "c4f6754a-5cbb-4c4f-9be6-26a439826a75"
+            },
+            {
+              "doc_id": "d1493a79-ab87-4ac9-a176-2d2b2736d453"
+            },
+            {
+              "doc_id": "ef30bb2e-9227-489d-b515-6246d18e969b"
+            }
+          ]
+        }
+      },
+      "question_id": "aeb832532fefe9574ca50dcbdc107ec9",
+      "aggregator_type": "OR",
+      "query_id": "372",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.703123+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Why did Tour de France officials drop the lawsuit?": {
+      "question": "Why did Tour de France officials drop the lawsuit?",
+      "answers": {
+        "The story was blown out of proportion": {
+          "answer": "The story was blown out of proportion",
+          "references": [
+            {
+              "doc_id": "677ca945-8725-4329-af10-d817352511f8"
+            },
+            {
+              "doc_id": "f6d196bf-6995-4974-9b26-8571e0089b5a"
+            }
+          ]
+        }
+      },
+      "question_id": "d103ed6b3aa3e11f0e04def61cfbd36a",
+      "aggregator_type": "OR",
+      "query_id": "372",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.703141+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

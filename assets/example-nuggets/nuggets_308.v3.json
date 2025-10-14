@@ -1,0 +1,1483 @@
+{
+  "query_id": "308",
+  "title_query": "cosmetic surgery tourism",
+  "full_query": "Cosmetic surgery is a major focus of medical tourism, and I need to learn more about that topic.  Please write me a report that describes the scale and impact of medical tourism for cosmetic surgery,  I am interested in both benefits and challenges, both for the individuals who travel for this reason and for the destinations to which they travel. I want to take a broad view of cosmetic surgery, including cosmetic dental surgery (e.g., implants).  Please also summarize available statistical information such as the most popular destinations for the most common types of cosmetic surgery, costs, and outcomes.",
+  "full_background": "I work for the Iran National Health Institute, and I am presently involved in a project that is looking at several aspects of the medical tourism industry.  Our goal is to contribute to the development of a national policy on medical tourism, both inbound and outbound.",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "How many people travel globally for medical/cosmetic treatment?": {
+      "question": "How many people travel globally for medical/cosmetic treatment?",
+      "answers": {
+        "Over 20 million": {
+          "answer": "Over 20 million",
+          "references": [
+            {
+              "doc_id": "31afe2fe-8359-4d43-9310-bee7db53d977"
+            },
+            {
+              "doc_id": "9b6afede-ca7b-4d6a-a03e-0a4cf6f1171d"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        "over 14 million": {
+          "answer": "over 14 million",
+          "references": [
+            {
+              "doc_id": "90501dcd-3787-4390-a5f3-eca1b4de6ef5"
+            }
+          ]
+        },
+        "Over 25 million": {
+          "answer": "Over 25 million",
+          "references": []
+        },
+        "14 million": {
+          "answer": "14 million",
+          "references": [
+            {
+              "doc_id": "e28842f6-c377-4bd8-9c8d-ff8d8c91424f"
+            }
+          ]
+        },
+        "A considerable amount": {
+          "answer": "A considerable amount",
+          "references": [
+            {
+              "doc_id": "0af7f5a7-18f4-4b69-9a0f-e8ea4b0b06dc"
+            },
+            {
+              "doc_id": "1aa2ea04-b766-4a7c-9ddd-da104b5ec288"
+            },
+            {
+              "doc_id": "6e43fdd6-e297-4845-879d-ed043341e8f8"
+            }
+          ]
+        },
+        "An increasing number": {
+          "answer": "An increasing number",
+          "references": [
+            {
+              "doc_id": "578d2f56-15ad-45b2-b304-713fb634a7b5"
+            },
+            {
+              "doc_id": "5e918863-7613-4c6a-aef8-159a4929737b"
+            },
+            {
+              "doc_id": "790a1d09-402a-4814-b2a4-f99ddb024bfc"
+            }
+          ]
+        }
+      },
+      "question_id": "f19a669edb2202871cfeab379b59812a",
+      "aggregator_type": "OR",
+      "query_id": "308",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.638716+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Which country is the leading medical tourism destination?": {
+      "question": "Which country is the leading medical tourism destination?",
+      "answers": {
+        "Thailand": {
+          "answer": "Thailand",
+          "references": [
+            {
+              "doc_id": "57fb242a-5ba3-4278-a141-191e92964fbd"
+            },
+            {
+              "doc_id": "6e43fdd6-e297-4845-879d-ed043341e8f8"
+            },
+            {
+              "doc_id": "7422ca94-f542-4ffc-82c1-30791b2ebb12"
+            },
+            {
+              "doc_id": "90501dcd-3787-4390-a5f3-eca1b4de6ef5"
+            },
+            {
+              "doc_id": "aae3268a-c77b-433f-8297-cca5f3460a09"
+            },
+            {
+              "doc_id": "e28842f6-c377-4bd8-9c8d-ff8d8c91424f"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            },
+            {
+              "doc_id": "f21f9b27-b13e-4506-867e-bf70a6c0c12b"
+            }
+          ]
+        },
+        "South Korea": {
+          "answer": "South Korea",
+          "references": [
+            {
+              "doc_id": "0af7f5a7-18f4-4b69-9a0f-e8ea4b0b06dc"
+            },
+            {
+              "doc_id": "109e3890-990c-4ee1-92b3-0b27eb4df8cc"
+            },
+            {
+              "doc_id": "1aa2ea04-b766-4a7c-9ddd-da104b5ec288"
+            },
+            {
+              "doc_id": "2799fc22-0c50-4a7a-a868-6830a3f94eec"
+            },
+            {
+              "doc_id": "2a44c4eb-8a68-4858-b0a5-6ccc4d098c24"
+            },
+            {
+              "doc_id": "334052ff-f697-4e92-8f2e-6b6508a365b7"
+            },
+            {
+              "doc_id": "578d2f56-15ad-45b2-b304-713fb634a7b5"
+            },
+            {
+              "doc_id": "5e918863-7613-4c6a-aef8-159a4929737b"
+            },
+            {
+              "doc_id": "6e43fdd6-e297-4845-879d-ed043341e8f8"
+            },
+            {
+              "doc_id": "6f8c68a5-6e63-4fcf-9ee8-cc2c682fd8b2"
+            },
+            {
+              "doc_id": "7422ca94-f542-4ffc-82c1-30791b2ebb12"
+            },
+            {
+              "doc_id": "7982f837-4459-440d-b1c4-31b1ed5ff6ac"
+            },
+            {
+              "doc_id": "838b293c-654c-452c-a55b-44943f07709d"
+            },
+            {
+              "doc_id": "93b5338a-c3c7-467c-ae08-25c9d3723ad9"
+            },
+            {
+              "doc_id": "b9818ac9-4b00-47f0-9661-c5e8b3ecd213"
+            },
+            {
+              "doc_id": "c7a0b730-8bc9-4cde-8505-853d79647ca6"
+            },
+            {
+              "doc_id": "d947e3f9-2104-4a1a-884a-bb4716a03f85"
+            },
+            {
+              "doc_id": "dd203cd1-9af6-4a70-83c2-16ab91ec5129"
+            },
+            {
+              "doc_id": "dd6a7203-2ee2-441a-acd6-05dd48677cc2"
+            },
+            {
+              "doc_id": "e3ea369b-1fa4-4ac3-a6a8-16a56935e60a"
+            }
+          ]
+        },
+        "Mexico": {
+          "answer": "Mexico",
+          "references": [
+            {
+              "doc_id": "31afe2fe-8359-4d43-9310-bee7db53d977"
+            },
+            {
+              "doc_id": "397b9946-6333-4354-ac2f-aa2aee7f43aa"
+            },
+            {
+              "doc_id": "9b6afede-ca7b-4d6a-a03e-0a4cf6f1171d"
+            }
+          ]
+        },
+        "Colombia": {
+          "answer": "Colombia",
+          "references": [
+            {
+              "doc_id": "31afe2fe-8359-4d43-9310-bee7db53d977"
+            },
+            {
+              "doc_id": "9b6afede-ca7b-4d6a-a03e-0a4cf6f1171d"
+            }
+          ]
+        },
+        "Malaysia": {
+          "answer": "Malaysia",
+          "references": [
+            {
+              "doc_id": "6e43fdd6-e297-4845-879d-ed043341e8f8"
+            },
+            {
+              "doc_id": "7422ca94-f542-4ffc-82c1-30791b2ebb12"
+            }
+          ]
+        },
+        "United States": {
+          "answer": "United States",
+          "references": []
+        },
+        "Brazil": {
+          "answer": "Brazil",
+          "references": [
+            {
+              "doc_id": "57fb242a-5ba3-4278-a141-191e92964fbd"
+            }
+          ]
+        },
+        "Singapore": {
+          "answer": "Singapore",
+          "references": [
+            {
+              "doc_id": "7422ca94-f542-4ffc-82c1-30791b2ebb12"
+            }
+          ]
+        },
+        "Costa Rica": {
+          "answer": "Costa Rica",
+          "references": [
+            {
+              "doc_id": "31afe2fe-8359-4d43-9310-bee7db53d977"
+            },
+            {
+              "doc_id": "57fb242a-5ba3-4278-a141-191e92964fbd"
+            },
+            {
+              "doc_id": "9b6afede-ca7b-4d6a-a03e-0a4cf6f1171d"
+            }
+          ]
+        },
+        "Dominican": {
+          "answer": "Dominican",
+          "references": [
+            {
+              "doc_id": "31afe2fe-8359-4d43-9310-bee7db53d977"
+            },
+            {
+              "doc_id": "9b6afede-ca7b-4d6a-a03e-0a4cf6f1171d"
+            }
+          ]
+        },
+        "Taiwan": {
+          "answer": "Taiwan",
+          "references": [
+            {
+              "doc_id": "1fe13646-cb22-4d97-ab45-25ad03ce151d"
+            },
+            {
+              "doc_id": "3446be2e-0daa-4b3c-b33d-583cc625753d"
+            },
+            {
+              "doc_id": "3861d7f2-e021-4a8e-93d3-b3c00854d6f4"
+            },
+            {
+              "doc_id": "6e43fdd6-e297-4845-879d-ed043341e8f8"
+            },
+            {
+              "doc_id": "8bb5fbe4-db16-42bc-96e0-cbd48fab9eb6"
+            }
+          ]
+        },
+        "India": {
+          "answer": "India",
+          "references": [
+            {
+              "doc_id": "57fb242a-5ba3-4278-a141-191e92964fbd"
+            }
+          ]
+        },
+        "Japan": {
+          "answer": "Japan",
+          "references": [
+            {
+              "doc_id": "7422ca94-f542-4ffc-82c1-30791b2ebb12"
+            }
+          ]
+        }
+      },
+      "question_id": "f5eb5690eb40f90017254ffbd6c25b45",
+      "aggregator_type": "OR",
+      "query_id": "308",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.638877+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the cornerstone of medical tourism in Thailand?": {
+      "question": "What is the cornerstone of medical tourism in Thailand?",
+      "answers": {
+        "Cosmetic surgery": {
+          "answer": "Cosmetic surgery",
+          "references": [
+            {
+              "doc_id": "90501dcd-3787-4390-a5f3-eca1b4de6ef5"
+            },
+            {
+              "doc_id": "aae3268a-c77b-433f-8297-cca5f3460a09"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            },
+            {
+              "doc_id": "f21f9b27-b13e-4506-867e-bf70a6c0c12b"
+            }
+          ]
+        },
+        "Dental implant ": {
+          "answer": "Dental implant ",
+          "references": []
+        },
+        "Cosmetic Dental Surgery": {
+          "answer": "Cosmetic Dental Surgery",
+          "references": [
+            {
+              "doc_id": "a5896e0b-a91f-4f77-872c-6a617a063c26"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        "Dental services": {
+          "answer": "Dental services",
+          "references": [
+            {
+              "doc_id": "e28842f6-c377-4bd8-9c8d-ff8d8c91424f"
+            }
+          ]
+        },
+        "Mature medical technology and lower average medical related service costs": {
+          "answer": "Mature medical technology and lower average medical related service costs",
+          "references": [
+            {
+              "doc_id": "6e43fdd6-e297-4845-879d-ed043341e8f8"
+            }
+          ]
+        }
+      },
+      "question_id": "657a7e052c6c9691834b520af53ec9a9",
+      "aggregator_type": "OR",
+      "query_id": "308",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.638936+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What are some of the advanced medical services offered in Thailand?": {
+      "question": "What are some of the advanced medical services offered in Thailand?",
+      "answers": {
+        "Plastic surgery": {
+          "answer": "Plastic surgery",
+          "references": [
+            {
+              "doc_id": "6e43fdd6-e297-4845-879d-ed043341e8f8"
+            },
+            {
+              "doc_id": "90501dcd-3787-4390-a5f3-eca1b4de6ef5"
+            },
+            {
+              "doc_id": "aae3268a-c77b-433f-8297-cca5f3460a09"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            },
+            {
+              "doc_id": "f21f9b27-b13e-4506-867e-bf70a6c0c12b"
+            }
+          ]
+        },
+        "Dental implants": {
+          "answer": "Dental implants",
+          "references": [
+            {
+              "doc_id": "6e43fdd6-e297-4845-879d-ed043341e8f8"
+            },
+            {
+              "doc_id": "90501dcd-3787-4390-a5f3-eca1b4de6ef5"
+            },
+            {
+              "doc_id": "a5896e0b-a91f-4f77-872c-6a617a063c26"
+            },
+            {
+              "doc_id": "aae3268a-c77b-433f-8297-cca5f3460a09"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        "Orthopedics, oncology, ophthalmology": {
+          "answer": "Orthopedics, oncology, ophthalmology",
+          "references": [
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        "HIV and AIDS treatment, and childbirth": {
+          "answer": "HIV and AIDS treatment, and childbirth",
+          "references": [
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        }
+      },
+      "question_id": "17953140e5bc59b1a08b50726f55ccb1",
+      "aggregator_type": "AND",
+      "query_id": "308",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.638991+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How many medical tourists choose Thailand each year?": {
+      "question": "How many medical tourists choose Thailand each year?",
+      "answers": {
+        "More than 2 million": {
+          "answer": "More than 2 million",
+          "references": [
+            {
+              "doc_id": "90501dcd-3787-4390-a5f3-eca1b4de6ef5"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        }
+      },
+      "question_id": "e56a4e41b7cc19012108dbad6247fb49",
+      "aggregator_type": "OR",
+      "query_id": "308",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.639010+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What are some of the countries from which patients visit Thailand for medical treatment?": {
+      "question": "What are some of the countries from which patients visit Thailand for medical treatment?",
+      "answers": {
+        "\"The United States of America\" or  \"Canada\"": {
+          "answer": "\"The United States of America\" or  \"Canada\"",
+          "references": [
+            {
+              "doc_id": "90501dcd-3787-4390-a5f3-eca1b4de6ef5"
+            },
+            {
+              "doc_id": "aae3268a-c77b-433f-8297-cca5f3460a09"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        "Vietnam": {
+          "answer": "Vietnam",
+          "references": [
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        "Laos": {
+          "answer": "Laos",
+          "references": [
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        "England ": {
+          "answer": "England ",
+          "references": [
+            {
+              "doc_id": "aae3268a-c77b-433f-8297-cca5f3460a09"
+            }
+          ]
+        },
+        "Nederland ": {
+          "answer": "Nederland ",
+          "references": [
+            {
+              "doc_id": "aae3268a-c77b-433f-8297-cca5f3460a09"
+            }
+          ]
+        },
+        "Denmark ": {
+          "answer": "Denmark ",
+          "references": [
+            {
+              "doc_id": "aae3268a-c77b-433f-8297-cca5f3460a09"
+            }
+          ]
+        },
+        "Over 190 countries globally": {
+          "answer": "Over 190 countries globally",
+          "references": [
+            {
+              "doc_id": "6e43fdd6-e297-4845-879d-ed043341e8f8"
+            }
+          ]
+        },
+        "Japan": {
+          "answer": "Japan",
+          "references": []
+        }
+      },
+      "question_id": "eec5c4ff8cd0d35e68aa8cb053f9e680",
+      "aggregator_type": "AND",
+      "query_id": "308",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.639079+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What are some of the places from which patients visit Thailand for medical treatment?": {
+      "question": "What are some of the places from which patients visit Thailand for medical treatment?",
+      "answers": {
+        "Middle East": {
+          "answer": "Middle East",
+          "references": [
+            {
+              "doc_id": "6924be6d-e48d-464d-b15e-4ddab916d7c7"
+            },
+            {
+              "doc_id": "90501dcd-3787-4390-a5f3-eca1b4de6ef5"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        "Europe": {
+          "answer": "Europe",
+          "references": [
+            {
+              "doc_id": "90501dcd-3787-4390-a5f3-eca1b4de6ef5"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        }
+      },
+      "question_id": "09cc2371f6626c775780d6d66f306bf9",
+      "aggregator_type": "OR",
+      "query_id": "308",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.639110+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Which country is recognized as one of the premier destinations for medical tourism, particularly in plastic surgery?": {
+      "question": "Which country is recognized as one of the premier destinations for medical tourism, particularly in plastic surgery?",
+      "answers": {
+        "Turkey": {
+          "answer": "Turkey",
+          "references": [
+            {
+              "doc_id": "03c160a8-a62e-4c22-bda7-97c3516195cb"
+            },
+            {
+              "doc_id": "26e49b32-3538-4551-8f79-e6ed89f0b224"
+            },
+            {
+              "doc_id": "27c7cccf-10df-4051-be59-439474fd93ef"
+            },
+            {
+              "doc_id": "60e49809-3971-4416-b18e-003cdf0225cb"
+            },
+            {
+              "doc_id": "649dda11-a99a-41fb-befd-bc12f50f1bbf"
+            },
+            {
+              "doc_id": "64a47a7a-46ca-492f-956a-70eccbd37fe8"
+            },
+            {
+              "doc_id": "6baa8a6a-e5ed-4144-a938-4727744c2fa9"
+            },
+            {
+              "doc_id": "7036ce2a-3d8a-4671-9e4e-c2290b9f498b"
+            },
+            {
+              "doc_id": "784999e6-88da-4e4e-8d40-8c2c835b47f4"
+            },
+            {
+              "doc_id": "85b43db5-7869-4678-98b4-747a7dd967b1"
+            },
+            {
+              "doc_id": "90501dcd-3787-4390-a5f3-eca1b4de6ef5"
+            },
+            {
+              "doc_id": "96684c3b-c676-468b-b5bb-4d4dbdbc3ce1"
+            },
+            {
+              "doc_id": "aae3268a-c77b-433f-8297-cca5f3460a09"
+            },
+            {
+              "doc_id": "b65e866f-56d7-4aad-8e88-bca8f6751e7e"
+            },
+            {
+              "doc_id": "bc0c7585-21da-48aa-a8af-3d2b84dedfb8"
+            },
+            {
+              "doc_id": "e2707cf8-25a2-4e21-beed-9e9299e5bb38"
+            },
+            {
+              "doc_id": "e28842f6-c377-4bd8-9c8d-ff8d8c91424f"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        " Iran": {
+          "answer": " Iran",
+          "references": [
+            {
+              "doc_id": "559077aa-e9f1-4530-b98c-ac7eb8014747"
+            },
+            {
+              "doc_id": "574c144f-1a22-4581-93fa-470ef1af895e"
+            },
+            {
+              "doc_id": "5b64db15-e263-46b0-9aa1-420dead3091e"
+            },
+            {
+              "doc_id": "69947b92-52d6-4c50-9c76-a5487159124d"
+            },
+            {
+              "doc_id": "6f925e32-2777-4799-b891-c7ddcdac9852"
+            },
+            {
+              "doc_id": "7036ce2a-3d8a-4671-9e4e-c2290b9f498b"
+            },
+            {
+              "doc_id": "7d40ad53-cf3e-4a5f-9607-1fdef87035bc"
+            },
+            {
+              "doc_id": "80cb60f2-13e8-40f5-982e-b4d88af73a7b"
+            },
+            {
+              "doc_id": "836853ab-4b5d-41be-9151-70939da97956"
+            },
+            {
+              "doc_id": "90501dcd-3787-4390-a5f3-eca1b4de6ef5"
+            },
+            {
+              "doc_id": "963780af-8385-4661-a3e7-55ad0e5f20dd"
+            },
+            {
+              "doc_id": "965de36f-b8e5-49c2-96ea-ce07e28d56b6"
+            },
+            {
+              "doc_id": "96684c3b-c676-468b-b5bb-4d4dbdbc3ce1"
+            },
+            {
+              "doc_id": "96ec40d3-6f99-4e67-9e92-8c4ce89ef30f"
+            },
+            {
+              "doc_id": "9a3c02f3-0a85-4e0a-9c2a-4d776ec8b773"
+            },
+            {
+              "doc_id": "b65e866f-56d7-4aad-8e88-bca8f6751e7e"
+            },
+            {
+              "doc_id": "b7f5daef-19d0-4877-b435-3a0d5fcc344d"
+            },
+            {
+              "doc_id": "bb524387-8fb8-43dd-9960-11321b6dd861"
+            },
+            {
+              "doc_id": "c904919b-9777-4cb2-9f9e-4c147817da10"
+            },
+            {
+              "doc_id": "d6e6dda4-119d-4c21-8476-4dce655f8422"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            },
+            {
+              "doc_id": "fc6bc3e6-c6bf-4ec8-8349-eedb71b8d617"
+            }
+          ]
+        },
+        "India": {
+          "answer": "India",
+          "references": [
+            {
+              "doc_id": "60e49809-3971-4416-b18e-003cdf0225cb"
+            },
+            {
+              "doc_id": "7036ce2a-3d8a-4671-9e4e-c2290b9f498b"
+            },
+            {
+              "doc_id": "90501dcd-3787-4390-a5f3-eca1b4de6ef5"
+            },
+            {
+              "doc_id": "bb524387-8fb8-43dd-9960-11321b6dd861"
+            },
+            {
+              "doc_id": "bbd1f4cf-d914-449b-804d-d4cc9761b741"
+            },
+            {
+              "doc_id": "e2707cf8-25a2-4e21-beed-9e9299e5bb38"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            },
+            {
+              "doc_id": "ef90de8b-5699-468a-bd85-2a20cf62dd22"
+            }
+          ]
+        },
+        "Thailand ": {
+          "answer": "Thailand ",
+          "references": [
+            {
+              "doc_id": "60e49809-3971-4416-b18e-003cdf0225cb"
+            },
+            {
+              "doc_id": "aae3268a-c77b-433f-8297-cca5f3460a09"
+            },
+            {
+              "doc_id": "bbd1f4cf-d914-449b-804d-d4cc9761b741"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        "Singapore ": {
+          "answer": "Singapore ",
+          "references": [
+            {
+              "doc_id": "60e49809-3971-4416-b18e-003cdf0225cb"
+            }
+          ]
+        },
+        "South Korea": {
+          "answer": "South Korea",
+          "references": [
+            {
+              "doc_id": "096c4405-6a60-45b9-8324-e8e66b54c0f5"
+            },
+            {
+              "doc_id": "0e5f8cf1-1255-440a-813c-6ca153928c23"
+            },
+            {
+              "doc_id": "109e3890-990c-4ee1-92b3-0b27eb4df8cc"
+            },
+            {
+              "doc_id": "1aa2ea04-b766-4a7c-9ddd-da104b5ec288"
+            },
+            {
+              "doc_id": "2799fc22-0c50-4a7a-a868-6830a3f94eec"
+            },
+            {
+              "doc_id": "27c7cccf-10df-4051-be59-439474fd93ef"
+            },
+            {
+              "doc_id": "2a44c4eb-8a68-4858-b0a5-6ccc4d098c24"
+            },
+            {
+              "doc_id": "30114f7c-4691-4425-b438-c4ef68c01971"
+            },
+            {
+              "doc_id": "334052ff-f697-4e92-8f2e-6b6508a365b7"
+            },
+            {
+              "doc_id": "44ed5dd3-7e74-446c-b864-69ed9035137e"
+            },
+            {
+              "doc_id": "565e7952-00e8-44c9-ac63-ecddbb9d80ae"
+            },
+            {
+              "doc_id": "578d2f56-15ad-45b2-b304-713fb634a7b5"
+            },
+            {
+              "doc_id": "5e918863-7613-4c6a-aef8-159a4929737b"
+            },
+            {
+              "doc_id": "6e43fdd6-e297-4845-879d-ed043341e8f8"
+            },
+            {
+              "doc_id": "6f8c68a5-6e63-4fcf-9ee8-cc2c682fd8b2"
+            },
+            {
+              "doc_id": "7982f837-4459-440d-b1c4-31b1ed5ff6ac"
+            },
+            {
+              "doc_id": "7c17312b-29ac-4857-b1dd-92e9426a9211"
+            },
+            {
+              "doc_id": "838b293c-654c-452c-a55b-44943f07709d"
+            },
+            {
+              "doc_id": "90501dcd-3787-4390-a5f3-eca1b4de6ef5"
+            },
+            {
+              "doc_id": "93b5338a-c3c7-467c-ae08-25c9d3723ad9"
+            },
+            {
+              "doc_id": "9865209f-e4be-4ab4-983e-b3abec8b0f40"
+            },
+            {
+              "doc_id": "9b44c33e-a048-407e-8997-c8e5ce9a7d6c"
+            },
+            {
+              "doc_id": "b22906a5-bb72-4bca-bd3c-c649f2be64e5"
+            },
+            {
+              "doc_id": "b9818ac9-4b00-47f0-9661-c5e8b3ecd213"
+            },
+            {
+              "doc_id": "bbd1f4cf-d914-449b-804d-d4cc9761b741"
+            },
+            {
+              "doc_id": "bd207b38-b1c4-4f03-b83d-688ff8e56ca4"
+            },
+            {
+              "doc_id": "c7a0b730-8bc9-4cde-8505-853d79647ca6"
+            },
+            {
+              "doc_id": "d345e569-3f9c-479b-85da-7298476f7fd2"
+            },
+            {
+              "doc_id": "d7eca4ed-4df0-4876-b852-8ae5384b7a69"
+            },
+            {
+              "doc_id": "d947e3f9-2104-4a1a-884a-bb4716a03f85"
+            },
+            {
+              "doc_id": "dd203cd1-9af6-4a70-83c2-16ab91ec5129"
+            },
+            {
+              "doc_id": "dd6a7203-2ee2-441a-acd6-05dd48677cc2"
+            },
+            {
+              "doc_id": "e2707cf8-25a2-4e21-beed-9e9299e5bb38"
+            },
+            {
+              "doc_id": "e28842f6-c377-4bd8-9c8d-ff8d8c91424f"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            },
+            {
+              "doc_id": "e3ea369b-1fa4-4ac3-a6a8-16a56935e60a"
+            },
+            {
+              "doc_id": "ef06c959-1bef-4575-9c2d-2b670a9c2156"
+            },
+            {
+              "doc_id": "ef90de8b-5699-468a-bd85-2a20cf62dd22"
+            }
+          ]
+        },
+        "Germany": {
+          "answer": "Germany",
+          "references": [
+            {
+              "doc_id": "3be15c7a-3b1e-4b8b-8b8e-5bfa523e2562"
+            },
+            {
+              "doc_id": "90501dcd-3787-4390-a5f3-eca1b4de6ef5"
+            },
+            {
+              "doc_id": "e2707cf8-25a2-4e21-beed-9e9299e5bb38"
+            },
+            {
+              "doc_id": "e28842f6-c377-4bd8-9c8d-ff8d8c91424f"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            },
+            {
+              "doc_id": "ef90de8b-5699-468a-bd85-2a20cf62dd22"
+            }
+          ]
+        },
+        "USA": {
+          "answer": "USA",
+          "references": [
+            {
+              "doc_id": "64a47a7a-46ca-492f-956a-70eccbd37fe8"
+            },
+            {
+              "doc_id": "9865209f-e4be-4ab4-983e-b3abec8b0f40"
+            },
+            {
+              "doc_id": "a47f3547-5203-4217-a87a-caabdd329903"
+            },
+            {
+              "doc_id": "b22906a5-bb72-4bca-bd3c-c649f2be64e5"
+            },
+            {
+              "doc_id": "e2707cf8-25a2-4e21-beed-9e9299e5bb38"
+            },
+            {
+              "doc_id": "e28842f6-c377-4bd8-9c8d-ff8d8c91424f"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        "Brazil": {
+          "answer": "Brazil",
+          "references": [
+            {
+              "doc_id": "9865209f-e4be-4ab4-983e-b3abec8b0f40"
+            },
+            {
+              "doc_id": "b22906a5-bb72-4bca-bd3c-c649f2be64e5"
+            },
+            {
+              "doc_id": "e28842f6-c377-4bd8-9c8d-ff8d8c91424f"
+            }
+          ]
+        },
+        "Hungry ": {
+          "answer": "Hungry ",
+          "references": [
+            {
+              "doc_id": "aae3268a-c77b-433f-8297-cca5f3460a09"
+            }
+          ]
+        },
+        "Ukraine ": {
+          "answer": "Ukraine ",
+          "references": [
+            {
+              "doc_id": "aae3268a-c77b-433f-8297-cca5f3460a09"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            },
+            {
+              "doc_id": "ef06c959-1bef-4575-9c2d-2b670a9c2156"
+            }
+          ]
+        },
+        "Mexico ": {
+          "answer": "Mexico ",
+          "references": [
+            {
+              "doc_id": "aae3268a-c77b-433f-8297-cca5f3460a09"
+            },
+            {
+              "doc_id": "bbd1f4cf-d914-449b-804d-d4cc9761b741"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        "Malaysia ": {
+          "answer": "Malaysia ",
+          "references": [
+            {
+              "doc_id": "bbd1f4cf-d914-449b-804d-d4cc9761b741"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            },
+            {
+              "doc_id": "ef06c959-1bef-4575-9c2d-2b670a9c2156"
+            }
+          ]
+        },
+        "Swiss ": {
+          "answer": "Swiss ",
+          "references": [
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        "Italy ": {
+          "answer": "Italy ",
+          "references": [
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        "Spain ": {
+          "answer": "Spain ",
+          "references": [
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        "Russia": {
+          "answer": "Russia",
+          "references": [
+            {
+              "doc_id": "0f203c80-4e7e-4d63-bb70-44ed214869b7"
+            },
+            {
+              "doc_id": "121d4ff0-f748-4949-88f3-e2976ff32b7f"
+            },
+            {
+              "doc_id": "1249a28d-e003-4cbe-aa50-cf81da93c00d"
+            },
+            {
+              "doc_id": "22e3826f-a4cb-4fe6-a908-4eef90ec6412"
+            },
+            {
+              "doc_id": "32cbd87a-1c11-4c75-9a9c-2a3445457c66"
+            },
+            {
+              "doc_id": "3be15c7a-3b1e-4b8b-8b8e-5bfa523e2562"
+            },
+            {
+              "doc_id": "4e08eb04-e90f-4da0-8bb7-835f1da7ca98"
+            },
+            {
+              "doc_id": "5b16fc01-1973-4bba-9d83-2e14d48a2baf"
+            },
+            {
+              "doc_id": "80da0913-953d-481b-a6aa-e61acab200ff"
+            },
+            {
+              "doc_id": "a2fbd342-2e7a-4a20-844a-bcf16433af94"
+            },
+            {
+              "doc_id": "ad35fcd4-34cd-4e4e-8b59-a58b3a4168b7"
+            },
+            {
+              "doc_id": "b1c9d9db-40fa-44bd-960c-34d86358d1ea"
+            },
+            {
+              "doc_id": "cbf432aa-fcad-4185-a15a-f607b75058b5"
+            },
+            {
+              "doc_id": "ecf7d288-db21-4411-951c-f6f73ae4e13a"
+            },
+            {
+              "doc_id": "fc3d60ef-695d-4366-ab2c-b6a94c5940dc"
+            }
+          ]
+        },
+        "Switzerland": {
+          "answer": "Switzerland",
+          "references": [
+            {
+              "doc_id": "171444f5-5a2e-4cb1-9713-2afd9ae2445d"
+            },
+            {
+              "doc_id": "e28842f6-c377-4bd8-9c8d-ff8d8c91424f"
+            }
+          ]
+        },
+        "Egypt": {
+          "answer": "Egypt",
+          "references": [
+            {
+              "doc_id": "209dec19-8a0b-4730-884d-bf1942eb0eb0"
+            }
+          ]
+        },
+        "Czechia": {
+          "answer": "Czechia",
+          "references": [
+            {
+              "doc_id": "27c7cccf-10df-4051-be59-439474fd93ef"
+            }
+          ]
+        },
+        "Spain": {
+          "answer": "Spain",
+          "references": [
+            {
+              "doc_id": "27c7cccf-10df-4051-be59-439474fd93ef"
+            }
+          ]
+        },
+        "Israel": {
+          "answer": "Israel",
+          "references": [
+            {
+              "doc_id": "2a754310-6678-4a91-8ef0-f872c3ce48bd"
+            },
+            {
+              "doc_id": "3be15c7a-3b1e-4b8b-8b8e-5bfa523e2562"
+            },
+            {
+              "doc_id": "e2707cf8-25a2-4e21-beed-9e9299e5bb38"
+            },
+            {
+              "doc_id": "ef90de8b-5699-468a-bd85-2a20cf62dd22"
+            }
+          ]
+        },
+        "Belarus": {
+          "answer": "Belarus",
+          "references": [
+            {
+              "doc_id": "706a0d9c-cdb4-484b-82f1-b3592e1da512"
+            },
+            {
+              "doc_id": "a97a4793-2e27-4ffc-a6f6-f7ac6201d6cd"
+            }
+          ]
+        },
+        "Poland": {
+          "answer": "Poland",
+          "references": [
+            {
+              "doc_id": "784999e6-88da-4e4e-8d40-8c2c835b47f4"
+            },
+            {
+              "doc_id": "e28842f6-c377-4bd8-9c8d-ff8d8c91424f"
+            }
+          ]
+        },
+        "Ukraine": {
+          "answer": "Ukraine",
+          "references": [
+            {
+              "doc_id": "98cf812e-a0c3-4759-b09b-7c396ab91699"
+            }
+          ]
+        },
+        "Vietnam": {
+          "answer": "Vietnam",
+          "references": [
+            {
+              "doc_id": "e28842f6-c377-4bd8-9c8d-ff8d8c91424f"
+            }
+          ]
+        },
+        "Mexico": {
+          "answer": "Mexico",
+          "references": [
+            {
+              "doc_id": "e28842f6-c377-4bd8-9c8d-ff8d8c91424f"
+            }
+          ]
+        },
+        "Costa Rica": {
+          "answer": "Costa Rica",
+          "references": [
+            {
+              "doc_id": "e28842f6-c377-4bd8-9c8d-ff8d8c91424f"
+            }
+          ]
+        },
+        "Hungary": {
+          "answer": "Hungary",
+          "references": [
+            {
+              "doc_id": "e28842f6-c377-4bd8-9c8d-ff8d8c91424f"
+            }
+          ]
+        },
+        "Italy": {
+          "answer": "Italy",
+          "references": [
+            {
+              "doc_id": "e28842f6-c377-4bd8-9c8d-ff8d8c91424f"
+            },
+            {
+              "doc_id": "ef90de8b-5699-468a-bd85-2a20cf62dd22"
+            }
+          ]
+        },
+        "Portugal": {
+          "answer": "Portugal",
+          "references": [
+            {
+              "doc_id": "e28842f6-c377-4bd8-9c8d-ff8d8c91424f"
+            }
+          ]
+        },
+        "Canada": {
+          "answer": "Canada",
+          "references": [
+            {
+              "doc_id": "ef90de8b-5699-468a-bd85-2a20cf62dd22"
+            }
+          ]
+        },
+        "Great Britain": {
+          "answer": "Great Britain",
+          "references": [
+            {
+              "doc_id": "ef90de8b-5699-468a-bd85-2a20cf62dd22"
+            }
+          ]
+        },
+        "France": {
+          "answer": "France",
+          "references": [
+            {
+              "doc_id": "ef90de8b-5699-468a-bd85-2a20cf62dd22"
+            }
+          ]
+        },
+        "Singapore": {
+          "answer": "Singapore",
+          "references": [
+            {
+              "doc_id": "ef90de8b-5699-468a-bd85-2a20cf62dd22"
+            }
+          ]
+        },
+        "Thailand": {
+          "answer": "Thailand",
+          "references": [
+            {
+              "doc_id": "6e43fdd6-e297-4845-879d-ed043341e8f8"
+            }
+          ]
+        },
+        "Malaysia": {
+          "answer": "Malaysia",
+          "references": [
+            {
+              "doc_id": "6e43fdd6-e297-4845-879d-ed043341e8f8"
+            }
+          ]
+        }
+      },
+      "question_id": "be297ab7102b48b9f3eb0fbde1fe2b2e",
+      "aggregator_type": "OR",
+      "query_id": "308",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.639598+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is one factor that enhances Turkey's appeal to medical tourists?": {
+      "question": "What is one factor that enhances Turkey's appeal to medical tourists?",
+      "answers": {
+        "Costs are typically two to four times lower": {
+          "answer": "Costs are typically two to four times lower",
+          "references": [
+            {
+              "doc_id": "0adf4d2c-f505-4964-8af7-f9da290f24b2"
+            },
+            {
+              "doc_id": "5de51784-1916-4a0c-b7fa-f2d2f214e03c"
+            },
+            {
+              "doc_id": "6baa8a6a-e5ed-4144-a938-4727744c2fa9"
+            },
+            {
+              "doc_id": "e2707cf8-25a2-4e21-beed-9e9299e5bb38"
+            },
+            {
+              "doc_id": "e28842f6-c377-4bd8-9c8d-ff8d8c91424f"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        "due to their skilled and trained human resources and existing potential,": {
+          "answer": "due to their skilled and trained human resources and existing potential,",
+          "references": [
+            {
+              "doc_id": "60e49809-3971-4416-b18e-003cdf0225cb"
+            },
+            {
+              "doc_id": "90501dcd-3787-4390-a5f3-eca1b4de6ef5"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        "Turkey has reached global standards": {
+          "answer": "Turkey has reached global standards",
+          "references": [
+            {
+              "doc_id": "90501dcd-3787-4390-a5f3-eca1b4de6ef5"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        "Advanced equipment, full-service facilities such as free hospital transfers, housing, language assistance": {
+          "answer": "Advanced equipment, full-service facilities such as free hospital transfers, housing, language assistance",
+          "references": [
+            {
+              "doc_id": "90501dcd-3787-4390-a5f3-eca1b4de6ef5"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            }
+          ]
+        },
+        "Excellent service": {
+          "answer": "Excellent service",
+          "references": [
+            {
+              "doc_id": "03c160a8-a62e-4c22-bda7-97c3516195cb"
+            },
+            {
+              "doc_id": "27c7cccf-10df-4051-be59-439474fd93ef"
+            },
+            {
+              "doc_id": "e2707cf8-25a2-4e21-beed-9e9299e5bb38"
+            }
+          ]
+        },
+        "All-inclusive package tours": {
+          "answer": "All-inclusive package tours",
+          "references": [
+            {
+              "doc_id": "03c160a8-a62e-4c22-bda7-97c3516195cb"
+            }
+          ]
+        },
+        "Warrantee offered": {
+          "answer": "Warrantee offered",
+          "references": [
+            {
+              "doc_id": "03c160a8-a62e-4c22-bda7-97c3516195cb"
+            }
+          ]
+        },
+        "Highly qualified specialists": {
+          "answer": "Highly qualified specialists",
+          "references": [
+            {
+              "doc_id": "27c7cccf-10df-4051-be59-439474fd93ef"
+            },
+            {
+              "doc_id": "e2707cf8-25a2-4e21-beed-9e9299e5bb38"
+            }
+          ]
+        },
+        "New treatment methods": {
+          "answer": "New treatment methods",
+          "references": [
+            {
+              "doc_id": "e2707cf8-25a2-4e21-beed-9e9299e5bb38"
+            }
+          ]
+        },
+        "Easy logistics (no visas, regular flights)": {
+          "answer": "Easy logistics (no visas, regular flights)",
+          "references": [
+            {
+              "doc_id": "e2707cf8-25a2-4e21-beed-9e9299e5bb38"
+            }
+          ]
+        },
+        "Short wait times": {
+          "answer": "Short wait times",
+          "references": [
+            {
+              "doc_id": "e2707cf8-25a2-4e21-beed-9e9299e5bb38"
+            }
+          ]
+        },
+        "Modern medical equipment and technology": {
+          "answer": "Modern medical equipment and technology",
+          "references": [
+            {
+              "doc_id": "e2707cf8-25a2-4e21-beed-9e9299e5bb38"
+            }
+          ]
+        }
+      },
+      "question_id": "a89fa23e081efd91389ef9e0250aa258",
+      "aggregator_type": "OR",
+      "query_id": "308",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.639713+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "In which country are top-tier beauty services offered, hosting the highest number of nose surgeries globally?": {
+      "question": "In which country are top-tier beauty services offered, hosting the highest number of nose surgeries globally?",
+      "answers": {
+        "Iran": {
+          "answer": "Iran",
+          "references": [
+            {
+              "doc_id": "26e49b32-3538-4551-8f79-e6ed89f0b224"
+            },
+            {
+              "doc_id": "302516de-c7d9-4462-914c-959a13b63ee4"
+            },
+            {
+              "doc_id": "4fd54941-c21c-4136-96a4-abb207a2f039"
+            },
+            {
+              "doc_id": "574c144f-1a22-4581-93fa-470ef1af895e"
+            },
+            {
+              "doc_id": "5b64db15-e263-46b0-9aa1-420dead3091e"
+            },
+            {
+              "doc_id": "74d94f1c-03ea-4cb0-af69-7a83262f4363"
+            },
+            {
+              "doc_id": "80cb60f2-13e8-40f5-982e-b4d88af73a7b"
+            },
+            {
+              "doc_id": "836853ab-4b5d-41be-9151-70939da97956"
+            },
+            {
+              "doc_id": "b22906a5-bb72-4bca-bd3c-c649f2be64e5"
+            },
+            {
+              "doc_id": "b65e866f-56d7-4aad-8e88-bca8f6751e7e"
+            },
+            {
+              "doc_id": "e3803023-c5e6-4c4a-81fa-dc0ffa6823ec"
+            },
+            {
+              "doc_id": "f49747e0-ceca-4916-b05f-413975a934f7"
+            }
+          ]
+        }
+      },
+      "question_id": "46f57d6073fdd4cb6cde36e3e72b8d83",
+      "aggregator_type": "OR",
+      "query_id": "308",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.639745+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

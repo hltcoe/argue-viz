@@ -1,0 +1,4111 @@
+{
+  "query_id": "373",
+  "title_query": "SpaceX Crew Dragon DM-2",
+  "full_query": "I want to read a report about the significance of the Crew Dragon Demo-2 Mission for the future of space exploration and how it paves the way for commercial space travel. This overview will help satisfy my curiosity and stay updated on the latest developments in the space industry.",
+  "full_background": "As a space enthusiast and avid follower of SpaceX's endeavors, I'm eager to delve into the details of the Crew Dragon Demo-2 Mission.",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What is the significance of SpaceX's Crew Dragon Demo-2 Mission?": {
+      "question": "What is the significance of SpaceX's Crew Dragon Demo-2 Mission?",
+      "answers": {
+        "the first commercial human orbital space flight": {
+          "answer": "the first commercial human orbital space flight",
+          "references": [
+            {
+              "doc_id": "06edd6f8-c71f-4fb9-ac94-3118c0054984"
+            },
+            {
+              "doc_id": "08dedc49-4046-4719-b59f-f3d26dd8a967"
+            },
+            {
+              "doc_id": "0a16338e-4b06-4c7d-9668-a8acae26838f"
+            },
+            {
+              "doc_id": "0f7abf94-7e7d-4e9f-a700-3a7e4780cffe"
+            },
+            {
+              "doc_id": "111288aa-8cf7-47c9-8865-3aa3e17392df"
+            },
+            {
+              "doc_id": "1735761d-8e4e-4db5-8dfc-e904c1f0ea5b"
+            },
+            {
+              "doc_id": "196bb0d1-e743-4dcd-a014-2f6fbe40e2a2"
+            },
+            {
+              "doc_id": "1d8b0925-cba3-4cb1-a6b8-736d1d987884"
+            },
+            {
+              "doc_id": "1fee096a-7916-4479-bdff-d1defe4c7074"
+            },
+            {
+              "doc_id": "2400aee6-8192-488c-8d78-4b5413be6159"
+            },
+            {
+              "doc_id": "28b0f399-0857-4a71-af8e-28ab00343562"
+            },
+            {
+              "doc_id": "2ca6423b-679e-4d28-801a-4c30c3d71e1d"
+            },
+            {
+              "doc_id": "2cd0a479-832d-49dc-8e13-9dcc4a41c9e2"
+            },
+            {
+              "doc_id": "2e253c39-a058-4082-86ef-b7815b83ac54"
+            },
+            {
+              "doc_id": "30738be0-5c95-4d22-9aab-1c2c24edf609"
+            },
+            {
+              "doc_id": "332cd91d-ea0a-4efb-b3b3-5664f5910c58"
+            },
+            {
+              "doc_id": "334290c2-d419-4350-91b1-18be5cf56401"
+            },
+            {
+              "doc_id": "3823e63f-ff29-4383-838d-c65e048d120e"
+            },
+            {
+              "doc_id": "403161cf-9f9c-403c-9783-d9cab9226ea0"
+            },
+            {
+              "doc_id": "42b11914-7d2e-4387-aea5-7c31add697b0"
+            },
+            {
+              "doc_id": "4421c663-80dd-4005-92e5-295acdda69ce"
+            },
+            {
+              "doc_id": "45c684f7-0f09-4fea-beaf-0d32dbd2940d"
+            },
+            {
+              "doc_id": "47306071-a895-457a-b884-e2b85e69d8f4"
+            },
+            {
+              "doc_id": "479f547c-9ecc-4baa-aa13-e75e699f933c"
+            },
+            {
+              "doc_id": "4e92701d-ef24-454b-8f13-8bc69ee70b37"
+            },
+            {
+              "doc_id": "4f485315-8995-46d5-8dc2-0ea82cdc3fa0"
+            },
+            {
+              "doc_id": "4fa28a6d-ef12-4e7b-b055-8a54465376a2"
+            },
+            {
+              "doc_id": "4fc84518-616f-4358-be84-96e80629fc44"
+            },
+            {
+              "doc_id": "580246ed-cdc0-4142-b6ee-06b8dd65f090"
+            },
+            {
+              "doc_id": "5b1838f5-541f-46d2-8937-57630646c55e"
+            },
+            {
+              "doc_id": "60b9c2d9-1992-45f4-bc71-74853595de53"
+            },
+            {
+              "doc_id": "60c0a818-de71-410e-b45f-ea3047bc1f74"
+            },
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            },
+            {
+              "doc_id": "64e92d73-6b14-4cbd-be06-2a67b45d52c2"
+            },
+            {
+              "doc_id": "6a2d349e-bd46-4b06-a632-090cc6c77c15"
+            },
+            {
+              "doc_id": "6b0850ca-c555-4122-86fc-e1d642a3c5bd"
+            },
+            {
+              "doc_id": "6c776618-43f9-449d-8b2b-bb1041608572"
+            },
+            {
+              "doc_id": "6ddb9941-7b5d-4276-89a8-679011e1b80e"
+            },
+            {
+              "doc_id": "6f53a70a-39ad-44ba-a615-22cf1e63740d"
+            },
+            {
+              "doc_id": "7701c3d9-e227-4f53-96fe-c493be45540b"
+            },
+            {
+              "doc_id": "78b26f87-336b-4ffb-bf81-fe02d207d33d"
+            },
+            {
+              "doc_id": "850e8a78-acfc-4a62-b860-615c810acf18"
+            },
+            {
+              "doc_id": "8622cd2b-c4bc-4330-bbc2-2f269e97a1f1"
+            },
+            {
+              "doc_id": "86323a4b-83de-4b67-9105-b1ede02f8b8a"
+            },
+            {
+              "doc_id": "8956ee17-f4f2-44dd-8043-a72c3d8ee65c"
+            },
+            {
+              "doc_id": "904a4ecf-4319-474e-8bd6-0809fd663be0"
+            },
+            {
+              "doc_id": "9796a4b4-02b5-4198-b182-06802067b6b7"
+            },
+            {
+              "doc_id": "986d2f22-46e1-40ed-8965-69c641b1d9e7"
+            },
+            {
+              "doc_id": "9b23b161-78c3-45cd-b9ea-e420c1354251"
+            },
+            {
+              "doc_id": "9f8b81e9-660a-4ef9-84d6-fec916de8953"
+            },
+            {
+              "doc_id": "a124ca09-6d6b-40cb-98e2-f5bb189e0f6f"
+            },
+            {
+              "doc_id": "a1f28906-7277-44b7-b3cf-fe0af32568ea"
+            },
+            {
+              "doc_id": "a48990e4-8775-46a0-ae02-ef2d7b7cc02f"
+            },
+            {
+              "doc_id": "a867980e-4101-4c9f-b8a1-26e2bbf2a377"
+            },
+            {
+              "doc_id": "a9d8eb3d-e03c-475d-818e-a7a3d7d14da8"
+            },
+            {
+              "doc_id": "acdaa6c5-78f0-4059-bdc3-0cf03eed0b8f"
+            },
+            {
+              "doc_id": "aee40b26-73b7-48ab-badd-7bda3619e342"
+            },
+            {
+              "doc_id": "aefd7464-cfa9-4995-97b2-382ce7dd5fcc"
+            },
+            {
+              "doc_id": "b24dcb79-0be9-489e-9960-bd154321a1d3"
+            },
+            {
+              "doc_id": "b4c390b8-ab01-4ffe-8887-f67c5f638bdc"
+            },
+            {
+              "doc_id": "b54292af-9cb7-47de-95a6-2586b2e1bd79"
+            },
+            {
+              "doc_id": "b5b6cf59-c584-4e72-8eb9-e75a05585f04"
+            },
+            {
+              "doc_id": "b5fe2988-24eb-41ab-8c13-b6ee69c4d952"
+            },
+            {
+              "doc_id": "ba805c29-ba0a-41e3-8188-f104080990f2"
+            },
+            {
+              "doc_id": "bdf6fafe-900c-42b6-a559-970e13835c1c"
+            },
+            {
+              "doc_id": "be6f7475-dbb2-4067-8ce6-50f0ec19aaea"
+            },
+            {
+              "doc_id": "c1d2ce23-c353-4472-b3ea-4ecc3e34ba37"
+            },
+            {
+              "doc_id": "c6c22a78-8231-4d7d-9bcb-60ffacee47ce"
+            },
+            {
+              "doc_id": "c743e9cd-2821-48eb-922c-7e220e09b9d7"
+            },
+            {
+              "doc_id": "d0de2e63-c31c-4c77-91ab-55a3b90ebfe7"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "dc5c327b-5940-43d4-a634-7001d7682e10"
+            },
+            {
+              "doc_id": "e8ca8f4e-f906-4626-8028-21ea500a5a08"
+            },
+            {
+              "doc_id": "ea09b725-2a4d-4424-945b-b06d15a18c5b"
+            },
+            {
+              "doc_id": "ea60790d-862b-42ec-8186-5d3e6194e8f3"
+            },
+            {
+              "doc_id": "ee359c10-b507-4e7e-913c-830ad9543812"
+            },
+            {
+              "doc_id": "f6cd89ed-73e7-4ac4-ba3f-77067092c3b0"
+            },
+            {
+              "doc_id": "f708bd4b-c4a9-478d-b007-6f488c4d8f4a"
+            },
+            {
+              "doc_id": "f9e13649-39b6-4ee4-aa75-8d166454922f"
+            },
+            {
+              "doc_id": "fb7fd3e7-2152-45ea-94a3-be156e0e6169"
+            },
+            {
+              "doc_id": "fbfb6572-ff21-44d3-a06f-48d6d544f4a5"
+            },
+            {
+              "doc_id": "ff45edcc-0d5c-47c0-8cba-2ad441d1ff7a"
+            }
+          ]
+        },
+        "It was the first mission to be carried out from American soil in 10 years.": {
+          "answer": "It was the first mission to be carried out from American soil in 10 years.",
+          "references": [
+            {
+              "doc_id": "2ca6423b-679e-4d28-801a-4c30c3d71e1d"
+            },
+            {
+              "doc_id": "30738be0-5c95-4d22-9aab-1c2c24edf609"
+            },
+            {
+              "doc_id": "332cd91d-ea0a-4efb-b3b3-5664f5910c58"
+            },
+            {
+              "doc_id": "334290c2-d419-4350-91b1-18be5cf56401"
+            },
+            {
+              "doc_id": "3823e63f-ff29-4383-838d-c65e048d120e"
+            },
+            {
+              "doc_id": "3bb8c223-6736-41f9-afaa-036474da32b2"
+            },
+            {
+              "doc_id": "403161cf-9f9c-403c-9783-d9cab9226ea0"
+            },
+            {
+              "doc_id": "4e92701d-ef24-454b-8f13-8bc69ee70b37"
+            },
+            {
+              "doc_id": "9c43ebef-355b-4752-9340-053443cf4cfd"
+            },
+            {
+              "doc_id": "b5fe2988-24eb-41ab-8c13-b6ee69c4d952"
+            }
+          ]
+        },
+        "It was the first mission to be carried out from American soil in 9 years.": {
+          "answer": "It was the first mission to be carried out from American soil in 9 years.",
+          "references": [
+            {
+              "doc_id": "3bb8c223-6736-41f9-afaa-036474da32b2"
+            },
+            {
+              "doc_id": "403161cf-9f9c-403c-9783-d9cab9226ea0"
+            },
+            {
+              "doc_id": "4e92701d-ef24-454b-8f13-8bc69ee70b37"
+            },
+            {
+              "doc_id": "4fc84518-616f-4358-be84-96e80629fc44"
+            },
+            {
+              "doc_id": "583b98e0-e433-4b16-9fa9-e1fe7954bf07"
+            },
+            {
+              "doc_id": "60b9c2d9-1992-45f4-bc71-74853595de53"
+            },
+            {
+              "doc_id": "697f989c-495f-48a3-bb90-d0e197a6a228"
+            },
+            {
+              "doc_id": "6f53a70a-39ad-44ba-a615-22cf1e63740d"
+            },
+            {
+              "doc_id": "74cfbe77-d660-4785-af16-71dc4caee2e2"
+            },
+            {
+              "doc_id": "85abd28d-5e46-440c-a228-8fbd7434784d"
+            },
+            {
+              "doc_id": "c6c22a78-8231-4d7d-9bcb-60ffacee47ce"
+            },
+            {
+              "doc_id": "ebcb11cc-9dcb-400c-8646-1216b111ce45"
+            }
+          ]
+        },
+        "the first manned launch from U.S. territory since 2011": {
+          "answer": "the first manned launch from U.S. territory since 2011",
+          "references": [
+            {
+              "doc_id": "00eeafca-e872-45bc-ab62-f8c4c5181580"
+            },
+            {
+              "doc_id": "111288aa-8cf7-47c9-8865-3aa3e17392df"
+            },
+            {
+              "doc_id": "1fee096a-7916-4479-bdff-d1defe4c7074"
+            },
+            {
+              "doc_id": "28b0f399-0857-4a71-af8e-28ab00343562"
+            },
+            {
+              "doc_id": "2cd0a479-832d-49dc-8e13-9dcc4a41c9e2"
+            },
+            {
+              "doc_id": "306d4b3e-863c-4863-aea2-518f4947b5c2"
+            },
+            {
+              "doc_id": "45c684f7-0f09-4fea-beaf-0d32dbd2940d"
+            },
+            {
+              "doc_id": "47306071-a895-457a-b884-e2b85e69d8f4"
+            },
+            {
+              "doc_id": "479f547c-9ecc-4baa-aa13-e75e699f933c"
+            },
+            {
+              "doc_id": "67d3af8a-6025-4f58-91df-6ddc564d09b1"
+            },
+            {
+              "doc_id": "6a2d349e-bd46-4b06-a632-090cc6c77c15"
+            },
+            {
+              "doc_id": "78b26f87-336b-4ffb-bf81-fe02d207d33d"
+            },
+            {
+              "doc_id": "7dcca736-cf9f-4fa2-bf89-567c512da2db"
+            },
+            {
+              "doc_id": "904a4ecf-4319-474e-8bd6-0809fd663be0"
+            },
+            {
+              "doc_id": "9f8b81e9-660a-4ef9-84d6-fec916de8953"
+            },
+            {
+              "doc_id": "a48990e4-8775-46a0-ae02-ef2d7b7cc02f"
+            },
+            {
+              "doc_id": "a867980e-4101-4c9f-b8a1-26e2bbf2a377"
+            },
+            {
+              "doc_id": "a9d8eb3d-e03c-475d-818e-a7a3d7d14da8"
+            },
+            {
+              "doc_id": "aee40b26-73b7-48ab-badd-7bda3619e342"
+            },
+            {
+              "doc_id": "ba805c29-ba0a-41e3-8188-f104080990f2"
+            },
+            {
+              "doc_id": "be6f7475-dbb2-4067-8ce6-50f0ec19aaea"
+            },
+            {
+              "doc_id": "ce18063e-2910-4839-b15e-fadb953e2913"
+            },
+            {
+              "doc_id": "d0de2e63-c31c-4c77-91ab-55a3b90ebfe7"
+            },
+            {
+              "doc_id": "dc5c327b-5940-43d4-a634-7001d7682e10"
+            },
+            {
+              "doc_id": "ea09b725-2a4d-4424-945b-b06d15a18c5b"
+            },
+            {
+              "doc_id": "f9e13649-39b6-4ee4-aa75-8d166454922f"
+            },
+            {
+              "doc_id": "fb7fd3e7-2152-45ea-94a3-be156e0e6169"
+            },
+            {
+              "doc_id": "fbfb6572-ff21-44d3-a06f-48d6d544f4a5"
+            }
+          ]
+        },
+        "marks the return of the United States to space after a 9-year hiatus": {
+          "answer": "marks the return of the United States to space after a 9-year hiatus",
+          "references": [
+            {
+              "doc_id": "064352bf-0ebf-40e0-a507-0194f912ad3d"
+            },
+            {
+              "doc_id": "198559ea-8fe2-48be-ba70-de663b90978e"
+            },
+            {
+              "doc_id": "4e561e64-fd03-4efa-9132-5ddd9ca5baa1"
+            },
+            {
+              "doc_id": "77e0eb30-d33d-4cf1-949a-07f4edbfc3b5"
+            },
+            {
+              "doc_id": "a124ca09-6d6b-40cb-98e2-f5bb189e0f6f"
+            },
+            {
+              "doc_id": "b4c390b8-ab01-4ffe-8887-f67c5f638bdc"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "ee359c10-b507-4e7e-913c-830ad9543812"
+            },
+            {
+              "doc_id": "ee3d4310-4fca-4ea3-b29a-0c3c497fbda0"
+            },
+            {
+              "doc_id": "ff45edcc-0d5c-47c0-8cba-2ad441d1ff7a"
+            }
+          ]
+        },
+        "marks the beginning of an era of space explorations led by commercial companies": {
+          "answer": "marks the beginning of an era of space explorations led by commercial companies",
+          "references": [
+            {
+              "doc_id": "06edd6f8-c71f-4fb9-ac94-3118c0054984"
+            },
+            {
+              "doc_id": "08dedc49-4046-4719-b59f-f3d26dd8a967"
+            },
+            {
+              "doc_id": "0a16338e-4b06-4c7d-9668-a8acae26838f"
+            },
+            {
+              "doc_id": "0f7abf94-7e7d-4e9f-a700-3a7e4780cffe"
+            },
+            {
+              "doc_id": "198559ea-8fe2-48be-ba70-de663b90978e"
+            },
+            {
+              "doc_id": "4e561e64-fd03-4efa-9132-5ddd9ca5baa1"
+            },
+            {
+              "doc_id": "850e8a78-acfc-4a62-b860-615c810acf18"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "e6adeda2-b235-4d3a-845e-1c6e4756540e"
+            },
+            {
+              "doc_id": "ee359c10-b507-4e7e-913c-830ad9543812"
+            },
+            {
+              "doc_id": "f6cd89ed-73e7-4ac4-ba3f-77067092c3b0"
+            },
+            {
+              "doc_id": "ff45edcc-0d5c-47c0-8cba-2ad441d1ff7a"
+            }
+          ]
+        },
+        "marks the first time in 9 years that astronauts are launched into space from US soil": {
+          "answer": "marks the first time in 9 years that astronauts are launched into space from US soil",
+          "references": [
+            {
+              "doc_id": "06edd6f8-c71f-4fb9-ac94-3118c0054984"
+            },
+            {
+              "doc_id": "08dedc49-4046-4719-b59f-f3d26dd8a967"
+            },
+            {
+              "doc_id": "0a16338e-4b06-4c7d-9668-a8acae26838f"
+            },
+            {
+              "doc_id": "1268990b-53d8-4c23-abcc-bd5f77acb712"
+            },
+            {
+              "doc_id": "4421c663-80dd-4005-92e5-295acdda69ce"
+            },
+            {
+              "doc_id": "4fa28a6d-ef12-4e7b-b055-8a54465376a2"
+            },
+            {
+              "doc_id": "60c0a818-de71-410e-b45f-ea3047bc1f74"
+            },
+            {
+              "doc_id": "6ddb9941-7b5d-4276-89a8-679011e1b80e"
+            },
+            {
+              "doc_id": "850e8a78-acfc-4a62-b860-615c810acf18"
+            },
+            {
+              "doc_id": "86323a4b-83de-4b67-9105-b1ede02f8b8a"
+            },
+            {
+              "doc_id": "b2c471af-3d98-446d-95b3-2e393fa833dd"
+            },
+            {
+              "doc_id": "b54292af-9cb7-47de-95a6-2586b2e1bd79"
+            },
+            {
+              "doc_id": "c1d2ce23-c353-4472-b3ea-4ecc3e34ba37"
+            },
+            {
+              "doc_id": "c743e9cd-2821-48eb-922c-7e220e09b9d7"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "ea60790d-862b-42ec-8186-5d3e6194e8f3"
+            },
+            {
+              "doc_id": "ee3d4310-4fca-4ea3-b29a-0c3c497fbda0"
+            },
+            {
+              "doc_id": "f6cd89ed-73e7-4ac4-ba3f-77067092c3b0"
+            }
+          ]
+        },
+        "marks a turning point in the commercialization of manned space transportation": {
+          "answer": "marks a turning point in the commercialization of manned space transportation",
+          "references": [
+            {
+              "doc_id": "0a16338e-4b06-4c7d-9668-a8acae26838f"
+            },
+            {
+              "doc_id": "0f7abf94-7e7d-4e9f-a700-3a7e4780cffe"
+            },
+            {
+              "doc_id": "4421c663-80dd-4005-92e5-295acdda69ce"
+            },
+            {
+              "doc_id": "b2c471af-3d98-446d-95b3-2e393fa833dd"
+            },
+            {
+              "doc_id": "c48d3d29-e3ec-4163-9f9d-adad3c99ec58"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "e6adeda2-b235-4d3a-845e-1c6e4756540e"
+            },
+            {
+              "doc_id": "ee359c10-b507-4e7e-913c-830ad9543812"
+            },
+            {
+              "doc_id": "f6cd89ed-73e7-4ac4-ba3f-77067092c3b0"
+            }
+          ]
+        },
+        "the first time that the United States has been able to transport astronauts on its own since the termination of the space shuttle program in 2011 without relying on Russia": {
+          "answer": "the first time that the United States has been able to transport astronauts on its own since the termination of the space shuttle program in 2011 without relying on Russia",
+          "references": [
+            {
+              "doc_id": "08dedc49-4046-4719-b59f-f3d26dd8a967"
+            },
+            {
+              "doc_id": "1268990b-53d8-4c23-abcc-bd5f77acb712"
+            },
+            {
+              "doc_id": "60c0a818-de71-410e-b45f-ea3047bc1f74"
+            },
+            {
+              "doc_id": "77e0eb30-d33d-4cf1-949a-07f4edbfc3b5"
+            },
+            {
+              "doc_id": "86323a4b-83de-4b67-9105-b1ede02f8b8a"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "e400128b-578d-43d4-ace3-51bc73024d19"
+            },
+            {
+              "doc_id": "ee3d4310-4fca-4ea3-b29a-0c3c497fbda0"
+            },
+            {
+              "doc_id": "f6cd89ed-73e7-4ac4-ba3f-77067092c3b0"
+            },
+            {
+              "doc_id": "ff45edcc-0d5c-47c0-8cba-2ad441d1ff7a"
+            }
+          ]
+        },
+        "symbolizes the arrival of an era where private enterprises officially participate in space development": {
+          "answer": "symbolizes the arrival of an era where private enterprises officially participate in space development",
+          "references": [
+            {
+              "doc_id": "198559ea-8fe2-48be-ba70-de663b90978e"
+            },
+            {
+              "doc_id": "4421c663-80dd-4005-92e5-295acdda69ce"
+            },
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "e6adeda2-b235-4d3a-845e-1c6e4756540e"
+            }
+          ]
+        }
+      },
+      "question_id": "beac30cef5e37e2b225066134e0a6731",
+      "aggregator_type": "OR",
+      "query_id": "373",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.707114+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Who developed the Crew Dragon spacecraft?": {
+      "question": "Who developed the Crew Dragon spacecraft?",
+      "answers": {
+        "SpaceX": {
+          "answer": "SpaceX",
+          "references": [
+            {
+              "doc_id": "00eeafca-e872-45bc-ab62-f8c4c5181580"
+            },
+            {
+              "doc_id": "064352bf-0ebf-40e0-a507-0194f912ad3d"
+            },
+            {
+              "doc_id": "06edd6f8-c71f-4fb9-ac94-3118c0054984"
+            },
+            {
+              "doc_id": "08dedc49-4046-4719-b59f-f3d26dd8a967"
+            },
+            {
+              "doc_id": "0a16338e-4b06-4c7d-9668-a8acae26838f"
+            },
+            {
+              "doc_id": "0bf01d79-a737-4496-822b-74c49f9d7ad3"
+            },
+            {
+              "doc_id": "0eef07dd-d5a3-49bf-a202-a40654fc44cf"
+            },
+            {
+              "doc_id": "0f7abf94-7e7d-4e9f-a700-3a7e4780cffe"
+            },
+            {
+              "doc_id": "111288aa-8cf7-47c9-8865-3aa3e17392df"
+            },
+            {
+              "doc_id": "1268990b-53d8-4c23-abcc-bd5f77acb712"
+            },
+            {
+              "doc_id": "14ad7edf-be68-42f0-aa0f-abc0911d6864"
+            },
+            {
+              "doc_id": "1735761d-8e4e-4db5-8dfc-e904c1f0ea5b"
+            },
+            {
+              "doc_id": "196bb0d1-e743-4dcd-a014-2f6fbe40e2a2"
+            },
+            {
+              "doc_id": "198559ea-8fe2-48be-ba70-de663b90978e"
+            },
+            {
+              "doc_id": "1d8b0925-cba3-4cb1-a6b8-736d1d987884"
+            },
+            {
+              "doc_id": "1fee096a-7916-4479-bdff-d1defe4c7074"
+            },
+            {
+              "doc_id": "2271660d-bb88-4afb-888a-ec5b11a0b863"
+            },
+            {
+              "doc_id": "2400aee6-8192-488c-8d78-4b5413be6159"
+            },
+            {
+              "doc_id": "2677e4fa-7d02-41d9-846b-deb72456362a"
+            },
+            {
+              "doc_id": "28b0f399-0857-4a71-af8e-28ab00343562"
+            },
+            {
+              "doc_id": "2ae0ffe1-d3c7-4924-bdd1-723bc16e69cc"
+            },
+            {
+              "doc_id": "2ca6423b-679e-4d28-801a-4c30c3d71e1d"
+            },
+            {
+              "doc_id": "2cd0a479-832d-49dc-8e13-9dcc4a41c9e2"
+            },
+            {
+              "doc_id": "2e253c39-a058-4082-86ef-b7815b83ac54"
+            },
+            {
+              "doc_id": "306d4b3e-863c-4863-aea2-518f4947b5c2"
+            },
+            {
+              "doc_id": "30738be0-5c95-4d22-9aab-1c2c24edf609"
+            },
+            {
+              "doc_id": "31d120ff-dc1b-4692-b56a-81de59336772"
+            },
+            {
+              "doc_id": "332cd91d-ea0a-4efb-b3b3-5664f5910c58"
+            },
+            {
+              "doc_id": "334290c2-d419-4350-91b1-18be5cf56401"
+            },
+            {
+              "doc_id": "37c002a6-5638-42f8-83a9-c3ae958a0063"
+            },
+            {
+              "doc_id": "383cefb5-07e4-4967-8ba3-953bf8ac8125"
+            },
+            {
+              "doc_id": "3bb8c223-6736-41f9-afaa-036474da32b2"
+            },
+            {
+              "doc_id": "403161cf-9f9c-403c-9783-d9cab9226ea0"
+            },
+            {
+              "doc_id": "4091f558-0ed3-4d86-8cd9-f3c79aef7b9a"
+            },
+            {
+              "doc_id": "42b11914-7d2e-4387-aea5-7c31add697b0"
+            },
+            {
+              "doc_id": "45c684f7-0f09-4fea-beaf-0d32dbd2940d"
+            },
+            {
+              "doc_id": "47306071-a895-457a-b884-e2b85e69d8f4"
+            },
+            {
+              "doc_id": "479f547c-9ecc-4baa-aa13-e75e699f933c"
+            },
+            {
+              "doc_id": "4e561e64-fd03-4efa-9132-5ddd9ca5baa1"
+            },
+            {
+              "doc_id": "4e92701d-ef24-454b-8f13-8bc69ee70b37"
+            },
+            {
+              "doc_id": "4f485315-8995-46d5-8dc2-0ea82cdc3fa0"
+            },
+            {
+              "doc_id": "4fa28a6d-ef12-4e7b-b055-8a54465376a2"
+            },
+            {
+              "doc_id": "4fc84518-616f-4358-be84-96e80629fc44"
+            },
+            {
+              "doc_id": "55452ccf-a4ed-46d0-ba7e-8b6ff083e551"
+            },
+            {
+              "doc_id": "580246ed-cdc0-4142-b6ee-06b8dd65f090"
+            },
+            {
+              "doc_id": "583b98e0-e433-4b16-9fa9-e1fe7954bf07"
+            },
+            {
+              "doc_id": "5b1838f5-541f-46d2-8937-57630646c55e"
+            },
+            {
+              "doc_id": "5b75e240-acea-45fc-99b3-9d709f2d87f1"
+            },
+            {
+              "doc_id": "5c84f4a6-6f56-4f41-8c89-7b3ec91918f5"
+            },
+            {
+              "doc_id": "60b9c2d9-1992-45f4-bc71-74853595de53"
+            },
+            {
+              "doc_id": "60c0a818-de71-410e-b45f-ea3047bc1f74"
+            },
+            {
+              "doc_id": "64631710-68c5-43f4-8a56-7f2df1e47b6f"
+            },
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            },
+            {
+              "doc_id": "64e92d73-6b14-4cbd-be06-2a67b45d52c2"
+            },
+            {
+              "doc_id": "67d3af8a-6025-4f58-91df-6ddc564d09b1"
+            },
+            {
+              "doc_id": "69310b09-3000-46f3-9fb5-6bdfcedd72e0"
+            },
+            {
+              "doc_id": "697f989c-495f-48a3-bb90-d0e197a6a228"
+            },
+            {
+              "doc_id": "6a2d349e-bd46-4b06-a632-090cc6c77c15"
+            },
+            {
+              "doc_id": "6c776618-43f9-449d-8b2b-bb1041608572"
+            },
+            {
+              "doc_id": "6da172b4-1551-40fc-a4a9-6fa169e530ad"
+            },
+            {
+              "doc_id": "6ddb9941-7b5d-4276-89a8-679011e1b80e"
+            },
+            {
+              "doc_id": "6f53a70a-39ad-44ba-a615-22cf1e63740d"
+            },
+            {
+              "doc_id": "74cfbe77-d660-4785-af16-71dc4caee2e2"
+            },
+            {
+              "doc_id": "7701c3d9-e227-4f53-96fe-c493be45540b"
+            },
+            {
+              "doc_id": "77e0eb30-d33d-4cf1-949a-07f4edbfc3b5"
+            },
+            {
+              "doc_id": "78b26f87-336b-4ffb-bf81-fe02d207d33d"
+            },
+            {
+              "doc_id": "7dcca736-cf9f-4fa2-bf89-567c512da2db"
+            },
+            {
+              "doc_id": "8041a2d0-52c6-4a08-af05-a5ea93eb66d2"
+            },
+            {
+              "doc_id": "850e8a78-acfc-4a62-b860-615c810acf18"
+            },
+            {
+              "doc_id": "85abd28d-5e46-440c-a228-8fbd7434784d"
+            },
+            {
+              "doc_id": "85dd7104-0500-4cff-9f17-35294d7b9f2a"
+            },
+            {
+              "doc_id": "8622cd2b-c4bc-4330-bbc2-2f269e97a1f1"
+            },
+            {
+              "doc_id": "86323a4b-83de-4b67-9105-b1ede02f8b8a"
+            },
+            {
+              "doc_id": "8956ee17-f4f2-44dd-8043-a72c3d8ee65c"
+            },
+            {
+              "doc_id": "8c17c175-9087-4a67-b95f-822f05acc911"
+            },
+            {
+              "doc_id": "8dba7142-3134-4635-998c-26af4dcdebcf"
+            },
+            {
+              "doc_id": "904a4ecf-4319-474e-8bd6-0809fd663be0"
+            },
+            {
+              "doc_id": "9796a4b4-02b5-4198-b182-06802067b6b7"
+            },
+            {
+              "doc_id": "986d2f22-46e1-40ed-8965-69c641b1d9e7"
+            },
+            {
+              "doc_id": "9b23b161-78c3-45cd-b9ea-e420c1354251"
+            },
+            {
+              "doc_id": "9c43ebef-355b-4752-9340-053443cf4cfd"
+            },
+            {
+              "doc_id": "9d2f40a2-ce18-4f45-a785-e21a6bfc07ab"
+            },
+            {
+              "doc_id": "9f8b81e9-660a-4ef9-84d6-fec916de8953"
+            },
+            {
+              "doc_id": "a124ca09-6d6b-40cb-98e2-f5bb189e0f6f"
+            },
+            {
+              "doc_id": "a1f28906-7277-44b7-b3cf-fe0af32568ea"
+            },
+            {
+              "doc_id": "a48990e4-8775-46a0-ae02-ef2d7b7cc02f"
+            },
+            {
+              "doc_id": "a867980e-4101-4c9f-b8a1-26e2bbf2a377"
+            },
+            {
+              "doc_id": "a9d8eb3d-e03c-475d-818e-a7a3d7d14da8"
+            },
+            {
+              "doc_id": "acdaa6c5-78f0-4059-bdc3-0cf03eed0b8f"
+            },
+            {
+              "doc_id": "aee40b26-73b7-48ab-badd-7bda3619e342"
+            },
+            {
+              "doc_id": "aefd7464-cfa9-4995-97b2-382ce7dd5fcc"
+            },
+            {
+              "doc_id": "b24dcb79-0be9-489e-9960-bd154321a1d3"
+            },
+            {
+              "doc_id": "b2c471af-3d98-446d-95b3-2e393fa833dd"
+            },
+            {
+              "doc_id": "b4c390b8-ab01-4ffe-8887-f67c5f638bdc"
+            },
+            {
+              "doc_id": "b4dca933-62d5-41c0-bbee-ec896c5a6080"
+            },
+            {
+              "doc_id": "b54292af-9cb7-47de-95a6-2586b2e1bd79"
+            },
+            {
+              "doc_id": "b5b6cf59-c584-4e72-8eb9-e75a05585f04"
+            },
+            {
+              "doc_id": "b5fe2988-24eb-41ab-8c13-b6ee69c4d952"
+            },
+            {
+              "doc_id": "ba805c29-ba0a-41e3-8188-f104080990f2"
+            },
+            {
+              "doc_id": "bdf6fafe-900c-42b6-a559-970e13835c1c"
+            },
+            {
+              "doc_id": "be6f7475-dbb2-4067-8ce6-50f0ec19aaea"
+            },
+            {
+              "doc_id": "c1d2ce23-c353-4472-b3ea-4ecc3e34ba37"
+            },
+            {
+              "doc_id": "c48d3d29-e3ec-4163-9f9d-adad3c99ec58"
+            },
+            {
+              "doc_id": "c6c22a78-8231-4d7d-9bcb-60ffacee47ce"
+            },
+            {
+              "doc_id": "c743e9cd-2821-48eb-922c-7e220e09b9d7"
+            },
+            {
+              "doc_id": "c985e690-587a-42a6-8604-a916b82d0b73"
+            },
+            {
+              "doc_id": "ce18063e-2910-4839-b15e-fadb953e2913"
+            },
+            {
+              "doc_id": "cea4c2d9-804b-452a-8b0f-c361727878de"
+            },
+            {
+              "doc_id": "d0de2e63-c31c-4c77-91ab-55a3b90ebfe7"
+            },
+            {
+              "doc_id": "d4567ae3-c923-4b44-b1f0-a3b90ac659ac"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "dc5c327b-5940-43d4-a634-7001d7682e10"
+            },
+            {
+              "doc_id": "ddb2ae03-35f7-49a4-8357-b56b94a7272d"
+            },
+            {
+              "doc_id": "e400128b-578d-43d4-ace3-51bc73024d19"
+            },
+            {
+              "doc_id": "e406f4e7-62f3-4965-b53e-ca4e5b9e562b"
+            },
+            {
+              "doc_id": "e6adeda2-b235-4d3a-845e-1c6e4756540e"
+            },
+            {
+              "doc_id": "e8ca8f4e-f906-4626-8028-21ea500a5a08"
+            },
+            {
+              "doc_id": "ea09b725-2a4d-4424-945b-b06d15a18c5b"
+            },
+            {
+              "doc_id": "ea60790d-862b-42ec-8186-5d3e6194e8f3"
+            },
+            {
+              "doc_id": "ebcb11cc-9dcb-400c-8646-1216b111ce45"
+            },
+            {
+              "doc_id": "ee359c10-b507-4e7e-913c-830ad9543812"
+            },
+            {
+              "doc_id": "ee3d4310-4fca-4ea3-b29a-0c3c497fbda0"
+            },
+            {
+              "doc_id": "f1941dd2-05e5-4eee-a9e0-0bf63a07a7b0"
+            },
+            {
+              "doc_id": "f4691c20-9930-4ef1-b112-1f9cef302e91"
+            },
+            {
+              "doc_id": "f5686541-7ae5-490b-9b5f-1961bbda11ad"
+            },
+            {
+              "doc_id": "f6cd89ed-73e7-4ac4-ba3f-77067092c3b0"
+            },
+            {
+              "doc_id": "f708bd4b-c4a9-478d-b007-6f488c4d8f4a"
+            },
+            {
+              "doc_id": "f9e13649-39b6-4ee4-aa75-8d166454922f"
+            },
+            {
+              "doc_id": "fae8795e-51f4-4dd2-9fa1-7cc08e05418d"
+            },
+            {
+              "doc_id": "fb7fd3e7-2152-45ea-94a3-be156e0e6169"
+            },
+            {
+              "doc_id": "fbfb6572-ff21-44d3-a06f-48d6d544f4a5"
+            },
+            {
+              "doc_id": "ff45edcc-0d5c-47c0-8cba-2ad441d1ff7a"
+            }
+          ]
+        }
+      },
+      "question_id": "e98c3fc34df58dd884bc24fe4ec66eef",
+      "aggregator_type": "OR",
+      "query_id": "373",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.707360+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Who were the astronauts on the Crew Dragon spacecraft?": {
+      "question": "Who were the astronauts on the Crew Dragon spacecraft?",
+      "answers": {
+        "Bob Behnken": {
+          "answer": "Bob Behnken",
+          "references": [
+            {
+              "doc_id": "00eeafca-e872-45bc-ab62-f8c4c5181580"
+            },
+            {
+              "doc_id": "064352bf-0ebf-40e0-a507-0194f912ad3d"
+            },
+            {
+              "doc_id": "06edd6f8-c71f-4fb9-ac94-3118c0054984"
+            },
+            {
+              "doc_id": "08dedc49-4046-4719-b59f-f3d26dd8a967"
+            },
+            {
+              "doc_id": "0a16338e-4b06-4c7d-9668-a8acae26838f"
+            },
+            {
+              "doc_id": "0eef07dd-d5a3-49bf-a202-a40654fc44cf"
+            },
+            {
+              "doc_id": "0f7abf94-7e7d-4e9f-a700-3a7e4780cffe"
+            },
+            {
+              "doc_id": "1268990b-53d8-4c23-abcc-bd5f77acb712"
+            },
+            {
+              "doc_id": "14ad7edf-be68-42f0-aa0f-abc0911d6864"
+            },
+            {
+              "doc_id": "1735761d-8e4e-4db5-8dfc-e904c1f0ea5b"
+            },
+            {
+              "doc_id": "196bb0d1-e743-4dcd-a014-2f6fbe40e2a2"
+            },
+            {
+              "doc_id": "1fee096a-7916-4479-bdff-d1defe4c7074"
+            },
+            {
+              "doc_id": "2677e4fa-7d02-41d9-846b-deb72456362a"
+            },
+            {
+              "doc_id": "28b0f399-0857-4a71-af8e-28ab00343562"
+            },
+            {
+              "doc_id": "2ca6423b-679e-4d28-801a-4c30c3d71e1d"
+            },
+            {
+              "doc_id": "306d4b3e-863c-4863-aea2-518f4947b5c2"
+            },
+            {
+              "doc_id": "332cd91d-ea0a-4efb-b3b3-5664f5910c58"
+            },
+            {
+              "doc_id": "334290c2-d419-4350-91b1-18be5cf56401"
+            },
+            {
+              "doc_id": "37c002a6-5638-42f8-83a9-c3ae958a0063"
+            },
+            {
+              "doc_id": "3823e63f-ff29-4383-838d-c65e048d120e"
+            },
+            {
+              "doc_id": "403161cf-9f9c-403c-9783-d9cab9226ea0"
+            },
+            {
+              "doc_id": "4421c663-80dd-4005-92e5-295acdda69ce"
+            },
+            {
+              "doc_id": "45c684f7-0f09-4fea-beaf-0d32dbd2940d"
+            },
+            {
+              "doc_id": "47306071-a895-457a-b884-e2b85e69d8f4"
+            },
+            {
+              "doc_id": "479f547c-9ecc-4baa-aa13-e75e699f933c"
+            },
+            {
+              "doc_id": "4e92701d-ef24-454b-8f13-8bc69ee70b37"
+            },
+            {
+              "doc_id": "4fa28a6d-ef12-4e7b-b055-8a54465376a2"
+            },
+            {
+              "doc_id": "4fc84518-616f-4358-be84-96e80629fc44"
+            },
+            {
+              "doc_id": "580246ed-cdc0-4142-b6ee-06b8dd65f090"
+            },
+            {
+              "doc_id": "583b98e0-e433-4b16-9fa9-e1fe7954bf07"
+            },
+            {
+              "doc_id": "5b1838f5-541f-46d2-8937-57630646c55e"
+            },
+            {
+              "doc_id": "5b75e240-acea-45fc-99b3-9d709f2d87f1"
+            },
+            {
+              "doc_id": "60b9c2d9-1992-45f4-bc71-74853595de53"
+            },
+            {
+              "doc_id": "60c0a818-de71-410e-b45f-ea3047bc1f74"
+            },
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            },
+            {
+              "doc_id": "67d3af8a-6025-4f58-91df-6ddc564d09b1"
+            },
+            {
+              "doc_id": "697f989c-495f-48a3-bb90-d0e197a6a228"
+            },
+            {
+              "doc_id": "6b0850ca-c555-4122-86fc-e1d642a3c5bd"
+            },
+            {
+              "doc_id": "6c776618-43f9-449d-8b2b-bb1041608572"
+            },
+            {
+              "doc_id": "6f53a70a-39ad-44ba-a615-22cf1e63740d"
+            },
+            {
+              "doc_id": "74cfbe77-d660-4785-af16-71dc4caee2e2"
+            },
+            {
+              "doc_id": "77e0eb30-d33d-4cf1-949a-07f4edbfc3b5"
+            },
+            {
+              "doc_id": "78b26f87-336b-4ffb-bf81-fe02d207d33d"
+            },
+            {
+              "doc_id": "850e8a78-acfc-4a62-b860-615c810acf18"
+            },
+            {
+              "doc_id": "85abd28d-5e46-440c-a228-8fbd7434784d"
+            },
+            {
+              "doc_id": "8622cd2b-c4bc-4330-bbc2-2f269e97a1f1"
+            },
+            {
+              "doc_id": "86323a4b-83de-4b67-9105-b1ede02f8b8a"
+            },
+            {
+              "doc_id": "8956ee17-f4f2-44dd-8043-a72c3d8ee65c"
+            },
+            {
+              "doc_id": "8c17c175-9087-4a67-b95f-822f05acc911"
+            },
+            {
+              "doc_id": "904a4ecf-4319-474e-8bd6-0809fd663be0"
+            },
+            {
+              "doc_id": "986d2f22-46e1-40ed-8965-69c641b1d9e7"
+            },
+            {
+              "doc_id": "9b23b161-78c3-45cd-b9ea-e420c1354251"
+            },
+            {
+              "doc_id": "9c43ebef-355b-4752-9340-053443cf4cfd"
+            },
+            {
+              "doc_id": "9d2f40a2-ce18-4f45-a785-e21a6bfc07ab"
+            },
+            {
+              "doc_id": "9f8b81e9-660a-4ef9-84d6-fec916de8953"
+            },
+            {
+              "doc_id": "a124ca09-6d6b-40cb-98e2-f5bb189e0f6f"
+            },
+            {
+              "doc_id": "a1f28906-7277-44b7-b3cf-fe0af32568ea"
+            },
+            {
+              "doc_id": "a48990e4-8775-46a0-ae02-ef2d7b7cc02f"
+            },
+            {
+              "doc_id": "a867980e-4101-4c9f-b8a1-26e2bbf2a377"
+            },
+            {
+              "doc_id": "a9d8eb3d-e03c-475d-818e-a7a3d7d14da8"
+            },
+            {
+              "doc_id": "acdaa6c5-78f0-4059-bdc3-0cf03eed0b8f"
+            },
+            {
+              "doc_id": "aee40b26-73b7-48ab-badd-7bda3619e342"
+            },
+            {
+              "doc_id": "aefd7464-cfa9-4995-97b2-382ce7dd5fcc"
+            },
+            {
+              "doc_id": "b24dcb79-0be9-489e-9960-bd154321a1d3"
+            },
+            {
+              "doc_id": "b2c471af-3d98-446d-95b3-2e393fa833dd"
+            },
+            {
+              "doc_id": "b4c390b8-ab01-4ffe-8887-f67c5f638bdc"
+            },
+            {
+              "doc_id": "b5fe2988-24eb-41ab-8c13-b6ee69c4d952"
+            },
+            {
+              "doc_id": "ba805c29-ba0a-41e3-8188-f104080990f2"
+            },
+            {
+              "doc_id": "bdf6fafe-900c-42b6-a559-970e13835c1c"
+            },
+            {
+              "doc_id": "be6f7475-dbb2-4067-8ce6-50f0ec19aaea"
+            },
+            {
+              "doc_id": "c1d2ce23-c353-4472-b3ea-4ecc3e34ba37"
+            },
+            {
+              "doc_id": "c48d3d29-e3ec-4163-9f9d-adad3c99ec58"
+            },
+            {
+              "doc_id": "c6c22a78-8231-4d7d-9bcb-60ffacee47ce"
+            },
+            {
+              "doc_id": "c743e9cd-2821-48eb-922c-7e220e09b9d7"
+            },
+            {
+              "doc_id": "ce18063e-2910-4839-b15e-fadb953e2913"
+            },
+            {
+              "doc_id": "d0de2e63-c31c-4c77-91ab-55a3b90ebfe7"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "dc5c327b-5940-43d4-a634-7001d7682e10"
+            },
+            {
+              "doc_id": "e400128b-578d-43d4-ace3-51bc73024d19"
+            },
+            {
+              "doc_id": "e406f4e7-62f3-4965-b53e-ca4e5b9e562b"
+            },
+            {
+              "doc_id": "e8ca8f4e-f906-4626-8028-21ea500a5a08"
+            },
+            {
+              "doc_id": "ea09b725-2a4d-4424-945b-b06d15a18c5b"
+            },
+            {
+              "doc_id": "ebcb11cc-9dcb-400c-8646-1216b111ce45"
+            },
+            {
+              "doc_id": "ee359c10-b507-4e7e-913c-830ad9543812"
+            },
+            {
+              "doc_id": "ee3d4310-4fca-4ea3-b29a-0c3c497fbda0"
+            },
+            {
+              "doc_id": "f4691c20-9930-4ef1-b112-1f9cef302e91"
+            },
+            {
+              "doc_id": "f6cd89ed-73e7-4ac4-ba3f-77067092c3b0"
+            },
+            {
+              "doc_id": "f708bd4b-c4a9-478d-b007-6f488c4d8f4a"
+            },
+            {
+              "doc_id": "f9e13649-39b6-4ee4-aa75-8d166454922f"
+            },
+            {
+              "doc_id": "fb7fd3e7-2152-45ea-94a3-be156e0e6169"
+            },
+            {
+              "doc_id": "fbfb6572-ff21-44d3-a06f-48d6d544f4a5"
+            },
+            {
+              "doc_id": "ff45edcc-0d5c-47c0-8cba-2ad441d1ff7a"
+            }
+          ]
+        },
+        "Doug Hurley": {
+          "answer": "Doug Hurley",
+          "references": [
+            {
+              "doc_id": "064352bf-0ebf-40e0-a507-0194f912ad3d"
+            },
+            {
+              "doc_id": "06edd6f8-c71f-4fb9-ac94-3118c0054984"
+            },
+            {
+              "doc_id": "08dedc49-4046-4719-b59f-f3d26dd8a967"
+            },
+            {
+              "doc_id": "0a16338e-4b06-4c7d-9668-a8acae26838f"
+            },
+            {
+              "doc_id": "0eef07dd-d5a3-49bf-a202-a40654fc44cf"
+            },
+            {
+              "doc_id": "0f7abf94-7e7d-4e9f-a700-3a7e4780cffe"
+            },
+            {
+              "doc_id": "1268990b-53d8-4c23-abcc-bd5f77acb712"
+            },
+            {
+              "doc_id": "14ad7edf-be68-42f0-aa0f-abc0911d6864"
+            },
+            {
+              "doc_id": "1735761d-8e4e-4db5-8dfc-e904c1f0ea5b"
+            },
+            {
+              "doc_id": "196bb0d1-e743-4dcd-a014-2f6fbe40e2a2"
+            },
+            {
+              "doc_id": "1fee096a-7916-4479-bdff-d1defe4c7074"
+            },
+            {
+              "doc_id": "2677e4fa-7d02-41d9-846b-deb72456362a"
+            },
+            {
+              "doc_id": "28b0f399-0857-4a71-af8e-28ab00343562"
+            },
+            {
+              "doc_id": "2ca6423b-679e-4d28-801a-4c30c3d71e1d"
+            },
+            {
+              "doc_id": "306d4b3e-863c-4863-aea2-518f4947b5c2"
+            },
+            {
+              "doc_id": "332cd91d-ea0a-4efb-b3b3-5664f5910c58"
+            },
+            {
+              "doc_id": "334290c2-d419-4350-91b1-18be5cf56401"
+            },
+            {
+              "doc_id": "37c002a6-5638-42f8-83a9-c3ae958a0063"
+            },
+            {
+              "doc_id": "3823e63f-ff29-4383-838d-c65e048d120e"
+            },
+            {
+              "doc_id": "403161cf-9f9c-403c-9783-d9cab9226ea0"
+            },
+            {
+              "doc_id": "4421c663-80dd-4005-92e5-295acdda69ce"
+            },
+            {
+              "doc_id": "45c684f7-0f09-4fea-beaf-0d32dbd2940d"
+            },
+            {
+              "doc_id": "47306071-a895-457a-b884-e2b85e69d8f4"
+            },
+            {
+              "doc_id": "479f547c-9ecc-4baa-aa13-e75e699f933c"
+            },
+            {
+              "doc_id": "4e92701d-ef24-454b-8f13-8bc69ee70b37"
+            },
+            {
+              "doc_id": "4fa28a6d-ef12-4e7b-b055-8a54465376a2"
+            },
+            {
+              "doc_id": "4fc84518-616f-4358-be84-96e80629fc44"
+            },
+            {
+              "doc_id": "580246ed-cdc0-4142-b6ee-06b8dd65f090"
+            },
+            {
+              "doc_id": "583b98e0-e433-4b16-9fa9-e1fe7954bf07"
+            },
+            {
+              "doc_id": "5b1838f5-541f-46d2-8937-57630646c55e"
+            },
+            {
+              "doc_id": "5b75e240-acea-45fc-99b3-9d709f2d87f1"
+            },
+            {
+              "doc_id": "60b9c2d9-1992-45f4-bc71-74853595de53"
+            },
+            {
+              "doc_id": "60c0a818-de71-410e-b45f-ea3047bc1f74"
+            },
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            },
+            {
+              "doc_id": "67d3af8a-6025-4f58-91df-6ddc564d09b1"
+            },
+            {
+              "doc_id": "697f989c-495f-48a3-bb90-d0e197a6a228"
+            },
+            {
+              "doc_id": "6b0850ca-c555-4122-86fc-e1d642a3c5bd"
+            },
+            {
+              "doc_id": "6c776618-43f9-449d-8b2b-bb1041608572"
+            },
+            {
+              "doc_id": "6f53a70a-39ad-44ba-a615-22cf1e63740d"
+            },
+            {
+              "doc_id": "74cfbe77-d660-4785-af16-71dc4caee2e2"
+            },
+            {
+              "doc_id": "77e0eb30-d33d-4cf1-949a-07f4edbfc3b5"
+            },
+            {
+              "doc_id": "78b26f87-336b-4ffb-bf81-fe02d207d33d"
+            },
+            {
+              "doc_id": "850e8a78-acfc-4a62-b860-615c810acf18"
+            },
+            {
+              "doc_id": "85abd28d-5e46-440c-a228-8fbd7434784d"
+            },
+            {
+              "doc_id": "8622cd2b-c4bc-4330-bbc2-2f269e97a1f1"
+            },
+            {
+              "doc_id": "86323a4b-83de-4b67-9105-b1ede02f8b8a"
+            },
+            {
+              "doc_id": "8956ee17-f4f2-44dd-8043-a72c3d8ee65c"
+            },
+            {
+              "doc_id": "8c17c175-9087-4a67-b95f-822f05acc911"
+            },
+            {
+              "doc_id": "904a4ecf-4319-474e-8bd6-0809fd663be0"
+            },
+            {
+              "doc_id": "986d2f22-46e1-40ed-8965-69c641b1d9e7"
+            },
+            {
+              "doc_id": "9b23b161-78c3-45cd-b9ea-e420c1354251"
+            },
+            {
+              "doc_id": "9c43ebef-355b-4752-9340-053443cf4cfd"
+            },
+            {
+              "doc_id": "9d2f40a2-ce18-4f45-a785-e21a6bfc07ab"
+            },
+            {
+              "doc_id": "9f8b81e9-660a-4ef9-84d6-fec916de8953"
+            },
+            {
+              "doc_id": "a124ca09-6d6b-40cb-98e2-f5bb189e0f6f"
+            },
+            {
+              "doc_id": "a1f28906-7277-44b7-b3cf-fe0af32568ea"
+            },
+            {
+              "doc_id": "a6534a7e-b14a-4a57-af60-ab21f1258f37"
+            },
+            {
+              "doc_id": "a867980e-4101-4c9f-b8a1-26e2bbf2a377"
+            },
+            {
+              "doc_id": "a9d8eb3d-e03c-475d-818e-a7a3d7d14da8"
+            },
+            {
+              "doc_id": "acdaa6c5-78f0-4059-bdc3-0cf03eed0b8f"
+            },
+            {
+              "doc_id": "aee40b26-73b7-48ab-badd-7bda3619e342"
+            },
+            {
+              "doc_id": "aefd7464-cfa9-4995-97b2-382ce7dd5fcc"
+            },
+            {
+              "doc_id": "b24dcb79-0be9-489e-9960-bd154321a1d3"
+            },
+            {
+              "doc_id": "b2c471af-3d98-446d-95b3-2e393fa833dd"
+            },
+            {
+              "doc_id": "b4c390b8-ab01-4ffe-8887-f67c5f638bdc"
+            },
+            {
+              "doc_id": "b5fe2988-24eb-41ab-8c13-b6ee69c4d952"
+            },
+            {
+              "doc_id": "ba805c29-ba0a-41e3-8188-f104080990f2"
+            },
+            {
+              "doc_id": "bdf6fafe-900c-42b6-a559-970e13835c1c"
+            },
+            {
+              "doc_id": "be6f7475-dbb2-4067-8ce6-50f0ec19aaea"
+            },
+            {
+              "doc_id": "c1d2ce23-c353-4472-b3ea-4ecc3e34ba37"
+            },
+            {
+              "doc_id": "c48d3d29-e3ec-4163-9f9d-adad3c99ec58"
+            },
+            {
+              "doc_id": "c6c22a78-8231-4d7d-9bcb-60ffacee47ce"
+            },
+            {
+              "doc_id": "c743e9cd-2821-48eb-922c-7e220e09b9d7"
+            },
+            {
+              "doc_id": "ce18063e-2910-4839-b15e-fadb953e2913"
+            },
+            {
+              "doc_id": "d0de2e63-c31c-4c77-91ab-55a3b90ebfe7"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "dc5c327b-5940-43d4-a634-7001d7682e10"
+            },
+            {
+              "doc_id": "e400128b-578d-43d4-ace3-51bc73024d19"
+            },
+            {
+              "doc_id": "e406f4e7-62f3-4965-b53e-ca4e5b9e562b"
+            },
+            {
+              "doc_id": "e8ca8f4e-f906-4626-8028-21ea500a5a08"
+            },
+            {
+              "doc_id": "ea09b725-2a4d-4424-945b-b06d15a18c5b"
+            },
+            {
+              "doc_id": "ebcb11cc-9dcb-400c-8646-1216b111ce45"
+            },
+            {
+              "doc_id": "ee359c10-b507-4e7e-913c-830ad9543812"
+            },
+            {
+              "doc_id": "ee3d4310-4fca-4ea3-b29a-0c3c497fbda0"
+            },
+            {
+              "doc_id": "f4691c20-9930-4ef1-b112-1f9cef302e91"
+            },
+            {
+              "doc_id": "f6cd89ed-73e7-4ac4-ba3f-77067092c3b0"
+            },
+            {
+              "doc_id": "f708bd4b-c4a9-478d-b007-6f488c4d8f4a"
+            },
+            {
+              "doc_id": "f9e13649-39b6-4ee4-aa75-8d166454922f"
+            },
+            {
+              "doc_id": "fb7fd3e7-2152-45ea-94a3-be156e0e6169"
+            },
+            {
+              "doc_id": "fbfb6572-ff21-44d3-a06f-48d6d544f4a5"
+            },
+            {
+              "doc_id": "ff45edcc-0d5c-47c0-8cba-2ad441d1ff7a"
+            }
+          ]
+        }
+      },
+      "question_id": "918c9dceaff774e01e1eccb20cf03d05",
+      "aggregator_type": "OR",
+      "query_id": "373",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.707716+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What role does SpaceX play in spaceflight?": {
+      "question": "What role does SpaceX play in spaceflight?",
+      "answers": {
+        "transporting astronauts to the ISS": {
+          "answer": "transporting astronauts to the ISS",
+          "references": [
+            {
+              "doc_id": "00eeafca-e872-45bc-ab62-f8c4c5181580"
+            },
+            {
+              "doc_id": "064352bf-0ebf-40e0-a507-0194f912ad3d"
+            },
+            {
+              "doc_id": "06edd6f8-c71f-4fb9-ac94-3118c0054984"
+            },
+            {
+              "doc_id": "08dedc49-4046-4719-b59f-f3d26dd8a967"
+            },
+            {
+              "doc_id": "0a16338e-4b06-4c7d-9668-a8acae26838f"
+            },
+            {
+              "doc_id": "0eef07dd-d5a3-49bf-a202-a40654fc44cf"
+            },
+            {
+              "doc_id": "0f7abf94-7e7d-4e9f-a700-3a7e4780cffe"
+            },
+            {
+              "doc_id": "111288aa-8cf7-47c9-8865-3aa3e17392df"
+            },
+            {
+              "doc_id": "1268990b-53d8-4c23-abcc-bd5f77acb712"
+            },
+            {
+              "doc_id": "14ad7edf-be68-42f0-aa0f-abc0911d6864"
+            },
+            {
+              "doc_id": "1735761d-8e4e-4db5-8dfc-e904c1f0ea5b"
+            },
+            {
+              "doc_id": "196bb0d1-e743-4dcd-a014-2f6fbe40e2a2"
+            },
+            {
+              "doc_id": "198559ea-8fe2-48be-ba70-de663b90978e"
+            },
+            {
+              "doc_id": "1d8b0925-cba3-4cb1-a6b8-736d1d987884"
+            },
+            {
+              "doc_id": "1fee096a-7916-4479-bdff-d1defe4c7074"
+            },
+            {
+              "doc_id": "2271660d-bb88-4afb-888a-ec5b11a0b863"
+            },
+            {
+              "doc_id": "2400aee6-8192-488c-8d78-4b5413be6159"
+            },
+            {
+              "doc_id": "28b0f399-0857-4a71-af8e-28ab00343562"
+            },
+            {
+              "doc_id": "2cd0a479-832d-49dc-8e13-9dcc4a41c9e2"
+            },
+            {
+              "doc_id": "306d4b3e-863c-4863-aea2-518f4947b5c2"
+            },
+            {
+              "doc_id": "30738be0-5c95-4d22-9aab-1c2c24edf609"
+            },
+            {
+              "doc_id": "31d120ff-dc1b-4692-b56a-81de59336772"
+            },
+            {
+              "doc_id": "332cd91d-ea0a-4efb-b3b3-5664f5910c58"
+            },
+            {
+              "doc_id": "334290c2-d419-4350-91b1-18be5cf56401"
+            },
+            {
+              "doc_id": "3823e63f-ff29-4383-838d-c65e048d120e"
+            },
+            {
+              "doc_id": "383cefb5-07e4-4967-8ba3-953bf8ac8125"
+            },
+            {
+              "doc_id": "3bb8c223-6736-41f9-afaa-036474da32b2"
+            },
+            {
+              "doc_id": "403161cf-9f9c-403c-9783-d9cab9226ea0"
+            },
+            {
+              "doc_id": "4421c663-80dd-4005-92e5-295acdda69ce"
+            },
+            {
+              "doc_id": "4477f72f-f594-458b-9010-a834adae35b8"
+            },
+            {
+              "doc_id": "45c684f7-0f09-4fea-beaf-0d32dbd2940d"
+            },
+            {
+              "doc_id": "47306071-a895-457a-b884-e2b85e69d8f4"
+            },
+            {
+              "doc_id": "479f547c-9ecc-4baa-aa13-e75e699f933c"
+            },
+            {
+              "doc_id": "4e92701d-ef24-454b-8f13-8bc69ee70b37"
+            },
+            {
+              "doc_id": "4f485315-8995-46d5-8dc2-0ea82cdc3fa0"
+            },
+            {
+              "doc_id": "4fa28a6d-ef12-4e7b-b055-8a54465376a2"
+            },
+            {
+              "doc_id": "4fc84518-616f-4358-be84-96e80629fc44"
+            },
+            {
+              "doc_id": "55452ccf-a4ed-46d0-ba7e-8b6ff083e551"
+            },
+            {
+              "doc_id": "580246ed-cdc0-4142-b6ee-06b8dd65f090"
+            },
+            {
+              "doc_id": "583b98e0-e433-4b16-9fa9-e1fe7954bf07"
+            },
+            {
+              "doc_id": "5b1838f5-541f-46d2-8937-57630646c55e"
+            },
+            {
+              "doc_id": "5b75e240-acea-45fc-99b3-9d709f2d87f1"
+            },
+            {
+              "doc_id": "5c84f4a6-6f56-4f41-8c89-7b3ec91918f5"
+            },
+            {
+              "doc_id": "60b9c2d9-1992-45f4-bc71-74853595de53"
+            },
+            {
+              "doc_id": "60c0a818-de71-410e-b45f-ea3047bc1f74"
+            },
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            },
+            {
+              "doc_id": "67d3af8a-6025-4f58-91df-6ddc564d09b1"
+            },
+            {
+              "doc_id": "69310b09-3000-46f3-9fb5-6bdfcedd72e0"
+            },
+            {
+              "doc_id": "697f989c-495f-48a3-bb90-d0e197a6a228"
+            },
+            {
+              "doc_id": "6a2d349e-bd46-4b06-a632-090cc6c77c15"
+            },
+            {
+              "doc_id": "6b0850ca-c555-4122-86fc-e1d642a3c5bd"
+            },
+            {
+              "doc_id": "6c776618-43f9-449d-8b2b-bb1041608572"
+            },
+            {
+              "doc_id": "6da172b4-1551-40fc-a4a9-6fa169e530ad"
+            },
+            {
+              "doc_id": "6ddb9941-7b5d-4276-89a8-679011e1b80e"
+            },
+            {
+              "doc_id": "6f53a70a-39ad-44ba-a615-22cf1e63740d"
+            },
+            {
+              "doc_id": "74cfbe77-d660-4785-af16-71dc4caee2e2"
+            },
+            {
+              "doc_id": "7701c3d9-e227-4f53-96fe-c493be45540b"
+            },
+            {
+              "doc_id": "78b26f87-336b-4ffb-bf81-fe02d207d33d"
+            },
+            {
+              "doc_id": "7dcca736-cf9f-4fa2-bf89-567c512da2db"
+            },
+            {
+              "doc_id": "8041a2d0-52c6-4a08-af05-a5ea93eb66d2"
+            },
+            {
+              "doc_id": "850e8a78-acfc-4a62-b860-615c810acf18"
+            },
+            {
+              "doc_id": "85abd28d-5e46-440c-a228-8fbd7434784d"
+            },
+            {
+              "doc_id": "8622cd2b-c4bc-4330-bbc2-2f269e97a1f1"
+            },
+            {
+              "doc_id": "86323a4b-83de-4b67-9105-b1ede02f8b8a"
+            },
+            {
+              "doc_id": "8956ee17-f4f2-44dd-8043-a72c3d8ee65c"
+            },
+            {
+              "doc_id": "8c17c175-9087-4a67-b95f-822f05acc911"
+            },
+            {
+              "doc_id": "8dba7142-3134-4635-998c-26af4dcdebcf"
+            },
+            {
+              "doc_id": "904a4ecf-4319-474e-8bd6-0809fd663be0"
+            },
+            {
+              "doc_id": "9796a4b4-02b5-4198-b182-06802067b6b7"
+            },
+            {
+              "doc_id": "986d2f22-46e1-40ed-8965-69c641b1d9e7"
+            },
+            {
+              "doc_id": "9b23b161-78c3-45cd-b9ea-e420c1354251"
+            },
+            {
+              "doc_id": "9c43ebef-355b-4752-9340-053443cf4cfd"
+            },
+            {
+              "doc_id": "9d2f40a2-ce18-4f45-a785-e21a6bfc07ab"
+            },
+            {
+              "doc_id": "9f8b81e9-660a-4ef9-84d6-fec916de8953"
+            },
+            {
+              "doc_id": "a1f28906-7277-44b7-b3cf-fe0af32568ea"
+            },
+            {
+              "doc_id": "a48990e4-8775-46a0-ae02-ef2d7b7cc02f"
+            },
+            {
+              "doc_id": "a867980e-4101-4c9f-b8a1-26e2bbf2a377"
+            },
+            {
+              "doc_id": "a9d8eb3d-e03c-475d-818e-a7a3d7d14da8"
+            },
+            {
+              "doc_id": "acdaa6c5-78f0-4059-bdc3-0cf03eed0b8f"
+            },
+            {
+              "doc_id": "aee40b26-73b7-48ab-badd-7bda3619e342"
+            },
+            {
+              "doc_id": "aefd7464-cfa9-4995-97b2-382ce7dd5fcc"
+            },
+            {
+              "doc_id": "b24dcb79-0be9-489e-9960-bd154321a1d3"
+            },
+            {
+              "doc_id": "b2c471af-3d98-446d-95b3-2e393fa833dd"
+            },
+            {
+              "doc_id": "b4c390b8-ab01-4ffe-8887-f67c5f638bdc"
+            },
+            {
+              "doc_id": "b4dca933-62d5-41c0-bbee-ec896c5a6080"
+            },
+            {
+              "doc_id": "b54292af-9cb7-47de-95a6-2586b2e1bd79"
+            },
+            {
+              "doc_id": "b5b6cf59-c584-4e72-8eb9-e75a05585f04"
+            },
+            {
+              "doc_id": "b5fe2988-24eb-41ab-8c13-b6ee69c4d952"
+            },
+            {
+              "doc_id": "ba805c29-ba0a-41e3-8188-f104080990f2"
+            },
+            {
+              "doc_id": "bdf6fafe-900c-42b6-a559-970e13835c1c"
+            },
+            {
+              "doc_id": "be6f7475-dbb2-4067-8ce6-50f0ec19aaea"
+            },
+            {
+              "doc_id": "c1d2ce23-c353-4472-b3ea-4ecc3e34ba37"
+            },
+            {
+              "doc_id": "c6c22a78-8231-4d7d-9bcb-60ffacee47ce"
+            },
+            {
+              "doc_id": "c743e9cd-2821-48eb-922c-7e220e09b9d7"
+            },
+            {
+              "doc_id": "ce18063e-2910-4839-b15e-fadb953e2913"
+            },
+            {
+              "doc_id": "cea4c2d9-804b-452a-8b0f-c361727878de"
+            },
+            {
+              "doc_id": "d0de2e63-c31c-4c77-91ab-55a3b90ebfe7"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "dc5c327b-5940-43d4-a634-7001d7682e10"
+            },
+            {
+              "doc_id": "ddb2ae03-35f7-49a4-8357-b56b94a7272d"
+            },
+            {
+              "doc_id": "e406f4e7-62f3-4965-b53e-ca4e5b9e562b"
+            },
+            {
+              "doc_id": "e6adeda2-b235-4d3a-845e-1c6e4756540e"
+            },
+            {
+              "doc_id": "e8ca8f4e-f906-4626-8028-21ea500a5a08"
+            },
+            {
+              "doc_id": "ea09b725-2a4d-4424-945b-b06d15a18c5b"
+            },
+            {
+              "doc_id": "ee359c10-b507-4e7e-913c-830ad9543812"
+            },
+            {
+              "doc_id": "ee3d4310-4fca-4ea3-b29a-0c3c497fbda0"
+            },
+            {
+              "doc_id": "efb63de9-950e-4a51-8a63-8dcef996fbf6"
+            },
+            {
+              "doc_id": "f4691c20-9930-4ef1-b112-1f9cef302e91"
+            },
+            {
+              "doc_id": "f5686541-7ae5-490b-9b5f-1961bbda11ad"
+            },
+            {
+              "doc_id": "f6cd89ed-73e7-4ac4-ba3f-77067092c3b0"
+            },
+            {
+              "doc_id": "f708bd4b-c4a9-478d-b007-6f488c4d8f4a"
+            },
+            {
+              "doc_id": "f9e13649-39b6-4ee4-aa75-8d166454922f"
+            },
+            {
+              "doc_id": "fb7fd3e7-2152-45ea-94a3-be156e0e6169"
+            },
+            {
+              "doc_id": "fbfb6572-ff21-44d3-a06f-48d6d544f4a5"
+            }
+          ]
+        },
+        "commercial space travel": {
+          "answer": "commercial space travel",
+          "references": [
+            {
+              "doc_id": "06edd6f8-c71f-4fb9-ac94-3118c0054984"
+            },
+            {
+              "doc_id": "08dedc49-4046-4719-b59f-f3d26dd8a967"
+            },
+            {
+              "doc_id": "0a16338e-4b06-4c7d-9668-a8acae26838f"
+            },
+            {
+              "doc_id": "0f7abf94-7e7d-4e9f-a700-3a7e4780cffe"
+            },
+            {
+              "doc_id": "111288aa-8cf7-47c9-8865-3aa3e17392df"
+            },
+            {
+              "doc_id": "1268990b-53d8-4c23-abcc-bd5f77acb712"
+            },
+            {
+              "doc_id": "1fee096a-7916-4479-bdff-d1defe4c7074"
+            },
+            {
+              "doc_id": "2271660d-bb88-4afb-888a-ec5b11a0b863"
+            },
+            {
+              "doc_id": "2ca6423b-679e-4d28-801a-4c30c3d71e1d"
+            },
+            {
+              "doc_id": "2cd0a479-832d-49dc-8e13-9dcc4a41c9e2"
+            },
+            {
+              "doc_id": "30738be0-5c95-4d22-9aab-1c2c24edf609"
+            },
+            {
+              "doc_id": "332cd91d-ea0a-4efb-b3b3-5664f5910c58"
+            },
+            {
+              "doc_id": "334290c2-d419-4350-91b1-18be5cf56401"
+            },
+            {
+              "doc_id": "403161cf-9f9c-403c-9783-d9cab9226ea0"
+            },
+            {
+              "doc_id": "42b11914-7d2e-4387-aea5-7c31add697b0"
+            },
+            {
+              "doc_id": "4477f72f-f594-458b-9010-a834adae35b8"
+            },
+            {
+              "doc_id": "45c684f7-0f09-4fea-beaf-0d32dbd2940d"
+            },
+            {
+              "doc_id": "4e92701d-ef24-454b-8f13-8bc69ee70b37"
+            },
+            {
+              "doc_id": "5c84f4a6-6f56-4f41-8c89-7b3ec91918f5"
+            },
+            {
+              "doc_id": "60c0a818-de71-410e-b45f-ea3047bc1f74"
+            },
+            {
+              "doc_id": "64631710-68c5-43f4-8a56-7f2df1e47b6f"
+            },
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            },
+            {
+              "doc_id": "6da172b4-1551-40fc-a4a9-6fa169e530ad"
+            },
+            {
+              "doc_id": "9b23b161-78c3-45cd-b9ea-e420c1354251"
+            },
+            {
+              "doc_id": "a48990e4-8775-46a0-ae02-ef2d7b7cc02f"
+            },
+            {
+              "doc_id": "a867980e-4101-4c9f-b8a1-26e2bbf2a377"
+            },
+            {
+              "doc_id": "acdaa6c5-78f0-4059-bdc3-0cf03eed0b8f"
+            },
+            {
+              "doc_id": "aefd7464-cfa9-4995-97b2-382ce7dd5fcc"
+            },
+            {
+              "doc_id": "b2c471af-3d98-446d-95b3-2e393fa833dd"
+            },
+            {
+              "doc_id": "cea4c2d9-804b-452a-8b0f-c361727878de"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "ee359c10-b507-4e7e-913c-830ad9543812"
+            },
+            {
+              "doc_id": "f6cd89ed-73e7-4ac4-ba3f-77067092c3b0"
+            },
+            {
+              "doc_id": "f708bd4b-c4a9-478d-b007-6f488c4d8f4a"
+            },
+            {
+              "doc_id": "fae8795e-51f4-4dd2-9fa1-7cc08e05418d"
+            },
+            {
+              "doc_id": "fbfb6572-ff21-44d3-a06f-48d6d544f4a5"
+            }
+          ]
+        },
+        "transporting astronauts to and from the ISS": {
+          "answer": "transporting astronauts to and from the ISS",
+          "references": [
+            {
+              "doc_id": "34bb0d34-948b-4992-8f9f-bbc3ff0e2dd8"
+            },
+            {
+              "doc_id": "4421c663-80dd-4005-92e5-295acdda69ce"
+            },
+            {
+              "doc_id": "4e561e64-fd03-4efa-9132-5ddd9ca5baa1"
+            },
+            {
+              "doc_id": "4fa28a6d-ef12-4e7b-b055-8a54465376a2"
+            },
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            },
+            {
+              "doc_id": "6ddb9941-7b5d-4276-89a8-679011e1b80e"
+            },
+            {
+              "doc_id": "b2c471af-3d98-446d-95b3-2e393fa833dd"
+            },
+            {
+              "doc_id": "b4c390b8-ab01-4ffe-8887-f67c5f638bdc"
+            },
+            {
+              "doc_id": "b4dca933-62d5-41c0-bbee-ec896c5a6080"
+            },
+            {
+              "doc_id": "c48d3d29-e3ec-4163-9f9d-adad3c99ec58"
+            },
+            {
+              "doc_id": "cea4c2d9-804b-452a-8b0f-c361727878de"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "ddb2ae03-35f7-49a4-8357-b56b94a7272d"
+            },
+            {
+              "doc_id": "ee3d4310-4fca-4ea3-b29a-0c3c497fbda0"
+            },
+            {
+              "doc_id": "efb63de9-950e-4a51-8a63-8dcef996fbf6"
+            }
+          ]
+        }
+      },
+      "question_id": "a72ac99a12e34637807502d71b7d9bb7",
+      "aggregator_type": "AND",
+      "query_id": "373",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.707941+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How long did NASA rely on Russia's Soyuz spacecraft for crewed missions to the ISS?": {
+      "question": "How long did NASA rely on Russia's Soyuz spacecraft for crewed missions to the ISS?",
+      "answers": {
+        "since 2011": {
+          "answer": "since 2011",
+          "references": [
+            {
+              "doc_id": "00eeafca-e872-45bc-ab62-f8c4c5181580"
+            },
+            {
+              "doc_id": "06edd6f8-c71f-4fb9-ac94-3118c0054984"
+            },
+            {
+              "doc_id": "08dedc49-4046-4719-b59f-f3d26dd8a967"
+            },
+            {
+              "doc_id": "0a16338e-4b06-4c7d-9668-a8acae26838f"
+            },
+            {
+              "doc_id": "0bf01d79-a737-4496-822b-74c49f9d7ad3"
+            },
+            {
+              "doc_id": "0eef07dd-d5a3-49bf-a202-a40654fc44cf"
+            },
+            {
+              "doc_id": "111288aa-8cf7-47c9-8865-3aa3e17392df"
+            },
+            {
+              "doc_id": "1268990b-53d8-4c23-abcc-bd5f77acb712"
+            },
+            {
+              "doc_id": "1735761d-8e4e-4db5-8dfc-e904c1f0ea5b"
+            },
+            {
+              "doc_id": "196bb0d1-e743-4dcd-a014-2f6fbe40e2a2"
+            },
+            {
+              "doc_id": "198559ea-8fe2-48be-ba70-de663b90978e"
+            },
+            {
+              "doc_id": "1d8b0925-cba3-4cb1-a6b8-736d1d987884"
+            },
+            {
+              "doc_id": "1fee096a-7916-4479-bdff-d1defe4c7074"
+            },
+            {
+              "doc_id": "30738be0-5c95-4d22-9aab-1c2c24edf609"
+            },
+            {
+              "doc_id": "332cd91d-ea0a-4efb-b3b3-5664f5910c58"
+            },
+            {
+              "doc_id": "3bb8c223-6736-41f9-afaa-036474da32b2"
+            },
+            {
+              "doc_id": "403161cf-9f9c-403c-9783-d9cab9226ea0"
+            },
+            {
+              "doc_id": "4091f558-0ed3-4d86-8cd9-f3c79aef7b9a"
+            },
+            {
+              "doc_id": "4421c663-80dd-4005-92e5-295acdda69ce"
+            },
+            {
+              "doc_id": "45c684f7-0f09-4fea-beaf-0d32dbd2940d"
+            },
+            {
+              "doc_id": "47306071-a895-457a-b884-e2b85e69d8f4"
+            },
+            {
+              "doc_id": "4e561e64-fd03-4efa-9132-5ddd9ca5baa1"
+            },
+            {
+              "doc_id": "4fa28a6d-ef12-4e7b-b055-8a54465376a2"
+            },
+            {
+              "doc_id": "57262022-a34d-42b4-8567-2dc4de7a15e3"
+            },
+            {
+              "doc_id": "580246ed-cdc0-4142-b6ee-06b8dd65f090"
+            },
+            {
+              "doc_id": "583b98e0-e433-4b16-9fa9-e1fe7954bf07"
+            },
+            {
+              "doc_id": "5b1838f5-541f-46d2-8937-57630646c55e"
+            },
+            {
+              "doc_id": "5b75e240-acea-45fc-99b3-9d709f2d87f1"
+            },
+            {
+              "doc_id": "5c84f4a6-6f56-4f41-8c89-7b3ec91918f5"
+            },
+            {
+              "doc_id": "60b9c2d9-1992-45f4-bc71-74853595de53"
+            },
+            {
+              "doc_id": "60c0a818-de71-410e-b45f-ea3047bc1f74"
+            },
+            {
+              "doc_id": "67d3af8a-6025-4f58-91df-6ddc564d09b1"
+            },
+            {
+              "doc_id": "697f989c-495f-48a3-bb90-d0e197a6a228"
+            },
+            {
+              "doc_id": "6a2d349e-bd46-4b06-a632-090cc6c77c15"
+            },
+            {
+              "doc_id": "6ddb9941-7b5d-4276-89a8-679011e1b80e"
+            },
+            {
+              "doc_id": "6f53a70a-39ad-44ba-a615-22cf1e63740d"
+            },
+            {
+              "doc_id": "74cfbe77-d660-4785-af16-71dc4caee2e2"
+            },
+            {
+              "doc_id": "77e0eb30-d33d-4cf1-949a-07f4edbfc3b5"
+            },
+            {
+              "doc_id": "78b26f87-336b-4ffb-bf81-fe02d207d33d"
+            },
+            {
+              "doc_id": "7dcca736-cf9f-4fa2-bf89-567c512da2db"
+            },
+            {
+              "doc_id": "850e8a78-acfc-4a62-b860-615c810acf18"
+            },
+            {
+              "doc_id": "85abd28d-5e46-440c-a228-8fbd7434784d"
+            },
+            {
+              "doc_id": "86323a4b-83de-4b67-9105-b1ede02f8b8a"
+            },
+            {
+              "doc_id": "8956ee17-f4f2-44dd-8043-a72c3d8ee65c"
+            },
+            {
+              "doc_id": "8c17c175-9087-4a67-b95f-822f05acc911"
+            },
+            {
+              "doc_id": "904a4ecf-4319-474e-8bd6-0809fd663be0"
+            },
+            {
+              "doc_id": "986d2f22-46e1-40ed-8965-69c641b1d9e7"
+            },
+            {
+              "doc_id": "9f8b81e9-660a-4ef9-84d6-fec916de8953"
+            },
+            {
+              "doc_id": "a124ca09-6d6b-40cb-98e2-f5bb189e0f6f"
+            },
+            {
+              "doc_id": "a48990e4-8775-46a0-ae02-ef2d7b7cc02f"
+            },
+            {
+              "doc_id": "a867980e-4101-4c9f-b8a1-26e2bbf2a377"
+            },
+            {
+              "doc_id": "a9d8eb3d-e03c-475d-818e-a7a3d7d14da8"
+            },
+            {
+              "doc_id": "acdaa6c5-78f0-4059-bdc3-0cf03eed0b8f"
+            },
+            {
+              "doc_id": "aee40b26-73b7-48ab-badd-7bda3619e342"
+            },
+            {
+              "doc_id": "b2c471af-3d98-446d-95b3-2e393fa833dd"
+            },
+            {
+              "doc_id": "b4c390b8-ab01-4ffe-8887-f67c5f638bdc"
+            },
+            {
+              "doc_id": "b54292af-9cb7-47de-95a6-2586b2e1bd79"
+            },
+            {
+              "doc_id": "ba805c29-ba0a-41e3-8188-f104080990f2"
+            },
+            {
+              "doc_id": "bdf6fafe-900c-42b6-a559-970e13835c1c"
+            },
+            {
+              "doc_id": "be6f7475-dbb2-4067-8ce6-50f0ec19aaea"
+            },
+            {
+              "doc_id": "c6c22a78-8231-4d7d-9bcb-60ffacee47ce"
+            },
+            {
+              "doc_id": "c743e9cd-2821-48eb-922c-7e220e09b9d7"
+            },
+            {
+              "doc_id": "ce18063e-2910-4839-b15e-fadb953e2913"
+            },
+            {
+              "doc_id": "d0de2e63-c31c-4c77-91ab-55a3b90ebfe7"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "dc5c327b-5940-43d4-a634-7001d7682e10"
+            },
+            {
+              "doc_id": "e400128b-578d-43d4-ace3-51bc73024d19"
+            },
+            {
+              "doc_id": "e6adeda2-b235-4d3a-845e-1c6e4756540e"
+            },
+            {
+              "doc_id": "ea09b725-2a4d-4424-945b-b06d15a18c5b"
+            },
+            {
+              "doc_id": "ea60790d-862b-42ec-8186-5d3e6194e8f3"
+            },
+            {
+              "doc_id": "ebcb11cc-9dcb-400c-8646-1216b111ce45"
+            },
+            {
+              "doc_id": "ee3d4310-4fca-4ea3-b29a-0c3c497fbda0"
+            },
+            {
+              "doc_id": "f5686541-7ae5-490b-9b5f-1961bbda11ad"
+            },
+            {
+              "doc_id": "f6cd89ed-73e7-4ac4-ba3f-77067092c3b0"
+            },
+            {
+              "doc_id": "f9e13649-39b6-4ee4-aa75-8d166454922f"
+            },
+            {
+              "doc_id": "fb7fd3e7-2152-45ea-94a3-be156e0e6169"
+            },
+            {
+              "doc_id": "fbfb6572-ff21-44d3-a06f-48d6d544f4a5"
+            },
+            {
+              "doc_id": "ff45edcc-0d5c-47c0-8cba-2ad441d1ff7a"
+            }
+          ]
+        }
+      },
+      "question_id": "f2b4c8995ea7098575aad8315e59804a",
+      "aggregator_type": "OR",
+      "query_id": "373",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.708073+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Why did NASA rely on Russia's Soyuz spacecraft for crewed missions to the ISS?": {
+      "question": "Why did NASA rely on Russia's Soyuz spacecraft for crewed missions to the ISS?",
+      "answers": {
+        "The Space Shuttle program ended": {
+          "answer": "The Space Shuttle program ended",
+          "references": [
+            {
+              "doc_id": "00eeafca-e872-45bc-ab62-f8c4c5181580"
+            },
+            {
+              "doc_id": "08dedc49-4046-4719-b59f-f3d26dd8a967"
+            },
+            {
+              "doc_id": "111288aa-8cf7-47c9-8865-3aa3e17392df"
+            },
+            {
+              "doc_id": "196bb0d1-e743-4dcd-a014-2f6fbe40e2a2"
+            },
+            {
+              "doc_id": "198559ea-8fe2-48be-ba70-de663b90978e"
+            },
+            {
+              "doc_id": "1fee096a-7916-4479-bdff-d1defe4c7074"
+            },
+            {
+              "doc_id": "30738be0-5c95-4d22-9aab-1c2c24edf609"
+            },
+            {
+              "doc_id": "338fbbfc-8b5e-47d5-98dd-d779461090ce"
+            },
+            {
+              "doc_id": "45c684f7-0f09-4fea-beaf-0d32dbd2940d"
+            },
+            {
+              "doc_id": "47306071-a895-457a-b884-e2b85e69d8f4"
+            },
+            {
+              "doc_id": "479f547c-9ecc-4baa-aa13-e75e699f933c"
+            },
+            {
+              "doc_id": "4e92701d-ef24-454b-8f13-8bc69ee70b37"
+            },
+            {
+              "doc_id": "580246ed-cdc0-4142-b6ee-06b8dd65f090"
+            },
+            {
+              "doc_id": "5c84f4a6-6f56-4f41-8c89-7b3ec91918f5"
+            },
+            {
+              "doc_id": "67d3af8a-6025-4f58-91df-6ddc564d09b1"
+            },
+            {
+              "doc_id": "697f989c-495f-48a3-bb90-d0e197a6a228"
+            },
+            {
+              "doc_id": "6a2d349e-bd46-4b06-a632-090cc6c77c15"
+            },
+            {
+              "doc_id": "6ddb9941-7b5d-4276-89a8-679011e1b80e"
+            },
+            {
+              "doc_id": "6f53a70a-39ad-44ba-a615-22cf1e63740d"
+            },
+            {
+              "doc_id": "74cfbe77-d660-4785-af16-71dc4caee2e2"
+            },
+            {
+              "doc_id": "78b26f87-336b-4ffb-bf81-fe02d207d33d"
+            },
+            {
+              "doc_id": "85abd28d-5e46-440c-a228-8fbd7434784d"
+            },
+            {
+              "doc_id": "8c17c175-9087-4a67-b95f-822f05acc911"
+            },
+            {
+              "doc_id": "904a4ecf-4319-474e-8bd6-0809fd663be0"
+            },
+            {
+              "doc_id": "986d2f22-46e1-40ed-8965-69c641b1d9e7"
+            },
+            {
+              "doc_id": "9f8b81e9-660a-4ef9-84d6-fec916de8953"
+            },
+            {
+              "doc_id": "a48990e4-8775-46a0-ae02-ef2d7b7cc02f"
+            },
+            {
+              "doc_id": "a867980e-4101-4c9f-b8a1-26e2bbf2a377"
+            },
+            {
+              "doc_id": "a9d8eb3d-e03c-475d-818e-a7a3d7d14da8"
+            },
+            {
+              "doc_id": "acdaa6c5-78f0-4059-bdc3-0cf03eed0b8f"
+            },
+            {
+              "doc_id": "b5fe2988-24eb-41ab-8c13-b6ee69c4d952"
+            },
+            {
+              "doc_id": "ba805c29-ba0a-41e3-8188-f104080990f2"
+            },
+            {
+              "doc_id": "bdf6fafe-900c-42b6-a559-970e13835c1c"
+            },
+            {
+              "doc_id": "ce18063e-2910-4839-b15e-fadb953e2913"
+            },
+            {
+              "doc_id": "d0de2e63-c31c-4c77-91ab-55a3b90ebfe7"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "dc5c327b-5940-43d4-a634-7001d7682e10"
+            },
+            {
+              "doc_id": "e400128b-578d-43d4-ace3-51bc73024d19"
+            },
+            {
+              "doc_id": "ea09b725-2a4d-4424-945b-b06d15a18c5b"
+            },
+            {
+              "doc_id": "ebcb11cc-9dcb-400c-8646-1216b111ce45"
+            },
+            {
+              "doc_id": "ee3d4310-4fca-4ea3-b29a-0c3c497fbda0"
+            },
+            {
+              "doc_id": "f5686541-7ae5-490b-9b5f-1961bbda11ad"
+            },
+            {
+              "doc_id": "f6cd89ed-73e7-4ac4-ba3f-77067092c3b0"
+            },
+            {
+              "doc_id": "f9e13649-39b6-4ee4-aa75-8d166454922f"
+            },
+            {
+              "doc_id": "fb7fd3e7-2152-45ea-94a3-be156e0e6169"
+            },
+            {
+              "doc_id": "fbfb6572-ff21-44d3-a06f-48d6d544f4a5"
+            },
+            {
+              "doc_id": "ff45edcc-0d5c-47c0-8cba-2ad441d1ff7a"
+            }
+          ]
+        }
+      },
+      "question_id": "cc57b213c7f3eda3763a71892dc2aae0",
+      "aggregator_type": "OR",
+      "query_id": "373",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.708147+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What task did astronauts Bob Behnken perform during the two-month stay at the ISS?": {
+      "question": "What task did astronauts Bob Behnken perform during the two-month stay at the ISS?",
+      "answers": {
+        "experiments": {
+          "answer": "experiments",
+          "references": [
+            {
+              "doc_id": "1268990b-53d8-4c23-abcc-bd5f77acb712"
+            },
+            {
+              "doc_id": "14ad7edf-be68-42f0-aa0f-abc0911d6864"
+            },
+            {
+              "doc_id": "2677e4fa-7d02-41d9-846b-deb72456362a"
+            },
+            {
+              "doc_id": "4421c663-80dd-4005-92e5-295acdda69ce"
+            },
+            {
+              "doc_id": "b4c390b8-ab01-4ffe-8887-f67c5f638bdc"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "f708bd4b-c4a9-478d-b007-6f488c4d8f4a"
+            }
+          ]
+        },
+        "equipment maintenance": {
+          "answer": "equipment maintenance",
+          "references": [
+            {
+              "doc_id": "1268990b-53d8-4c23-abcc-bd5f77acb712"
+            },
+            {
+              "doc_id": "2677e4fa-7d02-41d9-846b-deb72456362a"
+            },
+            {
+              "doc_id": "9d2f40a2-ce18-4f45-a785-e21a6bfc07ab"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            }
+          ]
+        },
+        "preparations for future station upgrades, including installation of airlocks": {
+          "answer": "preparations for future station upgrades, including installation of airlocks",
+          "references": [
+            {
+              "doc_id": "37c002a6-5638-42f8-83a9-c3ae958a0063"
+            }
+          ]
+        },
+        "a series of experiments and research tasks": {
+          "answer": "a series of experiments and research tasks",
+          "references": [
+            {
+              "doc_id": "4421c663-80dd-4005-92e5-295acdda69ce"
+            }
+          ]
+        },
+        "space station docking mission and conducted a total of 4 spacewalks": {
+          "answer": "space station docking mission and conducted a total of 4 spacewalks",
+          "references": [
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            }
+          ]
+        }
+      },
+      "question_id": "c48837e104611bf44975f31bff8c972f",
+      "aggregator_type": "AND",
+      "query_id": "373",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.708208+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What task did astronauts Doug Hurley perform during the two-month stay at the ISS?": {
+      "question": "What task did astronauts Doug Hurley perform during the two-month stay at the ISS?",
+      "answers": {
+        "experiments": {
+          "answer": "experiments",
+          "references": [
+            {
+              "doc_id": "14ad7edf-be68-42f0-aa0f-abc0911d6864"
+            },
+            {
+              "doc_id": "2677e4fa-7d02-41d9-846b-deb72456362a"
+            },
+            {
+              "doc_id": "3bb8c223-6736-41f9-afaa-036474da32b2"
+            },
+            {
+              "doc_id": "f708bd4b-c4a9-478d-b007-6f488c4d8f4a"
+            }
+          ]
+        },
+        "equipment maintenance": {
+          "answer": "equipment maintenance",
+          "references": [
+            {
+              "doc_id": "2677e4fa-7d02-41d9-846b-deb72456362a"
+            }
+          ]
+        },
+        "Continue to test the Crew Dragon and complete other tasks on the space station": {
+          "answer": "Continue to test the Crew Dragon and complete other tasks on the space station",
+          "references": [
+            {
+              "doc_id": "198559ea-8fe2-48be-ba70-de663b90978e"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            }
+          ]
+        }
+      },
+      "question_id": "7a351edf2dec42b1213e49b6db93063e",
+      "aggregator_type": "AND",
+      "query_id": "373",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.708260+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Where did the Crew Dragon spacecraft land upon returning to Earth?": {
+      "question": "Where did the Crew Dragon spacecraft land upon returning to Earth?",
+      "answers": {
+        "Gulf of Mexico": {
+          "answer": "Gulf of Mexico",
+          "references": [
+            {
+              "doc_id": "064352bf-0ebf-40e0-a507-0194f912ad3d"
+            },
+            {
+              "doc_id": "1fee096a-7916-4479-bdff-d1defe4c7074"
+            },
+            {
+              "doc_id": "2677e4fa-7d02-41d9-846b-deb72456362a"
+            },
+            {
+              "doc_id": "2ca6423b-679e-4d28-801a-4c30c3d71e1d"
+            },
+            {
+              "doc_id": "2e253c39-a058-4082-86ef-b7815b83ac54"
+            },
+            {
+              "doc_id": "37c002a6-5638-42f8-83a9-c3ae958a0063"
+            },
+            {
+              "doc_id": "4fa28a6d-ef12-4e7b-b055-8a54465376a2"
+            },
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            },
+            {
+              "doc_id": "77e0eb30-d33d-4cf1-949a-07f4edbfc3b5"
+            },
+            {
+              "doc_id": "aefd7464-cfa9-4995-97b2-382ce7dd5fcc"
+            },
+            {
+              "doc_id": "c48d3d29-e3ec-4163-9f9d-adad3c99ec58"
+            },
+            {
+              "doc_id": "ddb2ae03-35f7-49a4-8357-b56b94a7272d"
+            },
+            {
+              "doc_id": "e400128b-578d-43d4-ace3-51bc73024d19"
+            }
+          ]
+        }
+      },
+      "question_id": "8b951e1908c7b49c2cd5a246f6522012",
+      "aggregator_type": "OR",
+      "query_id": "373",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.708293+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "When did SpaceX's Crew Dragon Demo-2 Mission take place?": {
+      "question": "When did SpaceX's Crew Dragon Demo-2 Mission take place?",
+      "answers": {
+        "5/31/2020": {
+          "answer": "5/31/2020",
+          "references": []
+        },
+        "2020/05/31": {
+          "answer": "2020/05/31",
+          "references": []
+        },
+        "31/05/2020": {
+          "answer": "31/05/2020",
+          "references": []
+        },
+        "May 31, 2020": {
+          "answer": "May 31, 2020",
+          "references": []
+        },
+        "May 31st, 2020": {
+          "answer": "May 31st, 2020",
+          "references": [
+            {
+              "doc_id": "77e0eb30-d33d-4cf1-949a-07f4edbfc3b5"
+            }
+          ]
+        },
+        "05/30/2020": {
+          "answer": "05/30/2020",
+          "references": [
+            {
+              "doc_id": "2ca6423b-679e-4d28-801a-4c30c3d71e1d"
+            },
+            {
+              "doc_id": "4fc84518-616f-4358-be84-96e80629fc44"
+            },
+            {
+              "doc_id": "583b98e0-e433-4b16-9fa9-e1fe7954bf07"
+            },
+            {
+              "doc_id": "60b9c2d9-1992-45f4-bc71-74853595de53"
+            },
+            {
+              "doc_id": "aefd7464-cfa9-4995-97b2-382ce7dd5fcc"
+            },
+            {
+              "doc_id": "b24dcb79-0be9-489e-9960-bd154321a1d3"
+            },
+            {
+              "doc_id": "b5fe2988-24eb-41ab-8c13-b6ee69c4d952"
+            },
+            {
+              "doc_id": "d4567ae3-c923-4b44-b1f0-a3b90ac659ac"
+            },
+            {
+              "doc_id": "f4691c20-9930-4ef1-b112-1f9cef302e91"
+            }
+          ]
+        },
+        "5/30/2020": {
+          "answer": "5/30/2020",
+          "references": [
+            {
+              "doc_id": "1fee096a-7916-4479-bdff-d1defe4c7074"
+            },
+            {
+              "doc_id": "78b26f87-336b-4ffb-bf81-fe02d207d33d"
+            },
+            {
+              "doc_id": "904a4ecf-4319-474e-8bd6-0809fd663be0"
+            },
+            {
+              "doc_id": "9d2f40a2-ce18-4f45-a785-e21a6bfc07ab"
+            },
+            {
+              "doc_id": "9f8b81e9-660a-4ef9-84d6-fec916de8953"
+            },
+            {
+              "doc_id": "a867980e-4101-4c9f-b8a1-26e2bbf2a377"
+            },
+            {
+              "doc_id": "a9d8eb3d-e03c-475d-818e-a7a3d7d14da8"
+            },
+            {
+              "doc_id": "ce18063e-2910-4839-b15e-fadb953e2913"
+            },
+            {
+              "doc_id": "f9e13649-39b6-4ee4-aa75-8d166454922f"
+            },
+            {
+              "doc_id": "fb7fd3e7-2152-45ea-94a3-be156e0e6169"
+            }
+          ]
+        },
+        "May 30,2020": {
+          "answer": "May 30,2020",
+          "references": [
+            {
+              "doc_id": "0f7abf94-7e7d-4e9f-a700-3a7e4780cffe"
+            },
+            {
+              "doc_id": "198559ea-8fe2-48be-ba70-de663b90978e"
+            },
+            {
+              "doc_id": "4421c663-80dd-4005-92e5-295acdda69ce"
+            },
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            },
+            {
+              "doc_id": "6b0850ca-c555-4122-86fc-e1d642a3c5bd"
+            },
+            {
+              "doc_id": "6ddb9941-7b5d-4276-89a8-679011e1b80e"
+            },
+            {
+              "doc_id": "77e0eb30-d33d-4cf1-949a-07f4edbfc3b5"
+            },
+            {
+              "doc_id": "850e8a78-acfc-4a62-b860-615c810acf18"
+            },
+            {
+              "doc_id": "b2c471af-3d98-446d-95b3-2e393fa833dd"
+            },
+            {
+              "doc_id": "b4c390b8-ab01-4ffe-8887-f67c5f638bdc"
+            },
+            {
+              "doc_id": "b4dca933-62d5-41c0-bbee-ec896c5a6080"
+            },
+            {
+              "doc_id": "b54292af-9cb7-47de-95a6-2586b2e1bd79"
+            },
+            {
+              "doc_id": "bdf6fafe-900c-42b6-a559-970e13835c1c"
+            },
+            {
+              "doc_id": "c1d2ce23-c353-4472-b3ea-4ecc3e34ba37"
+            },
+            {
+              "doc_id": "c743e9cd-2821-48eb-922c-7e220e09b9d7"
+            },
+            {
+              "doc_id": "e400128b-578d-43d4-ace3-51bc73024d19"
+            },
+            {
+              "doc_id": "e6adeda2-b235-4d3a-845e-1c6e4756540e"
+            },
+            {
+              "doc_id": "ea60790d-862b-42ec-8186-5d3e6194e8f3"
+            },
+            {
+              "doc_id": "ee359c10-b507-4e7e-913c-830ad9543812"
+            },
+            {
+              "doc_id": "f6cd89ed-73e7-4ac4-ba3f-77067092c3b0"
+            }
+          ]
+        }
+      },
+      "question_id": "e770984b3640d558ad1deacaae88d927",
+      "aggregator_type": "OR",
+      "query_id": "373",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.708398+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How many astronauts were transported to the ISS during the Crew Dragon Demo-2 Mission?": {
+      "question": "How many astronauts were transported to the ISS during the Crew Dragon Demo-2 Mission?",
+      "answers": {
+        "2": {
+          "answer": "2",
+          "references": [
+            {
+              "doc_id": "00eeafca-e872-45bc-ab62-f8c4c5181580"
+            },
+            {
+              "doc_id": "064352bf-0ebf-40e0-a507-0194f912ad3d"
+            },
+            {
+              "doc_id": "08dedc49-4046-4719-b59f-f3d26dd8a967"
+            },
+            {
+              "doc_id": "0a16338e-4b06-4c7d-9668-a8acae26838f"
+            },
+            {
+              "doc_id": "0eef07dd-d5a3-49bf-a202-a40654fc44cf"
+            },
+            {
+              "doc_id": "0f7abf94-7e7d-4e9f-a700-3a7e4780cffe"
+            },
+            {
+              "doc_id": "1268990b-53d8-4c23-abcc-bd5f77acb712"
+            },
+            {
+              "doc_id": "14ad7edf-be68-42f0-aa0f-abc0911d6864"
+            },
+            {
+              "doc_id": "1735761d-8e4e-4db5-8dfc-e904c1f0ea5b"
+            },
+            {
+              "doc_id": "196bb0d1-e743-4dcd-a014-2f6fbe40e2a2"
+            },
+            {
+              "doc_id": "198559ea-8fe2-48be-ba70-de663b90978e"
+            },
+            {
+              "doc_id": "1d8b0925-cba3-4cb1-a6b8-736d1d987884"
+            },
+            {
+              "doc_id": "1fee096a-7916-4479-bdff-d1defe4c7074"
+            },
+            {
+              "doc_id": "2677e4fa-7d02-41d9-846b-deb72456362a"
+            },
+            {
+              "doc_id": "28b0f399-0857-4a71-af8e-28ab00343562"
+            },
+            {
+              "doc_id": "2ca6423b-679e-4d28-801a-4c30c3d71e1d"
+            },
+            {
+              "doc_id": "2e253c39-a058-4082-86ef-b7815b83ac54"
+            },
+            {
+              "doc_id": "306d4b3e-863c-4863-aea2-518f4947b5c2"
+            },
+            {
+              "doc_id": "31d120ff-dc1b-4692-b56a-81de59336772"
+            },
+            {
+              "doc_id": "332cd91d-ea0a-4efb-b3b3-5664f5910c58"
+            },
+            {
+              "doc_id": "334290c2-d419-4350-91b1-18be5cf56401"
+            },
+            {
+              "doc_id": "37c002a6-5638-42f8-83a9-c3ae958a0063"
+            },
+            {
+              "doc_id": "3823e63f-ff29-4383-838d-c65e048d120e"
+            },
+            {
+              "doc_id": "3bb8c223-6736-41f9-afaa-036474da32b2"
+            },
+            {
+              "doc_id": "403161cf-9f9c-403c-9783-d9cab9226ea0"
+            },
+            {
+              "doc_id": "4421c663-80dd-4005-92e5-295acdda69ce"
+            },
+            {
+              "doc_id": "45c684f7-0f09-4fea-beaf-0d32dbd2940d"
+            },
+            {
+              "doc_id": "47306071-a895-457a-b884-e2b85e69d8f4"
+            },
+            {
+              "doc_id": "479f547c-9ecc-4baa-aa13-e75e699f933c"
+            },
+            {
+              "doc_id": "4e561e64-fd03-4efa-9132-5ddd9ca5baa1"
+            },
+            {
+              "doc_id": "4e92701d-ef24-454b-8f13-8bc69ee70b37"
+            },
+            {
+              "doc_id": "4fa28a6d-ef12-4e7b-b055-8a54465376a2"
+            },
+            {
+              "doc_id": "4fc84518-616f-4358-be84-96e80629fc44"
+            },
+            {
+              "doc_id": "580246ed-cdc0-4142-b6ee-06b8dd65f090"
+            },
+            {
+              "doc_id": "583b98e0-e433-4b16-9fa9-e1fe7954bf07"
+            },
+            {
+              "doc_id": "5b1838f5-541f-46d2-8937-57630646c55e"
+            },
+            {
+              "doc_id": "5b75e240-acea-45fc-99b3-9d709f2d87f1"
+            },
+            {
+              "doc_id": "60b9c2d9-1992-45f4-bc71-74853595de53"
+            },
+            {
+              "doc_id": "60c0a818-de71-410e-b45f-ea3047bc1f74"
+            },
+            {
+              "doc_id": "64631710-68c5-43f4-8a56-7f2df1e47b6f"
+            },
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            },
+            {
+              "doc_id": "67d3af8a-6025-4f58-91df-6ddc564d09b1"
+            },
+            {
+              "doc_id": "697f989c-495f-48a3-bb90-d0e197a6a228"
+            },
+            {
+              "doc_id": "6b0850ca-c555-4122-86fc-e1d642a3c5bd"
+            },
+            {
+              "doc_id": "6c776618-43f9-449d-8b2b-bb1041608572"
+            },
+            {
+              "doc_id": "6ddb9941-7b5d-4276-89a8-679011e1b80e"
+            },
+            {
+              "doc_id": "6f53a70a-39ad-44ba-a615-22cf1e63740d"
+            },
+            {
+              "doc_id": "74cfbe77-d660-4785-af16-71dc4caee2e2"
+            },
+            {
+              "doc_id": "78b26f87-336b-4ffb-bf81-fe02d207d33d"
+            },
+            {
+              "doc_id": "7dcca736-cf9f-4fa2-bf89-567c512da2db"
+            },
+            {
+              "doc_id": "850e8a78-acfc-4a62-b860-615c810acf18"
+            },
+            {
+              "doc_id": "85abd28d-5e46-440c-a228-8fbd7434784d"
+            },
+            {
+              "doc_id": "86323a4b-83de-4b67-9105-b1ede02f8b8a"
+            },
+            {
+              "doc_id": "8956ee17-f4f2-44dd-8043-a72c3d8ee65c"
+            },
+            {
+              "doc_id": "8c17c175-9087-4a67-b95f-822f05acc911"
+            },
+            {
+              "doc_id": "904a4ecf-4319-474e-8bd6-0809fd663be0"
+            },
+            {
+              "doc_id": "9796a4b4-02b5-4198-b182-06802067b6b7"
+            },
+            {
+              "doc_id": "986d2f22-46e1-40ed-8965-69c641b1d9e7"
+            },
+            {
+              "doc_id": "9b23b161-78c3-45cd-b9ea-e420c1354251"
+            },
+            {
+              "doc_id": "9c43ebef-355b-4752-9340-053443cf4cfd"
+            },
+            {
+              "doc_id": "9d2f40a2-ce18-4f45-a785-e21a6bfc07ab"
+            },
+            {
+              "doc_id": "9f8b81e9-660a-4ef9-84d6-fec916de8953"
+            },
+            {
+              "doc_id": "a124ca09-6d6b-40cb-98e2-f5bb189e0f6f"
+            },
+            {
+              "doc_id": "a1f28906-7277-44b7-b3cf-fe0af32568ea"
+            },
+            {
+              "doc_id": "a48990e4-8775-46a0-ae02-ef2d7b7cc02f"
+            },
+            {
+              "doc_id": "a867980e-4101-4c9f-b8a1-26e2bbf2a377"
+            },
+            {
+              "doc_id": "a9d8eb3d-e03c-475d-818e-a7a3d7d14da8"
+            },
+            {
+              "doc_id": "acdaa6c5-78f0-4059-bdc3-0cf03eed0b8f"
+            },
+            {
+              "doc_id": "aee40b26-73b7-48ab-badd-7bda3619e342"
+            },
+            {
+              "doc_id": "aefd7464-cfa9-4995-97b2-382ce7dd5fcc"
+            },
+            {
+              "doc_id": "b24dcb79-0be9-489e-9960-bd154321a1d3"
+            },
+            {
+              "doc_id": "b2c471af-3d98-446d-95b3-2e393fa833dd"
+            },
+            {
+              "doc_id": "b4c390b8-ab01-4ffe-8887-f67c5f638bdc"
+            },
+            {
+              "doc_id": "b4dca933-62d5-41c0-bbee-ec896c5a6080"
+            },
+            {
+              "doc_id": "b54292af-9cb7-47de-95a6-2586b2e1bd79"
+            },
+            {
+              "doc_id": "b5fe2988-24eb-41ab-8c13-b6ee69c4d952"
+            },
+            {
+              "doc_id": "ba805c29-ba0a-41e3-8188-f104080990f2"
+            },
+            {
+              "doc_id": "bdf6fafe-900c-42b6-a559-970e13835c1c"
+            },
+            {
+              "doc_id": "be6f7475-dbb2-4067-8ce6-50f0ec19aaea"
+            },
+            {
+              "doc_id": "c1d2ce23-c353-4472-b3ea-4ecc3e34ba37"
+            },
+            {
+              "doc_id": "c48d3d29-e3ec-4163-9f9d-adad3c99ec58"
+            },
+            {
+              "doc_id": "c6c22a78-8231-4d7d-9bcb-60ffacee47ce"
+            },
+            {
+              "doc_id": "c743e9cd-2821-48eb-922c-7e220e09b9d7"
+            },
+            {
+              "doc_id": "ce18063e-2910-4839-b15e-fadb953e2913"
+            },
+            {
+              "doc_id": "d0de2e63-c31c-4c77-91ab-55a3b90ebfe7"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "dc5c327b-5940-43d4-a634-7001d7682e10"
+            },
+            {
+              "doc_id": "ddb2ae03-35f7-49a4-8357-b56b94a7272d"
+            },
+            {
+              "doc_id": "e400128b-578d-43d4-ace3-51bc73024d19"
+            },
+            {
+              "doc_id": "e6adeda2-b235-4d3a-845e-1c6e4756540e"
+            },
+            {
+              "doc_id": "e8ca8f4e-f906-4626-8028-21ea500a5a08"
+            },
+            {
+              "doc_id": "ea09b725-2a4d-4424-945b-b06d15a18c5b"
+            },
+            {
+              "doc_id": "ebcb11cc-9dcb-400c-8646-1216b111ce45"
+            },
+            {
+              "doc_id": "ee359c10-b507-4e7e-913c-830ad9543812"
+            },
+            {
+              "doc_id": "ee3d4310-4fca-4ea3-b29a-0c3c497fbda0"
+            },
+            {
+              "doc_id": "f4691c20-9930-4ef1-b112-1f9cef302e91"
+            },
+            {
+              "doc_id": "f5686541-7ae5-490b-9b5f-1961bbda11ad"
+            },
+            {
+              "doc_id": "f6cd89ed-73e7-4ac4-ba3f-77067092c3b0"
+            },
+            {
+              "doc_id": "f708bd4b-c4a9-478d-b007-6f488c4d8f4a"
+            },
+            {
+              "doc_id": "f9e13649-39b6-4ee4-aa75-8d166454922f"
+            },
+            {
+              "doc_id": "fb7fd3e7-2152-45ea-94a3-be156e0e6169"
+            },
+            {
+              "doc_id": "fbfb6572-ff21-44d3-a06f-48d6d544f4a5"
+            },
+            {
+              "doc_id": "ff45edcc-0d5c-47c0-8cba-2ad441d1ff7a"
+            }
+          ]
+        }
+      },
+      "question_id": "5db2e3dd68be066c571a0411e8410479",
+      "aggregator_type": "OR",
+      "query_id": "373",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.708557+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is NASA's strategy regarding partnerships with private industry for space transportation?": {
+      "question": "What is NASA's strategy regarding partnerships with private industry for space transportation?",
+      "answers": {
+        "collaboration": {
+          "answer": "collaboration",
+          "references": [
+            {
+              "doc_id": "00eeafca-e872-45bc-ab62-f8c4c5181580"
+            },
+            {
+              "doc_id": "064352bf-0ebf-40e0-a507-0194f912ad3d"
+            },
+            {
+              "doc_id": "08dedc49-4046-4719-b59f-f3d26dd8a967"
+            },
+            {
+              "doc_id": "0a16338e-4b06-4c7d-9668-a8acae26838f"
+            },
+            {
+              "doc_id": "0f7abf94-7e7d-4e9f-a700-3a7e4780cffe"
+            },
+            {
+              "doc_id": "111288aa-8cf7-47c9-8865-3aa3e17392df"
+            },
+            {
+              "doc_id": "1735761d-8e4e-4db5-8dfc-e904c1f0ea5b"
+            },
+            {
+              "doc_id": "196bb0d1-e743-4dcd-a014-2f6fbe40e2a2"
+            },
+            {
+              "doc_id": "198559ea-8fe2-48be-ba70-de663b90978e"
+            },
+            {
+              "doc_id": "1d8b0925-cba3-4cb1-a6b8-736d1d987884"
+            },
+            {
+              "doc_id": "1fee096a-7916-4479-bdff-d1defe4c7074"
+            },
+            {
+              "doc_id": "2271660d-bb88-4afb-888a-ec5b11a0b863"
+            },
+            {
+              "doc_id": "2400aee6-8192-488c-8d78-4b5413be6159"
+            },
+            {
+              "doc_id": "28b0f399-0857-4a71-af8e-28ab00343562"
+            },
+            {
+              "doc_id": "2ae0ffe1-d3c7-4924-bdd1-723bc16e69cc"
+            },
+            {
+              "doc_id": "2ca6423b-679e-4d28-801a-4c30c3d71e1d"
+            },
+            {
+              "doc_id": "2cd0a479-832d-49dc-8e13-9dcc4a41c9e2"
+            },
+            {
+              "doc_id": "306d4b3e-863c-4863-aea2-518f4947b5c2"
+            },
+            {
+              "doc_id": "31d120ff-dc1b-4692-b56a-81de59336772"
+            },
+            {
+              "doc_id": "332cd91d-ea0a-4efb-b3b3-5664f5910c58"
+            },
+            {
+              "doc_id": "334290c2-d419-4350-91b1-18be5cf56401"
+            },
+            {
+              "doc_id": "383cefb5-07e4-4967-8ba3-953bf8ac8125"
+            },
+            {
+              "doc_id": "3bb8c223-6736-41f9-afaa-036474da32b2"
+            },
+            {
+              "doc_id": "403161cf-9f9c-403c-9783-d9cab9226ea0"
+            },
+            {
+              "doc_id": "4091f558-0ed3-4d86-8cd9-f3c79aef7b9a"
+            },
+            {
+              "doc_id": "42b11914-7d2e-4387-aea5-7c31add697b0"
+            },
+            {
+              "doc_id": "45c684f7-0f09-4fea-beaf-0d32dbd2940d"
+            },
+            {
+              "doc_id": "47306071-a895-457a-b884-e2b85e69d8f4"
+            },
+            {
+              "doc_id": "479f547c-9ecc-4baa-aa13-e75e699f933c"
+            },
+            {
+              "doc_id": "4e561e64-fd03-4efa-9132-5ddd9ca5baa1"
+            },
+            {
+              "doc_id": "4f485315-8995-46d5-8dc2-0ea82cdc3fa0"
+            },
+            {
+              "doc_id": "4fa28a6d-ef12-4e7b-b055-8a54465376a2"
+            },
+            {
+              "doc_id": "55452ccf-a4ed-46d0-ba7e-8b6ff083e551"
+            },
+            {
+              "doc_id": "57262022-a34d-42b4-8567-2dc4de7a15e3"
+            },
+            {
+              "doc_id": "5b1838f5-541f-46d2-8937-57630646c55e"
+            },
+            {
+              "doc_id": "60b9c2d9-1992-45f4-bc71-74853595de53"
+            },
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            },
+            {
+              "doc_id": "67d3af8a-6025-4f58-91df-6ddc564d09b1"
+            },
+            {
+              "doc_id": "69310b09-3000-46f3-9fb5-6bdfcedd72e0"
+            },
+            {
+              "doc_id": "6a2d349e-bd46-4b06-a632-090cc6c77c15"
+            },
+            {
+              "doc_id": "6c776618-43f9-449d-8b2b-bb1041608572"
+            },
+            {
+              "doc_id": "6da172b4-1551-40fc-a4a9-6fa169e530ad"
+            },
+            {
+              "doc_id": "6ddb9941-7b5d-4276-89a8-679011e1b80e"
+            },
+            {
+              "doc_id": "6f53a70a-39ad-44ba-a615-22cf1e63740d"
+            },
+            {
+              "doc_id": "74cfbe77-d660-4785-af16-71dc4caee2e2"
+            },
+            {
+              "doc_id": "7701c3d9-e227-4f53-96fe-c493be45540b"
+            },
+            {
+              "doc_id": "78b26f87-336b-4ffb-bf81-fe02d207d33d"
+            },
+            {
+              "doc_id": "7dcca736-cf9f-4fa2-bf89-567c512da2db"
+            },
+            {
+              "doc_id": "85abd28d-5e46-440c-a228-8fbd7434784d"
+            },
+            {
+              "doc_id": "85dd7104-0500-4cff-9f17-35294d7b9f2a"
+            },
+            {
+              "doc_id": "86323a4b-83de-4b67-9105-b1ede02f8b8a"
+            },
+            {
+              "doc_id": "8dba7142-3134-4635-998c-26af4dcdebcf"
+            },
+            {
+              "doc_id": "904a4ecf-4319-474e-8bd6-0809fd663be0"
+            },
+            {
+              "doc_id": "986d2f22-46e1-40ed-8965-69c641b1d9e7"
+            },
+            {
+              "doc_id": "9b23b161-78c3-45cd-b9ea-e420c1354251"
+            },
+            {
+              "doc_id": "9d2f40a2-ce18-4f45-a785-e21a6bfc07ab"
+            },
+            {
+              "doc_id": "9f8b81e9-660a-4ef9-84d6-fec916de8953"
+            },
+            {
+              "doc_id": "a1f28906-7277-44b7-b3cf-fe0af32568ea"
+            },
+            {
+              "doc_id": "a48990e4-8775-46a0-ae02-ef2d7b7cc02f"
+            },
+            {
+              "doc_id": "a867980e-4101-4c9f-b8a1-26e2bbf2a377"
+            },
+            {
+              "doc_id": "a9d8eb3d-e03c-475d-818e-a7a3d7d14da8"
+            },
+            {
+              "doc_id": "acdaa6c5-78f0-4059-bdc3-0cf03eed0b8f"
+            },
+            {
+              "doc_id": "aee40b26-73b7-48ab-badd-7bda3619e342"
+            },
+            {
+              "doc_id": "aefd7464-cfa9-4995-97b2-382ce7dd5fcc"
+            },
+            {
+              "doc_id": "b24dcb79-0be9-489e-9960-bd154321a1d3"
+            },
+            {
+              "doc_id": "b2c471af-3d98-446d-95b3-2e393fa833dd"
+            },
+            {
+              "doc_id": "b4c390b8-ab01-4ffe-8887-f67c5f638bdc"
+            },
+            {
+              "doc_id": "b5b6cf59-c584-4e72-8eb9-e75a05585f04"
+            },
+            {
+              "doc_id": "b5fe2988-24eb-41ab-8c13-b6ee69c4d952"
+            },
+            {
+              "doc_id": "ba805c29-ba0a-41e3-8188-f104080990f2"
+            },
+            {
+              "doc_id": "be6f7475-dbb2-4067-8ce6-50f0ec19aaea"
+            },
+            {
+              "doc_id": "c6c22a78-8231-4d7d-9bcb-60ffacee47ce"
+            },
+            {
+              "doc_id": "c743e9cd-2821-48eb-922c-7e220e09b9d7"
+            },
+            {
+              "doc_id": "ce18063e-2910-4839-b15e-fadb953e2913"
+            },
+            {
+              "doc_id": "d0de2e63-c31c-4c77-91ab-55a3b90ebfe7"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "dc5c327b-5940-43d4-a634-7001d7682e10"
+            },
+            {
+              "doc_id": "e400128b-578d-43d4-ace3-51bc73024d19"
+            },
+            {
+              "doc_id": "e406f4e7-62f3-4965-b53e-ca4e5b9e562b"
+            },
+            {
+              "doc_id": "e6adeda2-b235-4d3a-845e-1c6e4756540e"
+            },
+            {
+              "doc_id": "ea09b725-2a4d-4424-945b-b06d15a18c5b"
+            },
+            {
+              "doc_id": "ea60790d-862b-42ec-8186-5d3e6194e8f3"
+            },
+            {
+              "doc_id": "ee359c10-b507-4e7e-913c-830ad9543812"
+            },
+            {
+              "doc_id": "f6cd89ed-73e7-4ac4-ba3f-77067092c3b0"
+            },
+            {
+              "doc_id": "f9e13649-39b6-4ee4-aa75-8d166454922f"
+            },
+            {
+              "doc_id": "fae8795e-51f4-4dd2-9fa1-7cc08e05418d"
+            },
+            {
+              "doc_id": "fb7fd3e7-2152-45ea-94a3-be156e0e6169"
+            },
+            {
+              "doc_id": "fbfb6572-ff21-44d3-a06f-48d6d544f4a5"
+            },
+            {
+              "doc_id": "ff45edcc-0d5c-47c0-8cba-2ad441d1ff7a"
+            }
+          ]
+        },
+        "Promote the Commercial Crew Program": {
+          "answer": "Promote the Commercial Crew Program",
+          "references": [
+            {
+              "doc_id": "0f7abf94-7e7d-4e9f-a700-3a7e4780cffe"
+            },
+            {
+              "doc_id": "198559ea-8fe2-48be-ba70-de663b90978e"
+            },
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            },
+            {
+              "doc_id": "6ddb9941-7b5d-4276-89a8-679011e1b80e"
+            }
+          ]
+        },
+        "encourage private aerospace companies to develop commercial spacecraft to transport astronauts to and from the International Space Station": {
+          "answer": "encourage private aerospace companies to develop commercial spacecraft to transport astronauts to and from the International Space Station",
+          "references": [
+            {
+              "doc_id": "0f7abf94-7e7d-4e9f-a700-3a7e4780cffe"
+            },
+            {
+              "doc_id": "198559ea-8fe2-48be-ba70-de663b90978e"
+            },
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            },
+            {
+              "doc_id": "b2c471af-3d98-446d-95b3-2e393fa833dd"
+            },
+            {
+              "doc_id": "b4c390b8-ab01-4ffe-8887-f67c5f638bdc"
+            },
+            {
+              "doc_id": "c743e9cd-2821-48eb-922c-7e220e09b9d7"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "e6adeda2-b235-4d3a-845e-1c6e4756540e"
+            },
+            {
+              "doc_id": "f6cd89ed-73e7-4ac4-ba3f-77067092c3b0"
+            },
+            {
+              "doc_id": "fae8795e-51f4-4dd2-9fa1-7cc08e05418d"
+            },
+            {
+              "doc_id": "ff45edcc-0d5c-47c0-8cba-2ad441d1ff7a"
+            }
+          ]
+        },
+        "The Crew Dragon, built by SpaceX, is part of NASA's Commercial Crew Program": {
+          "answer": "The Crew Dragon, built by SpaceX, is part of NASA's Commercial Crew Program",
+          "references": [
+            {
+              "doc_id": "1268990b-53d8-4c23-abcc-bd5f77acb712"
+            },
+            {
+              "doc_id": "198559ea-8fe2-48be-ba70-de663b90978e"
+            },
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            }
+          ]
+        }
+      },
+      "question_id": "ed2e8d0ed12ae363c3866f187dbc02d5",
+      "aggregator_type": "OR",
+      "query_id": "373",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.708721+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the overall impact of the Crew Dragon Demo-2 Mission on the future of space exploration?": {
+      "question": "What is the overall impact of the Crew Dragon Demo-2 Mission on the future of space exploration?",
+      "answers": {
+        "advancement of commercial space travel": {
+          "answer": "advancement of commercial space travel",
+          "references": [
+            {
+              "doc_id": "00eeafca-e872-45bc-ab62-f8c4c5181580"
+            },
+            {
+              "doc_id": "08dedc49-4046-4719-b59f-f3d26dd8a967"
+            },
+            {
+              "doc_id": "0a16338e-4b06-4c7d-9668-a8acae26838f"
+            },
+            {
+              "doc_id": "0f7abf94-7e7d-4e9f-a700-3a7e4780cffe"
+            },
+            {
+              "doc_id": "111288aa-8cf7-47c9-8865-3aa3e17392df"
+            },
+            {
+              "doc_id": "1268990b-53d8-4c23-abcc-bd5f77acb712"
+            },
+            {
+              "doc_id": "1735761d-8e4e-4db5-8dfc-e904c1f0ea5b"
+            },
+            {
+              "doc_id": "196bb0d1-e743-4dcd-a014-2f6fbe40e2a2"
+            },
+            {
+              "doc_id": "198559ea-8fe2-48be-ba70-de663b90978e"
+            },
+            {
+              "doc_id": "1d8b0925-cba3-4cb1-a6b8-736d1d987884"
+            },
+            {
+              "doc_id": "1fee096a-7916-4479-bdff-d1defe4c7074"
+            },
+            {
+              "doc_id": "28b0f399-0857-4a71-af8e-28ab00343562"
+            },
+            {
+              "doc_id": "2ca6423b-679e-4d28-801a-4c30c3d71e1d"
+            },
+            {
+              "doc_id": "2cd0a479-832d-49dc-8e13-9dcc4a41c9e2"
+            },
+            {
+              "doc_id": "30738be0-5c95-4d22-9aab-1c2c24edf609"
+            },
+            {
+              "doc_id": "332cd91d-ea0a-4efb-b3b3-5664f5910c58"
+            },
+            {
+              "doc_id": "334290c2-d419-4350-91b1-18be5cf56401"
+            },
+            {
+              "doc_id": "403161cf-9f9c-403c-9783-d9cab9226ea0"
+            },
+            {
+              "doc_id": "42b11914-7d2e-4387-aea5-7c31add697b0"
+            },
+            {
+              "doc_id": "4421c663-80dd-4005-92e5-295acdda69ce"
+            },
+            {
+              "doc_id": "45c684f7-0f09-4fea-beaf-0d32dbd2940d"
+            },
+            {
+              "doc_id": "47306071-a895-457a-b884-e2b85e69d8f4"
+            },
+            {
+              "doc_id": "479f547c-9ecc-4baa-aa13-e75e699f933c"
+            },
+            {
+              "doc_id": "4e561e64-fd03-4efa-9132-5ddd9ca5baa1"
+            },
+            {
+              "doc_id": "5b1838f5-541f-46d2-8937-57630646c55e"
+            },
+            {
+              "doc_id": "60c0a818-de71-410e-b45f-ea3047bc1f74"
+            },
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            },
+            {
+              "doc_id": "69310b09-3000-46f3-9fb5-6bdfcedd72e0"
+            },
+            {
+              "doc_id": "6a2d349e-bd46-4b06-a632-090cc6c77c15"
+            },
+            {
+              "doc_id": "6c776618-43f9-449d-8b2b-bb1041608572"
+            },
+            {
+              "doc_id": "6da172b4-1551-40fc-a4a9-6fa169e530ad"
+            },
+            {
+              "doc_id": "6ddb9941-7b5d-4276-89a8-679011e1b80e"
+            },
+            {
+              "doc_id": "7dcca736-cf9f-4fa2-bf89-567c512da2db"
+            },
+            {
+              "doc_id": "850e8a78-acfc-4a62-b860-615c810acf18"
+            },
+            {
+              "doc_id": "85dd7104-0500-4cff-9f17-35294d7b9f2a"
+            },
+            {
+              "doc_id": "904a4ecf-4319-474e-8bd6-0809fd663be0"
+            },
+            {
+              "doc_id": "9b23b161-78c3-45cd-b9ea-e420c1354251"
+            },
+            {
+              "doc_id": "a124ca09-6d6b-40cb-98e2-f5bb189e0f6f"
+            },
+            {
+              "doc_id": "a1f28906-7277-44b7-b3cf-fe0af32568ea"
+            },
+            {
+              "doc_id": "a48990e4-8775-46a0-ae02-ef2d7b7cc02f"
+            },
+            {
+              "doc_id": "a867980e-4101-4c9f-b8a1-26e2bbf2a377"
+            },
+            {
+              "doc_id": "acdaa6c5-78f0-4059-bdc3-0cf03eed0b8f"
+            },
+            {
+              "doc_id": "aefd7464-cfa9-4995-97b2-382ce7dd5fcc"
+            },
+            {
+              "doc_id": "b2c471af-3d98-446d-95b3-2e393fa833dd"
+            },
+            {
+              "doc_id": "b4dca933-62d5-41c0-bbee-ec896c5a6080"
+            },
+            {
+              "doc_id": "b5b6cf59-c584-4e72-8eb9-e75a05585f04"
+            },
+            {
+              "doc_id": "c48d3d29-e3ec-4163-9f9d-adad3c99ec58"
+            },
+            {
+              "doc_id": "c985e690-587a-42a6-8604-a916b82d0b73"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "dc5c327b-5940-43d4-a634-7001d7682e10"
+            },
+            {
+              "doc_id": "e406f4e7-62f3-4965-b53e-ca4e5b9e562b"
+            },
+            {
+              "doc_id": "e6adeda2-b235-4d3a-845e-1c6e4756540e"
+            },
+            {
+              "doc_id": "ea09b725-2a4d-4424-945b-b06d15a18c5b"
+            },
+            {
+              "doc_id": "ea60790d-862b-42ec-8186-5d3e6194e8f3"
+            },
+            {
+              "doc_id": "ee359c10-b507-4e7e-913c-830ad9543812"
+            },
+            {
+              "doc_id": "f6cd89ed-73e7-4ac4-ba3f-77067092c3b0"
+            },
+            {
+              "doc_id": "f708bd4b-c4a9-478d-b007-6f488c4d8f4a"
+            },
+            {
+              "doc_id": "fae8795e-51f4-4dd2-9fa1-7cc08e05418d"
+            },
+            {
+              "doc_id": "fbfb6572-ff21-44d3-a06f-48d6d544f4a5"
+            }
+          ]
+        },
+        "collaboration between NASA and private companies in space exploration": {
+          "answer": "collaboration between NASA and private companies in space exploration",
+          "references": [
+            {
+              "doc_id": "00eeafca-e872-45bc-ab62-f8c4c5181580"
+            },
+            {
+              "doc_id": "08dedc49-4046-4719-b59f-f3d26dd8a967"
+            },
+            {
+              "doc_id": "0a16338e-4b06-4c7d-9668-a8acae26838f"
+            },
+            {
+              "doc_id": "0f7abf94-7e7d-4e9f-a700-3a7e4780cffe"
+            },
+            {
+              "doc_id": "111288aa-8cf7-47c9-8865-3aa3e17392df"
+            },
+            {
+              "doc_id": "1735761d-8e4e-4db5-8dfc-e904c1f0ea5b"
+            },
+            {
+              "doc_id": "196bb0d1-e743-4dcd-a014-2f6fbe40e2a2"
+            },
+            {
+              "doc_id": "198559ea-8fe2-48be-ba70-de663b90978e"
+            },
+            {
+              "doc_id": "1d8b0925-cba3-4cb1-a6b8-736d1d987884"
+            },
+            {
+              "doc_id": "1fee096a-7916-4479-bdff-d1defe4c7074"
+            },
+            {
+              "doc_id": "2cd0a479-832d-49dc-8e13-9dcc4a41c9e2"
+            },
+            {
+              "doc_id": "306d4b3e-863c-4863-aea2-518f4947b5c2"
+            },
+            {
+              "doc_id": "332cd91d-ea0a-4efb-b3b3-5664f5910c58"
+            },
+            {
+              "doc_id": "334290c2-d419-4350-91b1-18be5cf56401"
+            },
+            {
+              "doc_id": "383cefb5-07e4-4967-8ba3-953bf8ac8125"
+            },
+            {
+              "doc_id": "3bb8c223-6736-41f9-afaa-036474da32b2"
+            },
+            {
+              "doc_id": "403161cf-9f9c-403c-9783-d9cab9226ea0"
+            },
+            {
+              "doc_id": "42b11914-7d2e-4387-aea5-7c31add697b0"
+            },
+            {
+              "doc_id": "45c684f7-0f09-4fea-beaf-0d32dbd2940d"
+            },
+            {
+              "doc_id": "47306071-a895-457a-b884-e2b85e69d8f4"
+            },
+            {
+              "doc_id": "479f547c-9ecc-4baa-aa13-e75e699f933c"
+            },
+            {
+              "doc_id": "4e561e64-fd03-4efa-9132-5ddd9ca5baa1"
+            },
+            {
+              "doc_id": "4f485315-8995-46d5-8dc2-0ea82cdc3fa0"
+            },
+            {
+              "doc_id": "4fa28a6d-ef12-4e7b-b055-8a54465376a2"
+            },
+            {
+              "doc_id": "5b1838f5-541f-46d2-8937-57630646c55e"
+            },
+            {
+              "doc_id": "5b75e240-acea-45fc-99b3-9d709f2d87f1"
+            },
+            {
+              "doc_id": "60b9c2d9-1992-45f4-bc71-74853595de53"
+            },
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            },
+            {
+              "doc_id": "67d3af8a-6025-4f58-91df-6ddc564d09b1"
+            },
+            {
+              "doc_id": "69310b09-3000-46f3-9fb5-6bdfcedd72e0"
+            },
+            {
+              "doc_id": "6a2d349e-bd46-4b06-a632-090cc6c77c15"
+            },
+            {
+              "doc_id": "6c776618-43f9-449d-8b2b-bb1041608572"
+            },
+            {
+              "doc_id": "6da172b4-1551-40fc-a4a9-6fa169e530ad"
+            },
+            {
+              "doc_id": "6ddb9941-7b5d-4276-89a8-679011e1b80e"
+            },
+            {
+              "doc_id": "6f53a70a-39ad-44ba-a615-22cf1e63740d"
+            },
+            {
+              "doc_id": "74cfbe77-d660-4785-af16-71dc4caee2e2"
+            },
+            {
+              "doc_id": "7701c3d9-e227-4f53-96fe-c493be45540b"
+            },
+            {
+              "doc_id": "7dcca736-cf9f-4fa2-bf89-567c512da2db"
+            },
+            {
+              "doc_id": "8041a2d0-52c6-4a08-af05-a5ea93eb66d2"
+            },
+            {
+              "doc_id": "85abd28d-5e46-440c-a228-8fbd7434784d"
+            },
+            {
+              "doc_id": "85dd7104-0500-4cff-9f17-35294d7b9f2a"
+            },
+            {
+              "doc_id": "86323a4b-83de-4b67-9105-b1ede02f8b8a"
+            },
+            {
+              "doc_id": "8c17c175-9087-4a67-b95f-822f05acc911"
+            },
+            {
+              "doc_id": "8dba7142-3134-4635-998c-26af4dcdebcf"
+            },
+            {
+              "doc_id": "904a4ecf-4319-474e-8bd6-0809fd663be0"
+            },
+            {
+              "doc_id": "9796a4b4-02b5-4198-b182-06802067b6b7"
+            },
+            {
+              "doc_id": "986d2f22-46e1-40ed-8965-69c641b1d9e7"
+            },
+            {
+              "doc_id": "9b23b161-78c3-45cd-b9ea-e420c1354251"
+            },
+            {
+              "doc_id": "9d2f40a2-ce18-4f45-a785-e21a6bfc07ab"
+            },
+            {
+              "doc_id": "9f8b81e9-660a-4ef9-84d6-fec916de8953"
+            },
+            {
+              "doc_id": "a1f28906-7277-44b7-b3cf-fe0af32568ea"
+            },
+            {
+              "doc_id": "a48990e4-8775-46a0-ae02-ef2d7b7cc02f"
+            },
+            {
+              "doc_id": "a867980e-4101-4c9f-b8a1-26e2bbf2a377"
+            },
+            {
+              "doc_id": "a9d8eb3d-e03c-475d-818e-a7a3d7d14da8"
+            },
+            {
+              "doc_id": "acdaa6c5-78f0-4059-bdc3-0cf03eed0b8f"
+            },
+            {
+              "doc_id": "aee40b26-73b7-48ab-badd-7bda3619e342"
+            },
+            {
+              "doc_id": "aefd7464-cfa9-4995-97b2-382ce7dd5fcc"
+            },
+            {
+              "doc_id": "b2c471af-3d98-446d-95b3-2e393fa833dd"
+            },
+            {
+              "doc_id": "b4dca933-62d5-41c0-bbee-ec896c5a6080"
+            },
+            {
+              "doc_id": "b5b6cf59-c584-4e72-8eb9-e75a05585f04"
+            },
+            {
+              "doc_id": "b5fe2988-24eb-41ab-8c13-b6ee69c4d952"
+            },
+            {
+              "doc_id": "ba805c29-ba0a-41e3-8188-f104080990f2"
+            },
+            {
+              "doc_id": "be6f7475-dbb2-4067-8ce6-50f0ec19aaea"
+            },
+            {
+              "doc_id": "c48d3d29-e3ec-4163-9f9d-adad3c99ec58"
+            },
+            {
+              "doc_id": "c743e9cd-2821-48eb-922c-7e220e09b9d7"
+            },
+            {
+              "doc_id": "ce18063e-2910-4839-b15e-fadb953e2913"
+            },
+            {
+              "doc_id": "d0de2e63-c31c-4c77-91ab-55a3b90ebfe7"
+            },
+            {
+              "doc_id": "dafd08fa-fb08-4588-aec0-e63ab4dd0ec3"
+            },
+            {
+              "doc_id": "dc5c327b-5940-43d4-a634-7001d7682e10"
+            },
+            {
+              "doc_id": "e400128b-578d-43d4-ace3-51bc73024d19"
+            },
+            {
+              "doc_id": "e406f4e7-62f3-4965-b53e-ca4e5b9e562b"
+            },
+            {
+              "doc_id": "e6adeda2-b235-4d3a-845e-1c6e4756540e"
+            },
+            {
+              "doc_id": "ea09b725-2a4d-4424-945b-b06d15a18c5b"
+            },
+            {
+              "doc_id": "ea60790d-862b-42ec-8186-5d3e6194e8f3"
+            },
+            {
+              "doc_id": "ee359c10-b507-4e7e-913c-830ad9543812"
+            },
+            {
+              "doc_id": "f6cd89ed-73e7-4ac4-ba3f-77067092c3b0"
+            },
+            {
+              "doc_id": "f708bd4b-c4a9-478d-b007-6f488c4d8f4a"
+            },
+            {
+              "doc_id": "f9e13649-39b6-4ee4-aa75-8d166454922f"
+            },
+            {
+              "doc_id": "fae8795e-51f4-4dd2-9fa1-7cc08e05418d"
+            },
+            {
+              "doc_id": "fb7fd3e7-2152-45ea-94a3-be156e0e6169"
+            },
+            {
+              "doc_id": "fbfb6572-ff21-44d3-a06f-48d6d544f4a5"
+            },
+            {
+              "doc_id": "ff45edcc-0d5c-47c0-8cba-2ad441d1ff7a"
+            }
+          ]
+        },
+        "makes SpaceX a pioneer in commercial private space travel": {
+          "answer": "makes SpaceX a pioneer in commercial private space travel",
+          "references": [
+            {
+              "doc_id": "60c0a818-de71-410e-b45f-ea3047bc1f74"
+            },
+            {
+              "doc_id": "64826b6e-4d21-4b5a-b735-b0363edce486"
+            }
+          ]
+        },
+        "also a confirmation of SpaceX's  ability to carry people into space": {
+          "answer": "also a confirmation of SpaceX's  ability to carry people into space",
+          "references": [
+            {
+              "doc_id": "60c0a818-de71-410e-b45f-ea3047bc1f74"
+            },
+            {
+              "doc_id": "b4c390b8-ab01-4ffe-8887-f67c5f638bdc"
+            }
+          ]
+        }
+      },
+      "question_id": "e3e0995c8142ad8ad4dc6394b166a53d",
+      "aggregator_type": "AND",
+      "query_id": "373",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.708946+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

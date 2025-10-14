@@ -1,0 +1,2156 @@
+{
+  "query_id": "309",
+  "title_query": "pocket parks",
+  "full_query": "I need a report on the benefits small \"pocket parks\" in high-density urban settings.  I am particularly interested in information about the benefits of pocket parks for fostering more sustainable and resilient cities, and in what features of pocket parks are available.  At this point I am not looking for details on the construction or operation of pocket parks, however.",
+  "full_background": "I am a landscape contractor, and I am currently working for a community organization that is interested in green infrastructure initiatives that can help to improve the environment in their urban community.",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What are pocket parks?": {
+      "question": "What are pocket parks?",
+      "answers": {
+        "small-scale greenery": {
+          "answer": "small-scale greenery",
+          "references": [
+            {
+              "doc_id": "1aa55a2f-5105-4722-8ac1-4748ee2ff992"
+            },
+            {
+              "doc_id": "277645f5-1932-4e3f-9175-e71b3bb11e1a"
+            },
+            {
+              "doc_id": "42e5779e-2418-441b-a849-872bf8db50ba"
+            },
+            {
+              "doc_id": "47ff4d31-e071-43df-9718-228f3f95f831"
+            },
+            {
+              "doc_id": "4bd05f7e-9eeb-4715-bf9d-dd9f683871b7"
+            },
+            {
+              "doc_id": "56b89a6a-ed43-4ddc-9b10-cc0f5f49b071"
+            },
+            {
+              "doc_id": "927727ff-8602-4e28-bf5d-e695ebc4a36a"
+            },
+            {
+              "doc_id": "93e05d05-4e27-428b-ad4d-dbe50339cb48"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            }
+          ]
+        },
+        "Neighborhood park": {
+          "answer": "Neighborhood park",
+          "references": [
+            {
+              "doc_id": "036e5322-7f16-40a3-802f-1b1594f16c08"
+            },
+            {
+              "doc_id": "13740d8a-a804-4b81-996d-18eb0232255b"
+            },
+            {
+              "doc_id": "4bef5d5d-ab80-4ced-90ad-a842a3132e35"
+            }
+          ]
+        },
+        "Small-scale park in urban area": {
+          "answer": "Small-scale park in urban area",
+          "references": [
+            {
+              "doc_id": "1aa55a2f-5105-4722-8ac1-4748ee2ff992"
+            },
+            {
+              "doc_id": "54f423ec-f179-468f-8e36-06ab6a842ec9"
+            },
+            {
+              "doc_id": "846a571d-7c47-439f-8a71-5d15d055c4c1"
+            },
+            {
+              "doc_id": "927727ff-8602-4e28-bf5d-e695ebc4a36a"
+            },
+            {
+              "doc_id": "93e05d05-4e27-428b-ad4d-dbe50339cb48"
+            },
+            {
+              "doc_id": "c65b5ab3-d173-40d9-954a-023654c5e85f"
+            },
+            {
+              "doc_id": "c7386ebc-b183-4f42-b577-306b90303c18"
+            },
+            {
+              "doc_id": "f0d5c88a-b30c-4f2d-8127-eed105e6ce9f"
+            },
+            {
+              "doc_id": "fe095d3a-9eaa-4fa7-9d80-c5f41b2ffe16"
+            }
+          ]
+        }
+      },
+      "question_id": "cc6b4696a0dc6329a452c2456db67eb3",
+      "aggregator_type": "OR",
+      "query_id": "309",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.643830+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Why do large cities create pocket parks?": {
+      "question": "Why do large cities create pocket parks?",
+      "answers": {
+        "shortage of green spaces": {
+          "answer": "shortage of green spaces",
+          "references": [
+            {
+              "doc_id": "036e5322-7f16-40a3-802f-1b1594f16c08"
+            },
+            {
+              "doc_id": "0ecd22c7-ccc5-427e-844d-405dd9c20f46"
+            },
+            {
+              "doc_id": "13740d8a-a804-4b81-996d-18eb0232255b"
+            },
+            {
+              "doc_id": "174932b5-7ed4-4cb8-ad1e-ec456389e884"
+            },
+            {
+              "doc_id": "19ed0e93-9c89-41e1-9312-86d1ef81346b"
+            },
+            {
+              "doc_id": "2224df20-fbad-4851-9759-d228c5a9a283"
+            },
+            {
+              "doc_id": "3182fe47-55aa-41cc-8bbf-82eb7770c6bb"
+            },
+            {
+              "doc_id": "484b241f-ddf4-4803-bf38-06a89649b0d1"
+            },
+            {
+              "doc_id": "49a36547-2ce3-4092-b592-be2513ecce2d"
+            },
+            {
+              "doc_id": "4c8e0f42-6d1a-4997-8ae1-bbcabdd448bd"
+            },
+            {
+              "doc_id": "500641b2-d324-441c-af29-265f5c8d248b"
+            },
+            {
+              "doc_id": "56b89a6a-ed43-4ddc-9b10-cc0f5f49b071"
+            },
+            {
+              "doc_id": "5a0b1ce7-19fd-4f8c-be9f-4d557d6a993f"
+            },
+            {
+              "doc_id": "5ef57860-0dd7-4a12-990a-0b4b8cac2580"
+            },
+            {
+              "doc_id": "88e0a603-5f20-4b18-8a06-1cbb0573b76c"
+            },
+            {
+              "doc_id": "8bae87c6-3069-4e45-b1b6-97f3631c82c4"
+            },
+            {
+              "doc_id": "93e05d05-4e27-428b-ad4d-dbe50339cb48"
+            },
+            {
+              "doc_id": "948592f4-1b2e-487e-ba84-d29d3b930705"
+            },
+            {
+              "doc_id": "a2020e43-1b62-4dfc-87ca-ba147668311a"
+            },
+            {
+              "doc_id": "bba3b72b-92e6-424f-99b1-e3b0e89276eb"
+            },
+            {
+              "doc_id": "c05d35a6-9f03-4254-9085-df082599cc72"
+            },
+            {
+              "doc_id": "c65b5ab3-d173-40d9-954a-023654c5e85f"
+            },
+            {
+              "doc_id": "d39120b8-376b-4f6d-ad59-894ff409f927"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            },
+            {
+              "doc_id": "f9a4a8b3-f301-46de-8f59-764cdabde149"
+            }
+          ]
+        },
+        "The lack of urban green space will be compensated.": {
+          "answer": "The lack of urban green space will be compensated.",
+          "references": [
+            {
+              "doc_id": "036e5322-7f16-40a3-802f-1b1594f16c08"
+            },
+            {
+              "doc_id": "0ecd22c7-ccc5-427e-844d-405dd9c20f46"
+            },
+            {
+              "doc_id": "3182fe47-55aa-41cc-8bbf-82eb7770c6bb"
+            },
+            {
+              "doc_id": "56b89a6a-ed43-4ddc-9b10-cc0f5f49b071"
+            }
+          ]
+        },
+        "Increase in green space per capita": {
+          "answer": "Increase in green space per capita",
+          "references": [
+            {
+              "doc_id": "0be91647-6c98-49db-ba7e-147691bd12ce"
+            },
+            {
+              "doc_id": "0ecd22c7-ccc5-427e-844d-405dd9c20f46"
+            },
+            {
+              "doc_id": "13740d8a-a804-4b81-996d-18eb0232255b"
+            },
+            {
+              "doc_id": "16cdf1d3-b709-4503-beb1-7f7fc180cd7c"
+            },
+            {
+              "doc_id": "38253e52-2aee-452c-996f-c97d8dc3ee43"
+            },
+            {
+              "doc_id": "3efe24c4-b307-4d26-b684-ae3aee91ce41"
+            },
+            {
+              "doc_id": "56b89a6a-ed43-4ddc-9b10-cc0f5f49b071"
+            },
+            {
+              "doc_id": "5a968cba-8350-4e97-a407-c747356d60b6"
+            },
+            {
+              "doc_id": "6c3252ec-4b8a-4018-a6fe-689233731b24"
+            },
+            {
+              "doc_id": "92e1ad08-95aa-4c34-9337-301186841286"
+            },
+            {
+              "doc_id": "948592f4-1b2e-487e-ba84-d29d3b930705"
+            },
+            {
+              "doc_id": "99437fcf-6fa4-4470-b11d-f17d1d2299c3"
+            },
+            {
+              "doc_id": "ae26ed39-a882-4b45-bb78-9453a239b6be"
+            },
+            {
+              "doc_id": "b0027fd9-eecf-4de9-af1a-a3393a168906"
+            },
+            {
+              "doc_id": "b439cf1b-e583-4737-9568-ff827c1ddd90"
+            },
+            {
+              "doc_id": "bba3b72b-92e6-424f-99b1-e3b0e89276eb"
+            },
+            {
+              "doc_id": "c05d35a6-9f03-4254-9085-df082599cc72"
+            },
+            {
+              "doc_id": "d39120b8-376b-4f6d-ad59-894ff409f927"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            }
+          ]
+        },
+        "increasing tourist attractions": {
+          "answer": "increasing tourist attractions",
+          "references": [
+            {
+              "doc_id": "484b241f-ddf4-4803-bf38-06a89649b0d1"
+            },
+            {
+              "doc_id": "d39120b8-376b-4f6d-ad59-894ff409f927"
+            }
+          ]
+        },
+        "Privatization for women's security and safety": {
+          "answer": "Privatization for women's security and safety",
+          "references": [
+            {
+              "doc_id": "669ab441-1cb8-4185-8b5d-52a24311c9f3"
+            }
+          ]
+        },
+        "Some dirty places need to be cleaned for good use": {
+          "answer": "Some dirty places need to be cleaned for good use",
+          "references": [
+            {
+              "doc_id": "1aa55a2f-5105-4722-8ac1-4748ee2ff992"
+            },
+            {
+              "doc_id": "47ff4d31-e071-43df-9718-228f3f95f831"
+            },
+            {
+              "doc_id": "bf73eb88-2d5b-459d-932f-6f166fa0ef8f"
+            },
+            {
+              "doc_id": "e0c0792f-27e2-411f-8235-a22bb1e308f8"
+            }
+          ]
+        },
+        "To better regulate microclimate ": {
+          "answer": "To better regulate microclimate ",
+          "references": [
+            {
+              "doc_id": "4c8e0f42-6d1a-4997-8ae1-bbcabdd448bd"
+            }
+          ]
+        },
+        "To convert old unused land to  community recreation facilities": {
+          "answer": "To convert old unused land to  community recreation facilities",
+          "references": [
+            {
+              "doc_id": "54b3b2ca-3d88-4938-8214-bde4b32c1d59"
+            },
+            {
+              "doc_id": "846a571d-7c47-439f-8a71-5d15d055c4c1"
+            },
+            {
+              "doc_id": "927727ff-8602-4e28-bf5d-e695ebc4a36a"
+            },
+            {
+              "doc_id": "9809a56d-5e3d-42cf-b937-7ec5af9a26f5"
+            },
+            {
+              "doc_id": "bf73eb88-2d5b-459d-932f-6f166fa0ef8f"
+            }
+          ]
+        },
+        "To conduct environmental education": {
+          "answer": "To conduct environmental education",
+          "references": [
+            {
+              "doc_id": "54b3b2ca-3d88-4938-8214-bde4b32c1d59"
+            }
+          ]
+        },
+        "To convert parking lot with low usage into parks": {
+          "answer": "To convert parking lot with low usage into parks",
+          "references": [
+            {
+              "doc_id": "54f423ec-f179-468f-8e36-06ab6a842ec9"
+            },
+            {
+              "doc_id": "68676ecf-1da4-4d10-ae1e-d5da711940ce"
+            }
+          ]
+        },
+        "The need to improve the eco system of cities": {
+          "answer": "The need to improve the eco system of cities",
+          "references": [
+            {
+              "doc_id": "5a0b1ce7-19fd-4f8c-be9f-4d557d6a993f"
+            },
+            {
+              "doc_id": "6c0c519a-f55e-4452-aebf-bfcf12f80147"
+            }
+          ]
+        },
+        "Encourage people to walk more": {
+          "answer": "Encourage people to walk more",
+          "references": [
+            {
+              "doc_id": "68676ecf-1da4-4d10-ae1e-d5da711940ce"
+            }
+          ]
+        },
+        "To improve irrigation systems": {
+          "answer": "To improve irrigation systems",
+          "references": [
+            {
+              "doc_id": "81a94c6e-0b7f-4a9e-bc55-892edb545abe"
+            }
+          ]
+        },
+        "Need more spaces for citizens' leisure and exercise activities": {
+          "answer": "Need more spaces for citizens' leisure and exercise activities",
+          "references": [
+            {
+              "doc_id": "93e05d05-4e27-428b-ad4d-dbe50339cb48"
+            },
+            {
+              "doc_id": "9809a56d-5e3d-42cf-b937-7ec5af9a26f5"
+            },
+            {
+              "doc_id": "a7d49a47-22d1-40a0-84db-e9429bfeb200"
+            },
+            {
+              "doc_id": "f0d5c88a-b30c-4f2d-8127-eed105e6ce9f"
+            },
+            {
+              "doc_id": "fe095d3a-9eaa-4fa7-9d80-c5f41b2ffe16"
+            }
+          ]
+        },
+        "To improve mental health of citizens": {
+          "answer": "To improve mental health of citizens",
+          "references": [
+            {
+              "doc_id": "b84b0d2e-0535-4f84-82f4-3eb96dbf9085"
+            }
+          ]
+        }
+      },
+      "question_id": "443dcf3442d73cdf2c988791b1917ab6",
+      "aggregator_type": "OR",
+      "query_id": "309",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.644029+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How do pocket parks benefit urban environments?": {
+      "question": "How do pocket parks benefit urban environments?",
+      "answers": {
+        "leisure": {
+          "answer": "leisure",
+          "references": [
+            {
+              "doc_id": "036e5322-7f16-40a3-802f-1b1594f16c08"
+            },
+            {
+              "doc_id": "0ecd22c7-ccc5-427e-844d-405dd9c20f46"
+            },
+            {
+              "doc_id": "13740d8a-a804-4b81-996d-18eb0232255b"
+            },
+            {
+              "doc_id": "174932b5-7ed4-4cb8-ad1e-ec456389e884"
+            },
+            {
+              "doc_id": "19ed0e93-9c89-41e1-9312-86d1ef81346b"
+            },
+            {
+              "doc_id": "1aa55a2f-5105-4722-8ac1-4748ee2ff992"
+            },
+            {
+              "doc_id": "221ef484-2063-4ca6-a521-2cce1d718d32"
+            },
+            {
+              "doc_id": "2e63fe27-e826-4f94-8442-60089f9a611f"
+            },
+            {
+              "doc_id": "43af7362-19ce-4f92-a9eb-8bd7471ad0ee"
+            },
+            {
+              "doc_id": "47ff4d31-e071-43df-9718-228f3f95f831"
+            },
+            {
+              "doc_id": "484b241f-ddf4-4803-bf38-06a89649b0d1"
+            },
+            {
+              "doc_id": "49a36547-2ce3-4092-b592-be2513ecce2d"
+            },
+            {
+              "doc_id": "4c8e0f42-6d1a-4997-8ae1-bbcabdd448bd"
+            },
+            {
+              "doc_id": "515320c3-aa0a-4899-88c9-29009e24df63"
+            },
+            {
+              "doc_id": "54b3b2ca-3d88-4938-8214-bde4b32c1d59"
+            },
+            {
+              "doc_id": "54f423ec-f179-468f-8e36-06ab6a842ec9"
+            },
+            {
+              "doc_id": "68676ecf-1da4-4d10-ae1e-d5da711940ce"
+            },
+            {
+              "doc_id": "74bf07ff-54f6-4b1b-a956-8f5c4fe1739c"
+            },
+            {
+              "doc_id": "846a571d-7c47-439f-8a71-5d15d055c4c1"
+            },
+            {
+              "doc_id": "927727ff-8602-4e28-bf5d-e695ebc4a36a"
+            },
+            {
+              "doc_id": "93e05d05-4e27-428b-ad4d-dbe50339cb48"
+            },
+            {
+              "doc_id": "948592f4-1b2e-487e-ba84-d29d3b930705"
+            },
+            {
+              "doc_id": "9809a56d-5e3d-42cf-b937-7ec5af9a26f5"
+            },
+            {
+              "doc_id": "99437fcf-6fa4-4470-b11d-f17d1d2299c3"
+            },
+            {
+              "doc_id": "a7d49a47-22d1-40a0-84db-e9429bfeb200"
+            },
+            {
+              "doc_id": "ae26ed39-a882-4b45-bb78-9453a239b6be"
+            },
+            {
+              "doc_id": "b0027fd9-eecf-4de9-af1a-a3393a168906"
+            },
+            {
+              "doc_id": "bba3b72b-92e6-424f-99b1-e3b0e89276eb"
+            },
+            {
+              "doc_id": "bf73eb88-2d5b-459d-932f-6f166fa0ef8f"
+            },
+            {
+              "doc_id": "c04cedb3-1b6f-4519-bee1-f08abfd7cd65"
+            },
+            {
+              "doc_id": "c65b5ab3-d173-40d9-954a-023654c5e85f"
+            },
+            {
+              "doc_id": "c7386ebc-b183-4f42-b577-306b90303c18"
+            },
+            {
+              "doc_id": "d39120b8-376b-4f6d-ad59-894ff409f927"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            },
+            {
+              "doc_id": "f9a4a8b3-f301-46de-8f59-764cdabde149"
+            }
+          ]
+        },
+        "relaxation": {
+          "answer": "relaxation",
+          "references": [
+            {
+              "doc_id": "0ecd22c7-ccc5-427e-844d-405dd9c20f46"
+            },
+            {
+              "doc_id": "13740d8a-a804-4b81-996d-18eb0232255b"
+            },
+            {
+              "doc_id": "174932b5-7ed4-4cb8-ad1e-ec456389e884"
+            },
+            {
+              "doc_id": "19ed0e93-9c89-41e1-9312-86d1ef81346b"
+            },
+            {
+              "doc_id": "1aa55a2f-5105-4722-8ac1-4748ee2ff992"
+            },
+            {
+              "doc_id": "221ef484-2063-4ca6-a521-2cce1d718d32"
+            },
+            {
+              "doc_id": "43af7362-19ce-4f92-a9eb-8bd7471ad0ee"
+            },
+            {
+              "doc_id": "47ff4d31-e071-43df-9718-228f3f95f831"
+            },
+            {
+              "doc_id": "484b241f-ddf4-4803-bf38-06a89649b0d1"
+            },
+            {
+              "doc_id": "4c8e0f42-6d1a-4997-8ae1-bbcabdd448bd"
+            },
+            {
+              "doc_id": "54b3b2ca-3d88-4938-8214-bde4b32c1d59"
+            },
+            {
+              "doc_id": "54f423ec-f179-468f-8e36-06ab6a842ec9"
+            },
+            {
+              "doc_id": "68676ecf-1da4-4d10-ae1e-d5da711940ce"
+            },
+            {
+              "doc_id": "846a571d-7c47-439f-8a71-5d15d055c4c1"
+            },
+            {
+              "doc_id": "927727ff-8602-4e28-bf5d-e695ebc4a36a"
+            },
+            {
+              "doc_id": "93e05d05-4e27-428b-ad4d-dbe50339cb48"
+            },
+            {
+              "doc_id": "9809a56d-5e3d-42cf-b937-7ec5af9a26f5"
+            },
+            {
+              "doc_id": "a7d49a47-22d1-40a0-84db-e9429bfeb200"
+            },
+            {
+              "doc_id": "ae26ed39-a882-4b45-bb78-9453a239b6be"
+            },
+            {
+              "doc_id": "bba3b72b-92e6-424f-99b1-e3b0e89276eb"
+            },
+            {
+              "doc_id": "c04cedb3-1b6f-4519-bee1-f08abfd7cd65"
+            },
+            {
+              "doc_id": "c0e06147-5f9a-4bb8-8837-a2ced08b63b1"
+            },
+            {
+              "doc_id": "c65b5ab3-d173-40d9-954a-023654c5e85f"
+            },
+            {
+              "doc_id": "c7386ebc-b183-4f42-b577-306b90303c18"
+            },
+            {
+              "doc_id": "d39120b8-376b-4f6d-ad59-894ff409f927"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            }
+          ]
+        },
+        "reducing air pollution": {
+          "answer": "reducing air pollution",
+          "references": [
+            {
+              "doc_id": "13740d8a-a804-4b81-996d-18eb0232255b"
+            },
+            {
+              "doc_id": "16cdf1d3-b709-4503-beb1-7f7fc180cd7c"
+            },
+            {
+              "doc_id": "484b241f-ddf4-4803-bf38-06a89649b0d1"
+            },
+            {
+              "doc_id": "5a968cba-8350-4e97-a407-c747356d60b6"
+            },
+            {
+              "doc_id": "6c3252ec-4b8a-4018-a6fe-689233731b24"
+            },
+            {
+              "doc_id": "8887723a-052c-40de-9cbd-c30307e60726"
+            },
+            {
+              "doc_id": "b0027fd9-eecf-4de9-af1a-a3393a168906"
+            },
+            {
+              "doc_id": "bba3b72b-92e6-424f-99b1-e3b0e89276eb"
+            },
+            {
+              "doc_id": "c05d35a6-9f03-4254-9085-df082599cc72"
+            }
+          ]
+        },
+        "improving environmental quality": {
+          "answer": "improving environmental quality",
+          "references": [
+            {
+              "doc_id": "13740d8a-a804-4b81-996d-18eb0232255b"
+            },
+            {
+              "doc_id": "5a968cba-8350-4e97-a407-c747356d60b6"
+            },
+            {
+              "doc_id": "c05d35a6-9f03-4254-9085-df082599cc72"
+            }
+          ]
+        },
+        "moderating  urban heat": {
+          "answer": "moderating  urban heat",
+          "references": [
+            {
+              "doc_id": "13740d8a-a804-4b81-996d-18eb0232255b"
+            },
+            {
+              "doc_id": "5a968cba-8350-4e97-a407-c747356d60b6"
+            },
+            {
+              "doc_id": "6c3252ec-4b8a-4018-a6fe-689233731b24"
+            },
+            {
+              "doc_id": "c05d35a6-9f03-4254-9085-df082599cc72"
+            }
+          ]
+        },
+        "Increase green spaces, greening, improve water conservation and urban ecological  system ingeneral": {
+          "answer": "Increase green spaces, greening, improve water conservation and urban ecological  system ingeneral",
+          "references": [
+            {
+              "doc_id": "277645f5-1932-4e3f-9175-e71b3bb11e1a"
+            },
+            {
+              "doc_id": "42e5779e-2418-441b-a849-872bf8db50ba"
+            }
+          ]
+        },
+        "Can better regulate microclimate": {
+          "answer": "Can better regulate microclimate",
+          "references": [
+            {
+              "doc_id": "4c8e0f42-6d1a-4997-8ae1-bbcabdd448bd"
+            }
+          ]
+        },
+        "Can improve air quality": {
+          "answer": "Can improve air quality",
+          "references": [
+            {
+              "doc_id": "4c8e0f42-6d1a-4997-8ae1-bbcabdd448bd"
+            },
+            {
+              "doc_id": "5ef57860-0dd7-4a12-990a-0b4b8cac2580"
+            },
+            {
+              "doc_id": "6c0c519a-f55e-4452-aebf-bfcf12f80147"
+            },
+            {
+              "doc_id": "be93b81a-c5b6-4545-adf6-3b99a99db4ae"
+            }
+          ]
+        },
+        "Can improve the eco system of cities": {
+          "answer": "Can improve the eco system of cities",
+          "references": [
+            {
+              "doc_id": "5a0b1ce7-19fd-4f8c-be9f-4d557d6a993f"
+            },
+            {
+              "doc_id": "81a94c6e-0b7f-4a9e-bc55-892edb545abe"
+            }
+          ]
+        },
+        "Can improve urban irrigation systems": {
+          "answer": "Can improve urban irrigation systems",
+          "references": [
+            {
+              "doc_id": "81a94c6e-0b7f-4a9e-bc55-892edb545abe"
+            }
+          ]
+        }
+      },
+      "question_id": "e9ac9572e7c4cd8e38aceaee557c7618",
+      "aggregator_type": "OR",
+      "query_id": "309",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.644208+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How can the creation of neighborhoods and pocket parks protect the rights of citizens?": {
+      "question": "How can the creation of neighborhoods and pocket parks protect the rights of citizens?",
+      "answers": {
+        "Accessible green spaces": {
+          "answer": "Accessible green spaces",
+          "references": [
+            {
+              "doc_id": "0111e858-8d72-4384-a80e-b803c7236d2d"
+            },
+            {
+              "doc_id": "036e5322-7f16-40a3-802f-1b1594f16c08"
+            },
+            {
+              "doc_id": "06d02b81-9b32-44c9-9d58-6b0d611d2c51"
+            },
+            {
+              "doc_id": "08452647-065b-4643-bd46-89867cf19509"
+            },
+            {
+              "doc_id": "0ecd22c7-ccc5-427e-844d-405dd9c20f46"
+            },
+            {
+              "doc_id": "10cd6ccd-a90c-44cc-98b3-04beb755d79e"
+            },
+            {
+              "doc_id": "13740d8a-a804-4b81-996d-18eb0232255b"
+            },
+            {
+              "doc_id": "174932b5-7ed4-4cb8-ad1e-ec456389e884"
+            },
+            {
+              "doc_id": "19ed0e93-9c89-41e1-9312-86d1ef81346b"
+            },
+            {
+              "doc_id": "221ef484-2063-4ca6-a521-2cce1d718d32"
+            },
+            {
+              "doc_id": "2e63fe27-e826-4f94-8442-60089f9a611f"
+            },
+            {
+              "doc_id": "3182fe47-55aa-41cc-8bbf-82eb7770c6bb"
+            },
+            {
+              "doc_id": "484b241f-ddf4-4803-bf38-06a89649b0d1"
+            },
+            {
+              "doc_id": "4c8e0f42-6d1a-4997-8ae1-bbcabdd448bd"
+            },
+            {
+              "doc_id": "54f423ec-f179-468f-8e36-06ab6a842ec9"
+            },
+            {
+              "doc_id": "56b89a6a-ed43-4ddc-9b10-cc0f5f49b071"
+            },
+            {
+              "doc_id": "5ef57860-0dd7-4a12-990a-0b4b8cac2580"
+            },
+            {
+              "doc_id": "6c0c519a-f55e-4452-aebf-bfcf12f80147"
+            },
+            {
+              "doc_id": "6c3252ec-4b8a-4018-a6fe-689233731b24"
+            },
+            {
+              "doc_id": "74bf07ff-54f6-4b1b-a956-8f5c4fe1739c"
+            },
+            {
+              "doc_id": "7e87c3d6-cf0b-4367-bfd7-24d3b6b1d9f1"
+            },
+            {
+              "doc_id": "92e1ad08-95aa-4c34-9337-301186841286"
+            },
+            {
+              "doc_id": "92f45ed9-19b9-4e0e-b760-e7933d5585be"
+            },
+            {
+              "doc_id": "93e05d05-4e27-428b-ad4d-dbe50339cb48"
+            },
+            {
+              "doc_id": "9809a56d-5e3d-42cf-b937-7ec5af9a26f5"
+            },
+            {
+              "doc_id": "a7d49a47-22d1-40a0-84db-e9429bfeb200"
+            },
+            {
+              "doc_id": "b968a8ee-6894-409e-ae52-5cee173821f6"
+            },
+            {
+              "doc_id": "bba3b72b-92e6-424f-99b1-e3b0e89276eb"
+            },
+            {
+              "doc_id": "c04cedb3-1b6f-4519-bee1-f08abfd7cd65"
+            },
+            {
+              "doc_id": "d39120b8-376b-4f6d-ad59-894ff409f927"
+            },
+            {
+              "doc_id": "e72eef38-286e-4bb9-bcff-e7d9ce49bf83"
+            },
+            {
+              "doc_id": "e95bceba-d6c8-4c74-88b8-be366560dec4"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            }
+          ]
+        },
+        "Protecting the rights of citizens and children": {
+          "answer": "Protecting the rights of citizens and children",
+          "references": [
+            {
+              "doc_id": "10cd6ccd-a90c-44cc-98b3-04beb755d79e"
+            }
+          ]
+        },
+        "Need for recreation and entertainment to stay fresh and cheerful": {
+          "answer": "Need for recreation and entertainment to stay fresh and cheerful",
+          "references": [
+            {
+              "doc_id": "2224df20-fbad-4851-9759-d228c5a9a283"
+            },
+            {
+              "doc_id": "ae26ed39-a882-4b45-bb78-9453a239b6be"
+            },
+            {
+              "doc_id": "bba3b72b-92e6-424f-99b1-e3b0e89276eb"
+            }
+          ]
+        },
+        "Equitable distribution and reduce social disparities,": {
+          "answer": "Equitable distribution and reduce social disparities,",
+          "references": [
+            {
+              "doc_id": "484b241f-ddf4-4803-bf38-06a89649b0d1"
+            },
+            {
+              "doc_id": "4bef5d5d-ab80-4ced-90ad-a842a3132e35"
+            },
+            {
+              "doc_id": "c04cedb3-1b6f-4519-bee1-f08abfd7cd65"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            }
+          ]
+        },
+        "Increase real estate values": {
+          "answer": "Increase real estate values",
+          "references": [
+            {
+              "doc_id": "0111e858-8d72-4384-a80e-b803c7236d2d"
+            },
+            {
+              "doc_id": "a7d49a47-22d1-40a0-84db-e9429bfeb200"
+            }
+          ]
+        }
+      },
+      "question_id": "11de5ea4e6ecd43ab2690cd972cc3337",
+      "aggregator_type": "OR",
+      "query_id": "309",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.644384+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is one of the significant challenges in creating parks?": {
+      "question": "What is one of the significant challenges in creating parks?",
+      "answers": {
+        "Finding suitable locations": {
+          "answer": "Finding suitable locations",
+          "references": [
+            {
+              "doc_id": "0be91647-6c98-49db-ba7e-147691bd12ce"
+            },
+            {
+              "doc_id": "3efe24c4-b307-4d26-b684-ae3aee91ce41"
+            },
+            {
+              "doc_id": "56b89a6a-ed43-4ddc-9b10-cc0f5f49b071"
+            },
+            {
+              "doc_id": "64998fd4-5611-42a8-a0a5-51e47b547791"
+            },
+            {
+              "doc_id": "7f72fdf5-3b7f-4b33-9285-03c5f8b4652c"
+            },
+            {
+              "doc_id": "a2020e43-1b62-4dfc-87ca-ba147668311a"
+            },
+            {
+              "doc_id": "a9b79002-5728-4c0f-ace1-ff6e23218ec9"
+            },
+            {
+              "doc_id": "b968a8ee-6894-409e-ae52-5cee173821f6"
+            },
+            {
+              "doc_id": "e72eef38-286e-4bb9-bcff-e7d9ce49bf83"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            },
+            {
+              "doc_id": "f9a4a8b3-f301-46de-8f59-764cdabde149"
+            }
+          ]
+        },
+        "Financial shortage": {
+          "answer": "Financial shortage",
+          "references": [
+            {
+              "doc_id": "38253e52-2aee-452c-996f-c97d8dc3ee43"
+            },
+            {
+              "doc_id": "43af7362-19ce-4f92-a9eb-8bd7471ad0ee"
+            },
+            {
+              "doc_id": "5a968cba-8350-4e97-a407-c747356d60b6"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            }
+          ]
+        },
+        "Poor planning": {
+          "answer": "Poor planning",
+          "references": [
+            {
+              "doc_id": "f0d5c88a-b30c-4f2d-8127-eed105e6ce9f"
+            }
+          ]
+        }
+      },
+      "question_id": "c7466ff3485149a32fbdc007fc3c8dec",
+      "aggregator_type": "OR",
+      "query_id": "309",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.644437+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What practical purposes can pocket parks serve during crises?": {
+      "question": "What practical purposes can pocket parks serve during crises?",
+      "answers": {
+        "Providing earthquake shelters": {
+          "answer": "Providing earthquake shelters",
+          "references": [
+            {
+              "doc_id": "484b241f-ddf4-4803-bf38-06a89649b0d1"
+            },
+            {
+              "doc_id": "515320c3-aa0a-4899-88c9-29009e24df63"
+            },
+            {
+              "doc_id": "c04cedb3-1b6f-4519-bee1-f08abfd7cd65"
+            }
+          ]
+        },
+        "Reducing flooding": {
+          "answer": "Reducing flooding",
+          "references": [
+            {
+              "doc_id": "81a94c6e-0b7f-4a9e-bc55-892edb545abe"
+            }
+          ]
+        },
+        "Provide spaces for outdoor activities during pandemic": {
+          "answer": "Provide spaces for outdoor activities during pandemic",
+          "references": [
+            {
+              "doc_id": "8bae87c6-3069-4e45-b1b6-97f3631c82c4"
+            }
+          ]
+        }
+      },
+      "question_id": "69fc38b5a3569b515ed9e17a96a82bc5",
+      "aggregator_type": "OR",
+      "query_id": "309",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.644473+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How do pocket parks contribute to recreation and enjoyment?": {
+      "question": "How do pocket parks contribute to recreation and enjoyment?",
+      "answers": {
+        "space for recreation": {
+          "answer": "space for recreation",
+          "references": [
+            {
+              "doc_id": "036e5322-7f16-40a3-802f-1b1594f16c08"
+            },
+            {
+              "doc_id": "10cd6ccd-a90c-44cc-98b3-04beb755d79e"
+            },
+            {
+              "doc_id": "13740d8a-a804-4b81-996d-18eb0232255b"
+            },
+            {
+              "doc_id": "174932b5-7ed4-4cb8-ad1e-ec456389e884"
+            },
+            {
+              "doc_id": "19ed0e93-9c89-41e1-9312-86d1ef81346b"
+            },
+            {
+              "doc_id": "1aa55a2f-5105-4722-8ac1-4748ee2ff992"
+            },
+            {
+              "doc_id": "43af7362-19ce-4f92-a9eb-8bd7471ad0ee"
+            },
+            {
+              "doc_id": "47ff4d31-e071-43df-9718-228f3f95f831"
+            },
+            {
+              "doc_id": "484b241f-ddf4-4803-bf38-06a89649b0d1"
+            },
+            {
+              "doc_id": "49a36547-2ce3-4092-b592-be2513ecce2d"
+            },
+            {
+              "doc_id": "4bef5d5d-ab80-4ced-90ad-a842a3132e35"
+            },
+            {
+              "doc_id": "4c8e0f42-6d1a-4997-8ae1-bbcabdd448bd"
+            },
+            {
+              "doc_id": "54b3b2ca-3d88-4938-8214-bde4b32c1d59"
+            },
+            {
+              "doc_id": "54f423ec-f179-468f-8e36-06ab6a842ec9"
+            },
+            {
+              "doc_id": "68676ecf-1da4-4d10-ae1e-d5da711940ce"
+            },
+            {
+              "doc_id": "74bf07ff-54f6-4b1b-a956-8f5c4fe1739c"
+            },
+            {
+              "doc_id": "846a571d-7c47-439f-8a71-5d15d055c4c1"
+            },
+            {
+              "doc_id": "927727ff-8602-4e28-bf5d-e695ebc4a36a"
+            },
+            {
+              "doc_id": "93e05d05-4e27-428b-ad4d-dbe50339cb48"
+            },
+            {
+              "doc_id": "948592f4-1b2e-487e-ba84-d29d3b930705"
+            },
+            {
+              "doc_id": "9809a56d-5e3d-42cf-b937-7ec5af9a26f5"
+            },
+            {
+              "doc_id": "a7d49a47-22d1-40a0-84db-e9429bfeb200"
+            },
+            {
+              "doc_id": "ae26ed39-a882-4b45-bb78-9453a239b6be"
+            },
+            {
+              "doc_id": "b968a8ee-6894-409e-ae52-5cee173821f6"
+            },
+            {
+              "doc_id": "bba3b72b-92e6-424f-99b1-e3b0e89276eb"
+            },
+            {
+              "doc_id": "bf73eb88-2d5b-459d-932f-6f166fa0ef8f"
+            },
+            {
+              "doc_id": "c05d35a6-9f03-4254-9085-df082599cc72"
+            },
+            {
+              "doc_id": "c0e06147-5f9a-4bb8-8837-a2ced08b63b1"
+            },
+            {
+              "doc_id": "c65b5ab3-d173-40d9-954a-023654c5e85f"
+            },
+            {
+              "doc_id": "c7386ebc-b183-4f42-b577-306b90303c18"
+            },
+            {
+              "doc_id": "d39120b8-376b-4f6d-ad59-894ff409f927"
+            },
+            {
+              "doc_id": "ebcaca81-ce40-40bb-a1dd-811ae936b0b4"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            },
+            {
+              "doc_id": "f9a4a8b3-f301-46de-8f59-764cdabde149"
+            }
+          ]
+        },
+        "space for enjoyment": {
+          "answer": "space for enjoyment",
+          "references": [
+            {
+              "doc_id": "0fd72812-db51-42a7-acfa-749934f45918"
+            },
+            {
+              "doc_id": "13740d8a-a804-4b81-996d-18eb0232255b"
+            },
+            {
+              "doc_id": "174932b5-7ed4-4cb8-ad1e-ec456389e884"
+            },
+            {
+              "doc_id": "19ed0e93-9c89-41e1-9312-86d1ef81346b"
+            },
+            {
+              "doc_id": "1aa55a2f-5105-4722-8ac1-4748ee2ff992"
+            },
+            {
+              "doc_id": "2e63fe27-e826-4f94-8442-60089f9a611f"
+            },
+            {
+              "doc_id": "4211208d-9fe6-4d38-8c3f-1eb7a5d98721"
+            },
+            {
+              "doc_id": "43af7362-19ce-4f92-a9eb-8bd7471ad0ee"
+            },
+            {
+              "doc_id": "47ff4d31-e071-43df-9718-228f3f95f831"
+            },
+            {
+              "doc_id": "484b241f-ddf4-4803-bf38-06a89649b0d1"
+            },
+            {
+              "doc_id": "49a36547-2ce3-4092-b592-be2513ecce2d"
+            },
+            {
+              "doc_id": "4c8e0f42-6d1a-4997-8ae1-bbcabdd448bd"
+            },
+            {
+              "doc_id": "54b3b2ca-3d88-4938-8214-bde4b32c1d59"
+            },
+            {
+              "doc_id": "54f423ec-f179-468f-8e36-06ab6a842ec9"
+            },
+            {
+              "doc_id": "5a968cba-8350-4e97-a407-c747356d60b6"
+            },
+            {
+              "doc_id": "68676ecf-1da4-4d10-ae1e-d5da711940ce"
+            },
+            {
+              "doc_id": "74bf07ff-54f6-4b1b-a956-8f5c4fe1739c"
+            },
+            {
+              "doc_id": "846a571d-7c47-439f-8a71-5d15d055c4c1"
+            },
+            {
+              "doc_id": "927727ff-8602-4e28-bf5d-e695ebc4a36a"
+            },
+            {
+              "doc_id": "93e05d05-4e27-428b-ad4d-dbe50339cb48"
+            },
+            {
+              "doc_id": "948592f4-1b2e-487e-ba84-d29d3b930705"
+            },
+            {
+              "doc_id": "95509053-7c3a-4536-b2ba-0ea3814c3ad6"
+            },
+            {
+              "doc_id": "9809a56d-5e3d-42cf-b937-7ec5af9a26f5"
+            },
+            {
+              "doc_id": "a7d49a47-22d1-40a0-84db-e9429bfeb200"
+            },
+            {
+              "doc_id": "ae26ed39-a882-4b45-bb78-9453a239b6be"
+            },
+            {
+              "doc_id": "b968a8ee-6894-409e-ae52-5cee173821f6"
+            },
+            {
+              "doc_id": "bba3b72b-92e6-424f-99b1-e3b0e89276eb"
+            },
+            {
+              "doc_id": "bf73eb88-2d5b-459d-932f-6f166fa0ef8f"
+            },
+            {
+              "doc_id": "c04cedb3-1b6f-4519-bee1-f08abfd7cd65"
+            },
+            {
+              "doc_id": "c65b5ab3-d173-40d9-954a-023654c5e85f"
+            },
+            {
+              "doc_id": "c7386ebc-b183-4f42-b577-306b90303c18"
+            },
+            {
+              "doc_id": "d39120b8-376b-4f6d-ad59-894ff409f927"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            },
+            {
+              "doc_id": "f9a4a8b3-f301-46de-8f59-764cdabde149"
+            }
+          ]
+        },
+        "opportunities for leisure activities": {
+          "answer": "opportunities for leisure activities",
+          "references": [
+            {
+              "doc_id": "036e5322-7f16-40a3-802f-1b1594f16c08"
+            },
+            {
+              "doc_id": "13740d8a-a804-4b81-996d-18eb0232255b"
+            },
+            {
+              "doc_id": "174932b5-7ed4-4cb8-ad1e-ec456389e884"
+            },
+            {
+              "doc_id": "19ed0e93-9c89-41e1-9312-86d1ef81346b"
+            },
+            {
+              "doc_id": "43af7362-19ce-4f92-a9eb-8bd7471ad0ee"
+            },
+            {
+              "doc_id": "484b241f-ddf4-4803-bf38-06a89649b0d1"
+            },
+            {
+              "doc_id": "5a968cba-8350-4e97-a407-c747356d60b6"
+            },
+            {
+              "doc_id": "74bf07ff-54f6-4b1b-a956-8f5c4fe1739c"
+            },
+            {
+              "doc_id": "927727ff-8602-4e28-bf5d-e695ebc4a36a"
+            },
+            {
+              "doc_id": "93e05d05-4e27-428b-ad4d-dbe50339cb48"
+            },
+            {
+              "doc_id": "948592f4-1b2e-487e-ba84-d29d3b930705"
+            },
+            {
+              "doc_id": "9809a56d-5e3d-42cf-b937-7ec5af9a26f5"
+            },
+            {
+              "doc_id": "ae26ed39-a882-4b45-bb78-9453a239b6be"
+            },
+            {
+              "doc_id": "b968a8ee-6894-409e-ae52-5cee173821f6"
+            },
+            {
+              "doc_id": "bba3b72b-92e6-424f-99b1-e3b0e89276eb"
+            },
+            {
+              "doc_id": "c04cedb3-1b6f-4519-bee1-f08abfd7cd65"
+            },
+            {
+              "doc_id": "c05d35a6-9f03-4254-9085-df082599cc72"
+            },
+            {
+              "doc_id": "d39120b8-376b-4f6d-ad59-894ff409f927"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            },
+            {
+              "doc_id": "f9a4a8b3-f301-46de-8f59-764cdabde149"
+            }
+          ]
+        }
+      },
+      "question_id": "0ff9d14243549272072e418f28ad6706",
+      "aggregator_type": "AND",
+      "query_id": "309",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.644605+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What positive impact do neighborhood parks and green spaces have on citizens?": {
+      "question": "What positive impact do neighborhood parks and green spaces have on citizens?",
+      "answers": {
+        "Boosting mental health": {
+          "answer": "Boosting mental health",
+          "references": [
+            {
+              "doc_id": "0acb9e54-ad52-4502-b831-7c9f9f6d21f4"
+            },
+            {
+              "doc_id": "13740d8a-a804-4b81-996d-18eb0232255b"
+            },
+            {
+              "doc_id": "16cdf1d3-b709-4503-beb1-7f7fc180cd7c"
+            },
+            {
+              "doc_id": "19ed0e93-9c89-41e1-9312-86d1ef81346b"
+            },
+            {
+              "doc_id": "19edaf45-3e2f-4fe2-82a2-7a5074ff8527"
+            },
+            {
+              "doc_id": "221ef484-2063-4ca6-a521-2cce1d718d32"
+            },
+            {
+              "doc_id": "2224df20-fbad-4851-9759-d228c5a9a283"
+            },
+            {
+              "doc_id": "2761fc5d-7532-4bed-b074-374cbce86641"
+            },
+            {
+              "doc_id": "2e63fe27-e826-4f94-8442-60089f9a611f"
+            },
+            {
+              "doc_id": "3182fe47-55aa-41cc-8bbf-82eb7770c6bb"
+            },
+            {
+              "doc_id": "364edd8a-3983-4bab-80d4-5c8816de5704"
+            },
+            {
+              "doc_id": "41565c66-b863-45e2-9e4c-88c89e1ba805"
+            },
+            {
+              "doc_id": "4211208d-9fe6-4d38-8c3f-1eb7a5d98721"
+            },
+            {
+              "doc_id": "43af7362-19ce-4f92-a9eb-8bd7471ad0ee"
+            },
+            {
+              "doc_id": "475e0af7-4512-4d35-b193-0704da2ef633"
+            },
+            {
+              "doc_id": "4bef5d5d-ab80-4ced-90ad-a842a3132e35"
+            },
+            {
+              "doc_id": "5a968cba-8350-4e97-a407-c747356d60b6"
+            },
+            {
+              "doc_id": "92e1ad08-95aa-4c34-9337-301186841286"
+            },
+            {
+              "doc_id": "92f45ed9-19b9-4e0e-b760-e7933d5585be"
+            },
+            {
+              "doc_id": "99437fcf-6fa4-4470-b11d-f17d1d2299c3"
+            },
+            {
+              "doc_id": "a5cf8612-43b7-439c-bf49-9b9349419ea6"
+            },
+            {
+              "doc_id": "ae26ed39-a882-4b45-bb78-9453a239b6be"
+            },
+            {
+              "doc_id": "b0027fd9-eecf-4de9-af1a-a3393a168906"
+            },
+            {
+              "doc_id": "bba3b72b-92e6-424f-99b1-e3b0e89276eb"
+            },
+            {
+              "doc_id": "c04cedb3-1b6f-4519-bee1-f08abfd7cd65"
+            },
+            {
+              "doc_id": "c05d35a6-9f03-4254-9085-df082599cc72"
+            },
+            {
+              "doc_id": "c7386ebc-b183-4f42-b577-306b90303c18"
+            },
+            {
+              "doc_id": "d181756c-ed6f-4a36-85f2-4cde6598bc43"
+            },
+            {
+              "doc_id": "d39120b8-376b-4f6d-ad59-894ff409f927"
+            },
+            {
+              "doc_id": "e0c0792f-27e2-411f-8235-a22bb1e308f8"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            }
+          ]
+        },
+        "Promoting emotional well-being": {
+          "answer": "Promoting emotional well-being",
+          "references": [
+            {
+              "doc_id": "05c1c4c9-ec7c-4739-ba5f-f871d2f4ceed"
+            },
+            {
+              "doc_id": "0be91647-6c98-49db-ba7e-147691bd12ce"
+            },
+            {
+              "doc_id": "13740d8a-a804-4b81-996d-18eb0232255b"
+            },
+            {
+              "doc_id": "16cdf1d3-b709-4503-beb1-7f7fc180cd7c"
+            },
+            {
+              "doc_id": "174932b5-7ed4-4cb8-ad1e-ec456389e884"
+            },
+            {
+              "doc_id": "19ed0e93-9c89-41e1-9312-86d1ef81346b"
+            },
+            {
+              "doc_id": "19edaf45-3e2f-4fe2-82a2-7a5074ff8527"
+            },
+            {
+              "doc_id": "221ef484-2063-4ca6-a521-2cce1d718d32"
+            },
+            {
+              "doc_id": "2224df20-fbad-4851-9759-d228c5a9a283"
+            },
+            {
+              "doc_id": "26d9156b-afb2-4a44-bbec-af34ebfe165f"
+            },
+            {
+              "doc_id": "2761fc5d-7532-4bed-b074-374cbce86641"
+            },
+            {
+              "doc_id": "2e63fe27-e826-4f94-8442-60089f9a611f"
+            },
+            {
+              "doc_id": "3182fe47-55aa-41cc-8bbf-82eb7770c6bb"
+            },
+            {
+              "doc_id": "364edd8a-3983-4bab-80d4-5c8816de5704"
+            },
+            {
+              "doc_id": "41565c66-b863-45e2-9e4c-88c89e1ba805"
+            },
+            {
+              "doc_id": "4211208d-9fe6-4d38-8c3f-1eb7a5d98721"
+            },
+            {
+              "doc_id": "43af7362-19ce-4f92-a9eb-8bd7471ad0ee"
+            },
+            {
+              "doc_id": "475e0af7-4512-4d35-b193-0704da2ef633"
+            },
+            {
+              "doc_id": "4bef5d5d-ab80-4ced-90ad-a842a3132e35"
+            },
+            {
+              "doc_id": "500641b2-d324-441c-af29-265f5c8d248b"
+            },
+            {
+              "doc_id": "515320c3-aa0a-4899-88c9-29009e24df63"
+            },
+            {
+              "doc_id": "5a968cba-8350-4e97-a407-c747356d60b6"
+            },
+            {
+              "doc_id": "6785f3d6-66bb-4323-aee8-ca659d208c62"
+            },
+            {
+              "doc_id": "7cc03bd6-4115-4ddd-8367-3d07e0e83220"
+            },
+            {
+              "doc_id": "81bf96ec-1d29-4ab3-a806-991d209d60cb"
+            },
+            {
+              "doc_id": "8887723a-052c-40de-9cbd-c30307e60726"
+            },
+            {
+              "doc_id": "8c67031f-1fbb-4518-bfd2-7fc61009347e"
+            },
+            {
+              "doc_id": "92e1ad08-95aa-4c34-9337-301186841286"
+            },
+            {
+              "doc_id": "92f45ed9-19b9-4e0e-b760-e7933d5585be"
+            },
+            {
+              "doc_id": "948592f4-1b2e-487e-ba84-d29d3b930705"
+            },
+            {
+              "doc_id": "ae26ed39-a882-4b45-bb78-9453a239b6be"
+            },
+            {
+              "doc_id": "b84b0d2e-0535-4f84-82f4-3eb96dbf9085"
+            },
+            {
+              "doc_id": "bba3b72b-92e6-424f-99b1-e3b0e89276eb"
+            },
+            {
+              "doc_id": "c04cedb3-1b6f-4519-bee1-f08abfd7cd65"
+            },
+            {
+              "doc_id": "c05d35a6-9f03-4254-9085-df082599cc72"
+            },
+            {
+              "doc_id": "c7386ebc-b183-4f42-b577-306b90303c18"
+            },
+            {
+              "doc_id": "d39120b8-376b-4f6d-ad59-894ff409f927"
+            },
+            {
+              "doc_id": "e0c0792f-27e2-411f-8235-a22bb1e308f8"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            }
+          ]
+        },
+        "promote cultural exchanges between different social classes and generations .": {
+          "answer": "promote cultural exchanges between different social classes and generations .",
+          "references": [
+            {
+              "doc_id": "291b71cd-061a-45d9-a857-0db31417630f"
+            },
+            {
+              "doc_id": "43af7362-19ce-4f92-a9eb-8bd7471ad0ee"
+            },
+            {
+              "doc_id": "4bef5d5d-ab80-4ced-90ad-a842a3132e35"
+            }
+          ]
+        },
+        "Boosting physical health": {
+          "answer": "Boosting physical health",
+          "references": [
+            {
+              "doc_id": "05c1c4c9-ec7c-4739-ba5f-f871d2f4ceed"
+            },
+            {
+              "doc_id": "4211208d-9fe6-4d38-8c3f-1eb7a5d98721"
+            },
+            {
+              "doc_id": "500641b2-d324-441c-af29-265f5c8d248b"
+            },
+            {
+              "doc_id": "74bf07ff-54f6-4b1b-a956-8f5c4fe1739c"
+            },
+            {
+              "doc_id": "92f45ed9-19b9-4e0e-b760-e7933d5585be"
+            },
+            {
+              "doc_id": "a5cf8612-43b7-439c-bf49-9b9349419ea6"
+            },
+            {
+              "doc_id": "e95bceba-d6c8-4c74-88b8-be366560dec4"
+            }
+          ]
+        },
+        "Increase real estate values": {
+          "answer": "Increase real estate values",
+          "references": [
+            {
+              "doc_id": "0111e858-8d72-4384-a80e-b803c7236d2d"
+            },
+            {
+              "doc_id": "a7d49a47-22d1-40a0-84db-e9429bfeb200"
+            }
+          ]
+        },
+        "Make people walk more, benefiting health": {
+          "answer": "Make people walk more, benefiting health",
+          "references": [
+            {
+              "doc_id": "08452647-065b-4643-bd46-89867cf19509"
+            },
+            {
+              "doc_id": "19ed0e93-9c89-41e1-9312-86d1ef81346b"
+            },
+            {
+              "doc_id": "54f423ec-f179-468f-8e36-06ab6a842ec9"
+            },
+            {
+              "doc_id": "93e05d05-4e27-428b-ad4d-dbe50339cb48"
+            }
+          ]
+        },
+        "Reduce violence": {
+          "answer": "Reduce violence",
+          "references": [
+            {
+              "doc_id": "0acb9e54-ad52-4502-b831-7c9f9f6d21f4"
+            }
+          ]
+        },
+        "Improve air quality for them": {
+          "answer": "Improve air quality for them",
+          "references": [
+            {
+              "doc_id": "47ff4d31-e071-43df-9718-228f3f95f831"
+            },
+            {
+              "doc_id": "4c8e0f42-6d1a-4997-8ae1-bbcabdd448bd"
+            },
+            {
+              "doc_id": "5ef57860-0dd7-4a12-990a-0b4b8cac2580"
+            },
+            {
+              "doc_id": "6c0c519a-f55e-4452-aebf-bfcf12f80147"
+            }
+          ]
+        },
+        "Provide better places for relaxation and leisure": {
+          "answer": "Provide better places for relaxation and leisure",
+          "references": [
+            {
+              "doc_id": "47ff4d31-e071-43df-9718-228f3f95f831"
+            },
+            {
+              "doc_id": "49a36547-2ce3-4092-b592-be2513ecce2d"
+            },
+            {
+              "doc_id": "4c8e0f42-6d1a-4997-8ae1-bbcabdd448bd"
+            },
+            {
+              "doc_id": "54f423ec-f179-468f-8e36-06ab6a842ec9"
+            },
+            {
+              "doc_id": "5ef57860-0dd7-4a12-990a-0b4b8cac2580"
+            },
+            {
+              "doc_id": "6c0c519a-f55e-4452-aebf-bfcf12f80147"
+            },
+            {
+              "doc_id": "846a571d-7c47-439f-8a71-5d15d055c4c1"
+            },
+            {
+              "doc_id": "927727ff-8602-4e28-bf5d-e695ebc4a36a"
+            },
+            {
+              "doc_id": "93e05d05-4e27-428b-ad4d-dbe50339cb48"
+            },
+            {
+              "doc_id": "9809a56d-5e3d-42cf-b937-7ec5af9a26f5"
+            },
+            {
+              "doc_id": "a7d49a47-22d1-40a0-84db-e9429bfeb200"
+            },
+            {
+              "doc_id": "c7386ebc-b183-4f42-b577-306b90303c18"
+            }
+          ]
+        },
+        "Provide places  to grow fruits and vegetables using new agriculture technologies": {
+          "answer": "Provide places  to grow fruits and vegetables using new agriculture technologies",
+          "references": [
+            {
+              "doc_id": "49a36547-2ce3-4092-b592-be2513ecce2d"
+            },
+            {
+              "doc_id": "748cf939-7353-4d59-a851-883bc012e3d5"
+            }
+          ]
+        },
+        "Enhance exchanges between neighbors": {
+          "answer": "Enhance exchanges between neighbors",
+          "references": [
+            {
+              "doc_id": "748cf939-7353-4d59-a851-883bc012e3d5"
+            },
+            {
+              "doc_id": "927727ff-8602-4e28-bf5d-e695ebc4a36a"
+            }
+          ]
+        }
+      },
+      "question_id": "9780b0db581afdc8da265ea3c31087e0",
+      "aggregator_type": "AND",
+      "query_id": "309",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.644833+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Why are pocket parks particularly valuable in urban environments?": {
+      "question": "Why are pocket parks particularly valuable in urban environments?",
+      "answers": {
+        "Providing green spaces in densely populated areas": {
+          "answer": "Providing green spaces in densely populated areas",
+          "references": [
+            {
+              "doc_id": "174932b5-7ed4-4cb8-ad1e-ec456389e884"
+            },
+            {
+              "doc_id": "19ed0e93-9c89-41e1-9312-86d1ef81346b"
+            },
+            {
+              "doc_id": "2e63fe27-e826-4f94-8442-60089f9a611f"
+            },
+            {
+              "doc_id": "515320c3-aa0a-4899-88c9-29009e24df63"
+            },
+            {
+              "doc_id": "5ef57860-0dd7-4a12-990a-0b4b8cac2580"
+            },
+            {
+              "doc_id": "7e87c3d6-cf0b-4367-bfd7-24d3b6b1d9f1"
+            },
+            {
+              "doc_id": "92f45ed9-19b9-4e0e-b760-e7933d5585be"
+            },
+            {
+              "doc_id": "93e05d05-4e27-428b-ad4d-dbe50339cb48"
+            },
+            {
+              "doc_id": "95509053-7c3a-4536-b2ba-0ea3814c3ad6"
+            },
+            {
+              "doc_id": "ae26ed39-a882-4b45-bb78-9453a239b6be"
+            },
+            {
+              "doc_id": "b0027fd9-eecf-4de9-af1a-a3393a168906"
+            },
+            {
+              "doc_id": "bba3b72b-92e6-424f-99b1-e3b0e89276eb"
+            },
+            {
+              "doc_id": "c05d35a6-9f03-4254-9085-df082599cc72"
+            },
+            {
+              "doc_id": "c65b5ab3-d173-40d9-954a-023654c5e85f"
+            },
+            {
+              "doc_id": "d39120b8-376b-4f6d-ad59-894ff409f927"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            }
+          ]
+        },
+        "Creating play and sports facilities for children": {
+          "answer": "Creating play and sports facilities for children",
+          "references": [
+            {
+              "doc_id": "036e5322-7f16-40a3-802f-1b1594f16c08"
+            },
+            {
+              "doc_id": "0ecd22c7-ccc5-427e-844d-405dd9c20f46"
+            },
+            {
+              "doc_id": "13740d8a-a804-4b81-996d-18eb0232255b"
+            },
+            {
+              "doc_id": "43af7362-19ce-4f92-a9eb-8bd7471ad0ee"
+            },
+            {
+              "doc_id": "948592f4-1b2e-487e-ba84-d29d3b930705"
+            },
+            {
+              "doc_id": "ae26ed39-a882-4b45-bb78-9453a239b6be"
+            },
+            {
+              "doc_id": "b439cf1b-e583-4737-9568-ff827c1ddd90"
+            },
+            {
+              "doc_id": "c05d35a6-9f03-4254-9085-df082599cc72"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            }
+          ]
+        },
+        "Providing spaces for physical exercises to people of all ages": {
+          "answer": "Providing spaces for physical exercises to people of all ages",
+          "references": [
+            {
+              "doc_id": "846a571d-7c47-439f-8a71-5d15d055c4c1"
+            },
+            {
+              "doc_id": "927727ff-8602-4e28-bf5d-e695ebc4a36a"
+            },
+            {
+              "doc_id": "93e05d05-4e27-428b-ad4d-dbe50339cb48"
+            },
+            {
+              "doc_id": "c7386ebc-b183-4f42-b577-306b90303c18"
+            }
+          ]
+        }
+      },
+      "question_id": "6f5d0cd9d656db7b87c70e1c9321b633",
+      "aggregator_type": "OR",
+      "query_id": "309",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.644904+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How do pocket parks contribute to the overall livability of cities?": {
+      "question": "How do pocket parks contribute to the overall livability of cities?",
+      "answers": {
+        "By providing  spaces for relaxation": {
+          "answer": "By providing  spaces for relaxation",
+          "references": [
+            {
+              "doc_id": "10cd6ccd-a90c-44cc-98b3-04beb755d79e"
+            },
+            {
+              "doc_id": "13740d8a-a804-4b81-996d-18eb0232255b"
+            },
+            {
+              "doc_id": "174932b5-7ed4-4cb8-ad1e-ec456389e884"
+            },
+            {
+              "doc_id": "19ed0e93-9c89-41e1-9312-86d1ef81346b"
+            },
+            {
+              "doc_id": "1aa55a2f-5105-4722-8ac1-4748ee2ff992"
+            },
+            {
+              "doc_id": "26d9156b-afb2-4a44-bbec-af34ebfe165f"
+            },
+            {
+              "doc_id": "43af7362-19ce-4f92-a9eb-8bd7471ad0ee"
+            },
+            {
+              "doc_id": "54f423ec-f179-468f-8e36-06ab6a842ec9"
+            },
+            {
+              "doc_id": "68676ecf-1da4-4d10-ae1e-d5da711940ce"
+            },
+            {
+              "doc_id": "846a571d-7c47-439f-8a71-5d15d055c4c1"
+            },
+            {
+              "doc_id": "927727ff-8602-4e28-bf5d-e695ebc4a36a"
+            },
+            {
+              "doc_id": "93e05d05-4e27-428b-ad4d-dbe50339cb48"
+            },
+            {
+              "doc_id": "948592f4-1b2e-487e-ba84-d29d3b930705"
+            },
+            {
+              "doc_id": "95509053-7c3a-4536-b2ba-0ea3814c3ad6"
+            },
+            {
+              "doc_id": "a7d49a47-22d1-40a0-84db-e9429bfeb200"
+            },
+            {
+              "doc_id": "bba3b72b-92e6-424f-99b1-e3b0e89276eb"
+            },
+            {
+              "doc_id": "c0e06147-5f9a-4bb8-8837-a2ced08b63b1"
+            },
+            {
+              "doc_id": "c65b5ab3-d173-40d9-954a-023654c5e85f"
+            },
+            {
+              "doc_id": "c7386ebc-b183-4f42-b577-306b90303c18"
+            },
+            {
+              "doc_id": "d39120b8-376b-4f6d-ad59-894ff409f927"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            }
+          ]
+        },
+        "Nature connection": {
+          "answer": "Nature connection",
+          "references": [
+            {
+              "doc_id": "13740d8a-a804-4b81-996d-18eb0232255b"
+            },
+            {
+              "doc_id": "19ed0e93-9c89-41e1-9312-86d1ef81346b"
+            },
+            {
+              "doc_id": "221ef484-2063-4ca6-a521-2cce1d718d32"
+            },
+            {
+              "doc_id": "2e63fe27-e826-4f94-8442-60089f9a611f"
+            },
+            {
+              "doc_id": "3182fe47-55aa-41cc-8bbf-82eb7770c6bb"
+            },
+            {
+              "doc_id": "38253e52-2aee-452c-996f-c97d8dc3ee43"
+            },
+            {
+              "doc_id": "3efe24c4-b307-4d26-b684-ae3aee91ce41"
+            },
+            {
+              "doc_id": "43af7362-19ce-4f92-a9eb-8bd7471ad0ee"
+            },
+            {
+              "doc_id": "484b241f-ddf4-4803-bf38-06a89649b0d1"
+            },
+            {
+              "doc_id": "64998fd4-5611-42a8-a0a5-51e47b547791"
+            },
+            {
+              "doc_id": "6c3252ec-4b8a-4018-a6fe-689233731b24"
+            },
+            {
+              "doc_id": "81bf96ec-1d29-4ab3-a806-991d209d60cb"
+            },
+            {
+              "doc_id": "92e1ad08-95aa-4c34-9337-301186841286"
+            },
+            {
+              "doc_id": "92f45ed9-19b9-4e0e-b760-e7933d5585be"
+            },
+            {
+              "doc_id": "948592f4-1b2e-487e-ba84-d29d3b930705"
+            },
+            {
+              "doc_id": "95509053-7c3a-4536-b2ba-0ea3814c3ad6"
+            },
+            {
+              "doc_id": "b0027fd9-eecf-4de9-af1a-a3393a168906"
+            },
+            {
+              "doc_id": "bba3b72b-92e6-424f-99b1-e3b0e89276eb"
+            },
+            {
+              "doc_id": "c04cedb3-1b6f-4519-bee1-f08abfd7cd65"
+            },
+            {
+              "doc_id": "c05d35a6-9f03-4254-9085-df082599cc72"
+            },
+            {
+              "doc_id": "d39120b8-376b-4f6d-ad59-894ff409f927"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            },
+            {
+              "doc_id": "f9a4a8b3-f301-46de-8f59-764cdabde149"
+            }
+          ]
+        },
+        "Reducing cost of intra-city travel": {
+          "answer": "Reducing cost of intra-city travel",
+          "references": [
+            {
+              "doc_id": "484b241f-ddf4-4803-bf38-06a89649b0d1"
+            }
+          ]
+        },
+        "Reducing traffic load": {
+          "answer": "Reducing traffic load",
+          "references": [
+            {
+              "doc_id": "484b241f-ddf4-4803-bf38-06a89649b0d1"
+            }
+          ]
+        },
+        "Can better regulate microclimate": {
+          "answer": "Can better regulate microclimate",
+          "references": [
+            {
+              "doc_id": "4c8e0f42-6d1a-4997-8ae1-bbcabdd448bd"
+            }
+          ]
+        },
+        "by improving people's mental health": {
+          "answer": "by improving people's mental health",
+          "references": [
+            {
+              "doc_id": "b84b0d2e-0535-4f84-82f4-3eb96dbf9085"
+            },
+            {
+              "doc_id": "c7386ebc-b183-4f42-b577-306b90303c18"
+            },
+            {
+              "doc_id": "e0c0792f-27e2-411f-8235-a22bb1e308f8"
+            }
+          ]
+        }
+      },
+      "question_id": "2a9a39d65786dc6a0183cb713af999a9",
+      "aggregator_type": "AND",
+      "query_id": "309",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.645017+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "In what ways do pocket parks complement traditional larger parks?": {
+      "question": "In what ways do pocket parks complement traditional larger parks?",
+      "answers": {
+        "Improving access to nature": {
+          "answer": "Improving access to nature",
+          "references": [
+            {
+              "doc_id": "036e5322-7f16-40a3-802f-1b1594f16c08"
+            },
+            {
+              "doc_id": "13740d8a-a804-4b81-996d-18eb0232255b"
+            },
+            {
+              "doc_id": "19ed0e93-9c89-41e1-9312-86d1ef81346b"
+            },
+            {
+              "doc_id": "221ef484-2063-4ca6-a521-2cce1d718d32"
+            },
+            {
+              "doc_id": "2224df20-fbad-4851-9759-d228c5a9a283"
+            },
+            {
+              "doc_id": "2e63fe27-e826-4f94-8442-60089f9a611f"
+            },
+            {
+              "doc_id": "3182fe47-55aa-41cc-8bbf-82eb7770c6bb"
+            },
+            {
+              "doc_id": "364edd8a-3983-4bab-80d4-5c8816de5704"
+            },
+            {
+              "doc_id": "38253e52-2aee-452c-996f-c97d8dc3ee43"
+            },
+            {
+              "doc_id": "3efe24c4-b307-4d26-b684-ae3aee91ce41"
+            },
+            {
+              "doc_id": "484b241f-ddf4-4803-bf38-06a89649b0d1"
+            },
+            {
+              "doc_id": "5a0b1ce7-19fd-4f8c-be9f-4d557d6a993f"
+            },
+            {
+              "doc_id": "64998fd4-5611-42a8-a0a5-51e47b547791"
+            },
+            {
+              "doc_id": "6c3252ec-4b8a-4018-a6fe-689233731b24"
+            },
+            {
+              "doc_id": "92e1ad08-95aa-4c34-9337-301186841286"
+            },
+            {
+              "doc_id": "948592f4-1b2e-487e-ba84-d29d3b930705"
+            },
+            {
+              "doc_id": "ae26ed39-a882-4b45-bb78-9453a239b6be"
+            },
+            {
+              "doc_id": "b0027fd9-eecf-4de9-af1a-a3393a168906"
+            },
+            {
+              "doc_id": "b968a8ee-6894-409e-ae52-5cee173821f6"
+            },
+            {
+              "doc_id": "bba3b72b-92e6-424f-99b1-e3b0e89276eb"
+            },
+            {
+              "doc_id": "c04cedb3-1b6f-4519-bee1-f08abfd7cd65"
+            },
+            {
+              "doc_id": "c05d35a6-9f03-4254-9085-df082599cc72"
+            },
+            {
+              "doc_id": "d39120b8-376b-4f6d-ad59-894ff409f927"
+            },
+            {
+              "doc_id": "ee368122-879d-43ed-98ca-293ce65ddf38"
+            },
+            {
+              "doc_id": "f9a4a8b3-f301-46de-8f59-764cdabde149"
+            }
+          ]
+        },
+        "Help create local environment in which there are parks within walking distance": {
+          "answer": "Help create local environment in which there are parks within walking distance",
+          "references": [
+            {
+              "doc_id": "93e05d05-4e27-428b-ad4d-dbe50339cb48"
+            }
+          ]
+        }
+      },
+      "question_id": "8274033feee7157a2785b3ad0c3bb00c",
+      "aggregator_type": "OR",
+      "query_id": "309",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.645072+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What are some of the good principles of community park/pocket park design?": {
+      "question": "What are some of the good principles of community park/pocket park design?",
+      "answers": {
+        "Do the planning based on the study of the needs of citizens": {
+          "answer": "Do the planning based on the study of the needs of citizens",
+          "references": [
+            {
+              "doc_id": "fe095d3a-9eaa-4fa7-9d80-c5f41b2ffe16"
+            }
+          ]
+        }
+      },
+      "question_id": "a9c04a50f6fba0eeb82bd3324b3e52ee",
+      "aggregator_type": "OR",
+      "query_id": "309",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.645094+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

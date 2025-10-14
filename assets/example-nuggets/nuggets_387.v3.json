@@ -1,0 +1,591 @@
+{
+  "query_id": "387",
+  "title_query": "Condoleezza Rice Influence International Affairs",
+  "full_query": "I need a report about Condoleezza Rice that focuses on her time in public service and that details specific statements or activities by her that either demonstrated her commitment to U.S. democratic values, showcased her efforts to promote democracy worldwide, or that had a significant impact on global affairs.",
+  "full_background": "I am a high school student writing a report for an assignment about influential women in politics that will focus on Condoleezza Rice.",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What was the title of the meeting that Condoleezza Rice participated in Yalta?": {
+      "question": "What was the title of the meeting that Condoleezza Rice participated in Yalta?",
+      "answers": {
+        "Ukraine and the World: Overcoming Tomorrow\u2019s Challenges": {
+          "answer": "Ukraine and the World: Overcoming Tomorrow\u2019s Challenges",
+          "references": [
+            {
+              "doc_id": "778e710f-4d33-414e-9b6a-0ff4528803c3"
+            },
+            {
+              "doc_id": "d955db32-6142-41dd-a0c5-dc333ad6e12e"
+            }
+          ]
+        }
+      },
+      "question_id": "3a912d8e8cef63d34f8bcfce652fda85",
+      "aggregator_type": "OR",
+      "query_id": "387",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.738460+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "In what city did the meeting Ukraine and the World: Overcoming Tomorrow's Challenges that Condoleezza Rice participated in take place?": {
+      "question": "In what city did the meeting Ukraine and the World: Overcoming Tomorrow's Challenges that Condoleezza Rice participated in take place?",
+      "answers": {
+        "Yalta": {
+          "answer": "Yalta",
+          "references": [
+            {
+              "doc_id": "778e710f-4d33-414e-9b6a-0ff4528803c3"
+            },
+            {
+              "doc_id": "d955db32-6142-41dd-a0c5-dc333ad6e12e"
+            },
+            {
+              "doc_id": "e380c13a-b91b-4889-9caf-f38f61627bbf"
+            }
+          ]
+        }
+      },
+      "question_id": "503b032355d7421492a8a8a2ccae3785",
+      "aggregator_type": "OR",
+      "query_id": "387",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.738492+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What was the topic of the session of the meeting Ukraine and the World: Overcoming Tomorrow's Challenges that Condoleezza Rice participated in Yalta?": {
+      "question": "What was the topic of the session of the meeting Ukraine and the World: Overcoming Tomorrow's Challenges that Condoleezza Rice participated in Yalta?",
+      "answers": {
+        "Global order and security": {
+          "answer": "Global order and security",
+          "references": [
+            {
+              "doc_id": "778e710f-4d33-414e-9b6a-0ff4528803c3"
+            },
+            {
+              "doc_id": "d955db32-6142-41dd-a0c5-dc333ad6e12e"
+            },
+            {
+              "doc_id": "e380c13a-b91b-4889-9caf-f38f61627bbf"
+            }
+          ]
+        },
+        "Energy": {
+          "answer": "Energy",
+          "references": [
+            {
+              "doc_id": "778e710f-4d33-414e-9b6a-0ff4528803c3"
+            },
+            {
+              "doc_id": "d955db32-6142-41dd-a0c5-dc333ad6e12e"
+            }
+          ]
+        },
+        "democracy": {
+          "answer": "democracy",
+          "references": [
+            {
+              "doc_id": "e380c13a-b91b-4889-9caf-f38f61627bbf"
+            }
+          ]
+        }
+      },
+      "question_id": "a26a3eff5581d553d5f0806d78950a2d",
+      "aggregator_type": "OR",
+      "query_id": "387",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.738530+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What issue was discussed at the energy session of the meeting Ukraine and the World: Overcoming Tomorrow's Challenges that Condoleezza Rice participated in Yalta?": {
+      "question": "What issue was discussed at the energy session of the meeting Ukraine and the World: Overcoming Tomorrow's Challenges that Condoleezza Rice participated in Yalta?",
+      "answers": {
+        "Challenges facing Europe in the era of crisis": {
+          "answer": "Challenges facing Europe in the era of crisis",
+          "references": [
+            {
+              "doc_id": "778e710f-4d33-414e-9b6a-0ff4528803c3"
+            },
+            {
+              "doc_id": "d955db32-6142-41dd-a0c5-dc333ad6e12e"
+            }
+          ]
+        },
+        "Energy security in the region": {
+          "answer": "Energy security in the region",
+          "references": [
+            {
+              "doc_id": "778e710f-4d33-414e-9b6a-0ff4528803c3"
+            },
+            {
+              "doc_id": "d955db32-6142-41dd-a0c5-dc333ad6e12e"
+            }
+          ]
+        },
+        "Development of alternative energy sources": {
+          "answer": "Development of alternative energy sources",
+          "references": [
+            {
+              "doc_id": "778e710f-4d33-414e-9b6a-0ff4528803c3"
+            },
+            {
+              "doc_id": "d955db32-6142-41dd-a0c5-dc333ad6e12e"
+            }
+          ]
+        },
+        "Interaction and cooperation between the EU countries, Russia and Ukraine": {
+          "answer": "Interaction and cooperation between the EU countries, Russia and Ukraine",
+          "references": [
+            {
+              "doc_id": "778e710f-4d33-414e-9b6a-0ff4528803c3"
+            },
+            {
+              "doc_id": "d955db32-6142-41dd-a0c5-dc333ad6e12e"
+            }
+          ]
+        }
+      },
+      "question_id": "2962c76459594e56c93c399746bf7d62",
+      "aggregator_type": "OR",
+      "query_id": "387",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.738575+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What was Condoleezza Rice's opinion on Ukraine's efforts to join NATO?": {
+      "question": "What was Condoleezza Rice's opinion on Ukraine's efforts to join NATO?",
+      "answers": {
+        "doubted Ukraine would join NATO": {
+          "answer": "doubted Ukraine would join NATO",
+          "references": [
+            {
+              "doc_id": "0099718c-882e-4d9b-957b-ef3f5fe4f913"
+            },
+            {
+              "doc_id": "3981669a-0386-478d-9320-e4c1803002f8"
+            },
+            {
+              "doc_id": "c98f179c-7d97-42eb-887d-66e33dd70dcb"
+            }
+          ]
+        },
+        "did not deny the possibility of Ukraine getting closer to joining NATO at some point": {
+          "answer": "did not deny the possibility of Ukraine getting closer to joining NATO at some point",
+          "references": [
+            {
+              "doc_id": "0099718c-882e-4d9b-957b-ef3f5fe4f913"
+            }
+          ]
+        },
+        "strongly advocated for Ukraine joining NATO": {
+          "answer": "strongly advocated for Ukraine joining NATO",
+          "references": [
+            {
+              "doc_id": "01718122-70e1-4052-962d-e412314793d0"
+            },
+            {
+              "doc_id": "9882fc39-deb3-4dce-846b-db0d3c27210d"
+            }
+          ]
+        },
+        "believed Ukraine could cooperate with NATO without membership": {
+          "answer": "believed Ukraine could cooperate with NATO without membership",
+          "references": [
+            {
+              "doc_id": "0099718c-882e-4d9b-957b-ef3f5fe4f913"
+            },
+            {
+              "doc_id": "3981669a-0386-478d-9320-e4c1803002f8"
+            },
+            {
+              "doc_id": "c98f179c-7d97-42eb-887d-66e33dd70dcb"
+            }
+          ]
+        }
+      },
+      "question_id": "de08891b5e8e9c19a41ed31ddd63fcf9",
+      "aggregator_type": "OR",
+      "query_id": "387",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.738619+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What was Condoleezza Rice's opinion on Russia\u2019s actions in Ukraine in 2014?": {
+      "question": "What was Condoleezza Rice's opinion on Russia\u2019s actions in Ukraine in 2014?",
+      "answers": {
+        "critical": {
+          "answer": "critical",
+          "references": [
+            {
+              "doc_id": "0099718c-882e-4d9b-957b-ef3f5fe4f913"
+            },
+            {
+              "doc_id": "684d24bb-f7ef-428f-bace-69bc0a61e2e5"
+            },
+            {
+              "doc_id": "7050c066-2fb6-4201-ad09-16c8918dfe68"
+            },
+            {
+              "doc_id": "8cc39a77-9ed8-462a-a22a-5b59e2100637"
+            },
+            {
+              "doc_id": "a2787675-1c55-4535-aded-d9d6c51720af"
+            },
+            {
+              "doc_id": "b8923f90-3d3e-4993-b1f1-d4882cfa09ab"
+            }
+          ]
+        }
+      },
+      "question_id": "4fcd7672804f0de8f18df67777a9d00f",
+      "aggregator_type": "OR",
+      "query_id": "387",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.738643+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What action should the US take in response to Russian aggression in Ukraine, according to Condoleezza Rice?": {
+      "question": "What action should the US take in response to Russian aggression in Ukraine, according to Condoleezza Rice?",
+      "answers": {
+        "continue to impose anti-Russian sanctions": {
+          "answer": "continue to impose anti-Russian sanctions",
+          "references": [
+            {
+              "doc_id": "0099718c-882e-4d9b-957b-ef3f5fe4f913"
+            },
+            {
+              "doc_id": "6d989531-8908-406b-ad2e-50bb721cadd1"
+            },
+            {
+              "doc_id": "7050c066-2fb6-4201-ad09-16c8918dfe68"
+            },
+            {
+              "doc_id": "a2787675-1c55-4535-aded-d9d6c51720af"
+            },
+            {
+              "doc_id": "b8923f90-3d3e-4993-b1f1-d4882cfa09ab"
+            }
+          ]
+        },
+        "develop stable democratic institutions in Ukraine": {
+          "answer": "develop stable democratic institutions in Ukraine",
+          "references": [
+            {
+              "doc_id": "0099718c-882e-4d9b-957b-ef3f5fe4f913"
+            },
+            {
+              "doc_id": "a2787675-1c55-4535-aded-d9d6c51720af"
+            }
+          ]
+        },
+        "provide weapons to Ukraine": {
+          "answer": "provide weapons to Ukraine",
+          "references": [
+            {
+              "doc_id": "0099718c-882e-4d9b-957b-ef3f5fe4f913"
+            },
+            {
+              "doc_id": "6d989531-8908-406b-ad2e-50bb721cadd1"
+            },
+            {
+              "doc_id": "7050c066-2fb6-4201-ad09-16c8918dfe68"
+            },
+            {
+              "doc_id": "a2787675-1c55-4535-aded-d9d6c51720af"
+            }
+          ]
+        },
+        "provide military aid to Ukraine": {
+          "answer": "provide military aid to Ukraine",
+          "references": [
+            {
+              "doc_id": "0099718c-882e-4d9b-957b-ef3f5fe4f913"
+            },
+            {
+              "doc_id": "6d989531-8908-406b-ad2e-50bb721cadd1"
+            },
+            {
+              "doc_id": "8cc39a77-9ed8-462a-a22a-5b59e2100637"
+            },
+            {
+              "doc_id": "a2787675-1c55-4535-aded-d9d6c51720af"
+            },
+            {
+              "doc_id": "b8923f90-3d3e-4993-b1f1-d4882cfa09ab"
+            }
+          ]
+        },
+        "preserve Ukrainian territory": {
+          "answer": "preserve Ukrainian territory",
+          "references": [
+            {
+              "doc_id": "0099718c-882e-4d9b-957b-ef3f5fe4f913"
+            }
+          ]
+        },
+        "possibly freeze the conflict in Donbass": {
+          "answer": "possibly freeze the conflict in Donbass",
+          "references": [
+            {
+              "doc_id": "0099718c-882e-4d9b-957b-ef3f5fe4f913"
+            }
+          ]
+        },
+        "support Ukraine and be its ally": {
+          "answer": "support Ukraine and be its ally",
+          "references": [
+            {
+              "doc_id": "684d24bb-f7ef-428f-bace-69bc0a61e2e5"
+            },
+            {
+              "doc_id": "8cc39a77-9ed8-462a-a22a-5b59e2100637"
+            },
+            {
+              "doc_id": "a2787675-1c55-4535-aded-d9d6c51720af"
+            }
+          ]
+        },
+        "encourage Europe to stop using Russian gas": {
+          "answer": "encourage Europe to stop using Russian gas",
+          "references": [
+            {
+              "doc_id": "a2787675-1c55-4535-aded-d9d6c51720af"
+            }
+          ]
+        },
+        "encourage Europe not to build Nord Stream pipeline": {
+          "answer": "encourage Europe not to build Nord Stream pipeline",
+          "references": [
+            {
+              "doc_id": "a2787675-1c55-4535-aded-d9d6c51720af"
+            }
+          ]
+        },
+        "provide financial aid to Ukraine": {
+          "answer": "provide financial aid to Ukraine",
+          "references": [
+            {
+              "doc_id": "a2787675-1c55-4535-aded-d9d6c51720af"
+            }
+          ]
+        },
+        "strengthen Ukraine's economy": {
+          "answer": "strengthen Ukraine's economy",
+          "references": [
+            {
+              "doc_id": "a2787675-1c55-4535-aded-d9d6c51720af"
+            }
+          ]
+        }
+      },
+      "question_id": "a11bcd2df7ccd5217bf9ba6dde515232",
+      "aggregator_type": "OR",
+      "query_id": "387",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.738746+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What action should NATO take in response to Russian aggression in Ukraine, according to Condoleezza Rice?": {
+      "question": "What action should NATO take in response to Russian aggression in Ukraine, according to Condoleezza Rice?",
+      "answers": {
+        "deploy military contingents to Poland": {
+          "answer": "deploy military contingents to Poland",
+          "references": [
+            {
+              "doc_id": "6d989531-8908-406b-ad2e-50bb721cadd1"
+            },
+            {
+              "doc_id": "7050c066-2fb6-4201-ad09-16c8918dfe68"
+            },
+            {
+              "doc_id": "a2787675-1c55-4535-aded-d9d6c51720af"
+            },
+            {
+              "doc_id": "b8923f90-3d3e-4993-b1f1-d4882cfa09ab"
+            }
+          ]
+        },
+        "deploy military contingents to the Baltic states": {
+          "answer": "deploy military contingents to the Baltic states",
+          "references": [
+            {
+              "doc_id": "6d989531-8908-406b-ad2e-50bb721cadd1"
+            },
+            {
+              "doc_id": "7050c066-2fb6-4201-ad09-16c8918dfe68"
+            },
+            {
+              "doc_id": "a2787675-1c55-4535-aded-d9d6c51720af"
+            },
+            {
+              "doc_id": "b8923f90-3d3e-4993-b1f1-d4882cfa09ab"
+            }
+          ]
+        }
+      },
+      "question_id": "8c7f6e1f61e63ca93aebed99d3920554",
+      "aggregator_type": "OR",
+      "query_id": "387",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.738780+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Where did the poisoning of ex-GRU colonel Sergei Skripal and his daughter Yulia take place?": {
+      "question": "Where did the poisoning of ex-GRU colonel Sergei Skripal and his daughter Yulia take place?",
+      "answers": {
+        "Salisbury, England, Great Britain": {
+          "answer": "Salisbury, England, Great Britain",
+          "references": [
+            {
+              "doc_id": "7050c066-2fb6-4201-ad09-16c8918dfe68"
+            },
+            {
+              "doc_id": "b8923f90-3d3e-4993-b1f1-d4882cfa09ab"
+            }
+          ]
+        }
+      },
+      "question_id": "f7f2e851f38c10da5e5ebc24338cd093",
+      "aggregator_type": "OR",
+      "query_id": "387",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.738798+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What was Condoleezza Rice's opinion on the poisoning of ex-GRU colonel Sergei Skripal and his daughter Yulia?": {
+      "question": "What was Condoleezza Rice's opinion on the poisoning of ex-GRU colonel Sergei Skripal and his daughter Yulia?",
+      "answers": {
+        "condemned Russia": {
+          "answer": "condemned Russia",
+          "references": [
+            {
+              "doc_id": "7050c066-2fb6-4201-ad09-16c8918dfe68"
+            },
+            {
+              "doc_id": "b8923f90-3d3e-4993-b1f1-d4882cfa09ab"
+            }
+          ]
+        }
+      },
+      "question_id": "347005b2a8c0f585efbac65716339e2c",
+      "aggregator_type": "OR",
+      "query_id": "387",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.738815+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What was Condoleezza Rice's opinion on the Minsk agreements?": {
+      "question": "What was Condoleezza Rice's opinion on the Minsk agreements?",
+      "answers": {
+        "they were not working": {
+          "answer": "they were not working",
+          "references": [
+            {
+              "doc_id": "5285ea9f-d55f-4e5e-a273-926eae135c6b"
+            },
+            {
+              "doc_id": "8cc39a77-9ed8-462a-a22a-5b59e2100637"
+            }
+          ]
+        }
+      },
+      "question_id": "8148de2f58dae86c3a2aca87aacfa5a9",
+      "aggregator_type": "OR",
+      "query_id": "387",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.738831+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What did the Eastern Ukraine region need, according to Condoleezza Rice?": {
+      "question": "What did the Eastern Ukraine region need, according to Condoleezza Rice?",
+      "answers": {
+        "Stability": {
+          "answer": "Stability",
+          "references": [
+            {
+              "doc_id": "5285ea9f-d55f-4e5e-a273-926eae135c6b"
+            }
+          ]
+        },
+        "economic development plan": {
+          "answer": "economic development plan",
+          "references": [
+            {
+              "doc_id": "0099718c-882e-4d9b-957b-ef3f5fe4f913"
+            }
+          ]
+        },
+        "feeling connected to Ukraine": {
+          "answer": "feeling connected to Ukraine",
+          "references": [
+            {
+              "doc_id": "5285ea9f-d55f-4e5e-a273-926eae135c6b"
+            }
+          ]
+        },
+        "improved quality of life": {
+          "answer": "improved quality of life",
+          "references": [
+            {
+              "doc_id": "5285ea9f-d55f-4e5e-a273-926eae135c6b"
+            }
+          ]
+        }
+      },
+      "question_id": "8a9181597222b2490fa963d42b2e3a06",
+      "aggregator_type": "OR",
+      "query_id": "387",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.738869+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

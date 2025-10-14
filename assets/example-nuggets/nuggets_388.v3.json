@@ -1,0 +1,1927 @@
+{
+  "query_id": "388",
+  "title_query": "Chinese institutions in ITER project",
+  "full_query": "I need to write an article that introduces China\u2019s participation in the International Thermonuclear Experimental Reactor (ITER) project and its impact on China\u2019s efforts to develop thermonuclear power.",
+  "full_background": "I am a popular science writer in Japan interested in China\u2019s energy industry, particularly the country\u2019s long-term use of non-fossil resources. ",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "When did China begin to participate in ITER?": {
+      "question": "When did China begin to participate in ITER?",
+      "answers": {
+        "Since ITER's inception": {
+          "answer": "Since ITER's inception",
+          "references": []
+        },
+        "2003": {
+          "answer": "2003",
+          "references": [
+            {
+              "doc_id": "3df0ec8d-9ccb-4295-9146-9c845e14d444"
+            },
+            {
+              "doc_id": "4b69a7c1-30d3-4ed2-aef7-72cde5a7474b"
+            }
+          ]
+        },
+        "2006": {
+          "answer": "2006",
+          "references": [
+            {
+              "doc_id": "27b356d1-b49d-4cf6-8bb2-70a0e4c04002"
+            },
+            {
+              "doc_id": "4098516d-5650-4a94-b0f1-b347a364c398"
+            },
+            {
+              "doc_id": "91c8982b-44dc-4b20-9628-1f2c92eae586"
+            },
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            },
+            {
+              "doc_id": "c1f73b76-e757-480a-b2ed-48278bb0762e"
+            }
+          ]
+        }
+      },
+      "question_id": "e840001cbf47787772746f4037a83075",
+      "aggregator_type": "OR",
+      "query_id": "388",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.741427+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What types of Chinese institutions have participated in ITER?": {
+      "question": "What types of Chinese institutions have participated in ITER?",
+      "answers": {
+        "Industrial partners": {
+          "answer": "Industrial partners",
+          "references": [
+            {
+              "doc_id": "2147fd2c-af13-43f9-be77-fde6a6b35907"
+            },
+            {
+              "doc_id": "2181c6ec-c3a7-446f-af71-692d784c5b84"
+            },
+            {
+              "doc_id": "27b356d1-b49d-4cf6-8bb2-70a0e4c04002"
+            },
+            {
+              "doc_id": "a2ceca6c-5517-4d0f-9f5e-8b194baec8bf"
+            },
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            }
+          ]
+        },
+        "Fusion research institutions": {
+          "answer": "Fusion research institutions",
+          "references": []
+        },
+        "Universities": {
+          "answer": "Universities",
+          "references": []
+        },
+        "Research institutions": {
+          "answer": "Research institutions",
+          "references": [
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            }
+          ]
+        }
+      },
+      "question_id": "096077ceacd855084e0d3e33d0c65999",
+      "aggregator_type": "OR",
+      "query_id": "388",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.741478+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Which institutions in China have participated in ITER?": {
+      "question": "Which institutions in China have participated in ITER?",
+      "answers": {
+        "Institute of Plasma Physics of the Chinese Academy of Sciences": {
+          "answer": "Institute of Plasma Physics of the Chinese Academy of Sciences",
+          "references": []
+        },
+        "IPP": {
+          "answer": "IPP",
+          "references": []
+        },
+        "SWIP": {
+          "answer": "SWIP",
+          "references": []
+        },
+        "Southwestern Institute of Physics of the China": {
+          "answer": "Southwestern Institute of Physics of the China",
+          "references": [
+            {
+              "doc_id": "27b356d1-b49d-4cf6-8bb2-70a0e4c04002"
+            },
+            {
+              "doc_id": "83ac5b25-367e-465b-ba81-ea5655e1436a"
+            },
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            }
+          ]
+        },
+        "CNNC": {
+          "answer": "CNNC",
+          "references": []
+        },
+        "National Nuclear Corporation": {
+          "answer": "National Nuclear Corporation",
+          "references": [
+            {
+              "doc_id": "2147fd2c-af13-43f9-be77-fde6a6b35907"
+            },
+            {
+              "doc_id": "2181c6ec-c3a7-446f-af71-692d784c5b84"
+            },
+            {
+              "doc_id": "27b356d1-b49d-4cf6-8bb2-70a0e4c04002"
+            },
+            {
+              "doc_id": "4b69a7c1-30d3-4ed2-aef7-72cde5a7474b"
+            },
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            }
+          ]
+        },
+        "Ghuizhou Aerospace Xinli Science & Technology": {
+          "answer": "Ghuizhou Aerospace Xinli Science & Technology",
+          "references": [
+            {
+              "doc_id": "27b356d1-b49d-4cf6-8bb2-70a0e4c04002"
+            }
+          ]
+        },
+        "Dongfang Electric Machinery Co. Ltd": {
+          "answer": "Dongfang Electric Machinery Co. Ltd",
+          "references": [
+            {
+              "doc_id": "a2ceca6c-5517-4d0f-9f5e-8b194baec8bf"
+            }
+          ]
+        },
+        "Institute of Plasma Physics, Chinese Academy of Sciences": {
+          "answer": "Institute of Plasma Physics, Chinese Academy of Sciences",
+          "references": [
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            }
+          ]
+        }
+      },
+      "question_id": "2fdd0d458132c6b3988a68b54713205b",
+      "aggregator_type": "AND",
+      "query_id": "388",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.741557+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What projects or phases/technical aspects of the ITER projects have China participated or contributed to?": {
+      "question": "What projects or phases/technical aspects of the ITER projects have China participated or contributed to?",
+      "answers": {
+        "Manufacturing": {
+          "answer": "Manufacturing",
+          "references": [
+            {
+              "doc_id": "2181c6ec-c3a7-446f-af71-692d784c5b84"
+            },
+            {
+              "doc_id": "27b356d1-b49d-4cf6-8bb2-70a0e4c04002"
+            },
+            {
+              "doc_id": "3df0ec8d-9ccb-4295-9146-9c845e14d444"
+            },
+            {
+              "doc_id": "5ae8473d-0d53-49d4-ac54-7f88d5dbcd4f"
+            },
+            {
+              "doc_id": "a2ceca6c-5517-4d0f-9f5e-8b194baec8bf"
+            },
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            }
+          ]
+        },
+        "supply chain": {
+          "answer": "supply chain",
+          "references": [
+            {
+              "doc_id": "3df0ec8d-9ccb-4295-9146-9c845e14d444"
+            }
+          ]
+        },
+        "procurement": {
+          "answer": "procurement",
+          "references": [
+            {
+              "doc_id": "27b356d1-b49d-4cf6-8bb2-70a0e4c04002"
+            }
+          ]
+        },
+        "research and development": {
+          "answer": "research and development",
+          "references": [
+            {
+              "doc_id": "31884872-a1f9-405e-ad3b-72a2c092767a"
+            },
+            {
+              "doc_id": "5ae8473d-0d53-49d4-ac54-7f88d5dbcd4f"
+            },
+            {
+              "doc_id": "a2ceca6c-5517-4d0f-9f5e-8b194baec8bf"
+            },
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            },
+            {
+              "doc_id": "c0a188d4-741f-46fc-9fc2-4d096fb13b49"
+            }
+          ]
+        },
+        "R&D": {
+          "answer": "R&D",
+          "references": []
+        },
+        "technology innovation": {
+          "answer": "technology innovation",
+          "references": []
+        },
+        "Installation of the main equipment": {
+          "answer": "Installation of the main equipment",
+          "references": [
+            {
+              "doc_id": "4b69a7c1-30d3-4ed2-aef7-72cde5a7474b"
+            }
+          ]
+        },
+        "Installation": {
+          "answer": "Installation",
+          "references": [
+            {
+              "doc_id": "2147fd2c-af13-43f9-be77-fde6a6b35907"
+            }
+          ]
+        }
+      },
+      "question_id": "b609d91347e4fad6a92e476ef1e1e7dc",
+      "aggregator_type": "OR",
+      "query_id": "388",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.741633+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What specific projects have Chinese institutions contributed to ITER?": {
+      "question": "What specific projects have Chinese institutions contributed to ITER?",
+      "answers": {
+        "Magnet support system": {
+          "answer": "Magnet support system",
+          "references": [
+            {
+              "doc_id": "27b356d1-b49d-4cf6-8bb2-70a0e4c04002"
+            },
+            {
+              "doc_id": "3df0ec8d-9ccb-4295-9146-9c845e14d444"
+            }
+          ]
+        },
+        "installation of tokamak": {
+          "answer": "installation of tokamak",
+          "references": [
+            {
+              "doc_id": "2147fd2c-af13-43f9-be77-fde6a6b35907"
+            },
+            {
+              "doc_id": "31884872-a1f9-405e-ad3b-72a2c092767a"
+            },
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            }
+          ]
+        },
+        "R&D and manufacturing of blanket shield modules for the reactor": {
+          "answer": "R&D and manufacturing of blanket shield modules for the reactor",
+          "references": [
+            {
+              "doc_id": "a2ceca6c-5517-4d0f-9f5e-8b194baec8bf"
+            }
+          ]
+        },
+        "manufacturing of poloidal field coil, toroidal field coil": {
+          "answer": "manufacturing of poloidal field coil, toroidal field coil",
+          "references": [
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            }
+          ]
+        }
+      },
+      "question_id": "edeaec666853ec1d56a1cecce3398b8f",
+      "aggregator_type": "OR",
+      "query_id": "388",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.741677+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Which Chinese institution(s) have made significant contributions to ITER?": {
+      "question": "Which Chinese institution(s) have made significant contributions to ITER?",
+      "answers": {
+        "Institute of Plasma Physics of the Chinese Academy of Sciences": {
+          "answer": "Institute of Plasma Physics of the Chinese Academy of Sciences",
+          "references": [
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            }
+          ]
+        },
+        "IPP": {
+          "answer": "IPP",
+          "references": []
+        },
+        "China National Nuclear Corporation": {
+          "answer": "China National Nuclear Corporation",
+          "references": [
+            {
+              "doc_id": "2147fd2c-af13-43f9-be77-fde6a6b35907"
+            },
+            {
+              "doc_id": "27b356d1-b49d-4cf6-8bb2-70a0e4c04002"
+            },
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            }
+          ]
+        }
+      },
+      "question_id": "89dd74448febde94703743c5562554fe",
+      "aggregator_type": "OR",
+      "query_id": "388",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.741712+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "In what major areas have Chinese scientists and engineers have been involved in ITER?": {
+      "question": "In what major areas have Chinese scientists and engineers have been involved in ITER?",
+      "answers": {
+        "plasma physics": {
+          "answer": "plasma physics",
+          "references": [
+            {
+              "doc_id": "c0a188d4-741f-46fc-9fc2-4d096fb13b49"
+            }
+          ]
+        },
+        "materials science": {
+          "answer": "materials science",
+          "references": []
+        },
+        "advanced engineering": {
+          "answer": "advanced engineering",
+          "references": [
+            {
+              "doc_id": "2147fd2c-af13-43f9-be77-fde6a6b35907"
+            },
+            {
+              "doc_id": "2181c6ec-c3a7-446f-af71-692d784c5b84"
+            },
+            {
+              "doc_id": "27b356d1-b49d-4cf6-8bb2-70a0e4c04002"
+            },
+            {
+              "doc_id": "3df0ec8d-9ccb-4295-9146-9c845e14d444"
+            },
+            {
+              "doc_id": "5ae8473d-0d53-49d4-ac54-7f88d5dbcd4f"
+            },
+            {
+              "doc_id": "83ac5b25-367e-465b-ba81-ea5655e1436a"
+            },
+            {
+              "doc_id": "a2ceca6c-5517-4d0f-9f5e-8b194baec8bf"
+            },
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            }
+          ]
+        }
+      },
+      "question_id": "7a38b34ed871b51af16001800d1a43dd",
+      "aggregator_type": "OR",
+      "query_id": "388",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.741752+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the goal of ITER?": {
+      "question": "What is the goal of ITER?",
+      "answers": {
+        "To study the feasibility of nuclear fusion as energy": {
+          "answer": "To study the feasibility of nuclear fusion as energy",
+          "references": [
+            {
+              "doc_id": "0ba45ad3-fce2-403c-80a6-06618f37ad1e"
+            },
+            {
+              "doc_id": "27b356d1-b49d-4cf6-8bb2-70a0e4c04002"
+            },
+            {
+              "doc_id": "2bc4899b-4dfa-4a4d-9164-efc1267107c8"
+            },
+            {
+              "doc_id": "3a023d85-8389-4608-bc42-d2812ba5bded"
+            },
+            {
+              "doc_id": "3df0ec8d-9ccb-4295-9146-9c845e14d444"
+            },
+            {
+              "doc_id": "3fae1b45-6d07-4d58-9bec-9ffd159ef686"
+            },
+            {
+              "doc_id": "4098516d-5650-4a94-b0f1-b347a364c398"
+            },
+            {
+              "doc_id": "42c53062-3509-46f1-a828-448dd6fcc31d"
+            },
+            {
+              "doc_id": "5ae8473d-0d53-49d4-ac54-7f88d5dbcd4f"
+            },
+            {
+              "doc_id": "60cefa5f-9ef2-4ec3-9fd3-4b0b10b433fa"
+            },
+            {
+              "doc_id": "61b7f7ed-25e0-407d-8e7e-a11381517eed"
+            },
+            {
+              "doc_id": "62ff368a-f4c6-49e8-b0a7-844c033ba420"
+            },
+            {
+              "doc_id": "6de78e11-5773-468d-b578-1e055cb686bf"
+            },
+            {
+              "doc_id": "82379bc3-74e0-4dbd-95d1-1686d1a2318c"
+            },
+            {
+              "doc_id": "83ac5b25-367e-465b-ba81-ea5655e1436a"
+            },
+            {
+              "doc_id": "84012520-3363-4321-ba8c-114e757f7273"
+            },
+            {
+              "doc_id": "91c8982b-44dc-4b20-9628-1f2c92eae586"
+            },
+            {
+              "doc_id": "9f269c07-8974-4410-b067-e38508010e07"
+            },
+            {
+              "doc_id": "a4ee7f2d-7e09-4771-87f4-9979266c9c46"
+            },
+            {
+              "doc_id": "a6db0f63-b1ad-474e-b136-29aa792fbfad"
+            },
+            {
+              "doc_id": "ac66825a-ac55-491b-8b22-cda8934ce28b"
+            },
+            {
+              "doc_id": "ad8d2cd7-1d06-446e-943b-59ec6d1e0e6b"
+            },
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            },
+            {
+              "doc_id": "c0a188d4-741f-46fc-9fc2-4d096fb13b49"
+            },
+            {
+              "doc_id": "c43be781-4ef5-4186-8a27-0997d07dd61a"
+            },
+            {
+              "doc_id": "c570ecb4-3eac-42b2-9eca-d988c7f0ffcf"
+            },
+            {
+              "doc_id": "cebe21fa-4c54-4a01-9732-6deb0edb43c6"
+            },
+            {
+              "doc_id": "d8b15316-6590-4a84-a60a-edc6763e8e2d"
+            },
+            {
+              "doc_id": "dd438cde-6f78-47e3-83ea-f6ec0549b8b3"
+            },
+            {
+              "doc_id": "e04f99f6-fae0-413d-aa3a-1bb2b632b06a"
+            },
+            {
+              "doc_id": "ef3f8705-d175-4b37-ac32-39f8ac5c78af"
+            },
+            {
+              "doc_id": "f05f1b0b-7aaa-4f60-803d-02827c4b25a6"
+            },
+            {
+              "doc_id": "f069fca8-2445-4234-bfc1-cd411d1308d6"
+            },
+            {
+              "doc_id": "f1bbe58d-83f5-47c2-9bad-58f3ea8ec0d5"
+            }
+          ]
+        },
+        "To combine Hydrogen atoms with fusion": {
+          "answer": "To combine Hydrogen atoms with fusion",
+          "references": [
+            {
+              "doc_id": "3a023d85-8389-4608-bc42-d2812ba5bded"
+            },
+            {
+              "doc_id": "a88c6810-1c51-49aa-98d1-01b9a4b2cbbc"
+            }
+          ]
+        },
+        "Creating and managing energy through Hydrogen fusion": {
+          "answer": "Creating and managing energy through Hydrogen fusion",
+          "references": [
+            {
+              "doc_id": "4ed2e4a6-242c-4f1f-a0e7-fdc0cb3cc699"
+            }
+          ]
+        },
+        "To create electricity through fusion": {
+          "answer": "To create electricity through fusion",
+          "references": [
+            {
+              "doc_id": "59cbc1e2-9285-4c3a-81fe-cb958277407f"
+            }
+          ]
+        },
+        "To create clean energy": {
+          "answer": "To create clean energy",
+          "references": [
+            {
+              "doc_id": "9031da7f-0705-4f6c-b4a6-8ecc7f563d8f"
+            },
+            {
+              "doc_id": "a88c6810-1c51-49aa-98d1-01b9a4b2cbbc"
+            },
+            {
+              "doc_id": "da702567-542d-4be0-bb82-75350c83b6da"
+            }
+          ]
+        },
+        "To recreate the unlimited energy of stars": {
+          "answer": "To recreate the unlimited energy of stars",
+          "references": [
+            {
+              "doc_id": "a88c6810-1c51-49aa-98d1-01b9a4b2cbbc"
+            }
+          ]
+        },
+        "To eliminate use of fossil fuels": {
+          "answer": "To eliminate use of fossil fuels",
+          "references": [
+            {
+              "doc_id": "a88c6810-1c51-49aa-98d1-01b9a4b2cbbc"
+            }
+          ]
+        },
+        "To create renewable energy": {
+          "answer": "To create renewable energy",
+          "references": [
+            {
+              "doc_id": "b676b93d-19ba-45d4-a76d-50dd61a35e83"
+            }
+          ]
+        },
+        "To show that nuclear fusion is possible at a commercial level": {
+          "answer": "To show that nuclear fusion is possible at a commercial level",
+          "references": [
+            {
+              "doc_id": "da702567-542d-4be0-bb82-75350c83b6da"
+            }
+          ]
+        },
+        "To simulate the nuclear fusion process of generating energy from the sun, and to find the feasibility of commercial power generation by nuclear fusion.": {
+          "answer": "To simulate the nuclear fusion process of generating energy from the sun, and to find the feasibility of commercial power generation by nuclear fusion.",
+          "references": [
+            {
+              "doc_id": "03914e5a-450a-4866-a5e1-0ee945805403"
+            },
+            {
+              "doc_id": "0ba45ad3-fce2-403c-80a6-06618f37ad1e"
+            },
+            {
+              "doc_id": "2181c6ec-c3a7-446f-af71-692d784c5b84"
+            },
+            {
+              "doc_id": "3fae1b45-6d07-4d58-9bec-9ffd159ef686"
+            },
+            {
+              "doc_id": "4098516d-5650-4a94-b0f1-b347a364c398"
+            },
+            {
+              "doc_id": "60cefa5f-9ef2-4ec3-9fd3-4b0b10b433fa"
+            },
+            {
+              "doc_id": "62ff368a-f4c6-49e8-b0a7-844c033ba420"
+            },
+            {
+              "doc_id": "83ac5b25-367e-465b-ba81-ea5655e1436a"
+            },
+            {
+              "doc_id": "91c8982b-44dc-4b20-9628-1f2c92eae586"
+            },
+            {
+              "doc_id": "a4ee7f2d-7e09-4771-87f4-9979266c9c46"
+            },
+            {
+              "doc_id": "ad8d2cd7-1d06-446e-943b-59ec6d1e0e6b"
+            }
+          ]
+        }
+      },
+      "question_id": "e6f4e161a1c0e695b594ecdc28b95f61",
+      "aggregator_type": "OR",
+      "query_id": "388",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.741887+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What does ITER stand for?": {
+      "question": "What does ITER stand for?",
+      "answers": {
+        "International Thermonuclear Experimental Reactor": {
+          "answer": "International Thermonuclear Experimental Reactor",
+          "references": [
+            {
+              "doc_id": "03914e5a-450a-4866-a5e1-0ee945805403"
+            },
+            {
+              "doc_id": "0ba45ad3-fce2-403c-80a6-06618f37ad1e"
+            },
+            {
+              "doc_id": "18fa62a2-5baf-4e0d-a000-b49551b4b8b7"
+            },
+            {
+              "doc_id": "2147fd2c-af13-43f9-be77-fde6a6b35907"
+            },
+            {
+              "doc_id": "2181c6ec-c3a7-446f-af71-692d784c5b84"
+            },
+            {
+              "doc_id": "27b356d1-b49d-4cf6-8bb2-70a0e4c04002"
+            },
+            {
+              "doc_id": "2bc4899b-4dfa-4a4d-9164-efc1267107c8"
+            },
+            {
+              "doc_id": "31884872-a1f9-405e-ad3b-72a2c092767a"
+            },
+            {
+              "doc_id": "3df0ec8d-9ccb-4295-9146-9c845e14d444"
+            },
+            {
+              "doc_id": "3fae1b45-6d07-4d58-9bec-9ffd159ef686"
+            },
+            {
+              "doc_id": "4098516d-5650-4a94-b0f1-b347a364c398"
+            },
+            {
+              "doc_id": "42c53062-3509-46f1-a828-448dd6fcc31d"
+            },
+            {
+              "doc_id": "43ced42a-198e-41f5-b982-e75d15d10ce5"
+            },
+            {
+              "doc_id": "45faefdc-9d79-4bc8-b74d-084eea15cc04"
+            },
+            {
+              "doc_id": "4b69a7c1-30d3-4ed2-aef7-72cde5a7474b"
+            },
+            {
+              "doc_id": "60cefa5f-9ef2-4ec3-9fd3-4b0b10b433fa"
+            },
+            {
+              "doc_id": "61b7f7ed-25e0-407d-8e7e-a11381517eed"
+            },
+            {
+              "doc_id": "62bf722a-7e92-40fe-b410-4bfc0df0197a"
+            },
+            {
+              "doc_id": "62ff368a-f4c6-49e8-b0a7-844c033ba420"
+            },
+            {
+              "doc_id": "68d85a04-3830-45dc-8e15-0fdc24640c64"
+            },
+            {
+              "doc_id": "6de78e11-5773-468d-b578-1e055cb686bf"
+            },
+            {
+              "doc_id": "82379bc3-74e0-4dbd-95d1-1686d1a2318c"
+            },
+            {
+              "doc_id": "83ac5b25-367e-465b-ba81-ea5655e1436a"
+            },
+            {
+              "doc_id": "88028b01-a231-47ce-b219-ec6d63721d50"
+            },
+            {
+              "doc_id": "89ee2fd1-ec1a-4a4e-b27c-1376e8d4a4cb"
+            },
+            {
+              "doc_id": "91c8982b-44dc-4b20-9628-1f2c92eae586"
+            },
+            {
+              "doc_id": "9f269c07-8974-4410-b067-e38508010e07"
+            },
+            {
+              "doc_id": "a2ceca6c-5517-4d0f-9f5e-8b194baec8bf"
+            },
+            {
+              "doc_id": "a2f1630f-b6f6-4b0a-a61c-b264fa5ff842"
+            },
+            {
+              "doc_id": "a4ee7f2d-7e09-4771-87f4-9979266c9c46"
+            },
+            {
+              "doc_id": "a6db0f63-b1ad-474e-b136-29aa792fbfad"
+            },
+            {
+              "doc_id": "aa278c76-6c68-4fb4-a426-e87332622f34"
+            },
+            {
+              "doc_id": "ac66825a-ac55-491b-8b22-cda8934ce28b"
+            },
+            {
+              "doc_id": "ad8d2cd7-1d06-446e-943b-59ec6d1e0e6b"
+            },
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            },
+            {
+              "doc_id": "b7de426b-10c0-4ff9-944c-3785125d407d"
+            },
+            {
+              "doc_id": "c0a188d4-741f-46fc-9fc2-4d096fb13b49"
+            },
+            {
+              "doc_id": "c1f73b76-e757-480a-b2ed-48278bb0762e"
+            },
+            {
+              "doc_id": "c43be781-4ef5-4186-8a27-0997d07dd61a"
+            },
+            {
+              "doc_id": "c570ecb4-3eac-42b2-9eca-d988c7f0ffcf"
+            },
+            {
+              "doc_id": "c6cf56c5-b825-4fd1-93d3-a50c7b1ff9ad"
+            },
+            {
+              "doc_id": "cebe21fa-4c54-4a01-9732-6deb0edb43c6"
+            },
+            {
+              "doc_id": "d4f6cb36-8e89-4708-84cd-1e935ccf1e94"
+            },
+            {
+              "doc_id": "d6beb96f-ba45-451a-8600-15f2d502cb68"
+            },
+            {
+              "doc_id": "d8b15316-6590-4a84-a60a-edc6763e8e2d"
+            },
+            {
+              "doc_id": "dbc64311-f650-4cd9-b973-3e87bcbaa0dd"
+            },
+            {
+              "doc_id": "dd438cde-6f78-47e3-83ea-f6ec0549b8b3"
+            },
+            {
+              "doc_id": "e04f99f6-fae0-413d-aa3a-1bb2b632b06a"
+            },
+            {
+              "doc_id": "ef3f8705-d175-4b37-ac32-39f8ac5c78af"
+            },
+            {
+              "doc_id": "f05f1b0b-7aaa-4f60-803d-02827c4b25a6"
+            },
+            {
+              "doc_id": "f069fca8-2445-4234-bfc1-cd411d1308d6"
+            },
+            {
+              "doc_id": "f1bbe58d-83f5-47c2-9bad-58f3ea8ec0d5"
+            },
+            {
+              "doc_id": "f53c2511-e49c-4fab-ac83-225815a4015a"
+            }
+          ]
+        }
+      },
+      "question_id": "78c50d06ba793045a3ac3c820730f28a",
+      "aggregator_type": "OR",
+      "query_id": "388",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.742046+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What countries participate in ITER?": {
+      "question": "What countries participate in ITER?",
+      "answers": {
+        "European Union": {
+          "answer": "European Union",
+          "references": [
+            {
+              "doc_id": "03914e5a-450a-4866-a5e1-0ee945805403"
+            },
+            {
+              "doc_id": "0ba45ad3-fce2-403c-80a6-06618f37ad1e"
+            },
+            {
+              "doc_id": "2bc4899b-4dfa-4a4d-9164-efc1267107c8"
+            },
+            {
+              "doc_id": "3a023d85-8389-4608-bc42-d2812ba5bded"
+            },
+            {
+              "doc_id": "3df0ec8d-9ccb-4295-9146-9c845e14d444"
+            },
+            {
+              "doc_id": "3fae1b45-6d07-4d58-9bec-9ffd159ef686"
+            },
+            {
+              "doc_id": "4098516d-5650-4a94-b0f1-b347a364c398"
+            },
+            {
+              "doc_id": "42c53062-3509-46f1-a828-448dd6fcc31d"
+            },
+            {
+              "doc_id": "43ced42a-198e-41f5-b982-e75d15d10ce5"
+            },
+            {
+              "doc_id": "45faefdc-9d79-4bc8-b74d-084eea15cc04"
+            },
+            {
+              "doc_id": "4ed2e4a6-242c-4f1f-a0e7-fdc0cb3cc699"
+            },
+            {
+              "doc_id": "5ae8473d-0d53-49d4-ac54-7f88d5dbcd4f"
+            },
+            {
+              "doc_id": "60cefa5f-9ef2-4ec3-9fd3-4b0b10b433fa"
+            },
+            {
+              "doc_id": "61b7f7ed-25e0-407d-8e7e-a11381517eed"
+            },
+            {
+              "doc_id": "62ff368a-f4c6-49e8-b0a7-844c033ba420"
+            },
+            {
+              "doc_id": "6de78e11-5773-468d-b578-1e055cb686bf"
+            },
+            {
+              "doc_id": "82379bc3-74e0-4dbd-95d1-1686d1a2318c"
+            },
+            {
+              "doc_id": "83ac5b25-367e-465b-ba81-ea5655e1436a"
+            },
+            {
+              "doc_id": "84012520-3363-4321-ba8c-114e757f7273"
+            },
+            {
+              "doc_id": "88028b01-a231-47ce-b219-ec6d63721d50"
+            },
+            {
+              "doc_id": "91c8982b-44dc-4b20-9628-1f2c92eae586"
+            },
+            {
+              "doc_id": "9f269c07-8974-4410-b067-e38508010e07"
+            },
+            {
+              "doc_id": "a10cff62-b860-4352-bed3-31904c982d23"
+            },
+            {
+              "doc_id": "a2f1630f-b6f6-4b0a-a61c-b264fa5ff842"
+            },
+            {
+              "doc_id": "a6db0f63-b1ad-474e-b136-29aa792fbfad"
+            },
+            {
+              "doc_id": "a88c6810-1c51-49aa-98d1-01b9a4b2cbbc"
+            },
+            {
+              "doc_id": "aa278c76-6c68-4fb4-a426-e87332622f34"
+            },
+            {
+              "doc_id": "ac66825a-ac55-491b-8b22-cda8934ce28b"
+            },
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            },
+            {
+              "doc_id": "c43be781-4ef5-4186-8a27-0997d07dd61a"
+            },
+            {
+              "doc_id": "c570ecb4-3eac-42b2-9eca-d988c7f0ffcf"
+            },
+            {
+              "doc_id": "cebe21fa-4c54-4a01-9732-6deb0edb43c6"
+            },
+            {
+              "doc_id": "d4f6cb36-8e89-4708-84cd-1e935ccf1e94"
+            },
+            {
+              "doc_id": "d6beb96f-ba45-451a-8600-15f2d502cb68"
+            },
+            {
+              "doc_id": "d8b15316-6590-4a84-a60a-edc6763e8e2d"
+            },
+            {
+              "doc_id": "da702567-542d-4be0-bb82-75350c83b6da"
+            },
+            {
+              "doc_id": "dbc64311-f650-4cd9-b973-3e87bcbaa0dd"
+            },
+            {
+              "doc_id": "dd438cde-6f78-47e3-83ea-f6ec0549b8b3"
+            },
+            {
+              "doc_id": "e04f99f6-fae0-413d-aa3a-1bb2b632b06a"
+            },
+            {
+              "doc_id": "ef3f8705-d175-4b37-ac32-39f8ac5c78af"
+            },
+            {
+              "doc_id": "f05f1b0b-7aaa-4f60-803d-02827c4b25a6"
+            },
+            {
+              "doc_id": "f069fca8-2445-4234-bfc1-cd411d1308d6"
+            },
+            {
+              "doc_id": "f53c2511-e49c-4fab-ac83-225815a4015a"
+            }
+          ]
+        },
+        "China": {
+          "answer": "China",
+          "references": [
+            {
+              "doc_id": "03914e5a-450a-4866-a5e1-0ee945805403"
+            },
+            {
+              "doc_id": "0ba45ad3-fce2-403c-80a6-06618f37ad1e"
+            },
+            {
+              "doc_id": "2147fd2c-af13-43f9-be77-fde6a6b35907"
+            },
+            {
+              "doc_id": "27b356d1-b49d-4cf6-8bb2-70a0e4c04002"
+            },
+            {
+              "doc_id": "2bc4899b-4dfa-4a4d-9164-efc1267107c8"
+            },
+            {
+              "doc_id": "31884872-a1f9-405e-ad3b-72a2c092767a"
+            },
+            {
+              "doc_id": "3a023d85-8389-4608-bc42-d2812ba5bded"
+            },
+            {
+              "doc_id": "3df0ec8d-9ccb-4295-9146-9c845e14d444"
+            },
+            {
+              "doc_id": "3fae1b45-6d07-4d58-9bec-9ffd159ef686"
+            },
+            {
+              "doc_id": "4098516d-5650-4a94-b0f1-b347a364c398"
+            },
+            {
+              "doc_id": "42c53062-3509-46f1-a828-448dd6fcc31d"
+            },
+            {
+              "doc_id": "43ced42a-198e-41f5-b982-e75d15d10ce5"
+            },
+            {
+              "doc_id": "45faefdc-9d79-4bc8-b74d-084eea15cc04"
+            },
+            {
+              "doc_id": "4b69a7c1-30d3-4ed2-aef7-72cde5a7474b"
+            },
+            {
+              "doc_id": "4ed2e4a6-242c-4f1f-a0e7-fdc0cb3cc699"
+            },
+            {
+              "doc_id": "5ae8473d-0d53-49d4-ac54-7f88d5dbcd4f"
+            },
+            {
+              "doc_id": "60cefa5f-9ef2-4ec3-9fd3-4b0b10b433fa"
+            },
+            {
+              "doc_id": "61b7f7ed-25e0-407d-8e7e-a11381517eed"
+            },
+            {
+              "doc_id": "62ff368a-f4c6-49e8-b0a7-844c033ba420"
+            },
+            {
+              "doc_id": "6de78e11-5773-468d-b578-1e055cb686bf"
+            },
+            {
+              "doc_id": "82379bc3-74e0-4dbd-95d1-1686d1a2318c"
+            },
+            {
+              "doc_id": "83ac5b25-367e-465b-ba81-ea5655e1436a"
+            },
+            {
+              "doc_id": "84012520-3363-4321-ba8c-114e757f7273"
+            },
+            {
+              "doc_id": "88028b01-a231-47ce-b219-ec6d63721d50"
+            },
+            {
+              "doc_id": "89ee2fd1-ec1a-4a4e-b27c-1376e8d4a4cb"
+            },
+            {
+              "doc_id": "91c8982b-44dc-4b20-9628-1f2c92eae586"
+            },
+            {
+              "doc_id": "9f269c07-8974-4410-b067-e38508010e07"
+            },
+            {
+              "doc_id": "a10cff62-b860-4352-bed3-31904c982d23"
+            },
+            {
+              "doc_id": "a2ceca6c-5517-4d0f-9f5e-8b194baec8bf"
+            },
+            {
+              "doc_id": "a2f1630f-b6f6-4b0a-a61c-b264fa5ff842"
+            },
+            {
+              "doc_id": "a6db0f63-b1ad-474e-b136-29aa792fbfad"
+            },
+            {
+              "doc_id": "a88c6810-1c51-49aa-98d1-01b9a4b2cbbc"
+            },
+            {
+              "doc_id": "aa278c76-6c68-4fb4-a426-e87332622f34"
+            },
+            {
+              "doc_id": "ac66825a-ac55-491b-8b22-cda8934ce28b"
+            },
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            },
+            {
+              "doc_id": "c0a188d4-741f-46fc-9fc2-4d096fb13b49"
+            },
+            {
+              "doc_id": "c1f73b76-e757-480a-b2ed-48278bb0762e"
+            },
+            {
+              "doc_id": "c43be781-4ef5-4186-8a27-0997d07dd61a"
+            },
+            {
+              "doc_id": "c570ecb4-3eac-42b2-9eca-d988c7f0ffcf"
+            },
+            {
+              "doc_id": "cebe21fa-4c54-4a01-9732-6deb0edb43c6"
+            },
+            {
+              "doc_id": "d4f6cb36-8e89-4708-84cd-1e935ccf1e94"
+            },
+            {
+              "doc_id": "d6beb96f-ba45-451a-8600-15f2d502cb68"
+            },
+            {
+              "doc_id": "d8b15316-6590-4a84-a60a-edc6763e8e2d"
+            },
+            {
+              "doc_id": "da702567-542d-4be0-bb82-75350c83b6da"
+            },
+            {
+              "doc_id": "dbc64311-f650-4cd9-b973-3e87bcbaa0dd"
+            },
+            {
+              "doc_id": "dd438cde-6f78-47e3-83ea-f6ec0549b8b3"
+            },
+            {
+              "doc_id": "e04f99f6-fae0-413d-aa3a-1bb2b632b06a"
+            },
+            {
+              "doc_id": "ef3f8705-d175-4b37-ac32-39f8ac5c78af"
+            },
+            {
+              "doc_id": "f05f1b0b-7aaa-4f60-803d-02827c4b25a6"
+            },
+            {
+              "doc_id": "f069fca8-2445-4234-bfc1-cd411d1308d6"
+            },
+            {
+              "doc_id": "f53c2511-e49c-4fab-ac83-225815a4015a"
+            }
+          ]
+        },
+        "United States": {
+          "answer": "United States",
+          "references": [
+            {
+              "doc_id": "03914e5a-450a-4866-a5e1-0ee945805403"
+            },
+            {
+              "doc_id": "0ba45ad3-fce2-403c-80a6-06618f37ad1e"
+            },
+            {
+              "doc_id": "2bc4899b-4dfa-4a4d-9164-efc1267107c8"
+            },
+            {
+              "doc_id": "31884872-a1f9-405e-ad3b-72a2c092767a"
+            },
+            {
+              "doc_id": "3a023d85-8389-4608-bc42-d2812ba5bded"
+            },
+            {
+              "doc_id": "3df0ec8d-9ccb-4295-9146-9c845e14d444"
+            },
+            {
+              "doc_id": "3fae1b45-6d07-4d58-9bec-9ffd159ef686"
+            },
+            {
+              "doc_id": "4098516d-5650-4a94-b0f1-b347a364c398"
+            },
+            {
+              "doc_id": "42c53062-3509-46f1-a828-448dd6fcc31d"
+            },
+            {
+              "doc_id": "43ced42a-198e-41f5-b982-e75d15d10ce5"
+            },
+            {
+              "doc_id": "45faefdc-9d79-4bc8-b74d-084eea15cc04"
+            },
+            {
+              "doc_id": "4ed2e4a6-242c-4f1f-a0e7-fdc0cb3cc699"
+            },
+            {
+              "doc_id": "5ae8473d-0d53-49d4-ac54-7f88d5dbcd4f"
+            },
+            {
+              "doc_id": "60cefa5f-9ef2-4ec3-9fd3-4b0b10b433fa"
+            },
+            {
+              "doc_id": "61b7f7ed-25e0-407d-8e7e-a11381517eed"
+            },
+            {
+              "doc_id": "62ff368a-f4c6-49e8-b0a7-844c033ba420"
+            },
+            {
+              "doc_id": "6de78e11-5773-468d-b578-1e055cb686bf"
+            },
+            {
+              "doc_id": "82379bc3-74e0-4dbd-95d1-1686d1a2318c"
+            },
+            {
+              "doc_id": "83ac5b25-367e-465b-ba81-ea5655e1436a"
+            },
+            {
+              "doc_id": "84012520-3363-4321-ba8c-114e757f7273"
+            },
+            {
+              "doc_id": "91c8982b-44dc-4b20-9628-1f2c92eae586"
+            },
+            {
+              "doc_id": "9f269c07-8974-4410-b067-e38508010e07"
+            },
+            {
+              "doc_id": "a10cff62-b860-4352-bed3-31904c982d23"
+            },
+            {
+              "doc_id": "a2f1630f-b6f6-4b0a-a61c-b264fa5ff842"
+            },
+            {
+              "doc_id": "a4ee7f2d-7e09-4771-87f4-9979266c9c46"
+            },
+            {
+              "doc_id": "a6db0f63-b1ad-474e-b136-29aa792fbfad"
+            },
+            {
+              "doc_id": "a88c6810-1c51-49aa-98d1-01b9a4b2cbbc"
+            },
+            {
+              "doc_id": "aa278c76-6c68-4fb4-a426-e87332622f34"
+            },
+            {
+              "doc_id": "ac66825a-ac55-491b-8b22-cda8934ce28b"
+            },
+            {
+              "doc_id": "ad8d2cd7-1d06-446e-943b-59ec6d1e0e6b"
+            },
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            },
+            {
+              "doc_id": "b7de426b-10c0-4ff9-944c-3785125d407d"
+            },
+            {
+              "doc_id": "c43be781-4ef5-4186-8a27-0997d07dd61a"
+            },
+            {
+              "doc_id": "c570ecb4-3eac-42b2-9eca-d988c7f0ffcf"
+            },
+            {
+              "doc_id": "cebe21fa-4c54-4a01-9732-6deb0edb43c6"
+            },
+            {
+              "doc_id": "d4f6cb36-8e89-4708-84cd-1e935ccf1e94"
+            },
+            {
+              "doc_id": "d6beb96f-ba45-451a-8600-15f2d502cb68"
+            },
+            {
+              "doc_id": "d8b15316-6590-4a84-a60a-edc6763e8e2d"
+            },
+            {
+              "doc_id": "da702567-542d-4be0-bb82-75350c83b6da"
+            },
+            {
+              "doc_id": "dbc64311-f650-4cd9-b973-3e87bcbaa0dd"
+            },
+            {
+              "doc_id": "dd438cde-6f78-47e3-83ea-f6ec0549b8b3"
+            },
+            {
+              "doc_id": "e04f99f6-fae0-413d-aa3a-1bb2b632b06a"
+            },
+            {
+              "doc_id": "ef3f8705-d175-4b37-ac32-39f8ac5c78af"
+            },
+            {
+              "doc_id": "f05f1b0b-7aaa-4f60-803d-02827c4b25a6"
+            },
+            {
+              "doc_id": "f069fca8-2445-4234-bfc1-cd411d1308d6"
+            },
+            {
+              "doc_id": "f53c2511-e49c-4fab-ac83-225815a4015a"
+            }
+          ]
+        },
+        "Russia": {
+          "answer": "Russia",
+          "references": [
+            {
+              "doc_id": "03914e5a-450a-4866-a5e1-0ee945805403"
+            },
+            {
+              "doc_id": "0ba45ad3-fce2-403c-80a6-06618f37ad1e"
+            },
+            {
+              "doc_id": "2bc4899b-4dfa-4a4d-9164-efc1267107c8"
+            },
+            {
+              "doc_id": "31884872-a1f9-405e-ad3b-72a2c092767a"
+            },
+            {
+              "doc_id": "3a023d85-8389-4608-bc42-d2812ba5bded"
+            },
+            {
+              "doc_id": "3df0ec8d-9ccb-4295-9146-9c845e14d444"
+            },
+            {
+              "doc_id": "3fae1b45-6d07-4d58-9bec-9ffd159ef686"
+            },
+            {
+              "doc_id": "4098516d-5650-4a94-b0f1-b347a364c398"
+            },
+            {
+              "doc_id": "42c53062-3509-46f1-a828-448dd6fcc31d"
+            },
+            {
+              "doc_id": "45faefdc-9d79-4bc8-b74d-084eea15cc04"
+            },
+            {
+              "doc_id": "4ed2e4a6-242c-4f1f-a0e7-fdc0cb3cc699"
+            },
+            {
+              "doc_id": "564a6215-9274-4d68-8bfe-6bbb72e7454f"
+            },
+            {
+              "doc_id": "5a0046e5-5bc4-4192-b281-c03c1a502aaf"
+            },
+            {
+              "doc_id": "5ae8473d-0d53-49d4-ac54-7f88d5dbcd4f"
+            },
+            {
+              "doc_id": "60cefa5f-9ef2-4ec3-9fd3-4b0b10b433fa"
+            },
+            {
+              "doc_id": "61b7f7ed-25e0-407d-8e7e-a11381517eed"
+            },
+            {
+              "doc_id": "62ff368a-f4c6-49e8-b0a7-844c033ba420"
+            },
+            {
+              "doc_id": "6de78e11-5773-468d-b578-1e055cb686bf"
+            },
+            {
+              "doc_id": "82379bc3-74e0-4dbd-95d1-1686d1a2318c"
+            },
+            {
+              "doc_id": "83ac5b25-367e-465b-ba81-ea5655e1436a"
+            },
+            {
+              "doc_id": "84012520-3363-4321-ba8c-114e757f7273"
+            },
+            {
+              "doc_id": "9f269c07-8974-4410-b067-e38508010e07"
+            },
+            {
+              "doc_id": "a10cff62-b860-4352-bed3-31904c982d23"
+            },
+            {
+              "doc_id": "a2f1630f-b6f6-4b0a-a61c-b264fa5ff842"
+            },
+            {
+              "doc_id": "a4ee7f2d-7e09-4771-87f4-9979266c9c46"
+            },
+            {
+              "doc_id": "a6db0f63-b1ad-474e-b136-29aa792fbfad"
+            },
+            {
+              "doc_id": "a88c6810-1c51-49aa-98d1-01b9a4b2cbbc"
+            },
+            {
+              "doc_id": "aa278c76-6c68-4fb4-a426-e87332622f34"
+            },
+            {
+              "doc_id": "ac66825a-ac55-491b-8b22-cda8934ce28b"
+            },
+            {
+              "doc_id": "ad8d2cd7-1d06-446e-943b-59ec6d1e0e6b"
+            },
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            },
+            {
+              "doc_id": "c43be781-4ef5-4186-8a27-0997d07dd61a"
+            },
+            {
+              "doc_id": "c570ecb4-3eac-42b2-9eca-d988c7f0ffcf"
+            },
+            {
+              "doc_id": "cebe21fa-4c54-4a01-9732-6deb0edb43c6"
+            },
+            {
+              "doc_id": "d4f6cb36-8e89-4708-84cd-1e935ccf1e94"
+            },
+            {
+              "doc_id": "d6beb96f-ba45-451a-8600-15f2d502cb68"
+            },
+            {
+              "doc_id": "d8b15316-6590-4a84-a60a-edc6763e8e2d"
+            },
+            {
+              "doc_id": "da702567-542d-4be0-bb82-75350c83b6da"
+            },
+            {
+              "doc_id": "dbc64311-f650-4cd9-b973-3e87bcbaa0dd"
+            },
+            {
+              "doc_id": "dd438cde-6f78-47e3-83ea-f6ec0549b8b3"
+            },
+            {
+              "doc_id": "e04f99f6-fae0-413d-aa3a-1bb2b632b06a"
+            },
+            {
+              "doc_id": "ef3f8705-d175-4b37-ac32-39f8ac5c78af"
+            },
+            {
+              "doc_id": "f05f1b0b-7aaa-4f60-803d-02827c4b25a6"
+            },
+            {
+              "doc_id": "f069fca8-2445-4234-bfc1-cd411d1308d6"
+            },
+            {
+              "doc_id": "f53c2511-e49c-4fab-ac83-225815a4015a"
+            }
+          ]
+        },
+        "United Kingdom": {
+          "answer": "United Kingdom",
+          "references": [
+            {
+              "doc_id": "03914e5a-450a-4866-a5e1-0ee945805403"
+            },
+            {
+              "doc_id": "0ba45ad3-fce2-403c-80a6-06618f37ad1e"
+            },
+            {
+              "doc_id": "3fae1b45-6d07-4d58-9bec-9ffd159ef686"
+            },
+            {
+              "doc_id": "4098516d-5650-4a94-b0f1-b347a364c398"
+            },
+            {
+              "doc_id": "62ff368a-f4c6-49e8-b0a7-844c033ba420"
+            },
+            {
+              "doc_id": "91c8982b-44dc-4b20-9628-1f2c92eae586"
+            },
+            {
+              "doc_id": "9f269c07-8974-4410-b067-e38508010e07"
+            },
+            {
+              "doc_id": "a88c6810-1c51-49aa-98d1-01b9a4b2cbbc"
+            }
+          ]
+        },
+        "India": {
+          "answer": "India",
+          "references": [
+            {
+              "doc_id": "03914e5a-450a-4866-a5e1-0ee945805403"
+            },
+            {
+              "doc_id": "0ba45ad3-fce2-403c-80a6-06618f37ad1e"
+            },
+            {
+              "doc_id": "2bc4899b-4dfa-4a4d-9164-efc1267107c8"
+            },
+            {
+              "doc_id": "3a023d85-8389-4608-bc42-d2812ba5bded"
+            },
+            {
+              "doc_id": "3df0ec8d-9ccb-4295-9146-9c845e14d444"
+            },
+            {
+              "doc_id": "3fae1b45-6d07-4d58-9bec-9ffd159ef686"
+            },
+            {
+              "doc_id": "4098516d-5650-4a94-b0f1-b347a364c398"
+            },
+            {
+              "doc_id": "42c53062-3509-46f1-a828-448dd6fcc31d"
+            },
+            {
+              "doc_id": "45faefdc-9d79-4bc8-b74d-084eea15cc04"
+            },
+            {
+              "doc_id": "4ed2e4a6-242c-4f1f-a0e7-fdc0cb3cc699"
+            },
+            {
+              "doc_id": "5ae8473d-0d53-49d4-ac54-7f88d5dbcd4f"
+            },
+            {
+              "doc_id": "60cefa5f-9ef2-4ec3-9fd3-4b0b10b433fa"
+            },
+            {
+              "doc_id": "61b7f7ed-25e0-407d-8e7e-a11381517eed"
+            },
+            {
+              "doc_id": "62ff368a-f4c6-49e8-b0a7-844c033ba420"
+            },
+            {
+              "doc_id": "6de78e11-5773-468d-b578-1e055cb686bf"
+            },
+            {
+              "doc_id": "82379bc3-74e0-4dbd-95d1-1686d1a2318c"
+            },
+            {
+              "doc_id": "83ac5b25-367e-465b-ba81-ea5655e1436a"
+            },
+            {
+              "doc_id": "84012520-3363-4321-ba8c-114e757f7273"
+            },
+            {
+              "doc_id": "91c8982b-44dc-4b20-9628-1f2c92eae586"
+            },
+            {
+              "doc_id": "9f269c07-8974-4410-b067-e38508010e07"
+            },
+            {
+              "doc_id": "a10cff62-b860-4352-bed3-31904c982d23"
+            },
+            {
+              "doc_id": "a2f1630f-b6f6-4b0a-a61c-b264fa5ff842"
+            },
+            {
+              "doc_id": "a6db0f63-b1ad-474e-b136-29aa792fbfad"
+            },
+            {
+              "doc_id": "a88c6810-1c51-49aa-98d1-01b9a4b2cbbc"
+            },
+            {
+              "doc_id": "aa278c76-6c68-4fb4-a426-e87332622f34"
+            },
+            {
+              "doc_id": "ac66825a-ac55-491b-8b22-cda8934ce28b"
+            },
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            },
+            {
+              "doc_id": "c43be781-4ef5-4186-8a27-0997d07dd61a"
+            },
+            {
+              "doc_id": "c570ecb4-3eac-42b2-9eca-d988c7f0ffcf"
+            },
+            {
+              "doc_id": "cebe21fa-4c54-4a01-9732-6deb0edb43c6"
+            },
+            {
+              "doc_id": "d4f6cb36-8e89-4708-84cd-1e935ccf1e94"
+            },
+            {
+              "doc_id": "d8b15316-6590-4a84-a60a-edc6763e8e2d"
+            },
+            {
+              "doc_id": "da702567-542d-4be0-bb82-75350c83b6da"
+            },
+            {
+              "doc_id": "dbc64311-f650-4cd9-b973-3e87bcbaa0dd"
+            },
+            {
+              "doc_id": "dd438cde-6f78-47e3-83ea-f6ec0549b8b3"
+            },
+            {
+              "doc_id": "e04f99f6-fae0-413d-aa3a-1bb2b632b06a"
+            },
+            {
+              "doc_id": "ef3f8705-d175-4b37-ac32-39f8ac5c78af"
+            },
+            {
+              "doc_id": "f05f1b0b-7aaa-4f60-803d-02827c4b25a6"
+            },
+            {
+              "doc_id": "f069fca8-2445-4234-bfc1-cd411d1308d6"
+            },
+            {
+              "doc_id": "f53c2511-e49c-4fab-ac83-225815a4015a"
+            }
+          ]
+        },
+        "Japan": {
+          "answer": "Japan",
+          "references": [
+            {
+              "doc_id": "03914e5a-450a-4866-a5e1-0ee945805403"
+            },
+            {
+              "doc_id": "0ba45ad3-fce2-403c-80a6-06618f37ad1e"
+            },
+            {
+              "doc_id": "2bc4899b-4dfa-4a4d-9164-efc1267107c8"
+            },
+            {
+              "doc_id": "31884872-a1f9-405e-ad3b-72a2c092767a"
+            },
+            {
+              "doc_id": "3a023d85-8389-4608-bc42-d2812ba5bded"
+            },
+            {
+              "doc_id": "3df0ec8d-9ccb-4295-9146-9c845e14d444"
+            },
+            {
+              "doc_id": "3fae1b45-6d07-4d58-9bec-9ffd159ef686"
+            },
+            {
+              "doc_id": "4098516d-5650-4a94-b0f1-b347a364c398"
+            },
+            {
+              "doc_id": "42c53062-3509-46f1-a828-448dd6fcc31d"
+            },
+            {
+              "doc_id": "43ced42a-198e-41f5-b982-e75d15d10ce5"
+            },
+            {
+              "doc_id": "45faefdc-9d79-4bc8-b74d-084eea15cc04"
+            },
+            {
+              "doc_id": "4ed2e4a6-242c-4f1f-a0e7-fdc0cb3cc699"
+            },
+            {
+              "doc_id": "5ae8473d-0d53-49d4-ac54-7f88d5dbcd4f"
+            },
+            {
+              "doc_id": "60cefa5f-9ef2-4ec3-9fd3-4b0b10b433fa"
+            },
+            {
+              "doc_id": "61b7f7ed-25e0-407d-8e7e-a11381517eed"
+            },
+            {
+              "doc_id": "62ff368a-f4c6-49e8-b0a7-844c033ba420"
+            },
+            {
+              "doc_id": "6de78e11-5773-468d-b578-1e055cb686bf"
+            },
+            {
+              "doc_id": "82379bc3-74e0-4dbd-95d1-1686d1a2318c"
+            },
+            {
+              "doc_id": "83ac5b25-367e-465b-ba81-ea5655e1436a"
+            },
+            {
+              "doc_id": "84012520-3363-4321-ba8c-114e757f7273"
+            },
+            {
+              "doc_id": "91c8982b-44dc-4b20-9628-1f2c92eae586"
+            },
+            {
+              "doc_id": "9f269c07-8974-4410-b067-e38508010e07"
+            },
+            {
+              "doc_id": "a2f1630f-b6f6-4b0a-a61c-b264fa5ff842"
+            },
+            {
+              "doc_id": "a6db0f63-b1ad-474e-b136-29aa792fbfad"
+            },
+            {
+              "doc_id": "a88c6810-1c51-49aa-98d1-01b9a4b2cbbc"
+            },
+            {
+              "doc_id": "aa278c76-6c68-4fb4-a426-e87332622f34"
+            },
+            {
+              "doc_id": "ac66825a-ac55-491b-8b22-cda8934ce28b"
+            },
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            },
+            {
+              "doc_id": "c43be781-4ef5-4186-8a27-0997d07dd61a"
+            },
+            {
+              "doc_id": "cebe21fa-4c54-4a01-9732-6deb0edb43c6"
+            },
+            {
+              "doc_id": "d4f6cb36-8e89-4708-84cd-1e935ccf1e94"
+            },
+            {
+              "doc_id": "d6beb96f-ba45-451a-8600-15f2d502cb68"
+            },
+            {
+              "doc_id": "d8b15316-6590-4a84-a60a-edc6763e8e2d"
+            },
+            {
+              "doc_id": "da702567-542d-4be0-bb82-75350c83b6da"
+            },
+            {
+              "doc_id": "dbc64311-f650-4cd9-b973-3e87bcbaa0dd"
+            },
+            {
+              "doc_id": "dd438cde-6f78-47e3-83ea-f6ec0549b8b3"
+            },
+            {
+              "doc_id": "e04f99f6-fae0-413d-aa3a-1bb2b632b06a"
+            },
+            {
+              "doc_id": "ef3f8705-d175-4b37-ac32-39f8ac5c78af"
+            },
+            {
+              "doc_id": "f05f1b0b-7aaa-4f60-803d-02827c4b25a6"
+            },
+            {
+              "doc_id": "f069fca8-2445-4234-bfc1-cd411d1308d6"
+            },
+            {
+              "doc_id": "f53c2511-e49c-4fab-ac83-225815a4015a"
+            }
+          ]
+        },
+        "South Korea": {
+          "answer": "South Korea",
+          "references": [
+            {
+              "doc_id": "03914e5a-450a-4866-a5e1-0ee945805403"
+            },
+            {
+              "doc_id": "0ba45ad3-fce2-403c-80a6-06618f37ad1e"
+            },
+            {
+              "doc_id": "2bc4899b-4dfa-4a4d-9164-efc1267107c8"
+            },
+            {
+              "doc_id": "3a023d85-8389-4608-bc42-d2812ba5bded"
+            },
+            {
+              "doc_id": "3df0ec8d-9ccb-4295-9146-9c845e14d444"
+            },
+            {
+              "doc_id": "3fae1b45-6d07-4d58-9bec-9ffd159ef686"
+            },
+            {
+              "doc_id": "4098516d-5650-4a94-b0f1-b347a364c398"
+            },
+            {
+              "doc_id": "42c53062-3509-46f1-a828-448dd6fcc31d"
+            },
+            {
+              "doc_id": "43ced42a-198e-41f5-b982-e75d15d10ce5"
+            },
+            {
+              "doc_id": "45faefdc-9d79-4bc8-b74d-084eea15cc04"
+            },
+            {
+              "doc_id": "4ed2e4a6-242c-4f1f-a0e7-fdc0cb3cc699"
+            },
+            {
+              "doc_id": "5ae8473d-0d53-49d4-ac54-7f88d5dbcd4f"
+            },
+            {
+              "doc_id": "60cefa5f-9ef2-4ec3-9fd3-4b0b10b433fa"
+            },
+            {
+              "doc_id": "61b7f7ed-25e0-407d-8e7e-a11381517eed"
+            },
+            {
+              "doc_id": "62ff368a-f4c6-49e8-b0a7-844c033ba420"
+            },
+            {
+              "doc_id": "6de78e11-5773-468d-b578-1e055cb686bf"
+            },
+            {
+              "doc_id": "82379bc3-74e0-4dbd-95d1-1686d1a2318c"
+            },
+            {
+              "doc_id": "83ac5b25-367e-465b-ba81-ea5655e1436a"
+            },
+            {
+              "doc_id": "84012520-3363-4321-ba8c-114e757f7273"
+            },
+            {
+              "doc_id": "91c8982b-44dc-4b20-9628-1f2c92eae586"
+            },
+            {
+              "doc_id": "9f269c07-8974-4410-b067-e38508010e07"
+            },
+            {
+              "doc_id": "a2f1630f-b6f6-4b0a-a61c-b264fa5ff842"
+            },
+            {
+              "doc_id": "a4ee7f2d-7e09-4771-87f4-9979266c9c46"
+            },
+            {
+              "doc_id": "a6db0f63-b1ad-474e-b136-29aa792fbfad"
+            },
+            {
+              "doc_id": "a88c6810-1c51-49aa-98d1-01b9a4b2cbbc"
+            },
+            {
+              "doc_id": "aa278c76-6c68-4fb4-a426-e87332622f34"
+            },
+            {
+              "doc_id": "ac66825a-ac55-491b-8b22-cda8934ce28b"
+            },
+            {
+              "doc_id": "ad8d2cd7-1d06-446e-943b-59ec6d1e0e6b"
+            },
+            {
+              "doc_id": "b2ca5f12-6e7b-483a-985e-7f771a09c4ea"
+            },
+            {
+              "doc_id": "c43be781-4ef5-4186-8a27-0997d07dd61a"
+            },
+            {
+              "doc_id": "c570ecb4-3eac-42b2-9eca-d988c7f0ffcf"
+            },
+            {
+              "doc_id": "cebe21fa-4c54-4a01-9732-6deb0edb43c6"
+            },
+            {
+              "doc_id": "d4f6cb36-8e89-4708-84cd-1e935ccf1e94"
+            },
+            {
+              "doc_id": "d6beb96f-ba45-451a-8600-15f2d502cb68"
+            },
+            {
+              "doc_id": "d8b15316-6590-4a84-a60a-edc6763e8e2d"
+            },
+            {
+              "doc_id": "da702567-542d-4be0-bb82-75350c83b6da"
+            },
+            {
+              "doc_id": "dbc64311-f650-4cd9-b973-3e87bcbaa0dd"
+            },
+            {
+              "doc_id": "dd438cde-6f78-47e3-83ea-f6ec0549b8b3"
+            },
+            {
+              "doc_id": "e04f99f6-fae0-413d-aa3a-1bb2b632b06a"
+            },
+            {
+              "doc_id": "ef3f8705-d175-4b37-ac32-39f8ac5c78af"
+            },
+            {
+              "doc_id": "f069fca8-2445-4234-bfc1-cd411d1308d6"
+            },
+            {
+              "doc_id": "f53c2511-e49c-4fab-ac83-225815a4015a"
+            }
+          ]
+        },
+        "France": {
+          "answer": "France",
+          "references": [
+            {
+              "doc_id": "3fae1b45-6d07-4d58-9bec-9ffd159ef686"
+            },
+            {
+              "doc_id": "4b69a7c1-30d3-4ed2-aef7-72cde5a7474b"
+            },
+            {
+              "doc_id": "4ed2e4a6-242c-4f1f-a0e7-fdc0cb3cc699"
+            },
+            {
+              "doc_id": "d6beb96f-ba45-451a-8600-15f2d502cb68"
+            }
+          ]
+        },
+        "35 countries": {
+          "answer": "35 countries",
+          "references": [
+            {
+              "doc_id": "4b69a7c1-30d3-4ed2-aef7-72cde5a7474b"
+            },
+            {
+              "doc_id": "a88c6810-1c51-49aa-98d1-01b9a4b2cbbc"
+            },
+            {
+              "doc_id": "b676b93d-19ba-45d4-a76d-50dd61a35e83"
+            }
+          ]
+        },
+        "7 countries": {
+          "answer": "7 countries",
+          "references": [
+            {
+              "doc_id": "9031da7f-0705-4f6c-b4a6-8ecc7f563d8f"
+            },
+            {
+              "doc_id": "aa278c76-6c68-4fb4-a426-e87332622f34"
+            }
+          ]
+        },
+        "more than 35 countries": {
+          "answer": "more than 35 countries",
+          "references": [
+            {
+              "doc_id": "a88c6810-1c51-49aa-98d1-01b9a4b2cbbc"
+            }
+          ]
+        },
+        "Switzerland": {
+          "answer": "Switzerland",
+          "references": [
+            {
+              "doc_id": "a88c6810-1c51-49aa-98d1-01b9a4b2cbbc"
+            },
+            {
+              "doc_id": "d8b15316-6590-4a84-a60a-edc6763e8e2d"
+            }
+          ]
+        }
+      },
+      "question_id": "a5812248b9a95fe44bf0d70a6313985f",
+      "aggregator_type": "OR",
+      "query_id": "388",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.742551+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

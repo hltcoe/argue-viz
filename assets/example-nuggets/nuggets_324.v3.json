@@ -1,0 +1,1364 @@
+{
+  "query_id": "324",
+  "title_query": "Machu Picchu, architecture",
+  "full_query": "Produce a report on the mysteries of Machu Picchu's architecture. The focus of the report is on speculations and theories regarding the construction methods and architectural marvels of Machu Picchu. I am also interested in hypotheses about the purpose, techniques, and significance of the unique structures at this ancient Incan site.",
+  "full_background": "As an archaeologist leading an expedition in South America, I require insights into the \"Mysteries of Machu Picchu's Architecture\" to deepen our team's understanding of its construction techniques and historical significance. This report will guide our fieldwork and contribute to the scholarly discourse on Incan civilization.",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "When was Machu Picchu built?": {
+      "question": "When was Machu Picchu built?",
+      "answers": {
+        "15th Century": {
+          "answer": "15th Century",
+          "references": [
+            {
+              "doc_id": "03b53809-fbee-46aa-b036-8934a2b1f556"
+            },
+            {
+              "doc_id": "0e589240-39b6-49ca-b82f-84f7c55d21f5"
+            },
+            {
+              "doc_id": "17770e9d-4865-48e5-9140-ffe85401c9d6"
+            },
+            {
+              "doc_id": "1a394bf8-d7f1-4067-abef-25842f06b13c"
+            },
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            },
+            {
+              "doc_id": "24d9e7aa-d6a9-4c7c-b525-ab5fddc87736"
+            },
+            {
+              "doc_id": "31e2247f-9a60-4b6a-bdeb-9b18fbd0f512"
+            },
+            {
+              "doc_id": "4aea5477-8600-410d-a128-721ec875e42f"
+            },
+            {
+              "doc_id": "65a6e135-7b28-4632-8dcd-7dd2e8cae838"
+            },
+            {
+              "doc_id": "667c2508-0d33-4cb4-89fb-03d348047b3b"
+            },
+            {
+              "doc_id": "701ebb4b-4031-4f9c-ab3f-292c65179525"
+            },
+            {
+              "doc_id": "8d4b9e04-158e-41f5-aaf4-c76af11def2b"
+            },
+            {
+              "doc_id": "b0fb00b5-049a-45e8-b80f-585df5538922"
+            },
+            {
+              "doc_id": "cb886402-bb18-42cc-a189-cc2d59cb3689"
+            },
+            {
+              "doc_id": "cd1ff2b3-aa54-4a9f-83ed-e7912298ecdb"
+            },
+            {
+              "doc_id": "d19015dc-edd2-46c4-ae2d-1730ae674f1e"
+            },
+            {
+              "doc_id": "d6fc8ac5-1e4b-4088-9182-af8857acf2c6"
+            },
+            {
+              "doc_id": "da3e8b31-25b6-40b5-a1b9-64ddaaf3d918"
+            },
+            {
+              "doc_id": "f1deb0ff-8db7-439e-aae4-e4386cb310e4"
+            },
+            {
+              "doc_id": "ff8f00e7-1af6-489e-bfdc-af45752215be"
+            }
+          ]
+        },
+        "1440": {
+          "answer": "1440",
+          "references": [
+            {
+              "doc_id": "17770e9d-4865-48e5-9140-ffe85401c9d6"
+            },
+            {
+              "doc_id": "222181a6-b2a9-433e-bd37-61827825aa65"
+            },
+            {
+              "doc_id": "8d4b9e04-158e-41f5-aaf4-c76af11def2b"
+            },
+            {
+              "doc_id": "cb886402-bb18-42cc-a189-cc2d59cb3689"
+            }
+          ]
+        },
+        "1400s": {
+          "answer": "1400s",
+          "references": [
+            {
+              "doc_id": "701ebb4b-4031-4f9c-ab3f-292c65179525"
+            },
+            {
+              "doc_id": "d50a0f83-7fc3-46ec-b1e5-49ca7cc13726"
+            }
+          ]
+        },
+        "in 1450": {
+          "answer": "in 1450",
+          "references": [
+            {
+              "doc_id": "7b841af8-10c3-4eed-9ae4-e3ced624b7a6"
+            }
+          ]
+        },
+        "around 1440": {
+          "answer": "around 1440",
+          "references": [
+            {
+              "doc_id": "f1deb0ff-8db7-439e-aae4-e4386cb310e4"
+            }
+          ]
+        }
+      },
+      "question_id": "8927c0f454ecf96813fa845ed239e1f4",
+      "aggregator_type": "OR",
+      "query_id": "324",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.654197+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Where is Machu Picchu located?": {
+      "question": "Where is Machu Picchu located?",
+      "answers": {
+        "The Andes mountains in Peru": {
+          "answer": "The Andes mountains in Peru",
+          "references": [
+            {
+              "doc_id": "0e589240-39b6-49ca-b82f-84f7c55d21f5"
+            },
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            },
+            {
+              "doc_id": "235379e3-a1cd-4c54-b457-f01b1a58e2bc"
+            },
+            {
+              "doc_id": "31e2247f-9a60-4b6a-bdeb-9b18fbd0f512"
+            },
+            {
+              "doc_id": "38a381f6-6f0a-4be4-92fb-d77231d650b8"
+            },
+            {
+              "doc_id": "667c2508-0d33-4cb4-89fb-03d348047b3b"
+            },
+            {
+              "doc_id": "701ebb4b-4031-4f9c-ab3f-292c65179525"
+            },
+            {
+              "doc_id": "b0fb00b5-049a-45e8-b80f-585df5538922"
+            },
+            {
+              "doc_id": "cd1ff2b3-aa54-4a9f-83ed-e7912298ecdb"
+            },
+            {
+              "doc_id": "d19015dc-edd2-46c4-ae2d-1730ae674f1e"
+            },
+            {
+              "doc_id": "d971e990-e5cf-4c18-88a1-884190b06aad"
+            },
+            {
+              "doc_id": "f1deb0ff-8db7-439e-aae4-e4386cb310e4"
+            },
+            {
+              "doc_id": "f60d0d1d-c1f6-4983-ba2d-fb1d716c0d52"
+            },
+            {
+              "doc_id": "ff38906d-3ae8-4d68-8735-031423c74c51"
+            },
+            {
+              "doc_id": "ff8f00e7-1af6-489e-bfdc-af45752215be"
+            }
+          ]
+        },
+        "Above the Urubamba river valley": {
+          "answer": "Above the Urubamba river valley",
+          "references": [
+            {
+              "doc_id": "0e589240-39b6-49ca-b82f-84f7c55d21f5"
+            },
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            },
+            {
+              "doc_id": "222181a6-b2a9-433e-bd37-61827825aa65"
+            },
+            {
+              "doc_id": "3be0a2c1-3838-4258-be88-26c6b61b61dd"
+            },
+            {
+              "doc_id": "8d4b9e04-158e-41f5-aaf4-c76af11def2b"
+            },
+            {
+              "doc_id": "c92352e0-9389-4b90-8543-cd49d34a7fc5"
+            },
+            {
+              "doc_id": "cb886402-bb18-42cc-a189-cc2d59cb3689"
+            }
+          ]
+        },
+        "in Peru": {
+          "answer": "in Peru",
+          "references": [
+            {
+              "doc_id": "17770e9d-4865-48e5-9140-ffe85401c9d6"
+            },
+            {
+              "doc_id": "1a394bf8-d7f1-4067-abef-25842f06b13c"
+            },
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            },
+            {
+              "doc_id": "222181a6-b2a9-433e-bd37-61827825aa65"
+            },
+            {
+              "doc_id": "24d9e7aa-d6a9-4c7c-b525-ab5fddc87736"
+            },
+            {
+              "doc_id": "3be0a2c1-3838-4258-be88-26c6b61b61dd"
+            },
+            {
+              "doc_id": "51b3d6da-4a3e-4e11-9cd9-16d11c7df47c"
+            },
+            {
+              "doc_id": "65a6e135-7b28-4632-8dcd-7dd2e8cae838"
+            },
+            {
+              "doc_id": "667c2508-0d33-4cb4-89fb-03d348047b3b"
+            },
+            {
+              "doc_id": "8322624c-4455-4ee5-91aa-5649a3c69150"
+            },
+            {
+              "doc_id": "8a93ca15-a2f3-4600-97f7-57d885bf739b"
+            },
+            {
+              "doc_id": "8d4b9e04-158e-41f5-aaf4-c76af11def2b"
+            },
+            {
+              "doc_id": "b51270c9-557e-4ea2-9122-157bb56f8f67"
+            },
+            {
+              "doc_id": "c92352e0-9389-4b90-8543-cd49d34a7fc5"
+            },
+            {
+              "doc_id": "cb886402-bb18-42cc-a189-cc2d59cb3689"
+            },
+            {
+              "doc_id": "e52b4c24-3bcf-4f9a-9723-23e6ee6614dc"
+            }
+          ]
+        },
+        "6 kilometers from Aguas Calientes": {
+          "answer": "6 kilometers from Aguas Calientes",
+          "references": [
+            {
+              "doc_id": "17770e9d-4865-48e5-9140-ffe85401c9d6"
+            },
+            {
+              "doc_id": "222181a6-b2a9-433e-bd37-61827825aa65"
+            },
+            {
+              "doc_id": "8d4b9e04-158e-41f5-aaf4-c76af11def2b"
+            },
+            {
+              "doc_id": "cb886402-bb18-42cc-a189-cc2d59cb3689"
+            }
+          ]
+        },
+        "on top of a mountain ridge": {
+          "answer": "on top of a mountain ridge",
+          "references": [
+            {
+              "doc_id": "17770e9d-4865-48e5-9140-ffe85401c9d6"
+            },
+            {
+              "doc_id": "1a394bf8-d7f1-4067-abef-25842f06b13c"
+            },
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            },
+            {
+              "doc_id": "222181a6-b2a9-433e-bd37-61827825aa65"
+            },
+            {
+              "doc_id": "2d46f479-f21d-4822-89f2-fce0d8cbd07d"
+            },
+            {
+              "doc_id": "65a6e135-7b28-4632-8dcd-7dd2e8cae838"
+            },
+            {
+              "doc_id": "81c055db-df8f-43fa-8296-3c1b93e79b2a"
+            },
+            {
+              "doc_id": "8d4b9e04-158e-41f5-aaf4-c76af11def2b"
+            },
+            {
+              "doc_id": "c92352e0-9389-4b90-8543-cd49d34a7fc5"
+            },
+            {
+              "doc_id": "cb886402-bb18-42cc-a189-cc2d59cb3689"
+            }
+          ]
+        },
+        "in the province of Cusco": {
+          "answer": "in the province of Cusco",
+          "references": [
+            {
+              "doc_id": "1a394bf8-d7f1-4067-abef-25842f06b13c"
+            },
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            }
+          ]
+        },
+        "not far from Aguas Calientes": {
+          "answer": "not far from Aguas Calientes",
+          "references": [
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            },
+            {
+              "doc_id": "3be0a2c1-3838-4258-be88-26c6b61b61dd"
+            },
+            {
+              "doc_id": "8d4b9e04-158e-41f5-aaf4-c76af11def2b"
+            },
+            {
+              "doc_id": "b51270c9-557e-4ea2-9122-157bb56f8f67"
+            },
+            {
+              "doc_id": "cb886402-bb18-42cc-a189-cc2d59cb3689"
+            },
+            {
+              "doc_id": "f376cf74-3c7d-4c0b-8c02-6b312c4ee389"
+            }
+          ]
+        },
+        "100 kilometers from the city of Cusco": {
+          "answer": "100 kilometers from the city of Cusco",
+          "references": [
+            {
+              "doc_id": "4aea5477-8600-410d-a128-721ec875e42f"
+            }
+          ]
+        },
+        "About 100 kilometers from Cusco, the capital of the ancient Inca Empire": {
+          "answer": "About 100 kilometers from Cusco, the capital of the ancient Inca Empire",
+          "references": [
+            {
+              "doc_id": "03b53809-fbee-46aa-b036-8934a2b1f556"
+            }
+          ]
+        }
+      },
+      "question_id": "67e2b4df36ecc654ba897d19770b84bc",
+      "aggregator_type": "OR",
+      "query_id": "324",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.654348+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How high is the mountain ridge on which Machu Picchu sits?": {
+      "question": "How high is the mountain ridge on which Machu Picchu sits?",
+      "answers": {
+        "At an altitude of 7972 feet": {
+          "answer": "At an altitude of 7972 feet",
+          "references": []
+        },
+        "At an altitude of 2450 meters": {
+          "answer": "At an altitude of 2450 meters",
+          "references": [
+            {
+              "doc_id": "0a5e807a-f77a-46a1-a1c5-87d442739bbf"
+            },
+            {
+              "doc_id": "17770e9d-4865-48e5-9140-ffe85401c9d6"
+            },
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            },
+            {
+              "doc_id": "222181a6-b2a9-433e-bd37-61827825aa65"
+            },
+            {
+              "doc_id": "3be0a2c1-3838-4258-be88-26c6b61b61dd"
+            },
+            {
+              "doc_id": "4aea5477-8600-410d-a128-721ec875e42f"
+            },
+            {
+              "doc_id": "65a6e135-7b28-4632-8dcd-7dd2e8cae838"
+            },
+            {
+              "doc_id": "81c055db-df8f-43fa-8296-3c1b93e79b2a"
+            },
+            {
+              "doc_id": "8d4b9e04-158e-41f5-aaf4-c76af11def2b"
+            },
+            {
+              "doc_id": "cb886402-bb18-42cc-a189-cc2d59cb3689"
+            }
+          ]
+        },
+        "At an altitude of 2400 meters": {
+          "answer": "At an altitude of 2400 meters",
+          "references": [
+            {
+              "doc_id": "1a394bf8-d7f1-4067-abef-25842f06b13c"
+            },
+            {
+              "doc_id": "b51270c9-557e-4ea2-9122-157bb56f8f67"
+            }
+          ]
+        },
+        "At an altitude of 2430 meters": {
+          "answer": "At an altitude of 2430 meters",
+          "references": [
+            {
+              "doc_id": "667c2508-0d33-4cb4-89fb-03d348047b3b"
+            },
+            {
+              "doc_id": "c92352e0-9389-4b90-8543-cd49d34a7fc5"
+            }
+          ]
+        },
+        "At an altitude of 2800 meters": {
+          "answer": "At an altitude of 2800 meters",
+          "references": [
+            {
+              "doc_id": "e52b4c24-3bcf-4f9a-9723-23e6ee6614dc"
+            }
+          ]
+        },
+        "2430 meters above the sea level": {
+          "answer": "2430 meters above the sea level",
+          "references": [
+            {
+              "doc_id": "31e2247f-9a60-4b6a-bdeb-9b18fbd0f512"
+            },
+            {
+              "doc_id": "701ebb4b-4031-4f9c-ab3f-292c65179525"
+            },
+            {
+              "doc_id": "b0fb00b5-049a-45e8-b80f-585df5538922"
+            },
+            {
+              "doc_id": "becdd87e-3d63-4d28-8e86-1bcd535436da"
+            },
+            {
+              "doc_id": "d50a0f83-7fc3-46ec-b1e5-49ca7cc13726"
+            },
+            {
+              "doc_id": "d971e990-e5cf-4c18-88a1-884190b06aad"
+            },
+            {
+              "doc_id": "f1deb0ff-8db7-439e-aae4-e4386cb310e4"
+            },
+            {
+              "doc_id": "f60d0d1d-c1f6-4983-ba2d-fb1d716c0d52"
+            },
+            {
+              "doc_id": "ff38906d-3ae8-4d68-8735-031423c74c51"
+            }
+          ]
+        }
+      },
+      "question_id": "12100a6f03672147864ba9ceb29f2a2a",
+      "aggregator_type": "OR",
+      "query_id": "324",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.654428+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What make Machu Picchu one of the world's most visited sites?": {
+      "question": "What make Machu Picchu one of the world's most visited sites?",
+      "answers": {
+        "Numerous unsolved mysteries surrounding it": {
+          "answer": "Numerous unsolved mysteries surrounding it",
+          "references": [
+            {
+              "doc_id": "65a6e135-7b28-4632-8dcd-7dd2e8cae838"
+            },
+            {
+              "doc_id": "8a93ca15-a2f3-4600-97f7-57d885bf739b"
+            },
+            {
+              "doc_id": "b0fb00b5-049a-45e8-b80f-585df5538922"
+            },
+            {
+              "doc_id": "becdd87e-3d63-4d28-8e86-1bcd535436da"
+            },
+            {
+              "doc_id": "e52b4c24-3bcf-4f9a-9723-23e6ee6614dc"
+            },
+            {
+              "doc_id": "ff38906d-3ae8-4d68-8735-031423c74c51"
+            }
+          ]
+        },
+        "Breathtaking rugged beauty": {
+          "answer": "Breathtaking rugged beauty",
+          "references": [
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            },
+            {
+              "doc_id": "3be0a2c1-3838-4258-be88-26c6b61b61dd"
+            },
+            {
+              "doc_id": "4aea5477-8600-410d-a128-721ec875e42f"
+            },
+            {
+              "doc_id": "8322624c-4455-4ee5-91aa-5649a3c69150"
+            },
+            {
+              "doc_id": "8a93ca15-a2f3-4600-97f7-57d885bf739b"
+            },
+            {
+              "doc_id": "b51270c9-557e-4ea2-9122-157bb56f8f67"
+            },
+            {
+              "doc_id": "becdd87e-3d63-4d28-8e86-1bcd535436da"
+            },
+            {
+              "doc_id": "c92352e0-9389-4b90-8543-cd49d34a7fc5"
+            },
+            {
+              "doc_id": "e52b4c24-3bcf-4f9a-9723-23e6ee6614dc"
+            }
+          ]
+        },
+        "Unique Incan cultural legacy": {
+          "answer": "Unique Incan cultural legacy",
+          "references": [
+            {
+              "doc_id": "3582c1b0-ef5a-4872-b395-2c2a705b1a6d"
+            },
+            {
+              "doc_id": "b0fb00b5-049a-45e8-b80f-585df5538922"
+            },
+            {
+              "doc_id": "c92352e0-9389-4b90-8543-cd49d34a7fc5"
+            },
+            {
+              "doc_id": "ddf0723e-35fd-4df6-a9a3-7d12521910f1"
+            }
+          ]
+        },
+        "architectural marvels": {
+          "answer": "architectural marvels",
+          "references": [
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            },
+            {
+              "doc_id": "2d46f479-f21d-4822-89f2-fce0d8cbd07d"
+            },
+            {
+              "doc_id": "4aea5477-8600-410d-a128-721ec875e42f"
+            },
+            {
+              "doc_id": "65a6e135-7b28-4632-8dcd-7dd2e8cae838"
+            },
+            {
+              "doc_id": "667c2508-0d33-4cb4-89fb-03d348047b3b"
+            },
+            {
+              "doc_id": "81c055db-df8f-43fa-8296-3c1b93e79b2a"
+            }
+          ]
+        },
+        "the way it was built": {
+          "answer": "the way it was built",
+          "references": [
+            {
+              "doc_id": "701ebb4b-4031-4f9c-ab3f-292c65179525"
+            },
+            {
+              "doc_id": "ff38906d-3ae8-4d68-8735-031423c74c51"
+            }
+          ]
+        }
+      },
+      "question_id": "f6e681b4466b8a2dfb9994825fe4ba66",
+      "aggregator_type": "AND",
+      "query_id": "324",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.654503+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What geological feature facilitated the construction of Machu Picchu based on the latest study conducted by Rualdo Menegat?": {
+      "question": "What geological feature facilitated the construction of Machu Picchu based on the latest study conducted by Rualdo Menegat?",
+      "answers": {
+        "Fault lines beneath the site": {
+          "answer": "Fault lines beneath the site",
+          "references": [
+            {
+              "doc_id": "0a5e807a-f77a-46a1-a1c5-87d442739bbf"
+            },
+            {
+              "doc_id": "2d46f479-f21d-4822-89f2-fce0d8cbd07d"
+            },
+            {
+              "doc_id": "31e2247f-9a60-4b6a-bdeb-9b18fbd0f512"
+            },
+            {
+              "doc_id": "667c2508-0d33-4cb4-89fb-03d348047b3b"
+            },
+            {
+              "doc_id": "701ebb4b-4031-4f9c-ab3f-292c65179525"
+            },
+            {
+              "doc_id": "81c055db-df8f-43fa-8296-3c1b93e79b2a"
+            }
+          ]
+        }
+      },
+      "question_id": "ad499ee785cf81b85a7e0a4ac76d24b3",
+      "aggregator_type": "OR",
+      "query_id": "324",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.654528+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How did the fault lines beneath the site of Machu Picchu facilitated stone construction?": {
+      "question": "How did the fault lines beneath the site of Machu Picchu facilitated stone construction?",
+      "answers": {
+        "breaking gigantic granite stones into manageable pieces": {
+          "answer": "breaking gigantic granite stones into manageable pieces",
+          "references": [
+            {
+              "doc_id": "31e2247f-9a60-4b6a-bdeb-9b18fbd0f512"
+            },
+            {
+              "doc_id": "667c2508-0d33-4cb4-89fb-03d348047b3b"
+            },
+            {
+              "doc_id": "701ebb4b-4031-4f9c-ab3f-292c65179525"
+            },
+            {
+              "doc_id": "81c055db-df8f-43fa-8296-3c1b93e79b2a"
+            }
+          ]
+        },
+        "By providing ample manageable building materials": {
+          "answer": "By providing ample manageable building materials",
+          "references": [
+            {
+              "doc_id": "31e2247f-9a60-4b6a-bdeb-9b18fbd0f512"
+            },
+            {
+              "doc_id": "667c2508-0d33-4cb4-89fb-03d348047b3b"
+            },
+            {
+              "doc_id": "701ebb4b-4031-4f9c-ab3f-292c65179525"
+            },
+            {
+              "doc_id": "81c055db-df8f-43fa-8296-3c1b93e79b2a"
+            }
+          ]
+        },
+        "providing a natural source of water": {
+          "answer": "providing a natural source of water",
+          "references": [
+            {
+              "doc_id": "0a5e807a-f77a-46a1-a1c5-87d442739bbf"
+            },
+            {
+              "doc_id": "2d46f479-f21d-4822-89f2-fce0d8cbd07d"
+            },
+            {
+              "doc_id": "81c055db-df8f-43fa-8296-3c1b93e79b2a"
+            }
+          ]
+        },
+        "served as a drainage system": {
+          "answer": "served as a drainage system",
+          "references": [
+            {
+              "doc_id": "2d46f479-f21d-4822-89f2-fce0d8cbd07d"
+            },
+            {
+              "doc_id": "667c2508-0d33-4cb4-89fb-03d348047b3b"
+            },
+            {
+              "doc_id": "81c055db-df8f-43fa-8296-3c1b93e79b2a"
+            }
+          ]
+        }
+      },
+      "question_id": "f4b30adf5cea4c5caab1c3fd210a9ef5",
+      "aggregator_type": "AND",
+      "query_id": "324",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.654580+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What are the leading hypotheses or speculations about Machu Picchu's functional roles during the Inca Empire's reign?": {
+      "question": "What are the leading hypotheses or speculations about Machu Picchu's functional roles during the Inca Empire's reign?",
+      "answers": {
+        "A sacred religious site": {
+          "answer": "A sacred religious site",
+          "references": [
+            {
+              "doc_id": "0a5e807a-f77a-46a1-a1c5-87d442739bbf"
+            },
+            {
+              "doc_id": "17770e9d-4865-48e5-9140-ffe85401c9d6"
+            },
+            {
+              "doc_id": "1a394bf8-d7f1-4067-abef-25842f06b13c"
+            },
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            },
+            {
+              "doc_id": "222181a6-b2a9-433e-bd37-61827825aa65"
+            },
+            {
+              "doc_id": "2d46f479-f21d-4822-89f2-fce0d8cbd07d"
+            },
+            {
+              "doc_id": "51b3d6da-4a3e-4e11-9cd9-16d11c7df47c"
+            },
+            {
+              "doc_id": "667c2508-0d33-4cb4-89fb-03d348047b3b"
+            },
+            {
+              "doc_id": "701ebb4b-4031-4f9c-ab3f-292c65179525"
+            },
+            {
+              "doc_id": "7b841af8-10c3-4eed-9ae4-e3ced624b7a6"
+            },
+            {
+              "doc_id": "8a93ca15-a2f3-4600-97f7-57d885bf739b"
+            },
+            {
+              "doc_id": "8d4b9e04-158e-41f5-aaf4-c76af11def2b"
+            },
+            {
+              "doc_id": "b0fb00b5-049a-45e8-b80f-585df5538922"
+            },
+            {
+              "doc_id": "cb886402-bb18-42cc-a189-cc2d59cb3689"
+            }
+          ]
+        },
+        "A royal retreat": {
+          "answer": "A royal retreat",
+          "references": [
+            {
+              "doc_id": "1a394bf8-d7f1-4067-abef-25842f06b13c"
+            },
+            {
+              "doc_id": "222181a6-b2a9-433e-bd37-61827825aa65"
+            },
+            {
+              "doc_id": "701ebb4b-4031-4f9c-ab3f-292c65179525"
+            },
+            {
+              "doc_id": "7b841af8-10c3-4eed-9ae4-e3ced624b7a6"
+            },
+            {
+              "doc_id": "8a93ca15-a2f3-4600-97f7-57d885bf739b"
+            },
+            {
+              "doc_id": "8d4b9e04-158e-41f5-aaf4-c76af11def2b"
+            },
+            {
+              "doc_id": "cb886402-bb18-42cc-a189-cc2d59cb3689"
+            }
+          ]
+        },
+        "An observatory": {
+          "answer": "An observatory",
+          "references": [
+            {
+              "doc_id": "c92352e0-9389-4b90-8543-cd49d34a7fc5"
+            }
+          ]
+        }
+      },
+      "question_id": "46c4378f8a2ae0504f2c8f62049c6078",
+      "aggregator_type": "AND",
+      "query_id": "324",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.654634+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What are the popular architectural marvels that highlight Machu Picchu's astronomical and religious significance?": {
+      "question": "What are the popular architectural marvels that highlight Machu Picchu's astronomical and religious significance?",
+      "answers": {
+        "The Temple of the Sun": {
+          "answer": "The Temple of the Sun",
+          "references": [
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            },
+            {
+              "doc_id": "3be0a2c1-3838-4258-be88-26c6b61b61dd"
+            },
+            {
+              "doc_id": "4aea5477-8600-410d-a128-721ec875e42f"
+            },
+            {
+              "doc_id": "65a6e135-7b28-4632-8dcd-7dd2e8cae838"
+            },
+            {
+              "doc_id": "7b841af8-10c3-4eed-9ae4-e3ced624b7a6"
+            },
+            {
+              "doc_id": "b0fb00b5-049a-45e8-b80f-585df5538922"
+            },
+            {
+              "doc_id": "cd1ff2b3-aa54-4a9f-83ed-e7912298ecdb"
+            },
+            {
+              "doc_id": "d50a0f83-7fc3-46ec-b1e5-49ca7cc13726"
+            },
+            {
+              "doc_id": "f1deb0ff-8db7-439e-aae4-e4386cb310e4"
+            },
+            {
+              "doc_id": "fd6aaf17-d036-4d3a-81d6-123f1b4f2237"
+            },
+            {
+              "doc_id": "ff8f00e7-1af6-489e-bfdc-af45752215be"
+            }
+          ]
+        },
+        "Intihuatana stone": {
+          "answer": "Intihuatana stone",
+          "references": [
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            },
+            {
+              "doc_id": "3be0a2c1-3838-4258-be88-26c6b61b61dd"
+            },
+            {
+              "doc_id": "7b841af8-10c3-4eed-9ae4-e3ced624b7a6"
+            },
+            {
+              "doc_id": "8a93ca15-a2f3-4600-97f7-57d885bf739b"
+            },
+            {
+              "doc_id": "b0fb00b5-049a-45e8-b80f-585df5538922"
+            },
+            {
+              "doc_id": "c92352e0-9389-4b90-8543-cd49d34a7fc5"
+            },
+            {
+              "doc_id": "cd1ff2b3-aa54-4a9f-83ed-e7912298ecdb"
+            },
+            {
+              "doc_id": "d50a0f83-7fc3-46ec-b1e5-49ca7cc13726"
+            },
+            {
+              "doc_id": "f1deb0ff-8db7-439e-aae4-e4386cb310e4"
+            },
+            {
+              "doc_id": "fd6aaf17-d036-4d3a-81d6-123f1b4f2237"
+            }
+          ]
+        },
+        "The Temple of the Three Windows": {
+          "answer": "The Temple of the Three Windows",
+          "references": [
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            },
+            {
+              "doc_id": "7b841af8-10c3-4eed-9ae4-e3ced624b7a6"
+            },
+            {
+              "doc_id": "8a93ca15-a2f3-4600-97f7-57d885bf739b"
+            },
+            {
+              "doc_id": "b0fb00b5-049a-45e8-b80f-585df5538922"
+            }
+          ]
+        },
+        "unusual astronomy structures": {
+          "answer": "unusual astronomy structures",
+          "references": [
+            {
+              "doc_id": "0e589240-39b6-49ca-b82f-84f7c55d21f5"
+            },
+            {
+              "doc_id": "65a6e135-7b28-4632-8dcd-7dd2e8cae838"
+            },
+            {
+              "doc_id": "ff8f00e7-1af6-489e-bfdc-af45752215be"
+            }
+          ]
+        },
+        "the observatory": {
+          "answer": "the observatory",
+          "references": [
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            }
+          ]
+        },
+        "Chakana cross": {
+          "answer": "Chakana cross",
+          "references": [
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            },
+            {
+              "doc_id": "65a6e135-7b28-4632-8dcd-7dd2e8cae838"
+            }
+          ]
+        },
+        "The Temple of the Condor": {
+          "answer": "The Temple of the Condor",
+          "references": [
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            }
+          ]
+        },
+        "The Acllahuasi (House of the Virgins of the Sun)": {
+          "answer": "The Acllahuasi (House of the Virgins of the Sun)",
+          "references": [
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            }
+          ]
+        },
+        "Funerary Rock": {
+          "answer": "Funerary Rock",
+          "references": [
+            {
+              "doc_id": "3be0a2c1-3838-4258-be88-26c6b61b61dd"
+            }
+          ]
+        },
+        "Temple of the Condor": {
+          "answer": "Temple of the Condor",
+          "references": [
+            {
+              "doc_id": "cd1ff2b3-aa54-4a9f-83ed-e7912298ecdb"
+            },
+            {
+              "doc_id": "d50a0f83-7fc3-46ec-b1e5-49ca7cc13726"
+            },
+            {
+              "doc_id": "f1deb0ff-8db7-439e-aae4-e4386cb310e4"
+            },
+            {
+              "doc_id": "fd6aaf17-d036-4d3a-81d6-123f1b4f2237"
+            }
+          ]
+        }
+      },
+      "question_id": "b4638b80781e41df321445196484ee9c",
+      "aggregator_type": "AND",
+      "query_id": "324",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.654847+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What are the most remarkable aspects of the construction structure of Machu Picchu?": {
+      "question": "What are the most remarkable aspects of the construction structure of Machu Picchu?",
+      "answers": {
+        "Its stonework featuring mortarless masonry": {
+          "answer": "Its stonework featuring mortarless masonry",
+          "references": [
+            {
+              "doc_id": "0e589240-39b6-49ca-b82f-84f7c55d21f5"
+            },
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            },
+            {
+              "doc_id": "3be0a2c1-3838-4258-be88-26c6b61b61dd"
+            },
+            {
+              "doc_id": "4aea5477-8600-410d-a128-721ec875e42f"
+            },
+            {
+              "doc_id": "575e4e3e-514c-4271-9ede-ce81bfe4f958"
+            },
+            {
+              "doc_id": "667c2508-0d33-4cb4-89fb-03d348047b3b"
+            },
+            {
+              "doc_id": "81c055db-df8f-43fa-8296-3c1b93e79b2a"
+            },
+            {
+              "doc_id": "c92352e0-9389-4b90-8543-cd49d34a7fc5"
+            },
+            {
+              "doc_id": "cb886402-bb18-42cc-a189-cc2d59cb3689"
+            },
+            {
+              "doc_id": "e52b4c24-3bcf-4f9a-9723-23e6ee6614dc"
+            },
+            {
+              "doc_id": "ff8f00e7-1af6-489e-bfdc-af45752215be"
+            }
+          ]
+        },
+        "The precision with which the stones were cut and fit together seamlessly": {
+          "answer": "The precision with which the stones were cut and fit together seamlessly",
+          "references": [
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            },
+            {
+              "doc_id": "31e2247f-9a60-4b6a-bdeb-9b18fbd0f512"
+            },
+            {
+              "doc_id": "4aea5477-8600-410d-a128-721ec875e42f"
+            },
+            {
+              "doc_id": "667c2508-0d33-4cb4-89fb-03d348047b3b"
+            },
+            {
+              "doc_id": "701ebb4b-4031-4f9c-ab3f-292c65179525"
+            },
+            {
+              "doc_id": "81c055db-df8f-43fa-8296-3c1b93e79b2a"
+            },
+            {
+              "doc_id": "8a93ca15-a2f3-4600-97f7-57d885bf739b"
+            },
+            {
+              "doc_id": "b3be02fb-4926-43a2-b4d7-179e74b424fb"
+            },
+            {
+              "doc_id": "c92352e0-9389-4b90-8543-cd49d34a7fc5"
+            },
+            {
+              "doc_id": "cb886402-bb18-42cc-a189-cc2d59cb3689"
+            },
+            {
+              "doc_id": "e52b4c24-3bcf-4f9a-9723-23e6ee6614dc"
+            }
+          ]
+        },
+        "A complex water drainage system": {
+          "answer": "A complex water drainage system",
+          "references": [
+            {
+              "doc_id": "0a5e807a-f77a-46a1-a1c5-87d442739bbf"
+            },
+            {
+              "doc_id": "2d46f479-f21d-4822-89f2-fce0d8cbd07d"
+            },
+            {
+              "doc_id": "65a6e135-7b28-4632-8dcd-7dd2e8cae838"
+            },
+            {
+              "doc_id": "667c2508-0d33-4cb4-89fb-03d348047b3b"
+            },
+            {
+              "doc_id": "81c055db-df8f-43fa-8296-3c1b93e79b2a"
+            }
+          ]
+        },
+        "Using L-shaped blocks for corners": {
+          "answer": "Using L-shaped blocks for corners",
+          "references": [
+            {
+              "doc_id": "0084f08e-3bb2-4005-8e47-a8c810344d31"
+            }
+          ]
+        },
+        "The height protecting it from avalanches and landslides": {
+          "answer": "The height protecting it from avalanches and landslides",
+          "references": [
+            {
+              "doc_id": "0a5e807a-f77a-46a1-a1c5-87d442739bbf"
+            },
+            {
+              "doc_id": "2d46f479-f21d-4822-89f2-fce0d8cbd07d"
+            },
+            {
+              "doc_id": "81c055db-df8f-43fa-8296-3c1b93e79b2a"
+            }
+          ]
+        },
+        "stone blocks move during earthquakes pro": {
+          "answer": "stone blocks move during earthquakes pro",
+          "references": [
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            },
+            {
+              "doc_id": "4aea5477-8600-410d-a128-721ec875e42f"
+            }
+          ]
+        },
+        "using stone blocks weighing 30 to 100 tons": {
+          "answer": "using stone blocks weighing 30 to 100 tons",
+          "references": [
+            {
+              "doc_id": "4aea5477-8600-410d-a128-721ec875e42f"
+            }
+          ]
+        },
+        "Incan polygonal masonry": {
+          "answer": "Incan polygonal masonry",
+          "references": [
+            {
+              "doc_id": "575e4e3e-514c-4271-9ede-ce81bfe4f958"
+            },
+            {
+              "doc_id": "b3be02fb-4926-43a2-b4d7-179e74b424fb"
+            }
+          ]
+        },
+        "The height protecting it from invasions": {
+          "answer": "The height protecting it from invasions",
+          "references": [
+            {
+              "doc_id": "667c2508-0d33-4cb4-89fb-03d348047b3b"
+            }
+          ]
+        },
+        "various [regional] styles of masonry": {
+          "answer": "various [regional] styles of masonry",
+          "references": [
+            {
+              "doc_id": "da3e8b31-25b6-40b5-a1b9-64ddaaf3d918"
+            }
+          ]
+        },
+        "various stone block colors": {
+          "answer": "various stone block colors",
+          "references": [
+            {
+              "doc_id": "e870fe3b-ddb2-4045-9c29-752e982e2b6a"
+            }
+          ]
+        },
+        "possible use of tongue-and-groove joinery": {
+          "answer": "possible use of tongue-and-groove joinery",
+          "references": [
+            {
+              "doc_id": "e870fe3b-ddb2-4045-9c29-752e982e2b6a"
+            }
+          ]
+        }
+      },
+      "question_id": "f79ead1ae59ce1248ab4202d7af3aa1c",
+      "aggregator_type": "AND",
+      "query_id": "324",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.654980+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the historical significance of Machu Picchu?": {
+      "question": "What is the historical significance of Machu Picchu?",
+      "answers": {
+        "It showcases the culture and architecture of the Inca Empire at its height": {
+          "answer": "It showcases the culture and architecture of the Inca Empire at its height",
+          "references": [
+            {
+              "doc_id": "24d9e7aa-d6a9-4c7c-b525-ab5fddc87736"
+            },
+            {
+              "doc_id": "667c2508-0d33-4cb4-89fb-03d348047b3b"
+            },
+            {
+              "doc_id": "7b841af8-10c3-4eed-9ae4-e3ced624b7a6"
+            },
+            {
+              "doc_id": "8322624c-4455-4ee5-91aa-5649a3c69150"
+            },
+            {
+              "doc_id": "c92352e0-9389-4b90-8543-cd49d34a7fc5"
+            },
+            {
+              "doc_id": "cc0629c5-092b-4fa6-9dcc-930a1ebf619d"
+            }
+          ]
+        },
+        "The most enduring legend of the Inca Empire": {
+          "answer": "The most enduring legend of the Inca Empire",
+          "references": [
+            {
+              "doc_id": "6dc5d82f-2de1-420f-ba00-d33fcd88c67e"
+            },
+            {
+              "doc_id": "eb6160c8-671e-4aac-aa8e-9c5249ea5b2f"
+            }
+          ]
+        },
+        "The most famous symbol of the Inca Empire": {
+          "answer": "The most famous symbol of the Inca Empire",
+          "references": [
+            {
+              "doc_id": "d971e990-e5cf-4c18-88a1-884190b06aad"
+            }
+          ]
+        },
+        "The most representative historical and cultural heritage": {
+          "answer": "The most representative historical and cultural heritage",
+          "references": [
+            {
+              "doc_id": "d50a0f83-7fc3-46ec-b1e5-49ca7cc13726"
+            }
+          ]
+        }
+      },
+      "question_id": "6b5d2010534a951c48f31896ba6590df",
+      "aggregator_type": "OR",
+      "query_id": "324",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.655028+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What modern recognition has Machu Picchu received?": {
+      "question": "What modern recognition has Machu Picchu received?",
+      "answers": {
+        "One of the New Seven Wonders of the World": {
+          "answer": "One of the New Seven Wonders of the World",
+          "references": [
+            {
+              "doc_id": "0a5e807a-f77a-46a1-a1c5-87d442739bbf"
+            },
+            {
+              "doc_id": "17770e9d-4865-48e5-9140-ffe85401c9d6"
+            },
+            {
+              "doc_id": "1c7b3ea0-96a9-4acc-9ca7-6ba7fd609d21"
+            },
+            {
+              "doc_id": "222181a6-b2a9-433e-bd37-61827825aa65"
+            },
+            {
+              "doc_id": "4aea5477-8600-410d-a128-721ec875e42f"
+            },
+            {
+              "doc_id": "7b841af8-10c3-4eed-9ae4-e3ced624b7a6"
+            },
+            {
+              "doc_id": "8d4b9e04-158e-41f5-aaf4-c76af11def2b"
+            },
+            {
+              "doc_id": "b51270c9-557e-4ea2-9122-157bb56f8f67"
+            },
+            {
+              "doc_id": "becdd87e-3d63-4d28-8e86-1bcd535436da"
+            },
+            {
+              "doc_id": "c92352e0-9389-4b90-8543-cd49d34a7fc5"
+            },
+            {
+              "doc_id": "cb886402-bb18-42cc-a189-cc2d59cb3689"
+            },
+            {
+              "doc_id": "fd6aaf17-d036-4d3a-81d6-123f1b4f2237"
+            },
+            {
+              "doc_id": "ff38906d-3ae8-4d68-8735-031423c74c51"
+            }
+          ]
+        },
+        "Listed as a UNESCO World Heritage Site": {
+          "answer": "Listed as a UNESCO World Heritage Site",
+          "references": [
+            {
+              "doc_id": "03b53809-fbee-46aa-b036-8934a2b1f556"
+            },
+            {
+              "doc_id": "235379e3-a1cd-4c54-b457-f01b1a58e2bc"
+            },
+            {
+              "doc_id": "39f849ea-b9bf-4d6d-9718-2996e0ff80eb"
+            },
+            {
+              "doc_id": "57b0d952-f8e5-4a76-a2d6-c4215845eb0b"
+            },
+            {
+              "doc_id": "6dc5d82f-2de1-420f-ba00-d33fcd88c67e"
+            },
+            {
+              "doc_id": "9d9c274d-7bc6-4f22-b227-ff9e4e497cae"
+            },
+            {
+              "doc_id": "cd1ff2b3-aa54-4a9f-83ed-e7912298ecdb"
+            },
+            {
+              "doc_id": "d19015dc-edd2-46c4-ae2d-1730ae674f1e"
+            },
+            {
+              "doc_id": "d6fc8ac5-1e4b-4088-9182-af8857acf2c6"
+            },
+            {
+              "doc_id": "ddf0723e-35fd-4df6-a9a3-7d12521910f1"
+            },
+            {
+              "doc_id": "eb6160c8-671e-4aac-aa8e-9c5249ea5b2f"
+            }
+          ]
+        }
+      },
+      "question_id": "49244f050ebad21a850661c6b4f986be",
+      "aggregator_type": "OR",
+      "query_id": "324",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.655078+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

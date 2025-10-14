@@ -1,0 +1,915 @@
+{
+  "query_id": "310",
+  "title_query": "Turkish series soft power",
+  "full_query": "I'd like a report on how Turkish soap operas, dramas, and other television series are used by the Turkish government to exert influence on other countries in which they are viewed. Specifically, I want to understand how these shows are used to alter the views of people in other countries about Turkey, its people, and its culture.",
+  "full_background": "I am an art student at the University of Maryland, majoring in cinema and theater. I am interested in how Turkish television series are used as a tool for Turkish soft power and cultural influence.",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What regions did Turkish TV series dominate before expanding to South America?": {
+      "question": "What regions did Turkish TV series dominate before expanding to South America?",
+      "answers": {
+        "The Indian subcontinent": {
+          "answer": "The Indian subcontinent",
+          "references": []
+        },
+        "Middle East": {
+          "answer": "Middle East",
+          "references": [
+            {
+              "doc_id": "4e03b041-62e6-49db-82e0-51b6343d18fa"
+            },
+            {
+              "doc_id": "886c8842-a4af-40ca-8a0c-2c8477ce78b7"
+            }
+          ]
+        },
+        "Caucasus": {
+          "answer": "Caucasus",
+          "references": [
+            {
+              "doc_id": "22647534-1cf2-47e4-903f-4d7de6499aa1"
+            },
+            {
+              "doc_id": "231303db-b743-4085-a934-46c75c374c82"
+            },
+            {
+              "doc_id": "25459258-b15e-433f-a86e-527db9906685"
+            },
+            {
+              "doc_id": "7c895dad-5891-4707-8708-b52e7f8465bf"
+            }
+          ]
+        },
+        "Central Asia": {
+          "answer": "Central Asia",
+          "references": [
+            {
+              "doc_id": "596c085e-0f34-4c3b-9cad-be1d11985d95"
+            },
+            {
+              "doc_id": "7c895dad-5891-4707-8708-b52e7f8465bf"
+            },
+            {
+              "doc_id": "857b0dbf-c117-45f4-b0cc-c84c4ca12684"
+            },
+            {
+              "doc_id": "8c90430e-a919-4de6-9a1c-e60b2ed1789f"
+            },
+            {
+              "doc_id": "f7904245-7286-40d1-b80d-bff771a5b19f"
+            }
+          ]
+        },
+        "Balkans": {
+          "answer": "Balkans",
+          "references": []
+        },
+        "South Korea ": {
+          "answer": "South Korea ",
+          "references": []
+        },
+        "Russia": {
+          "answer": "Russia",
+          "references": []
+        },
+        "China": {
+          "answer": "China",
+          "references": []
+        },
+        "Japan": {
+          "answer": "Japan",
+          "references": []
+        },
+        "Iraq": {
+          "answer": "Iraq",
+          "references": []
+        },
+        "Afghanistan ": {
+          "answer": "Afghanistan ",
+          "references": []
+        },
+        "Eastern Europe ": {
+          "answer": "Eastern Europe ",
+          "references": [
+            {
+              "doc_id": "9a584f40-c87d-4476-94ad-714ca0bd0490"
+            },
+            {
+              "doc_id": "c1be2faa-18b2-40c3-a815-2e53e5e0f085"
+            },
+            {
+              "doc_id": "f9e4ec82-e086-4d3e-a5e9-2bc6e5a914ac"
+            }
+          ]
+        }
+      },
+      "question_id": "ee839d5c7c85a2a75499458ba43e1f43",
+      "aggregator_type": "AND",
+      "query_id": "310",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.650164+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Which countries in South America are highlighted as major consumers of Turkish TV series?": {
+      "question": "Which countries in South America are highlighted as major consumers of Turkish TV series?",
+      "answers": {
+        "Chile": {
+          "answer": "Chile",
+          "references": [
+            {
+              "doc_id": "42607cea-af1e-4ab3-9bc8-0263c92ea826"
+            },
+            {
+              "doc_id": "49e5f7f9-6881-41ef-bdf8-2671d2a74e36"
+            }
+          ]
+        },
+        "Argentina": {
+          "answer": "Argentina",
+          "references": [
+            {
+              "doc_id": "42607cea-af1e-4ab3-9bc8-0263c92ea826"
+            },
+            {
+              "doc_id": "49e5f7f9-6881-41ef-bdf8-2671d2a74e36"
+            }
+          ]
+        },
+        "Mexico": {
+          "answer": "Mexico",
+          "references": [
+            {
+              "doc_id": "42607cea-af1e-4ab3-9bc8-0263c92ea826"
+            },
+            {
+              "doc_id": "4e03b041-62e6-49db-82e0-51b6343d18fa"
+            }
+          ]
+        },
+        "Bolivia": {
+          "answer": "Bolivia",
+          "references": []
+        },
+        "Brazil ": {
+          "answer": "Brazil ",
+          "references": [
+            {
+              "doc_id": "49e5f7f9-6881-41ef-bdf8-2671d2a74e36"
+            }
+          ]
+        },
+        "Peru": {
+          "answer": "Peru",
+          "references": [
+            {
+              "doc_id": "49e5f7f9-6881-41ef-bdf8-2671d2a74e36"
+            }
+          ]
+        },
+        "Venezuela": {
+          "answer": "Venezuela",
+          "references": [
+            {
+              "doc_id": "42523091-d474-4309-b807-e1309086e88b"
+            }
+          ]
+        }
+      },
+      "question_id": "9a3beca587dfd66c7169fe620c60362d",
+      "aggregator_type": "AND",
+      "query_id": "310",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.650243+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How have Turkish TV series been utilized by Turkey in recent years?": {
+      "question": "How have Turkish TV series been utilized by Turkey in recent years?",
+      "answers": {
+        "A form of soft power": {
+          "answer": "A form of soft power",
+          "references": [
+            {
+              "doc_id": "260f6b4b-4f1d-48cb-9dad-b0fc3eaa8798"
+            },
+            {
+              "doc_id": "42523091-d474-4309-b807-e1309086e88b"
+            },
+            {
+              "doc_id": "48d973c0-6e53-482d-9fd5-82391200938a"
+            },
+            {
+              "doc_id": "4e03b041-62e6-49db-82e0-51b6343d18fa"
+            },
+            {
+              "doc_id": "5dff9c08-f5a7-456a-8e2c-5946e82a419f"
+            },
+            {
+              "doc_id": "7c895dad-5891-4707-8708-b52e7f8465bf"
+            },
+            {
+              "doc_id": "857b0dbf-c117-45f4-b0cc-c84c4ca12684"
+            },
+            {
+              "doc_id": "886c8842-a4af-40ca-8a0c-2c8477ce78b7"
+            },
+            {
+              "doc_id": "8c90430e-a919-4de6-9a1c-e60b2ed1789f"
+            },
+            {
+              "doc_id": "8f241119-2962-48e1-8270-23b395096b46"
+            },
+            {
+              "doc_id": "98d6062b-88d2-4069-bef3-521f9b4e60ed"
+            },
+            {
+              "doc_id": "af033f60-7706-4f1d-a6ee-6fc72e7303e7"
+            },
+            {
+              "doc_id": "b322d847-96e5-485a-8085-effa4fccba03"
+            },
+            {
+              "doc_id": "ca429d0a-94e2-4eb6-96d0-afb7022d637a"
+            },
+            {
+              "doc_id": "ce1a5031-9441-4134-834e-2ed0b67bc06d"
+            },
+            {
+              "doc_id": "d276de9a-0a20-44c1-aa86-d5bf82264700"
+            },
+            {
+              "doc_id": "d651c117-2ad9-4e79-91c6-468e2854e66d"
+            },
+            {
+              "doc_id": "dc1d43cf-ebab-47c9-9901-bb4e58178865"
+            },
+            {
+              "doc_id": "e7c5f2a3-a5a2-49f4-b977-506cf29d6990"
+            },
+            {
+              "doc_id": "ea054720-e6c0-4fe2-9311-e0cf48ddf6c0"
+            },
+            {
+              "doc_id": "ebfc07dd-f943-4ee1-8ad0-8a723c9ae776"
+            },
+            {
+              "doc_id": "f7904245-7286-40d1-b80d-bff771a5b19f"
+            }
+          ]
+        }
+      },
+      "question_id": "2179c957829ac868ca9ce5561acb1b04",
+      "aggregator_type": "OR",
+      "query_id": "310",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.650287+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Besides attracting tourists, what other role do Turkish TV series play in advancing Turkey's cultural goals?": {
+      "question": "Besides attracting tourists, what other role do Turkish TV series play in advancing Turkey's cultural goals?",
+      "answers": {
+        "Promoting Turkish language": {
+          "answer": "Promoting Turkish language",
+          "references": [
+            {
+              "doc_id": "260f6b4b-4f1d-48cb-9dad-b0fc3eaa8798"
+            }
+          ]
+        },
+        "promoting Turkish culture": {
+          "answer": "promoting Turkish culture",
+          "references": [
+            {
+              "doc_id": "12e958ab-4db8-48a9-a5b9-3a9e5c801ea8"
+            },
+            {
+              "doc_id": "25459258-b15e-433f-a86e-527db9906685"
+            },
+            {
+              "doc_id": "260f6b4b-4f1d-48cb-9dad-b0fc3eaa8798"
+            },
+            {
+              "doc_id": "3296fa38-cab0-421b-ad54-fa93997afd33"
+            },
+            {
+              "doc_id": "42523091-d474-4309-b807-e1309086e88b"
+            },
+            {
+              "doc_id": "4e03b041-62e6-49db-82e0-51b6343d18fa"
+            },
+            {
+              "doc_id": "519d166c-6f59-4579-a630-07419d9a7c30"
+            },
+            {
+              "doc_id": "6c764d08-4aad-4377-ad63-4f2d0a6f7230"
+            },
+            {
+              "doc_id": "7c895dad-5891-4707-8708-b52e7f8465bf"
+            },
+            {
+              "doc_id": "857b0dbf-c117-45f4-b0cc-c84c4ca12684"
+            },
+            {
+              "doc_id": "8c90430e-a919-4de6-9a1c-e60b2ed1789f"
+            },
+            {
+              "doc_id": "9541e98e-9f5f-4d93-bf85-d70ffe7eb6fc"
+            },
+            {
+              "doc_id": "98d6062b-88d2-4069-bef3-521f9b4e60ed"
+            },
+            {
+              "doc_id": "9a584f40-c87d-4476-94ad-714ca0bd0490"
+            },
+            {
+              "doc_id": "a6548811-e0ef-420b-b5dd-9cac6edc1dd9"
+            },
+            {
+              "doc_id": "af033f60-7706-4f1d-a6ee-6fc72e7303e7"
+            },
+            {
+              "doc_id": "b322d847-96e5-485a-8085-effa4fccba03"
+            },
+            {
+              "doc_id": "bd42663b-9262-48bb-844b-0179797176ad"
+            },
+            {
+              "doc_id": "ca429d0a-94e2-4eb6-96d0-afb7022d637a"
+            },
+            {
+              "doc_id": "ce1a5031-9441-4134-834e-2ed0b67bc06d"
+            },
+            {
+              "doc_id": "e35b080c-fe52-4d2e-97dc-8dee674a4077"
+            },
+            {
+              "doc_id": "e5846d24-7828-4ed5-a20a-1333eba1d308"
+            },
+            {
+              "doc_id": "e7c5f2a3-a5a2-49f4-b977-506cf29d6990"
+            },
+            {
+              "doc_id": "ea054720-e6c0-4fe2-9311-e0cf48ddf6c0"
+            },
+            {
+              "doc_id": "f7904245-7286-40d1-b80d-bff771a5b19f"
+            },
+            {
+              "doc_id": "f9e4ec82-e086-4d3e-a5e9-2bc6e5a914ac"
+            }
+          ]
+        },
+        "promoting Turkish  art": {
+          "answer": "promoting Turkish  art",
+          "references": [
+            {
+              "doc_id": "260f6b4b-4f1d-48cb-9dad-b0fc3eaa8798"
+            },
+            {
+              "doc_id": "53e003d6-603c-42f4-9b4a-35aabb1d20d1"
+            },
+            {
+              "doc_id": "5c133c7c-f4f4-403d-a960-046a70955008"
+            },
+            {
+              "doc_id": "9541e98e-9f5f-4d93-bf85-d70ffe7eb6fc"
+            },
+            {
+              "doc_id": "b4bf8f26-c546-40bf-85f1-f8d9d877fcef"
+            }
+          ]
+        },
+        "Enhancing diplomatic ties": {
+          "answer": "Enhancing diplomatic ties",
+          "references": [
+            {
+              "doc_id": "4e03b041-62e6-49db-82e0-51b6343d18fa"
+            },
+            {
+              "doc_id": "a6548811-e0ef-420b-b5dd-9cac6edc1dd9"
+            },
+            {
+              "doc_id": "ce1a5031-9441-4134-834e-2ed0b67bc06d"
+            }
+          ]
+        },
+        "promoting cultural exchanges": {
+          "answer": "promoting cultural exchanges",
+          "references": []
+        }
+      },
+      "question_id": "0255048848d9bab0d4e0d26cc9ca92da",
+      "aggregator_type": "AND",
+      "query_id": "310",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.650374+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Approximately how many viewers have Turkish TV series amassed worldwide?": {
+      "question": "Approximately how many viewers have Turkish TV series amassed worldwide?",
+      "answers": {
+        "Over 700 million": {
+          "answer": "Over 700 million",
+          "references": [
+            {
+              "doc_id": "49e5f7f9-6881-41ef-bdf8-2671d2a74e36"
+            },
+            {
+              "doc_id": "4e03b041-62e6-49db-82e0-51b6343d18fa"
+            },
+            {
+              "doc_id": "dc1d43cf-ebab-47c9-9901-bb4e58178865"
+            }
+          ]
+        },
+        "665 million": {
+          "answer": "665 million",
+          "references": []
+        },
+        "720 million": {
+          "answer": "720 million",
+          "references": []
+        }
+      },
+      "question_id": "cbde9c78d20271cf5e5cc74d5fe8d10b",
+      "aggregator_type": "OR",
+      "query_id": "310",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.650407+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Which Turkish TV series has approximately 500 million viewers, making it the most-watched series globally?": {
+      "question": "Which Turkish TV series has approximately 500 million viewers, making it the most-watched series globally?",
+      "answers": {
+        "'Hareem Sultan'": {
+          "answer": "'Hareem Sultan'",
+          "references": [
+            {
+              "doc_id": "49e5f7f9-6881-41ef-bdf8-2671d2a74e36"
+            },
+            {
+              "doc_id": "dc1d43cf-ebab-47c9-9901-bb4e58178865"
+            }
+          ]
+        },
+        "The Magnificent Century": {
+          "answer": "The Magnificent Century",
+          "references": [
+            {
+              "doc_id": "6c764d08-4aad-4377-ad63-4f2d0a6f7230"
+            }
+          ]
+        },
+        "Magnificent Century": {
+          "answer": "Magnificent Century",
+          "references": [
+            {
+              "doc_id": "4e03b041-62e6-49db-82e0-51b6343d18fa"
+            }
+          ]
+        }
+      },
+      "question_id": "d0bfe6ee6d19d73b093f258d45077349",
+      "aggregator_type": "OR",
+      "query_id": "310",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.650441+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the primary focus of Turkish TV series intended for international audiences?": {
+      "question": "What is the primary focus of Turkish TV series intended for international audiences?",
+      "answers": {
+        "attract tourists": {
+          "answer": "attract tourists",
+          "references": [
+            {
+              "doc_id": "1d94687a-2f69-48be-bdcb-e9dda73fdf61"
+            },
+            {
+              "doc_id": "231303db-b743-4085-a934-46c75c374c82"
+            },
+            {
+              "doc_id": "260f6b4b-4f1d-48cb-9dad-b0fc3eaa8798"
+            },
+            {
+              "doc_id": "49e5f7f9-6881-41ef-bdf8-2671d2a74e36"
+            },
+            {
+              "doc_id": "4e3d4b12-c062-4046-88b2-561807a5040c"
+            },
+            {
+              "doc_id": "7383cf2d-fad2-4277-9ae2-debf8c80460b"
+            },
+            {
+              "doc_id": "784a92db-7957-4769-87f0-f5b9b0522857"
+            },
+            {
+              "doc_id": "aa4d433d-9917-4ef6-9308-01f026e955ac"
+            },
+            {
+              "doc_id": "b4bf8f26-c546-40bf-85f1-f8d9d877fcef"
+            },
+            {
+              "doc_id": "ca429d0a-94e2-4eb6-96d0-afb7022d637a"
+            },
+            {
+              "doc_id": "ce1a5031-9441-4134-834e-2ed0b67bc06d"
+            },
+            {
+              "doc_id": "e7c5f2a3-a5a2-49f4-b977-506cf29d6990"
+            }
+          ]
+        },
+        "o exert influence on other countries and change how people perceive Turkey, its people, and its culture ": {
+          "answer": "o exert influence on other countries and change how people perceive Turkey, its people, and its culture ",
+          "references": [
+            {
+              "doc_id": "4e03b041-62e6-49db-82e0-51b6343d18fa"
+            },
+            {
+              "doc_id": "af033f60-7706-4f1d-a6ee-6fc72e7303e7"
+            }
+          ]
+        }
+      },
+      "question_id": "73d278075989ec8a4e66585260fef834",
+      "aggregator_type": "AND",
+      "query_id": "310",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.650479+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What aspect of domestic Turkish productions do international Turkish series refrain from portraying?": {
+      "question": "What aspect of domestic Turkish productions do international Turkish series refrain from portraying?",
+      "answers": {
+        "avoiding the sadness common in local productions.": {
+          "answer": "avoiding the sadness common in local productions.",
+          "references": [
+            {
+              "doc_id": "3e8f1041-fdd4-47a0-8c15-43cae785151c"
+            },
+            {
+              "doc_id": "42fe896b-3396-4122-b46b-daff8d384703"
+            },
+            {
+              "doc_id": "9541e98e-9f5f-4d93-bf85-d70ffe7eb6fc"
+            },
+            {
+              "doc_id": "97155d0b-4713-4db8-b04e-393b0885fc35"
+            }
+          ]
+        }
+      },
+      "question_id": "548259b98a6c70b7e05d9a327f0af7f2",
+      "aggregator_type": "OR",
+      "query_id": "310",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.650500+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How does Turkey aim to exert a positive influence in foreign markets through its TV series?": {
+      "question": "How does Turkey aim to exert a positive influence in foreign markets through its TV series?",
+      "answers": {
+        "highlighting positive aspects of Turkey": {
+          "answer": "highlighting positive aspects of Turkey",
+          "references": [
+            {
+              "doc_id": "3296fa38-cab0-421b-ad54-fa93997afd33"
+            },
+            {
+              "doc_id": "3e8f1041-fdd4-47a0-8c15-43cae785151c"
+            },
+            {
+              "doc_id": "42523091-d474-4309-b807-e1309086e88b"
+            },
+            {
+              "doc_id": "4e03b041-62e6-49db-82e0-51b6343d18fa"
+            },
+            {
+              "doc_id": "519d166c-6f59-4579-a630-07419d9a7c30"
+            },
+            {
+              "doc_id": "7c895dad-5891-4707-8708-b52e7f8465bf"
+            },
+            {
+              "doc_id": "857b0dbf-c117-45f4-b0cc-c84c4ca12684"
+            },
+            {
+              "doc_id": "97155d0b-4713-4db8-b04e-393b0885fc35"
+            },
+            {
+              "doc_id": "ce1a5031-9441-4134-834e-2ed0b67bc06d"
+            },
+            {
+              "doc_id": "e35b080c-fe52-4d2e-97dc-8dee674a4077"
+            },
+            {
+              "doc_id": "f7904245-7286-40d1-b80d-bff771a5b19f"
+            }
+          ]
+        }
+      },
+      "question_id": "a9ea21e2561e29c8a42631af2449e829",
+      "aggregator_type": "OR",
+      "query_id": "310",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.650530+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What are Turkish TV series expected to promote?": {
+      "question": "What are Turkish TV series expected to promote?",
+      "answers": {
+        "Turkish culture": {
+          "answer": "Turkish culture",
+          "references": [
+            {
+              "doc_id": "22647534-1cf2-47e4-903f-4d7de6499aa1"
+            },
+            {
+              "doc_id": "231303db-b743-4085-a934-46c75c374c82"
+            },
+            {
+              "doc_id": "25459258-b15e-433f-a86e-527db9906685"
+            },
+            {
+              "doc_id": "260f6b4b-4f1d-48cb-9dad-b0fc3eaa8798"
+            },
+            {
+              "doc_id": "3296fa38-cab0-421b-ad54-fa93997afd33"
+            },
+            {
+              "doc_id": "42523091-d474-4309-b807-e1309086e88b"
+            },
+            {
+              "doc_id": "4e03b041-62e6-49db-82e0-51b6343d18fa"
+            },
+            {
+              "doc_id": "519d166c-6f59-4579-a630-07419d9a7c30"
+            },
+            {
+              "doc_id": "7c895dad-5891-4707-8708-b52e7f8465bf"
+            },
+            {
+              "doc_id": "857b0dbf-c117-45f4-b0cc-c84c4ca12684"
+            },
+            {
+              "doc_id": "9541e98e-9f5f-4d93-bf85-d70ffe7eb6fc"
+            },
+            {
+              "doc_id": "98d6062b-88d2-4069-bef3-521f9b4e60ed"
+            },
+            {
+              "doc_id": "a6548811-e0ef-420b-b5dd-9cac6edc1dd9"
+            },
+            {
+              "doc_id": "af033f60-7706-4f1d-a6ee-6fc72e7303e7"
+            },
+            {
+              "doc_id": "b322d847-96e5-485a-8085-effa4fccba03"
+            },
+            {
+              "doc_id": "ce1a5031-9441-4134-834e-2ed0b67bc06d"
+            },
+            {
+              "doc_id": "e35b080c-fe52-4d2e-97dc-8dee674a4077"
+            },
+            {
+              "doc_id": "f7904245-7286-40d1-b80d-bff771a5b19f"
+            }
+          ]
+        },
+        "Turkish language": {
+          "answer": "Turkish language",
+          "references": [
+            {
+              "doc_id": "260f6b4b-4f1d-48cb-9dad-b0fc3eaa8798"
+            }
+          ]
+        },
+        "Turkish diplomacy": {
+          "answer": "Turkish diplomacy",
+          "references": [
+            {
+              "doc_id": "a6548811-e0ef-420b-b5dd-9cac6edc1dd9"
+            },
+            {
+              "doc_id": "d651c117-2ad9-4e79-91c6-468e2854e66d"
+            }
+          ]
+        },
+        "Export of Turkish products": {
+          "answer": "Export of Turkish products",
+          "references": [
+            {
+              "doc_id": "260f6b4b-4f1d-48cb-9dad-b0fc3eaa8798"
+            },
+            {
+              "doc_id": "49e5f7f9-6881-41ef-bdf8-2671d2a74e36"
+            },
+            {
+              "doc_id": "53e003d6-603c-42f4-9b4a-35aabb1d20d1"
+            },
+            {
+              "doc_id": "784a92db-7957-4769-87f0-f5b9b0522857"
+            },
+            {
+              "doc_id": "9541e98e-9f5f-4d93-bf85-d70ffe7eb6fc"
+            },
+            {
+              "doc_id": "ca429d0a-94e2-4eb6-96d0-afb7022d637a"
+            }
+          ]
+        },
+        "Foreign  currency income": {
+          "answer": "Foreign  currency income",
+          "references": [
+            {
+              "doc_id": "260f6b4b-4f1d-48cb-9dad-b0fc3eaa8798"
+            },
+            {
+              "doc_id": "49e5f7f9-6881-41ef-bdf8-2671d2a74e36"
+            },
+            {
+              "doc_id": "9541e98e-9f5f-4d93-bf85-d70ffe7eb6fc"
+            }
+          ]
+        }
+      },
+      "question_id": "ac2a75f6484c29b649552a0af6fbc799",
+      "aggregator_type": "OR",
+      "query_id": "310",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.650607+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Q. What is the Turkish government's motivation for investing in the production of these series?": {
+      "question": "Q. What is the Turkish government's motivation for investing in the production of these series?",
+      "answers": {
+        "advancing cultural": {
+          "answer": "advancing cultural",
+          "references": [
+            {
+              "doc_id": "4e03b041-62e6-49db-82e0-51b6343d18fa"
+            },
+            {
+              "doc_id": "7c895dad-5891-4707-8708-b52e7f8465bf"
+            },
+            {
+              "doc_id": "857b0dbf-c117-45f4-b0cc-c84c4ca12684"
+            },
+            {
+              "doc_id": "9541e98e-9f5f-4d93-bf85-d70ffe7eb6fc"
+            },
+            {
+              "doc_id": "98d6062b-88d2-4069-bef3-521f9b4e60ed"
+            },
+            {
+              "doc_id": "af033f60-7706-4f1d-a6ee-6fc72e7303e7"
+            },
+            {
+              "doc_id": "b322d847-96e5-485a-8085-effa4fccba03"
+            },
+            {
+              "doc_id": "ce1a5031-9441-4134-834e-2ed0b67bc06d"
+            },
+            {
+              "doc_id": "f7904245-7286-40d1-b80d-bff771a5b19f"
+            }
+          ]
+        },
+        "political goals": {
+          "answer": "political goals",
+          "references": [
+            {
+              "doc_id": "48d973c0-6e53-482d-9fd5-82391200938a"
+            },
+            {
+              "doc_id": "7c895dad-5891-4707-8708-b52e7f8465bf"
+            },
+            {
+              "doc_id": "857b0dbf-c117-45f4-b0cc-c84c4ca12684"
+            },
+            {
+              "doc_id": "a6548811-e0ef-420b-b5dd-9cac6edc1dd9"
+            },
+            {
+              "doc_id": "af033f60-7706-4f1d-a6ee-6fc72e7303e7"
+            },
+            {
+              "doc_id": "d276de9a-0a20-44c1-aa86-d5bf82264700"
+            },
+            {
+              "doc_id": "d651c117-2ad9-4e79-91c6-468e2854e66d"
+            },
+            {
+              "doc_id": "e7c5f2a3-a5a2-49f4-b977-506cf29d6990"
+            }
+          ]
+        },
+        "Foreign currency income": {
+          "answer": "Foreign currency income",
+          "references": [
+            {
+              "doc_id": "260f6b4b-4f1d-48cb-9dad-b0fc3eaa8798"
+            },
+            {
+              "doc_id": "49e5f7f9-6881-41ef-bdf8-2671d2a74e36"
+            },
+            {
+              "doc_id": "ca429d0a-94e2-4eb6-96d0-afb7022d637a"
+            }
+          ]
+        },
+        "economic development goals": {
+          "answer": "economic development goals",
+          "references": [
+            {
+              "doc_id": "260f6b4b-4f1d-48cb-9dad-b0fc3eaa8798"
+            },
+            {
+              "doc_id": "784a92db-7957-4769-87f0-f5b9b0522857"
+            },
+            {
+              "doc_id": "9541e98e-9f5f-4d93-bf85-d70ffe7eb6fc"
+            },
+            {
+              "doc_id": "ca429d0a-94e2-4eb6-96d0-afb7022d637a"
+            }
+          ]
+        },
+        "To promote Islamic Ideology ": {
+          "answer": "To promote Islamic Ideology ",
+          "references": [
+            {
+              "doc_id": "3e8f1041-fdd4-47a0-8c15-43cae785151c"
+            },
+            {
+              "doc_id": "a6548811-e0ef-420b-b5dd-9cac6edc1dd9"
+            }
+          ]
+        },
+        "penetrating political stances and ideologies": {
+          "answer": "penetrating political stances and ideologies",
+          "references": [
+            {
+              "doc_id": "4e03b041-62e6-49db-82e0-51b6343d18fa"
+            },
+            {
+              "doc_id": "af033f60-7706-4f1d-a6ee-6fc72e7303e7"
+            }
+          ]
+        }
+      },
+      "question_id": "ecd78dd66aee39741e4cf53f14bd47f3",
+      "aggregator_type": "OR",
+      "query_id": "310",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.650687+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

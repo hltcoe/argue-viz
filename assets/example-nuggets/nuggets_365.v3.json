@@ -1,0 +1,2205 @@
+{
+  "query_id": "365",
+  "title_query": "English Channel Refugees Drowning",
+  "full_query": "I need a report on how often refugees cross the English Channel by small unsafe boats, what nationalities they have, their casualty rate, what happens to them if they get to the British side of the channel and what actions have already been taken by France and England to stop this kind of illegal migration. ",
+  "full_background": "I work for The United Nations High Commissioner for Refugees (UNHCR). I have been tasked to find ways to stop refugees from moving from France to England through the English Channel by small unsafe boats. ",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What kind of boat do immigrants use to cross the English Channel?": {
+      "question": "What kind of boat do immigrants use to cross the English Channel?",
+      "answers": {
+        "kayaks": {
+          "answer": "kayaks",
+          "references": [
+            {
+              "doc_id": "2d4c2f71-78c9-4afb-8a1a-01800a3ae87b"
+            },
+            {
+              "doc_id": "3ab62347-c91d-4295-affc-2b2b6514c0bf"
+            },
+            {
+              "doc_id": "5e54b5e5-d77f-491b-ad88-198f339c2dd5"
+            },
+            {
+              "doc_id": "6425e7ba-a76d-4596-842e-1b10616a0012"
+            },
+            {
+              "doc_id": "82ffea18-19c7-47d0-9ff5-fca2c363972b"
+            },
+            {
+              "doc_id": "862018af-038f-4855-8456-f2c8111fd48b"
+            },
+            {
+              "doc_id": "aca8585f-017d-4950-90b3-ad9d0ae53781"
+            },
+            {
+              "doc_id": "b2b38984-bb24-40e4-b819-71c21080322c"
+            },
+            {
+              "doc_id": "d924500c-5bea-42ba-a106-4b2741118428"
+            },
+            {
+              "doc_id": "da492728-32f7-4a86-8b1b-983cd4405c8a"
+            },
+            {
+              "doc_id": "dfa2c25b-46bc-4a4c-a661-aef2dd33c0b6"
+            },
+            {
+              "doc_id": "e7c20036-4f5a-41d2-9167-a0ec602d5aec"
+            },
+            {
+              "doc_id": "ee5c15ab-03ad-438c-aa47-1556e4a27d49"
+            }
+          ]
+        },
+        "row boats": {
+          "answer": "row boats",
+          "references": [
+            {
+              "doc_id": "344570be-324d-4eee-ba4d-f19d86a5fc1a"
+            },
+            {
+              "doc_id": "50184ec4-4673-437a-bbf8-bd3316adf5b2"
+            },
+            {
+              "doc_id": "5e54b5e5-d77f-491b-ad88-198f339c2dd5"
+            },
+            {
+              "doc_id": "6d63f372-35f6-4b12-b2d5-6fcd27976702"
+            },
+            {
+              "doc_id": "b0831ce1-97a6-459b-a6fb-710f3f57359f"
+            },
+            {
+              "doc_id": "b2b38984-bb24-40e4-b819-71c21080322c"
+            },
+            {
+              "doc_id": "ccb9bd7c-782f-41ea-9d52-d704bac91e06"
+            },
+            {
+              "doc_id": "d507e95f-509c-427f-82a3-016f625e7a80"
+            },
+            {
+              "doc_id": "da492728-32f7-4a86-8b1b-983cd4405c8a"
+            },
+            {
+              "doc_id": "e7c20036-4f5a-41d2-9167-a0ec602d5aec"
+            },
+            {
+              "doc_id": "fce8b0e2-b050-4007-97ad-98c6588b3f47"
+            },
+            {
+              "doc_id": "fd3cde0e-6d9c-41d1-87ac-6c65c3f7391e"
+            }
+          ]
+        },
+        "Inflatable boats": {
+          "answer": "Inflatable boats",
+          "references": [
+            {
+              "doc_id": "2d4c2f71-78c9-4afb-8a1a-01800a3ae87b"
+            },
+            {
+              "doc_id": "51210780-bb9c-4555-9e06-439d5b66d7a9"
+            },
+            {
+              "doc_id": "5e54b5e5-d77f-491b-ad88-198f339c2dd5"
+            },
+            {
+              "doc_id": "708f00de-7938-4519-ad0f-8409586565d2"
+            },
+            {
+              "doc_id": "712ef3ce-04c8-4640-9701-ccdad0affd4b"
+            },
+            {
+              "doc_id": "735682b3-0812-4bd8-bdb2-43e2b813dbab"
+            },
+            {
+              "doc_id": "777de5d5-8a53-4163-8cfd-836a1cee0d41"
+            },
+            {
+              "doc_id": "7901e4b2-7739-4c69-9795-c987d60c36dd"
+            },
+            {
+              "doc_id": "8dba3c83-2e7b-49c2-89af-209c5d923827"
+            },
+            {
+              "doc_id": "951a0400-5f9c-4e80-bb5c-fc38f843de27"
+            },
+            {
+              "doc_id": "9652c1e8-7b5f-4151-b52b-b2276a792f6f"
+            },
+            {
+              "doc_id": "974d2ec7-0add-4356-8529-a9d145d1547b"
+            },
+            {
+              "doc_id": "b05676f7-13ed-4a85-87b2-528c715ea489"
+            },
+            {
+              "doc_id": "b6dd0f65-59dc-4043-9bb9-3d79050e7bf1"
+            },
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            },
+            {
+              "doc_id": "bbb19941-da77-4e80-aea1-ff01ec7400bf"
+            },
+            {
+              "doc_id": "c0641681-51b2-4cb0-8a0c-7219a268a3e8"
+            },
+            {
+              "doc_id": "c65b52c4-75ab-44d2-880a-a7943a32ac30"
+            },
+            {
+              "doc_id": "c661d26e-125d-448a-aac1-fa87f44ddb09"
+            },
+            {
+              "doc_id": "d96c540f-bd67-44bc-b613-43ed082514b9"
+            },
+            {
+              "doc_id": "da492728-32f7-4a86-8b1b-983cd4405c8a"
+            },
+            {
+              "doc_id": "dfa2c25b-46bc-4a4c-a661-aef2dd33c0b6"
+            },
+            {
+              "doc_id": "ebbb4860-4d48-47e3-892f-64bcdf1ad8b4"
+            },
+            {
+              "doc_id": "f4ec400d-d0a7-41d6-b7c9-b7d207f08638"
+            },
+            {
+              "doc_id": "f768dfab-b501-4d11-b2be-83421c371549"
+            },
+            {
+              "doc_id": "fb3c3547-8b14-4e65-b780-e99a229019d9"
+            },
+            {
+              "doc_id": "feaae8e2-9eea-4608-95ec-f8f798611e61"
+            },
+            {
+              "doc_id": "ff9466dc-107b-4475-8dd9-61ed52070085"
+            }
+          ]
+        },
+        "speedboats": {
+          "answer": "speedboats",
+          "references": [
+            {
+              "doc_id": "51210780-bb9c-4555-9e06-439d5b66d7a9"
+            }
+          ]
+        },
+        "yachts": {
+          "answer": "yachts",
+          "references": [
+            {
+              "doc_id": "51210780-bb9c-4555-9e06-439d5b66d7a9"
+            }
+          ]
+        },
+        "fishing boat": {
+          "answer": "fishing boat",
+          "references": [
+            {
+              "doc_id": "d50421ce-48f4-4b5a-b935-69de02f4818a"
+            },
+            {
+              "doc_id": "d96c540f-bd67-44bc-b613-43ed082514b9"
+            }
+          ]
+        },
+        "life boats": {
+          "answer": "life boats",
+          "references": [
+            {
+              "doc_id": "06b30ff4-db13-4f6c-8ef5-d1a9c54f1d99"
+            },
+            {
+              "doc_id": "951a0400-5f9c-4e80-bb5c-fc38f843de27"
+            },
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            }
+          ]
+        },
+        "canoes": {
+          "answer": "canoes",
+          "references": [
+            {
+              "doc_id": "3ab62347-c91d-4295-affc-2b2b6514c0bf"
+            },
+            {
+              "doc_id": "735682b3-0812-4bd8-bdb2-43e2b813dbab"
+            },
+            {
+              "doc_id": "c65b52c4-75ab-44d2-880a-a7943a32ac30"
+            },
+            {
+              "doc_id": "d1d37faa-2f8e-452e-acc8-8bde3134e99c"
+            }
+          ]
+        },
+        "motor boats": {
+          "answer": "motor boats",
+          "references": [
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            }
+          ]
+        },
+        "makeshift homemade boats": {
+          "answer": "makeshift homemade boats",
+          "references": [
+            {
+              "doc_id": "da492728-32f7-4a86-8b1b-983cd4405c8a"
+            }
+          ]
+        },
+        "rubber boat": {
+          "answer": "rubber boat",
+          "references": [
+            {
+              "doc_id": "32c846ff-6b9f-4844-9b16-d8beea500385"
+            },
+            {
+              "doc_id": "82c3fe83-a228-4a32-83e1-002c1765fa0c"
+            },
+            {
+              "doc_id": "aca8585f-017d-4950-90b3-ad9d0ae53781"
+            },
+            {
+              "doc_id": "e7c20036-4f5a-41d2-9167-a0ec602d5aec"
+            }
+          ]
+        },
+        "Speedboat": {
+          "answer": "Speedboat",
+          "references": [
+            {
+              "doc_id": "48594f04-b44e-4e09-8c87-2c87efa2d6e4"
+            },
+            {
+              "doc_id": "cda007c7-81be-428a-a850-c1dc3a8d8943"
+            }
+          ]
+        },
+        "Paddle boards": {
+          "answer": "Paddle boards",
+          "references": [
+            {
+              "doc_id": "735682b3-0812-4bd8-bdb2-43e2b813dbab"
+            },
+            {
+              "doc_id": "c65b52c4-75ab-44d2-880a-a7943a32ac30"
+            }
+          ]
+        },
+        "life jacket": {
+          "answer": "life jacket",
+          "references": [
+            {
+              "doc_id": "735682b3-0812-4bd8-bdb2-43e2b813dbab"
+            },
+            {
+              "doc_id": "c65b52c4-75ab-44d2-880a-a7943a32ac30"
+            }
+          ]
+        }
+      },
+      "question_id": "38857d2678f2488694d6fa357bfbea96",
+      "aggregator_type": "OR",
+      "query_id": "365",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.691094+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What are the countries of origin for refugees crossing the English Channel?": {
+      "question": "What are the countries of origin for refugees crossing the English Channel?",
+      "answers": {
+        "Iran": {
+          "answer": "Iran",
+          "references": [
+            {
+              "doc_id": "03f2ec2a-c2e0-4584-8e07-bacbca28c67e"
+            },
+            {
+              "doc_id": "0d0f9c8f-d4f7-4704-82ab-383a588a4002"
+            },
+            {
+              "doc_id": "0dcb43a0-71e8-4562-8f67-7ccf36259bdf"
+            },
+            {
+              "doc_id": "0fd7944e-62da-46c2-8b16-66ec516d2cb9"
+            },
+            {
+              "doc_id": "130488ec-47e5-4e70-89e4-01fa656ae2c8"
+            },
+            {
+              "doc_id": "14ea2692-aa9f-49b0-b2f3-83ae6b404a3f"
+            },
+            {
+              "doc_id": "1d4b9db6-c69b-4fd7-9a68-1f9ff7a49932"
+            },
+            {
+              "doc_id": "311e0c6e-bc8d-458f-a354-44fa93f417df"
+            },
+            {
+              "doc_id": "32c846ff-6b9f-4844-9b16-d8beea500385"
+            },
+            {
+              "doc_id": "3551c78b-1d4b-4308-93fc-609196424d37"
+            },
+            {
+              "doc_id": "35b20066-4e63-404b-9370-e03f22163b09"
+            },
+            {
+              "doc_id": "3d2017e9-7233-46e2-a2a8-8dc0465d04e4"
+            },
+            {
+              "doc_id": "3f4caa65-afa3-4b46-a39e-b5f0a3719aec"
+            },
+            {
+              "doc_id": "40d8dbdb-d1f4-4dd2-a102-9a31d6d4ca0d"
+            },
+            {
+              "doc_id": "463e39c1-8a31-470e-9c9b-4c704ce3a84a"
+            },
+            {
+              "doc_id": "48594f04-b44e-4e09-8c87-2c87efa2d6e4"
+            },
+            {
+              "doc_id": "4de7b5d2-f1c5-45e8-8f0c-093211f20e79"
+            },
+            {
+              "doc_id": "51210780-bb9c-4555-9e06-439d5b66d7a9"
+            },
+            {
+              "doc_id": "576ce410-9c2e-452f-b881-9679119b9ab9"
+            },
+            {
+              "doc_id": "5d4052e1-32fd-4015-8bd2-91b6005050a2"
+            },
+            {
+              "doc_id": "5e54b5e5-d77f-491b-ad88-198f339c2dd5"
+            },
+            {
+              "doc_id": "60fad8b2-b6d0-4282-8fc6-b815de5c6b73"
+            },
+            {
+              "doc_id": "61c2d445-eeee-439e-849a-c9ee6434393b"
+            },
+            {
+              "doc_id": "63f8c179-3687-446c-98d1-32bd531f4fb1"
+            },
+            {
+              "doc_id": "6425e7ba-a76d-4596-842e-1b10616a0012"
+            },
+            {
+              "doc_id": "64a081fa-334c-4907-ba9c-227817c3ee9f"
+            },
+            {
+              "doc_id": "6f9cd044-85d0-4565-8c1b-c1e377e6c2a3"
+            },
+            {
+              "doc_id": "712d1250-0a40-4a76-97a5-4a546b4d517c"
+            },
+            {
+              "doc_id": "7901e4b2-7739-4c69-9795-c987d60c36dd"
+            },
+            {
+              "doc_id": "82c3fe83-a228-4a32-83e1-002c1765fa0c"
+            },
+            {
+              "doc_id": "834c5a74-d3d4-4da4-939b-cf41ea7b2339"
+            },
+            {
+              "doc_id": "859753de-e254-41de-86ee-9d909a764d03"
+            },
+            {
+              "doc_id": "8bca7552-68c1-437f-b1b3-43a322555e1e"
+            },
+            {
+              "doc_id": "8bf31f29-3da2-489b-ad59-7b5b80604c94"
+            },
+            {
+              "doc_id": "8dba3c83-2e7b-49c2-89af-209c5d923827"
+            },
+            {
+              "doc_id": "94ca4e0d-1be9-4f7b-b944-70c5e41a921c"
+            },
+            {
+              "doc_id": "9652c1e8-7b5f-4151-b52b-b2276a792f6f"
+            },
+            {
+              "doc_id": "970cd180-79d7-4745-b66c-a702f00996e4"
+            },
+            {
+              "doc_id": "97b55c25-3bc3-4267-818a-a1e9705856b2"
+            },
+            {
+              "doc_id": "9a399704-2695-4317-9cd2-de1d6f43945e"
+            },
+            {
+              "doc_id": "9e892ea3-5cda-4b90-b857-0a94d4548b56"
+            },
+            {
+              "doc_id": "a018475f-0e9d-4ffb-b628-16be95fbb484"
+            },
+            {
+              "doc_id": "a8bbcd2f-102a-4f11-b426-6fa0ad9046f7"
+            },
+            {
+              "doc_id": "b001b59a-12a0-47b3-b8a4-d9aab1dae3d7"
+            },
+            {
+              "doc_id": "b6fb105a-20e8-42d5-bcef-d486de68adcb"
+            },
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            },
+            {
+              "doc_id": "bb00a716-2a69-4e8c-b764-8fb3af95bdb4"
+            },
+            {
+              "doc_id": "be4de848-4d73-49dc-a8e2-614632d91df4"
+            },
+            {
+              "doc_id": "c0641681-51b2-4cb0-8a0c-7219a268a3e8"
+            },
+            {
+              "doc_id": "c661d26e-125d-448a-aac1-fa87f44ddb09"
+            },
+            {
+              "doc_id": "c8985b70-41c7-47d8-9937-bc6064325889"
+            },
+            {
+              "doc_id": "c95a8e59-a28c-4d82-b795-2883b37c6aa9"
+            },
+            {
+              "doc_id": "ca301edf-43a2-4d4b-8c27-dd6218e4f977"
+            },
+            {
+              "doc_id": "caebfddc-5641-4f22-a31c-a5b8a914c81c"
+            },
+            {
+              "doc_id": "ccb9bd7c-782f-41ea-9d52-d704bac91e06"
+            },
+            {
+              "doc_id": "ce052ad2-cb0c-41f0-8057-257fe0536d77"
+            },
+            {
+              "doc_id": "cf0dddd7-a66b-4012-97b0-15f62d928f70"
+            },
+            {
+              "doc_id": "d162e9c4-00d2-45ff-9b41-3765c278467a"
+            },
+            {
+              "doc_id": "d1d37faa-2f8e-452e-acc8-8bde3134e99c"
+            },
+            {
+              "doc_id": "d50421ce-48f4-4b5a-b935-69de02f4818a"
+            },
+            {
+              "doc_id": "d96c540f-bd67-44bc-b613-43ed082514b9"
+            },
+            {
+              "doc_id": "d9e3b7f2-5cf2-4ea4-9494-6dd4bf4ec7d7"
+            },
+            {
+              "doc_id": "dc4c20db-53b0-4e0b-9e1b-936ab2cb5a5f"
+            },
+            {
+              "doc_id": "dc5a1653-7fb1-4f40-aef5-17e25a99e3d8"
+            },
+            {
+              "doc_id": "dfa2c25b-46bc-4a4c-a661-aef2dd33c0b6"
+            },
+            {
+              "doc_id": "e6e5dbcf-ec17-4927-a606-48193e4d543d"
+            },
+            {
+              "doc_id": "f1a478a9-6f00-4918-9c68-2715a9a0d3cd"
+            },
+            {
+              "doc_id": "f8873037-661f-4cde-bf37-cf3e29dd7dd2"
+            },
+            {
+              "doc_id": "fb3c3547-8b14-4e65-b780-e99a229019d9"
+            },
+            {
+              "doc_id": "ff9466dc-107b-4475-8dd9-61ed52070085"
+            }
+          ]
+        },
+        "Guinea": {
+          "answer": "Guinea",
+          "references": [
+            {
+              "doc_id": "0d0f9c8f-d4f7-4704-82ab-383a588a4002"
+            },
+            {
+              "doc_id": "130488ec-47e5-4e70-89e4-01fa656ae2c8"
+            },
+            {
+              "doc_id": "ccb9bd7c-782f-41ea-9d52-d704bac91e06"
+            },
+            {
+              "doc_id": "dc4c20db-53b0-4e0b-9e1b-936ab2cb5a5f"
+            }
+          ]
+        },
+        "Ivory Coast": {
+          "answer": "Ivory Coast",
+          "references": [
+            {
+              "doc_id": "130488ec-47e5-4e70-89e4-01fa656ae2c8"
+            },
+            {
+              "doc_id": "b6dd0f65-59dc-4043-9bb9-3d79050e7bf1"
+            }
+          ]
+        },
+        "Afghanistan": {
+          "answer": "Afghanistan",
+          "references": [
+            {
+              "doc_id": "311e0c6e-bc8d-458f-a354-44fa93f417df"
+            },
+            {
+              "doc_id": "576ce410-9c2e-452f-b881-9679119b9ab9"
+            },
+            {
+              "doc_id": "7901e4b2-7739-4c69-9795-c987d60c36dd"
+            },
+            {
+              "doc_id": "834c5a74-d3d4-4da4-939b-cf41ea7b2339"
+            },
+            {
+              "doc_id": "94ca4e0d-1be9-4f7b-b944-70c5e41a921c"
+            },
+            {
+              "doc_id": "970cd180-79d7-4745-b66c-a702f00996e4"
+            },
+            {
+              "doc_id": "97b55c25-3bc3-4267-818a-a1e9705856b2"
+            },
+            {
+              "doc_id": "b6fb105a-20e8-42d5-bcef-d486de68adcb"
+            },
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            },
+            {
+              "doc_id": "bbb19941-da77-4e80-aea1-ff01ec7400bf"
+            },
+            {
+              "doc_id": "c661d26e-125d-448a-aac1-fa87f44ddb09"
+            },
+            {
+              "doc_id": "d96c540f-bd67-44bc-b613-43ed082514b9"
+            },
+            {
+              "doc_id": "d9e3b7f2-5cf2-4ea4-9494-6dd4bf4ec7d7"
+            },
+            {
+              "doc_id": "dc4c20db-53b0-4e0b-9e1b-936ab2cb5a5f"
+            },
+            {
+              "doc_id": "e6e5dbcf-ec17-4927-a606-48193e4d543d"
+            },
+            {
+              "doc_id": "ff9466dc-107b-4475-8dd9-61ed52070085"
+            }
+          ]
+        },
+        "Pakistan": {
+          "answer": "Pakistan",
+          "references": [
+            {
+              "doc_id": "311e0c6e-bc8d-458f-a354-44fa93f417df"
+            },
+            {
+              "doc_id": "94ca4e0d-1be9-4f7b-b944-70c5e41a921c"
+            },
+            {
+              "doc_id": "b6fb105a-20e8-42d5-bcef-d486de68adcb"
+            },
+            {
+              "doc_id": "dc4c20db-53b0-4e0b-9e1b-936ab2cb5a5f"
+            }
+          ]
+        },
+        "Syria": {
+          "answer": "Syria",
+          "references": [
+            {
+              "doc_id": "1d4b9db6-c69b-4fd7-9a68-1f9ff7a49932"
+            },
+            {
+              "doc_id": "94ca4e0d-1be9-4f7b-b944-70c5e41a921c"
+            },
+            {
+              "doc_id": "9652c1e8-7b5f-4151-b52b-b2276a792f6f"
+            },
+            {
+              "doc_id": "970cd180-79d7-4745-b66c-a702f00996e4"
+            },
+            {
+              "doc_id": "b6dd0f65-59dc-4043-9bb9-3d79050e7bf1"
+            },
+            {
+              "doc_id": "b6fb105a-20e8-42d5-bcef-d486de68adcb"
+            },
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            },
+            {
+              "doc_id": "c661d26e-125d-448a-aac1-fa87f44ddb09"
+            },
+            {
+              "doc_id": "d9e3b7f2-5cf2-4ea4-9494-6dd4bf4ec7d7"
+            },
+            {
+              "doc_id": "dc4c20db-53b0-4e0b-9e1b-936ab2cb5a5f"
+            },
+            {
+              "doc_id": "dfa2c25b-46bc-4a4c-a661-aef2dd33c0b6"
+            },
+            {
+              "doc_id": "e6e5dbcf-ec17-4927-a606-48193e4d543d"
+            },
+            {
+              "doc_id": "fb3c3547-8b14-4e65-b780-e99a229019d9"
+            }
+          ]
+        },
+        "Iraq": {
+          "answer": "Iraq",
+          "references": [
+            {
+              "doc_id": "1d4b9db6-c69b-4fd7-9a68-1f9ff7a49932"
+            },
+            {
+              "doc_id": "311e0c6e-bc8d-458f-a354-44fa93f417df"
+            },
+            {
+              "doc_id": "576ce410-9c2e-452f-b881-9679119b9ab9"
+            },
+            {
+              "doc_id": "5e54b5e5-d77f-491b-ad88-198f339c2dd5"
+            },
+            {
+              "doc_id": "64a081fa-334c-4907-ba9c-227817c3ee9f"
+            },
+            {
+              "doc_id": "6d63f372-35f6-4b12-b2d5-6fcd27976702"
+            },
+            {
+              "doc_id": "6f9cd044-85d0-4565-8c1b-c1e377e6c2a3"
+            },
+            {
+              "doc_id": "754ed403-7be4-4c7b-9086-34a9e9906962"
+            },
+            {
+              "doc_id": "8dba3c83-2e7b-49c2-89af-209c5d923827"
+            },
+            {
+              "doc_id": "94ca4e0d-1be9-4f7b-b944-70c5e41a921c"
+            },
+            {
+              "doc_id": "97b55c25-3bc3-4267-818a-a1e9705856b2"
+            },
+            {
+              "doc_id": "a018475f-0e9d-4ffb-b628-16be95fbb484"
+            },
+            {
+              "doc_id": "b001b59a-12a0-47b3-b8a4-d9aab1dae3d7"
+            },
+            {
+              "doc_id": "b6fb105a-20e8-42d5-bcef-d486de68adcb"
+            },
+            {
+              "doc_id": "b919ddef-8399-4d36-bb3d-f175816b5cba"
+            },
+            {
+              "doc_id": "c0641681-51b2-4cb0-8a0c-7219a268a3e8"
+            },
+            {
+              "doc_id": "d96c540f-bd67-44bc-b613-43ed082514b9"
+            },
+            {
+              "doc_id": "d9e3b7f2-5cf2-4ea4-9494-6dd4bf4ec7d7"
+            },
+            {
+              "doc_id": "dc4c20db-53b0-4e0b-9e1b-936ab2cb5a5f"
+            },
+            {
+              "doc_id": "fce8b0e2-b050-4007-97ad-98c6588b3f47"
+            },
+            {
+              "doc_id": "ff9466dc-107b-4475-8dd9-61ed52070085"
+            }
+          ]
+        },
+        "Kuwait": {
+          "answer": "Kuwait",
+          "references": [
+            {
+              "doc_id": "0d0f9c8f-d4f7-4704-82ab-383a588a4002"
+            },
+            {
+              "doc_id": "130488ec-47e5-4e70-89e4-01fa656ae2c8"
+            },
+            {
+              "doc_id": "ccb9bd7c-782f-41ea-9d52-d704bac91e06"
+            }
+          ]
+        },
+        "Yemen": {
+          "answer": "Yemen",
+          "references": [
+            {
+              "doc_id": "1d4b9db6-c69b-4fd7-9a68-1f9ff7a49932"
+            },
+            {
+              "doc_id": "6d63f372-35f6-4b12-b2d5-6fcd27976702"
+            },
+            {
+              "doc_id": "b6dd0f65-59dc-4043-9bb9-3d79050e7bf1"
+            },
+            {
+              "doc_id": "b919ddef-8399-4d36-bb3d-f175816b5cba"
+            }
+          ]
+        },
+        "Egypt": {
+          "answer": "Egypt",
+          "references": [
+            {
+              "doc_id": "1d4b9db6-c69b-4fd7-9a68-1f9ff7a49932"
+            },
+            {
+              "doc_id": "6d63f372-35f6-4b12-b2d5-6fcd27976702"
+            },
+            {
+              "doc_id": "b919ddef-8399-4d36-bb3d-f175816b5cba"
+            }
+          ]
+        },
+        "Turkey": {
+          "answer": "Turkey",
+          "references": [
+            {
+              "doc_id": "311e0c6e-bc8d-458f-a354-44fa93f417df"
+            }
+          ]
+        },
+        "The Philippines": {
+          "answer": "The Philippines",
+          "references": [
+            {
+              "doc_id": "311e0c6e-bc8d-458f-a354-44fa93f417df"
+            }
+          ]
+        },
+        "Vietnam": {
+          "answer": "Vietnam",
+          "references": [
+            {
+              "doc_id": "311e0c6e-bc8d-458f-a354-44fa93f417df"
+            },
+            {
+              "doc_id": "801e4164-7fa9-4d48-b5a5-a01a8c8d6249"
+            },
+            {
+              "doc_id": "dc4c20db-53b0-4e0b-9e1b-936ab2cb5a5f"
+            }
+          ]
+        },
+        "Ethiopia": {
+          "answer": "Ethiopia",
+          "references": [
+            {
+              "doc_id": "311e0c6e-bc8d-458f-a354-44fa93f417df"
+            },
+            {
+              "doc_id": "b6fb105a-20e8-42d5-bcef-d486de68adcb"
+            },
+            {
+              "doc_id": "dc4c20db-53b0-4e0b-9e1b-936ab2cb5a5f"
+            }
+          ]
+        },
+        "Kosovo": {
+          "answer": "Kosovo",
+          "references": [
+            {
+              "doc_id": "b6fb105a-20e8-42d5-bcef-d486de68adcb"
+            }
+          ]
+        },
+        "Eritrea": {
+          "answer": "Eritrea",
+          "references": [
+            {
+              "doc_id": "6d63f372-35f6-4b12-b2d5-6fcd27976702"
+            },
+            {
+              "doc_id": "b6fb105a-20e8-42d5-bcef-d486de68adcb"
+            },
+            {
+              "doc_id": "dc4c20db-53b0-4e0b-9e1b-936ab2cb5a5f"
+            },
+            {
+              "doc_id": "fbc28336-50ce-41a3-8b2f-acc48912ecd9"
+            }
+          ]
+        },
+        "Sudan": {
+          "answer": "Sudan",
+          "references": [
+            {
+              "doc_id": "6d63f372-35f6-4b12-b2d5-6fcd27976702"
+            },
+            {
+              "doc_id": "b919ddef-8399-4d36-bb3d-f175816b5cba"
+            },
+            {
+              "doc_id": "dc4c20db-53b0-4e0b-9e1b-936ab2cb5a5f"
+            }
+          ]
+        },
+        "Chad": {
+          "answer": "Chad",
+          "references": [
+            {
+              "doc_id": "6d63f372-35f6-4b12-b2d5-6fcd27976702"
+            }
+          ]
+        },
+        "Albania": {
+          "answer": "Albania",
+          "references": [
+            {
+              "doc_id": "dc4c20db-53b0-4e0b-9e1b-936ab2cb5a5f"
+            }
+          ]
+        },
+        "Philippine": {
+          "answer": "Philippine",
+          "references": [
+            {
+              "doc_id": "dc4c20db-53b0-4e0b-9e1b-936ab2cb5a5f"
+            }
+          ]
+        },
+        "Nigeria": {
+          "answer": "Nigeria",
+          "references": [
+            {
+              "doc_id": "dc4c20db-53b0-4e0b-9e1b-936ab2cb5a5f"
+            }
+          ]
+        }
+      },
+      "question_id": "94d8583479e66c99b6140ca512a5cb3c",
+      "aggregator_type": "OR",
+      "query_id": "365",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.691513+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Why doesn\u2019t the British government return the Iranian refugees to Iran?": {
+      "question": "Why doesn\u2019t the British government return the Iranian refugees to Iran?",
+      "answers": {
+        "The human rights situation in Iran": {
+          "answer": "The human rights situation in Iran",
+          "references": [
+            {
+              "doc_id": "970cd180-79d7-4745-b66c-a702f00996e4"
+            },
+            {
+              "doc_id": "eb0d3cca-e0f7-4b88-afdc-1b0171f1718e"
+            }
+          ]
+        }
+      },
+      "question_id": "0ae46ede5cef646365eb4dff02dab0c2",
+      "aggregator_type": "OR",
+      "query_id": "365",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.691537+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Why do refugees go to England instead of staying in France?": {
+      "question": "Why do refugees go to England instead of staying in France?",
+      "answers": {
+        "Poor conditions in the French refugee camps": {
+          "answer": "Poor conditions in the French refugee camps",
+          "references": [
+            {
+              "doc_id": "50184ec4-4673-437a-bbf8-bd3316adf5b2"
+            },
+            {
+              "doc_id": "6425e7ba-a76d-4596-842e-1b10616a0012"
+            },
+            {
+              "doc_id": "6c4c4090-54b4-4059-8e58-1cd9eedadc10"
+            },
+            {
+              "doc_id": "ee5c15ab-03ad-438c-aa47-1556e4a27d49"
+            }
+          ]
+        },
+        "opportunities to work illegally": {
+          "answer": "opportunities to work illegally",
+          "references": [
+            {
+              "doc_id": "2d4c2f71-78c9-4afb-8a1a-01800a3ae87b"
+            }
+          ]
+        },
+        "welfare services": {
+          "answer": "welfare services",
+          "references": [
+            {
+              "doc_id": "311e0c6e-bc8d-458f-a354-44fa93f417df"
+            },
+            {
+              "doc_id": "863aa901-d019-484b-a9f6-e64abe11b3b7"
+            },
+            {
+              "doc_id": "8bca7552-68c1-437f-b1b3-43a322555e1e"
+            }
+          ]
+        },
+        "opportunity to get refugee status": {
+          "answer": "opportunity to get refugee status",
+          "references": [
+            {
+              "doc_id": "311e0c6e-bc8d-458f-a354-44fa93f417df"
+            },
+            {
+              "doc_id": "8bca7552-68c1-437f-b1b3-43a322555e1e"
+            },
+            {
+              "doc_id": "b6fb105a-20e8-42d5-bcef-d486de68adcb"
+            }
+          ]
+        },
+        "perceived leniency of British immigration": {
+          "answer": "perceived leniency of British immigration",
+          "references": [
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            }
+          ]
+        }
+      },
+      "question_id": "cfa1e5ae8eecf086d741f3b7267e03d2",
+      "aggregator_type": "OR",
+      "query_id": "365",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.691597+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "By what means do Britain and France perform rescue operations?": {
+      "question": "By what means do Britain and France perform rescue operations?",
+      "answers": {
+        "helicopters": {
+          "answer": "helicopters",
+          "references": [
+            {
+              "doc_id": "3551c78b-1d4b-4308-93fc-609196424d37"
+            },
+            {
+              "doc_id": "463e39c1-8a31-470e-9c9b-4c704ce3a84a"
+            },
+            {
+              "doc_id": "4fea2798-406a-4e6e-9674-5a3ca2aebaa4"
+            },
+            {
+              "doc_id": "60fad8b2-b6d0-4282-8fc6-b815de5c6b73"
+            },
+            {
+              "doc_id": "6425e7ba-a76d-4596-842e-1b10616a0012"
+            },
+            {
+              "doc_id": "6f9cd044-85d0-4565-8c1b-c1e377e6c2a3"
+            },
+            {
+              "doc_id": "a018475f-0e9d-4ffb-b628-16be95fbb484"
+            },
+            {
+              "doc_id": "a8bbcd2f-102a-4f11-b426-6fa0ad9046f7"
+            },
+            {
+              "doc_id": "b2b38984-bb24-40e4-b819-71c21080322c"
+            },
+            {
+              "doc_id": "ca301edf-43a2-4d4b-8c27-dd6218e4f977"
+            },
+            {
+              "doc_id": "d96c540f-bd67-44bc-b613-43ed082514b9"
+            },
+            {
+              "doc_id": "eb0d3cca-e0f7-4b88-afdc-1b0171f1718e"
+            },
+            {
+              "doc_id": "ee5c15ab-03ad-438c-aa47-1556e4a27d49"
+            },
+            {
+              "doc_id": "fd3cde0e-6d9c-41d1-87ac-6c65c3f7391e"
+            }
+          ]
+        },
+        "Ships": {
+          "answer": "Ships",
+          "references": [
+            {
+              "doc_id": "074b9770-efb8-4fcf-bf6e-5a03f453d25b"
+            },
+            {
+              "doc_id": "3551c78b-1d4b-4308-93fc-609196424d37"
+            },
+            {
+              "doc_id": "463e39c1-8a31-470e-9c9b-4c704ce3a84a"
+            },
+            {
+              "doc_id": "4fea2798-406a-4e6e-9674-5a3ca2aebaa4"
+            },
+            {
+              "doc_id": "60fad8b2-b6d0-4282-8fc6-b815de5c6b73"
+            },
+            {
+              "doc_id": "6425e7ba-a76d-4596-842e-1b10616a0012"
+            },
+            {
+              "doc_id": "82c3fe83-a228-4a32-83e1-002c1765fa0c"
+            },
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            },
+            {
+              "doc_id": "bbb19941-da77-4e80-aea1-ff01ec7400bf"
+            },
+            {
+              "doc_id": "c0641681-51b2-4cb0-8a0c-7219a268a3e8"
+            },
+            {
+              "doc_id": "d96c540f-bd67-44bc-b613-43ed082514b9"
+            },
+            {
+              "doc_id": "eb0d3cca-e0f7-4b88-afdc-1b0171f1718e"
+            }
+          ]
+        },
+        "airplanes": {
+          "answer": "airplanes",
+          "references": [
+            {
+              "doc_id": "4fea2798-406a-4e6e-9674-5a3ca2aebaa4"
+            },
+            {
+              "doc_id": "82c3fe83-a228-4a32-83e1-002c1765fa0c"
+            },
+            {
+              "doc_id": "eb0d3cca-e0f7-4b88-afdc-1b0171f1718e"
+            }
+          ]
+        },
+        "boats": {
+          "answer": "boats",
+          "references": [
+            {
+              "doc_id": "4fea2798-406a-4e6e-9674-5a3ca2aebaa4"
+            },
+            {
+              "doc_id": "6f9cd044-85d0-4565-8c1b-c1e377e6c2a3"
+            },
+            {
+              "doc_id": "a018475f-0e9d-4ffb-b628-16be95fbb484"
+            },
+            {
+              "doc_id": "a8bbcd2f-102a-4f11-b426-6fa0ad9046f7"
+            },
+            {
+              "doc_id": "c0641681-51b2-4cb0-8a0c-7219a268a3e8"
+            },
+            {
+              "doc_id": "c661d26e-125d-448a-aac1-fa87f44ddb09"
+            },
+            {
+              "doc_id": "ca301edf-43a2-4d4b-8c27-dd6218e4f977"
+            },
+            {
+              "doc_id": "d162e9c4-00d2-45ff-9b41-3765c278467a"
+            }
+          ]
+        },
+        "lifeboat": {
+          "answer": "lifeboat",
+          "references": [
+            {
+              "doc_id": "fd3cde0e-6d9c-41d1-87ac-6c65c3f7391e"
+            }
+          ]
+        }
+      },
+      "question_id": "ceceb042f3795536f49dc9be823eacfd",
+      "aggregator_type": "OR",
+      "query_id": "365",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.691684+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Where do British authorities send the children after rescue operations?": {
+      "question": "Where do British authorities send the children after rescue operations?",
+      "answers": {
+        "Juvenile protection institutions": {
+          "answer": "Juvenile protection institutions",
+          "references": []
+        },
+        "place under guardianship": {
+          "answer": "place under guardianship",
+          "references": [
+            {
+              "doc_id": "688c64c9-76fa-467b-81c0-9dbc33ae3edf"
+            }
+          ]
+        }
+      },
+      "question_id": "c027c51cb8319c47315960d7e3fffdeb",
+      "aggregator_type": "OR",
+      "query_id": "365",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.691709+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Where do British authorities refer the survivors to after rescuing them in English Channel?": {
+      "question": "Where do British authorities refer the survivors to after rescuing them in English Channel?",
+      "answers": {
+        "Immigration Department": {
+          "answer": "Immigration Department",
+          "references": [
+            {
+              "doc_id": "8bca7552-68c1-437f-b1b3-43a322555e1e"
+            },
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            }
+          ]
+        },
+        "Border Law Enforcement ": {
+          "answer": "Border Law Enforcement ",
+          "references": [
+            {
+              "doc_id": "cda007c7-81be-428a-a850-c1dc3a8d8943"
+            }
+          ]
+        }
+      },
+      "question_id": "935b14be908a4268ce39d1500f55e39f",
+      "aggregator_type": "OR",
+      "query_id": "365",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.691735+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What do British authorities do with the survivors before handing them over to the Immigration Department?": {
+      "question": "What do British authorities do with the survivors before handing them over to the Immigration Department?",
+      "answers": {
+        "Initial medical treatment": {
+          "answer": "Initial medical treatment",
+          "references": [
+            {
+              "doc_id": "576ce410-9c2e-452f-b881-9679119b9ab9"
+            },
+            {
+              "doc_id": "8bca7552-68c1-437f-b1b3-43a322555e1e"
+            },
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            },
+            {
+              "doc_id": "d96c540f-bd67-44bc-b613-43ed082514b9"
+            }
+          ]
+        }
+      },
+      "question_id": "56c197598046b4f70437002aee082aba",
+      "aggregator_type": "OR",
+      "query_id": "365",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.691755+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What have France and England done to deal with the refugee crisis?": {
+      "question": "What have France and England done to deal with the refugee crisis?",
+      "answers": {
+        "Increased surveillance": {
+          "answer": "Increased surveillance",
+          "references": [
+            {
+              "doc_id": "2c64f03e-47b9-46ce-ba57-dedb605f4b06"
+            },
+            {
+              "doc_id": "2d4c2f71-78c9-4afb-8a1a-01800a3ae87b"
+            },
+            {
+              "doc_id": "3ab62347-c91d-4295-affc-2b2b6514c0bf"
+            },
+            {
+              "doc_id": "4fea2798-406a-4e6e-9674-5a3ca2aebaa4"
+            },
+            {
+              "doc_id": "51210780-bb9c-4555-9e06-439d5b66d7a9"
+            },
+            {
+              "doc_id": "584de8dc-4637-448e-a360-f36c7a78414f"
+            },
+            {
+              "doc_id": "5e54b5e5-d77f-491b-ad88-198f339c2dd5"
+            },
+            {
+              "doc_id": "822acc4b-780e-47b6-b536-9bd9ce1d1a4b"
+            },
+            {
+              "doc_id": "863aa901-d019-484b-a9f6-e64abe11b3b7"
+            },
+            {
+              "doc_id": "974d2ec7-0add-4356-8529-a9d145d1547b"
+            },
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            },
+            {
+              "doc_id": "bbb19941-da77-4e80-aea1-ff01ec7400bf"
+            },
+            {
+              "doc_id": "c0641681-51b2-4cb0-8a0c-7219a268a3e8"
+            },
+            {
+              "doc_id": "c6595ec2-9b9a-4e83-bfc9-90da4a478b3a"
+            },
+            {
+              "doc_id": "c661d26e-125d-448a-aac1-fa87f44ddb09"
+            },
+            {
+              "doc_id": "da492728-32f7-4a86-8b1b-983cd4405c8a"
+            },
+            {
+              "doc_id": "e6b9c185-0662-4f9a-b8cc-acd66e9ea346"
+            },
+            {
+              "doc_id": "fb3c3547-8b14-4e65-b780-e99a229019d9"
+            },
+            {
+              "doc_id": "ff6d1772-7ae0-433f-8b4f-3751f178e9a4"
+            }
+          ]
+        },
+        "Taking special measures": {
+          "answer": "Taking special measures",
+          "references": [
+            {
+              "doc_id": "1d4b9db6-c69b-4fd7-9a68-1f9ff7a49932"
+            },
+            {
+              "doc_id": "51210780-bb9c-4555-9e06-439d5b66d7a9"
+            },
+            {
+              "doc_id": "6e7c9f94-68aa-41cf-ace0-e05c43b2faa3"
+            },
+            {
+              "doc_id": "9652c1e8-7b5f-4151-b52b-b2276a792f6f"
+            },
+            {
+              "doc_id": "bb00a716-2a69-4e8c-b764-8fb3af95bdb4"
+            }
+          ]
+        },
+        "Building more shelters in France": {
+          "answer": "Building more shelters in France",
+          "references": [
+            {
+              "doc_id": "2c64f03e-47b9-46ce-ba57-dedb605f4b06"
+            }
+          ]
+        },
+        "Increased patrols": {
+          "answer": "Increased patrols",
+          "references": [
+            {
+              "doc_id": "5e54b5e5-d77f-491b-ad88-198f339c2dd5"
+            },
+            {
+              "doc_id": "61c2d445-eeee-439e-849a-c9ee6434393b"
+            },
+            {
+              "doc_id": "63f8c179-3687-446c-98d1-32bd531f4fb1"
+            },
+            {
+              "doc_id": "822acc4b-780e-47b6-b536-9bd9ce1d1a4b"
+            },
+            {
+              "doc_id": "8f16f652-691f-4893-a397-f02fb8ae1f68"
+            },
+            {
+              "doc_id": "974d2ec7-0add-4356-8529-a9d145d1547b"
+            },
+            {
+              "doc_id": "c661d26e-125d-448a-aac1-fa87f44ddb09"
+            },
+            {
+              "doc_id": "dfa2c25b-46bc-4a4c-a661-aef2dd33c0b6"
+            },
+            {
+              "doc_id": "ebbb4860-4d48-47e3-892f-64bcdf1ad8b4"
+            },
+            {
+              "doc_id": "f4ec400d-d0a7-41d6-b7c9-b7d207f08638"
+            },
+            {
+              "doc_id": "fb3c3547-8b14-4e65-b780-e99a229019d9"
+            }
+          ]
+        },
+        "exchanged information": {
+          "answer": "exchanged information",
+          "references": [
+            {
+              "doc_id": "06b30ff4-db13-4f6c-8ef5-d1a9c54f1d99"
+            },
+            {
+              "doc_id": "863aa901-d019-484b-a9f6-e64abe11b3b7"
+            },
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            },
+            {
+              "doc_id": "bbb19941-da77-4e80-aea1-ff01ec7400bf"
+            }
+          ]
+        },
+        "France destroyed refugee camps": {
+          "answer": "France destroyed refugee camps",
+          "references": [
+            {
+              "doc_id": "2d4c2f71-78c9-4afb-8a1a-01800a3ae87b"
+            },
+            {
+              "doc_id": "951a0400-5f9c-4e80-bb5c-fc38f843de27"
+            },
+            {
+              "doc_id": "b6a350c2-bd4a-4a35-bcc3-0944599c279d"
+            },
+            {
+              "doc_id": "b6fb105a-20e8-42d5-bcef-d486de68adcb"
+            }
+          ]
+        },
+        "The UK changed immigration legislation": {
+          "answer": "The UK changed immigration legislation",
+          "references": [
+            {
+              "doc_id": "708f00de-7938-4519-ad0f-8409586565d2"
+            }
+          ]
+        },
+        "Increasing awareness among migrants": {
+          "answer": "Increasing awareness among migrants",
+          "references": [
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            }
+          ]
+        },
+        "Fighting organized crime groups involved in smuggling": {
+          "answer": "Fighting organized crime groups involved in smuggling",
+          "references": [
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            },
+            {
+              "doc_id": "ff6d1772-7ae0-433f-8b4f-3751f178e9a4"
+            }
+          ]
+        },
+        "Greater security at ports": {
+          "answer": "Greater security at ports",
+          "references": [
+            {
+              "doc_id": "da492728-32f7-4a86-8b1b-983cd4405c8a"
+            },
+            {
+              "doc_id": "ff6d1772-7ae0-433f-8b4f-3751f178e9a4"
+            }
+          ]
+        },
+        "working closely": {
+          "answer": "working closely",
+          "references": [
+            {
+              "doc_id": "c65b52c4-75ab-44d2-880a-a7943a32ac30"
+            }
+          ]
+        }
+      },
+      "question_id": "9ef6928e71a32a04dc91b616a5a1976f",
+      "aggregator_type": "OR",
+      "query_id": "365",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.691891+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What institutions in France and England monitor the refugees?": {
+      "question": "What institutions in France and England monitor the refugees?",
+      "answers": {
+        "The police forces": {
+          "answer": "The police forces",
+          "references": [
+            {
+              "doc_id": "130488ec-47e5-4e70-89e4-01fa656ae2c8"
+            },
+            {
+              "doc_id": "61c2d445-eeee-439e-849a-c9ee6434393b"
+            },
+            {
+              "doc_id": "822acc4b-780e-47b6-b536-9bd9ce1d1a4b"
+            },
+            {
+              "doc_id": "8f16f652-691f-4893-a397-f02fb8ae1f68"
+            },
+            {
+              "doc_id": "974d2ec7-0add-4356-8529-a9d145d1547b"
+            },
+            {
+              "doc_id": "dfa2c25b-46bc-4a4c-a661-aef2dd33c0b6"
+            },
+            {
+              "doc_id": "feaae8e2-9eea-4608-95ec-f8f798611e61"
+            }
+          ]
+        },
+        "border guards": {
+          "answer": "border guards",
+          "references": [
+            {
+              "doc_id": "130488ec-47e5-4e70-89e4-01fa656ae2c8"
+            },
+            {
+              "doc_id": "13a1ad68-8c5a-46e3-be0f-bea60176c6e5"
+            },
+            {
+              "doc_id": "1d4b9db6-c69b-4fd7-9a68-1f9ff7a49932"
+            },
+            {
+              "doc_id": "257ad552-bcf3-4841-b3e8-4a3994a5f1d9"
+            },
+            {
+              "doc_id": "4fea2798-406a-4e6e-9674-5a3ca2aebaa4"
+            },
+            {
+              "doc_id": "51210780-bb9c-4555-9e06-439d5b66d7a9"
+            },
+            {
+              "doc_id": "5e54b5e5-d77f-491b-ad88-198f339c2dd5"
+            },
+            {
+              "doc_id": "61c2d445-eeee-439e-849a-c9ee6434393b"
+            },
+            {
+              "doc_id": "64a081fa-334c-4907-ba9c-227817c3ee9f"
+            },
+            {
+              "doc_id": "688c64c9-76fa-467b-81c0-9dbc33ae3edf"
+            },
+            {
+              "doc_id": "6c4c4090-54b4-4059-8e58-1cd9eedadc10"
+            },
+            {
+              "doc_id": "6f9cd044-85d0-4565-8c1b-c1e377e6c2a3"
+            },
+            {
+              "doc_id": "863aa901-d019-484b-a9f6-e64abe11b3b7"
+            },
+            {
+              "doc_id": "8bca7552-68c1-437f-b1b3-43a322555e1e"
+            },
+            {
+              "doc_id": "b05676f7-13ed-4a85-87b2-528c715ea489"
+            },
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            },
+            {
+              "doc_id": "bbb19941-da77-4e80-aea1-ff01ec7400bf"
+            },
+            {
+              "doc_id": "ca301edf-43a2-4d4b-8c27-dd6218e4f977"
+            },
+            {
+              "doc_id": "d162e9c4-00d2-45ff-9b41-3765c278467a"
+            },
+            {
+              "doc_id": "d96c540f-bd67-44bc-b613-43ed082514b9"
+            },
+            {
+              "doc_id": "d9e3b7f2-5cf2-4ea4-9494-6dd4bf4ec7d7"
+            },
+            {
+              "doc_id": "dfa2c25b-46bc-4a4c-a661-aef2dd33c0b6"
+            },
+            {
+              "doc_id": "ee5c15ab-03ad-438c-aa47-1556e4a27d49"
+            },
+            {
+              "doc_id": "f13f1f20-f8f0-4663-93c0-55415ea32a23"
+            },
+            {
+              "doc_id": "feaae8e2-9eea-4608-95ec-f8f798611e61"
+            }
+          ]
+        },
+        "maritime services": {
+          "answer": "maritime services",
+          "references": [
+            {
+              "doc_id": "257ad552-bcf3-4841-b3e8-4a3994a5f1d9"
+            }
+          ]
+        },
+        "military forces": {
+          "answer": "military forces",
+          "references": [
+            {
+              "doc_id": "2d4c2f71-78c9-4afb-8a1a-01800a3ae87b"
+            },
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            }
+          ]
+        },
+        "customs": {
+          "answer": "customs",
+          "references": [
+            {
+              "doc_id": "311e0c6e-bc8d-458f-a354-44fa93f417df"
+            },
+            {
+              "doc_id": "9d9c4ff5-8839-4b0a-92b9-41d60b827b69"
+            }
+          ]
+        },
+        "a special commissioner in Britain": {
+          "answer": "a special commissioner in Britain",
+          "references": [
+            {
+              "doc_id": "584de8dc-4637-448e-a360-f36c7a78414f"
+            },
+            {
+              "doc_id": "ee5c15ab-03ad-438c-aa47-1556e4a27d49"
+            }
+          ]
+        },
+        "a joint French-British intelligence unit": {
+          "answer": "a joint French-British intelligence unit",
+          "references": [
+            {
+              "doc_id": "584de8dc-4637-448e-a360-f36c7a78414f"
+            }
+          ]
+        },
+        "British Royal Navy": {
+          "answer": "British Royal Navy",
+          "references": [
+            {
+              "doc_id": "2d4c2f71-78c9-4afb-8a1a-01800a3ae87b"
+            },
+            {
+              "doc_id": "688c64c9-76fa-467b-81c0-9dbc33ae3edf"
+            },
+            {
+              "doc_id": "df9af423-3833-49bb-a61d-175d89125459"
+            }
+          ]
+        },
+        "a British-French coordination information center": {
+          "answer": "a British-French coordination information center",
+          "references": [
+            {
+              "doc_id": "863aa901-d019-484b-a9f6-e64abe11b3b7"
+            }
+          ]
+        },
+        "British Home Office": {
+          "answer": "British Home Office",
+          "references": [
+            {
+              "doc_id": "06b30ff4-db13-4f6c-8ef5-d1a9c54f1d99"
+            },
+            {
+              "doc_id": "2d4c2f71-78c9-4afb-8a1a-01800a3ae87b"
+            },
+            {
+              "doc_id": "584de8dc-4637-448e-a360-f36c7a78414f"
+            },
+            {
+              "doc_id": "688c64c9-76fa-467b-81c0-9dbc33ae3edf"
+            },
+            {
+              "doc_id": "89582ce0-e4ff-453f-8d32-4e4c95cbb64c"
+            },
+            {
+              "doc_id": "8bca7552-68c1-437f-b1b3-43a322555e1e"
+            },
+            {
+              "doc_id": "8e18017b-9e4b-4f04-94a5-cafab2065c2e"
+            },
+            {
+              "doc_id": "b919ddef-8399-4d36-bb3d-f175816b5cba"
+            },
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            },
+            {
+              "doc_id": "c6595ec2-9b9a-4e83-bfc9-90da4a478b3a"
+            },
+            {
+              "doc_id": "da492728-32f7-4a86-8b1b-983cd4405c8a"
+            },
+            {
+              "doc_id": "df9af423-3833-49bb-a61d-175d89125459"
+            },
+            {
+              "doc_id": "ee5c15ab-03ad-438c-aa47-1556e4a27d49"
+            },
+            {
+              "doc_id": "f13f1f20-f8f0-4663-93c0-55415ea32a23"
+            },
+            {
+              "doc_id": "ff6d1772-7ae0-433f-8b4f-3751f178e9a4"
+            }
+          ]
+        },
+        "NGOs": {
+          "answer": "NGOs",
+          "references": [
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            },
+            {
+              "doc_id": "da492728-32f7-4a86-8b1b-983cd4405c8a"
+            }
+          ]
+        },
+        "British National Crime Agency": {
+          "answer": "British National Crime Agency",
+          "references": [
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            }
+          ]
+        },
+        "French Ministry of the Interior": {
+          "answer": "French Ministry of the Interior",
+          "references": [
+            {
+              "doc_id": "c6595ec2-9b9a-4e83-bfc9-90da4a478b3a"
+            },
+            {
+              "doc_id": "ff6d1772-7ae0-433f-8b4f-3751f178e9a4"
+            }
+          ]
+        },
+        "British Parliament": {
+          "answer": "British Parliament",
+          "references": [
+            {
+              "doc_id": "ee5c15ab-03ad-438c-aa47-1556e4a27d49"
+            }
+          ]
+        },
+        "coast guards": {
+          "answer": "coast guards",
+          "references": [
+            {
+              "doc_id": "584de8dc-4637-448e-a360-f36c7a78414f"
+            },
+            {
+              "doc_id": "7d597608-a543-4393-90d0-3f1d4ada4d3e"
+            },
+            {
+              "doc_id": "986ac511-f7d2-4f38-b3f7-34ed53f0447a"
+            },
+            {
+              "doc_id": "b05676f7-13ed-4a85-87b2-528c715ea489"
+            },
+            {
+              "doc_id": "dd5536cd-ef92-486c-b085-540492964e3b"
+            },
+            {
+              "doc_id": "e6b9c185-0662-4f9a-b8cc-acd66e9ea346"
+            },
+            {
+              "doc_id": "ee5c15ab-03ad-438c-aa47-1556e4a27d49"
+            }
+          ]
+        },
+        "British Search and Rescue Service (SAR)": {
+          "answer": "British Search and Rescue Service (SAR)",
+          "references": [
+            {
+              "doc_id": "986ac511-f7d2-4f38-b3f7-34ed53f0447a"
+            }
+          ]
+        }
+      },
+      "question_id": "567021677f07b6b0d8e92965dcf83e7c",
+      "aggregator_type": "OR",
+      "query_id": "365",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.692111+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What equipment do French authorities use in order to stop boat refugees from crossing The English Channel?": {
+      "question": "What equipment do French authorities use in order to stop boat refugees from crossing The English Channel?",
+      "answers": {
+        "radars": {
+          "answer": "radars",
+          "references": [
+            {
+              "doc_id": "5e54b5e5-d77f-491b-ad88-198f339c2dd5"
+            },
+            {
+              "doc_id": "6425e7ba-a76d-4596-842e-1b10616a0012"
+            },
+            {
+              "doc_id": "82ffea18-19c7-47d0-9ff5-fca2c363972b"
+            },
+            {
+              "doc_id": "8f16f652-691f-4893-a397-f02fb8ae1f68"
+            },
+            {
+              "doc_id": "a713930f-811a-4e3b-ab42-bfa95e846527"
+            },
+            {
+              "doc_id": "da492728-32f7-4a86-8b1b-983cd4405c8a"
+            },
+            {
+              "doc_id": "f4ec400d-d0a7-41d6-b7c9-b7d207f08638"
+            },
+            {
+              "doc_id": "ff6d1772-7ae0-433f-8b4f-3751f178e9a4"
+            }
+          ]
+        },
+        "Drones": {
+          "answer": "Drones",
+          "references": [
+            {
+              "doc_id": "5e54b5e5-d77f-491b-ad88-198f339c2dd5"
+            },
+            {
+              "doc_id": "82ffea18-19c7-47d0-9ff5-fca2c363972b"
+            },
+            {
+              "doc_id": "8f16f652-691f-4893-a397-f02fb8ae1f68"
+            },
+            {
+              "doc_id": "a713930f-811a-4e3b-ab42-bfa95e846527"
+            },
+            {
+              "doc_id": "bbb19941-da77-4e80-aea1-ff01ec7400bf"
+            },
+            {
+              "doc_id": "c6595ec2-9b9a-4e83-bfc9-90da4a478b3a"
+            },
+            {
+              "doc_id": "da492728-32f7-4a86-8b1b-983cd4405c8a"
+            },
+            {
+              "doc_id": "e6b9c185-0662-4f9a-b8cc-acd66e9ea346"
+            },
+            {
+              "doc_id": "ff6d1772-7ae0-433f-8b4f-3751f178e9a4"
+            }
+          ]
+        },
+        "observation aircrafts": {
+          "answer": "observation aircrafts",
+          "references": [
+            {
+              "doc_id": "bbb19941-da77-4e80-aea1-ff01ec7400bf"
+            }
+          ]
+        },
+        "cameras": {
+          "answer": "cameras",
+          "references": [
+            {
+              "doc_id": "ff6d1772-7ae0-433f-8b4f-3751f178e9a4"
+            }
+          ]
+        },
+        "binoculars": {
+          "answer": "binoculars",
+          "references": [
+            {
+              "doc_id": "ff6d1772-7ae0-433f-8b4f-3751f178e9a4"
+            }
+          ]
+        }
+      },
+      "question_id": "3193623c80fb0a7f252887c66b34906a",
+      "aggregator_type": "OR",
+      "query_id": "365",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.692176+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How do France and England deal with human traffickers?": {
+      "question": "How do France and England deal with human traffickers?",
+      "answers": {
+        "By enforcing strict measures": {
+          "answer": "By enforcing strict measures",
+          "references": [
+            {
+              "doc_id": "63f8c179-3687-446c-98d1-32bd531f4fb1"
+            },
+            {
+              "doc_id": "8e18017b-9e4b-4f04-94a5-cafab2065c2e"
+            },
+            {
+              "doc_id": "a8bbcd2f-102a-4f11-b426-6fa0ad9046f7"
+            },
+            {
+              "doc_id": "ebbb4860-4d48-47e3-892f-64bcdf1ad8b4"
+            }
+          ]
+        },
+        "Increase beach patrols": {
+          "answer": "Increase beach patrols",
+          "references": [
+            {
+              "doc_id": "82ffea18-19c7-47d0-9ff5-fca2c363972b"
+            },
+            {
+              "doc_id": "a713930f-811a-4e3b-ab42-bfa95e846527"
+            },
+            {
+              "doc_id": "aca8585f-017d-4950-90b3-ad9d0ae53781"
+            }
+          ]
+        },
+        "Increase information exchange": {
+          "answer": "Increase information exchange",
+          "references": [
+            {
+              "doc_id": "82ffea18-19c7-47d0-9ff5-fca2c363972b"
+            }
+          ]
+        },
+        "ordered major social media platforms to remove posts that \"glorify\" crossing the English Channel into the UK illegally": {
+          "answer": "ordered major social media platforms to remove posts that \"glorify\" crossing the English Channel into the UK illegally",
+          "references": [
+            {
+              "doc_id": "f7c4efd0-c4ed-4c03-92b8-beaf19051a69"
+            }
+          ]
+        }
+      },
+      "question_id": "7646c6a975e982305bef8caca1d8ba82",
+      "aggregator_type": "OR",
+      "query_id": "365",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.692231+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What does the bill that is being processed in the British Parliament consider illegal entry into Britain?": {
+      "question": "What does the bill that is being processed in the British Parliament consider illegal entry into Britain?",
+      "answers": {
+        "A criminal offense": {
+          "answer": "A criminal offense",
+          "references": [
+            {
+              "doc_id": "21658a22-e1a0-4367-b635-51dc4c1e4531"
+            },
+            {
+              "doc_id": "2c64f03e-47b9-46ce-ba57-dedb605f4b06"
+            },
+            {
+              "doc_id": "4fea2798-406a-4e6e-9674-5a3ca2aebaa4"
+            },
+            {
+              "doc_id": "974d2ec7-0add-4356-8529-a9d145d1547b"
+            }
+          ]
+        }
+      },
+      "question_id": "64c05c045750eecd5f769c24de4579eb",
+      "aggregator_type": "OR",
+      "query_id": "365",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.692254+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What was the sentence of the imam of a mosque who had helped refugees cross the English Channel?": {
+      "question": "What was the sentence of the imam of a mosque who had helped refugees cross the English Channel?",
+      "answers": {
+        "Two years in prison": {
+          "answer": "Two years in prison",
+          "references": [
+            {
+              "doc_id": "777de5d5-8a53-4163-8cfd-836a1cee0d41"
+            }
+          ]
+        }
+      },
+      "question_id": "0a04947c3e3c1b56c60b74736858708e",
+      "aggregator_type": "OR",
+      "query_id": "365",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.692271+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is a reason for refugees leaving their countries?": {
+      "question": "What is a reason for refugees leaving their countries?",
+      "answers": {
+        "Economic reasons": {
+          "answer": "Economic reasons",
+          "references": [
+            {
+              "doc_id": "14ea2692-aa9f-49b0-b2f3-83ae6b404a3f"
+            },
+            {
+              "doc_id": "3f4caa65-afa3-4b46-a39e-b5f0a3719aec"
+            },
+            {
+              "doc_id": "754ed403-7be4-4c7b-9086-34a9e9906962"
+            },
+            {
+              "doc_id": "7901e4b2-7739-4c69-9795-c987d60c36dd"
+            },
+            {
+              "doc_id": "87816bac-fe87-435d-aadd-7a166a1c9b0c"
+            },
+            {
+              "doc_id": "8dba3c83-2e7b-49c2-89af-209c5d923827"
+            },
+            {
+              "doc_id": "94148182-c8c7-4e1f-8c10-254b08825f72"
+            },
+            {
+              "doc_id": "970cd180-79d7-4745-b66c-a702f00996e4"
+            },
+            {
+              "doc_id": "9a399704-2695-4317-9cd2-de1d6f43945e"
+            },
+            {
+              "doc_id": "b001b59a-12a0-47b3-b8a4-d9aab1dae3d7"
+            },
+            {
+              "doc_id": "b919ddef-8399-4d36-bb3d-f175816b5cba"
+            },
+            {
+              "doc_id": "c661d26e-125d-448a-aac1-fa87f44ddb09"
+            },
+            {
+              "doc_id": "dc5a1653-7fb1-4f40-aef5-17e25a99e3d8"
+            }
+          ]
+        },
+        "Lack of jobs": {
+          "answer": "Lack of jobs",
+          "references": [
+            {
+              "doc_id": "14ea2692-aa9f-49b0-b2f3-83ae6b404a3f"
+            },
+            {
+              "doc_id": "3f4caa65-afa3-4b46-a39e-b5f0a3719aec"
+            },
+            {
+              "doc_id": "8dba3c83-2e7b-49c2-89af-209c5d923827"
+            },
+            {
+              "doc_id": "9a399704-2695-4317-9cd2-de1d6f43945e"
+            },
+            {
+              "doc_id": "a018475f-0e9d-4ffb-b628-16be95fbb484"
+            },
+            {
+              "doc_id": "b001b59a-12a0-47b3-b8a4-d9aab1dae3d7"
+            },
+            {
+              "doc_id": "dc5a1653-7fb1-4f40-aef5-17e25a99e3d8"
+            },
+            {
+              "doc_id": "f8873037-661f-4cde-bf37-cf3e29dd7dd2"
+            }
+          ]
+        },
+        "lack of freedom": {
+          "answer": "lack of freedom",
+          "references": [
+            {
+              "doc_id": "51210780-bb9c-4555-9e06-439d5b66d7a9"
+            },
+            {
+              "doc_id": "c0641681-51b2-4cb0-8a0c-7219a268a3e8"
+            }
+          ]
+        },
+        "human rights violations": {
+          "answer": "human rights violations",
+          "references": [
+            {
+              "doc_id": "51210780-bb9c-4555-9e06-439d5b66d7a9"
+            },
+            {
+              "doc_id": "970cd180-79d7-4745-b66c-a702f00996e4"
+            },
+            {
+              "doc_id": "ff0a9134-3f92-424f-a2f2-024756992b65"
+            }
+          ]
+        },
+        "Security": {
+          "answer": "Security",
+          "references": [
+            {
+              "doc_id": "6c4c4090-54b4-4059-8e58-1cd9eedadc10"
+            }
+          ]
+        },
+        "war consequences": {
+          "answer": "war consequences",
+          "references": [
+            {
+              "doc_id": "87816bac-fe87-435d-aadd-7a166a1c9b0c"
+            },
+            {
+              "doc_id": "b6fb105a-20e8-42d5-bcef-d486de68adcb"
+            },
+            {
+              "doc_id": "ef67e94d-001b-4abd-8a18-dbb5b0dab399"
+            },
+            {
+              "doc_id": "ff0a9134-3f92-424f-a2f2-024756992b65"
+            }
+          ]
+        },
+        "Religion-based discrimination": {
+          "answer": "Religion-based discrimination",
+          "references": [
+            {
+              "doc_id": "b9f5e302-d6ec-4f0e-b687-d3a011e72a33"
+            }
+          ]
+        },
+        "Fleeing war or persecution in your hometown": {
+          "answer": "Fleeing war or persecution in your hometown",
+          "references": [
+            {
+              "doc_id": "754ed403-7be4-4c7b-9086-34a9e9906962"
+            }
+          ]
+        },
+        " Brexit fears": {
+          "answer": " Brexit fears",
+          "references": [
+            {
+              "doc_id": "6425e7ba-a76d-4596-842e-1b10616a0012"
+            },
+            {
+              "doc_id": "82c3fe83-a228-4a32-83e1-002c1765fa0c"
+            },
+            {
+              "doc_id": "862018af-038f-4855-8456-f2c8111fd48b"
+            },
+            {
+              "doc_id": "e7c20036-4f5a-41d2-9167-a0ec602d5aec"
+            }
+          ]
+        },
+        "experiencing conflict or human rights abuses in their home countries": {
+          "answer": "experiencing conflict or human rights abuses in their home countries",
+          "references": [
+            {
+              "doc_id": "dc4c20db-53b0-4e0b-9e1b-936ab2cb5a5f"
+            }
+          ]
+        }
+      },
+      "question_id": "fd7ca8c0adf9425b0b99265a2952d7fa",
+      "aggregator_type": "OR",
+      "query_id": "365",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.692385+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,3540 @@
+{
+  "query_id": "351",
+  "title_query": "Agriculture and Climate Change",
+  "full_query": "I need to a report that describes how climate change affects agriculture. My report should include how shifts in temperature, rainfall patterns, and carbon dioxide levels will affect crop yields, new crops, and agricultural practices. I am interested in the current and projected effects of climate change on agriculture.",
+  "full_background": "As a farmer concerned about the impact of climate change, I need to understand how changes in climate have affected or will affect agriculture to help me make informed decisions to adapt and mitigate risks to my livelihood.",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What region of the world may be most affected by climate change?": {
+      "question": "What region of the world may be most affected by climate change?",
+      "answers": {
+        "Asia": {
+          "answer": "Asia",
+          "references": [
+            {
+              "doc_id": "093fe696-d8cc-4301-af0a-c361a27b676d"
+            },
+            {
+              "doc_id": "1d5c736b-083a-42c0-a27c-6f57ca775bd2"
+            },
+            {
+              "doc_id": "2ddee758-f9ae-4028-8f28-1f0103330d95"
+            },
+            {
+              "doc_id": "43fdc062-cc56-455c-bd78-6946b3bc8622"
+            },
+            {
+              "doc_id": "a548a9eb-6840-4375-8c64-5392b68a547f"
+            }
+          ]
+        },
+        "Arab Peninsula": {
+          "answer": "Arab Peninsula",
+          "references": [
+            {
+              "doc_id": "f0a78691-b1fd-4b73-9822-91345a5ae246"
+            }
+          ]
+        },
+        "Middle East": {
+          "answer": "Middle East",
+          "references": [
+            {
+              "doc_id": "ec9bdd12-faa1-404a-b34f-ade610f829b0"
+            },
+            {
+              "doc_id": "f037b554-a6c3-4ba0-b3b0-fffea920b4e2"
+            }
+          ]
+        },
+        "Africa": {
+          "answer": "Africa",
+          "references": [
+            {
+              "doc_id": "1d5c736b-083a-42c0-a27c-6f57ca775bd2"
+            },
+            {
+              "doc_id": "43fdc062-cc56-455c-bd78-6946b3bc8622"
+            },
+            {
+              "doc_id": "988a3b40-147e-49ee-84a4-8ae51c441433"
+            },
+            {
+              "doc_id": "a548a9eb-6840-4375-8c64-5392b68a547f"
+            },
+            {
+              "doc_id": "ec9bdd12-faa1-404a-b34f-ade610f829b0"
+            },
+            {
+              "doc_id": "f037b554-a6c3-4ba0-b3b0-fffea920b4e2"
+            }
+          ]
+        },
+        "Latin America": {
+          "answer": "Latin America",
+          "references": [
+            {
+              "doc_id": "1d5c736b-083a-42c0-a27c-6f57ca775bd2"
+            }
+          ]
+        },
+        "Sub-Saharan African countries": {
+          "answer": "Sub-Saharan African countries",
+          "references": []
+        },
+        "Southeast Asia, if in terms of the impact on nutritional content of plants": {
+          "answer": "Southeast Asia, if in terms of the impact on nutritional content of plants",
+          "references": [
+            {
+              "doc_id": "09950abd-9e47-4dcc-959f-ccb7848aba2d"
+            }
+          ]
+        },
+        "tropical areas will be most affected by theiIncreases in carbon dioxide brought by climate change affect": {
+          "answer": "tropical areas will be most affected by theiIncreases in carbon dioxide brought by climate change affect",
+          "references": [
+            {
+              "doc_id": "3b55f9e8-db6f-49a9-97df-907971c51970"
+            }
+          ]
+        },
+        "southern part of the globe": {
+          "answer": "southern part of the globe",
+          "references": [
+            {
+              "doc_id": "77d10211-e387-44af-a296-a9501939212e"
+            }
+          ]
+        }
+      },
+      "question_id": "4c76a36db2f25aae799d414d893aa2f4",
+      "aggregator_type": "OR",
+      "query_id": "351",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.672925+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the anticipated effect from climate change?": {
+      "question": "What is the anticipated effect from climate change?",
+      "answers": {
+        "soil depletion": {
+          "answer": "soil depletion",
+          "references": [
+            {
+              "doc_id": "0659cf43-e7d9-44c5-aea5-656ca872161c"
+            },
+            {
+              "doc_id": "0b72cd16-bee1-49d7-828b-dfdee7393e62"
+            },
+            {
+              "doc_id": "0e4ce016-cb94-4539-8bc3-ccf3520184be"
+            },
+            {
+              "doc_id": "2045121a-28c9-4b45-a29c-c3b3bd578bf6"
+            },
+            {
+              "doc_id": "59a07d73-962f-46cd-8210-66d9bb67c1ec"
+            },
+            {
+              "doc_id": "5d58d9f8-21cd-473d-a9a6-e927297065cc"
+            },
+            {
+              "doc_id": "615c8651-9929-4b6c-9d0f-85feb4e730ce"
+            },
+            {
+              "doc_id": "69321d44-2d80-42f7-88ce-849ef66a3bc9"
+            },
+            {
+              "doc_id": "6c3df17c-8e3a-4480-b676-3d2d0e9042c2"
+            },
+            {
+              "doc_id": "6e78ec7d-bb21-4991-80be-6ae8fc420aa0"
+            },
+            {
+              "doc_id": "7388431f-4d15-48cc-ac2d-b261ca2dee8c"
+            },
+            {
+              "doc_id": "84be0282-32fa-4f79-8678-95ca6942d25b"
+            },
+            {
+              "doc_id": "890769e6-bcc6-4a73-8dc7-9bb38c18f530"
+            },
+            {
+              "doc_id": "8973d6cd-8e11-4ba7-8096-34dcc0e122d6"
+            },
+            {
+              "doc_id": "9702fb63-78ae-4990-b6d8-ed1fe4aa61d6"
+            },
+            {
+              "doc_id": "a9485530-47ec-4015-8f1f-55d0e9b989ec"
+            },
+            {
+              "doc_id": "ae2c71ff-eb9f-4a26-ba7e-94379019d8a0"
+            },
+            {
+              "doc_id": "b626210a-b613-4e6b-9374-86da2b8da045"
+            },
+            {
+              "doc_id": "b74c6eb7-5d55-42c7-befd-947a6f54f390"
+            },
+            {
+              "doc_id": "bae5c479-6304-4c1b-acac-cc73a69e6239"
+            },
+            {
+              "doc_id": "be5579ea-f2ca-46f1-abe7-594668f08b49"
+            },
+            {
+              "doc_id": "bf7f55dc-0729-462f-b0af-e56d9ed85481"
+            },
+            {
+              "doc_id": "d5f260ed-9bd1-4710-8416-b06a31513f71"
+            },
+            {
+              "doc_id": "eb3f81be-e0e5-4cc7-b605-f73fb68c2101"
+            },
+            {
+              "doc_id": "fcc92acd-bb28-484f-ae17-c4d06bd11f78"
+            },
+            {
+              "doc_id": "fe89e534-9a9d-4211-a38b-b8d395732343"
+            },
+            {
+              "doc_id": "ff43c890-0596-4c57-96f4-7bb2e0ea4628"
+            }
+          ]
+        },
+        "increased natural anomalies": {
+          "answer": "increased natural anomalies",
+          "references": [
+            {
+              "doc_id": "02722a2f-2bc8-423b-9f03-0dc3e516e86c"
+            },
+            {
+              "doc_id": "032f6666-be55-4b9d-97e0-9fa0a9747b83"
+            },
+            {
+              "doc_id": "04a0a930-ed60-4075-9112-0c176140ee21"
+            },
+            {
+              "doc_id": "0659cf43-e7d9-44c5-aea5-656ca872161c"
+            },
+            {
+              "doc_id": "0863da07-340f-405d-961a-8caf4132a450"
+            },
+            {
+              "doc_id": "0b598754-2779-4ebf-ab64-7dd2db956500"
+            },
+            {
+              "doc_id": "0c5bab51-cf02-4129-973b-e16f71c88cff"
+            },
+            {
+              "doc_id": "0e0396da-aa19-4e92-bb68-0950ba964a1a"
+            },
+            {
+              "doc_id": "0e95d9e6-0392-4e8b-ad83-852096a5f184"
+            },
+            {
+              "doc_id": "10490cdf-2bae-46c0-beea-e3eef5e0a938"
+            },
+            {
+              "doc_id": "14f5f238-b46b-484e-b16a-9b44d6e7e5cf"
+            },
+            {
+              "doc_id": "1762eb2b-c555-41dc-91a8-b201d2cc2e31"
+            },
+            {
+              "doc_id": "180b7c34-f321-4f9f-9bc5-c064187e8422"
+            },
+            {
+              "doc_id": "19cf5a8f-d23b-4960-83dd-f4bc93f025fa"
+            },
+            {
+              "doc_id": "1d015461-09f9-4e16-9350-a8d28de9b222"
+            },
+            {
+              "doc_id": "2045121a-28c9-4b45-a29c-c3b3bd578bf6"
+            },
+            {
+              "doc_id": "20add5c9-d887-4d1e-bd93-7de08d930203"
+            },
+            {
+              "doc_id": "21bc6915-962f-403b-95b5-0fa5cf5cd167"
+            },
+            {
+              "doc_id": "2cce6059-4233-4e24-9fbf-3fb2987356d5"
+            },
+            {
+              "doc_id": "2ddee758-f9ae-4028-8f28-1f0103330d95"
+            },
+            {
+              "doc_id": "30392f95-4ef3-4b8b-a179-601f1a37e9c5"
+            },
+            {
+              "doc_id": "37d8e912-d282-4aec-b97c-c1b54b636214"
+            },
+            {
+              "doc_id": "3b55f9e8-db6f-49a9-97df-907971c51970"
+            },
+            {
+              "doc_id": "429ab3a2-5ebf-4f7e-b46c-347d44cf5606"
+            },
+            {
+              "doc_id": "4ef33319-108b-4ffb-9b26-2717e27e90b3"
+            },
+            {
+              "doc_id": "53ef1fa2-e081-428d-bccc-72356929111f"
+            },
+            {
+              "doc_id": "55bf0777-1193-4cd6-a19f-1502db0f5378"
+            },
+            {
+              "doc_id": "57b09029-0fb7-4af4-8b6f-428e96211504"
+            },
+            {
+              "doc_id": "59d77602-fd8d-48f7-a888-6606dcb374f7"
+            },
+            {
+              "doc_id": "5c86b4aa-f681-4839-afa8-dae830a71f96"
+            },
+            {
+              "doc_id": "5d58d9f8-21cd-473d-a9a6-e927297065cc"
+            },
+            {
+              "doc_id": "5e66cefc-e16e-4d5b-802f-6a1a808fd8ed"
+            },
+            {
+              "doc_id": "615c8651-9929-4b6c-9d0f-85feb4e730ce"
+            },
+            {
+              "doc_id": "63e4b639-4c2a-4c96-92b2-5b22f3da1494"
+            },
+            {
+              "doc_id": "6c3df17c-8e3a-4480-b676-3d2d0e9042c2"
+            },
+            {
+              "doc_id": "6d8f6ec9-e372-4b42-b5a8-50ab7c73ccc7"
+            },
+            {
+              "doc_id": "6e78ec7d-bb21-4991-80be-6ae8fc420aa0"
+            },
+            {
+              "doc_id": "707f661e-512e-41f8-9bb8-a50b20630c47"
+            },
+            {
+              "doc_id": "742ca6bf-0cdb-4f98-bacf-8e86b40d713e"
+            },
+            {
+              "doc_id": "7621fb76-8a36-4909-b9e2-f9d82ae77a35"
+            },
+            {
+              "doc_id": "79c893d7-b57a-42ce-832d-09215cd1e3ca"
+            },
+            {
+              "doc_id": "80ddca5b-3a5c-494f-aee8-9fecac106a8f"
+            },
+            {
+              "doc_id": "890769e6-bcc6-4a73-8dc7-9bb38c18f530"
+            },
+            {
+              "doc_id": "8973d6cd-8e11-4ba7-8096-34dcc0e122d6"
+            },
+            {
+              "doc_id": "8c08b3aa-52f4-40b1-b178-274fa9239cbc"
+            },
+            {
+              "doc_id": "9f615d5c-25f1-4367-957d-651ca0f0e509"
+            },
+            {
+              "doc_id": "a02a884c-6201-48d1-9c32-41082521202f"
+            },
+            {
+              "doc_id": "a9485530-47ec-4015-8f1f-55d0e9b989ec"
+            },
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            },
+            {
+              "doc_id": "b3d3c55b-fa5b-4527-8acd-a5afb7a51185"
+            },
+            {
+              "doc_id": "b504b32d-a69c-450a-ba32-ccb4ab00b08e"
+            },
+            {
+              "doc_id": "b626210a-b613-4e6b-9374-86da2b8da045"
+            },
+            {
+              "doc_id": "b74c6eb7-5d55-42c7-befd-947a6f54f390"
+            },
+            {
+              "doc_id": "bae5c479-6304-4c1b-acac-cc73a69e6239"
+            },
+            {
+              "doc_id": "be5579ea-f2ca-46f1-abe7-594668f08b49"
+            },
+            {
+              "doc_id": "bf7f55dc-0729-462f-b0af-e56d9ed85481"
+            },
+            {
+              "doc_id": "bfa1d1ba-da88-43df-a418-6886b78c3d26"
+            },
+            {
+              "doc_id": "ce1c8d5d-3d5f-45ad-b08d-dffa90a875bc"
+            },
+            {
+              "doc_id": "d15b4ea7-3327-4965-ae3a-c2ef78ff1fd6"
+            },
+            {
+              "doc_id": "d37e07d8-4c93-4558-8de3-99df79b27720"
+            },
+            {
+              "doc_id": "d5f260ed-9bd1-4710-8416-b06a31513f71"
+            },
+            {
+              "doc_id": "dc81477e-a776-494b-82e9-8a5d36f9dd75"
+            },
+            {
+              "doc_id": "def7a7f9-ba4a-4f0c-886f-54406d1e8c47"
+            },
+            {
+              "doc_id": "e277a850-ace0-40d5-a819-c7d66bbfc932"
+            },
+            {
+              "doc_id": "e2fc6044-c488-46f9-8874-e51ff483f75e"
+            },
+            {
+              "doc_id": "eb3f81be-e0e5-4cc7-b605-f73fb68c2101"
+            },
+            {
+              "doc_id": "ec8ad7cf-5e6f-4afa-a365-59999697e4e9"
+            },
+            {
+              "doc_id": "f631f219-52c6-414e-afaf-895f72e00e8e"
+            },
+            {
+              "doc_id": "f7e0619a-0976-4ef4-8be1-3c0d7e160feb"
+            },
+            {
+              "doc_id": "fb478520-5f0a-4fbd-849e-d761cfc2ce42"
+            },
+            {
+              "doc_id": "fdf4ec05-7ed3-4c30-9e01-3b95a7f3c239"
+            },
+            {
+              "doc_id": "ff43c890-0596-4c57-96f4-7bb2e0ea4628"
+            },
+            {
+              "doc_id": "ffefab1f-49a7-41fd-a142-f210631373e3"
+            }
+          ]
+        },
+        "food price increase": {
+          "answer": "food price increase",
+          "references": [
+            {
+              "doc_id": "04a0a930-ed60-4075-9112-0c176140ee21"
+            },
+            {
+              "doc_id": "2a1d31d3-cc93-4d55-9a93-f92b2237e08e"
+            },
+            {
+              "doc_id": "4ef33319-108b-4ffb-9b26-2717e27e90b3"
+            },
+            {
+              "doc_id": "5e66cefc-e16e-4d5b-802f-6a1a808fd8ed"
+            },
+            {
+              "doc_id": "615c8651-9929-4b6c-9d0f-85feb4e730ce"
+            },
+            {
+              "doc_id": "69321d44-2d80-42f7-88ce-849ef66a3bc9"
+            },
+            {
+              "doc_id": "79c893d7-b57a-42ce-832d-09215cd1e3ca"
+            },
+            {
+              "doc_id": "8c08b3aa-52f4-40b1-b178-274fa9239cbc"
+            },
+            {
+              "doc_id": "9f615d5c-25f1-4367-957d-651ca0f0e509"
+            },
+            {
+              "doc_id": "a9485530-47ec-4015-8f1f-55d0e9b989ec"
+            },
+            {
+              "doc_id": "bfa1d1ba-da88-43df-a418-6886b78c3d26"
+            },
+            {
+              "doc_id": "d15b4ea7-3327-4965-ae3a-c2ef78ff1fd6"
+            },
+            {
+              "doc_id": "fcc92acd-bb28-484f-ae17-c4d06bd11f78"
+            },
+            {
+              "doc_id": "fe89e534-9a9d-4211-a38b-b8d395732343"
+            },
+            {
+              "doc_id": "ff43c890-0596-4c57-96f4-7bb2e0ea4628"
+            }
+          ]
+        },
+        "drought": {
+          "answer": "drought",
+          "references": [
+            {
+              "doc_id": "0b72cd16-bee1-49d7-828b-dfdee7393e62"
+            },
+            {
+              "doc_id": "1b16ca2a-82b4-4301-a8d3-e215592150a0"
+            },
+            {
+              "doc_id": "1edcf180-5ab1-414c-9644-cbc49adb9278"
+            },
+            {
+              "doc_id": "38af1d5c-63ed-432d-b1e0-d57a347f6173"
+            },
+            {
+              "doc_id": "43fdc062-cc56-455c-bd78-6946b3bc8622"
+            },
+            {
+              "doc_id": "48c88008-343c-4701-a4ea-a5afba5392f0"
+            },
+            {
+              "doc_id": "48e8e0b8-d557-4bdb-9529-a343340127e1"
+            },
+            {
+              "doc_id": "689b34f2-1665-404e-919b-a931e7ba8f76"
+            },
+            {
+              "doc_id": "6b35fdf6-a742-4a77-a10e-6b2e06a3bbc8"
+            },
+            {
+              "doc_id": "73f9b3a5-6861-418d-92df-52fd3362fc4c"
+            },
+            {
+              "doc_id": "7978842c-7f0c-4c02-8cbe-90fd4d75cbdc"
+            },
+            {
+              "doc_id": "81f67d93-ff13-40a7-a3a1-b2067124972b"
+            },
+            {
+              "doc_id": "97c21319-c2e8-4097-af23-a8d491444245"
+            },
+            {
+              "doc_id": "988a3b40-147e-49ee-84a4-8ae51c441433"
+            },
+            {
+              "doc_id": "a4c865c5-25f4-4abd-969e-1b55eb615dd0"
+            },
+            {
+              "doc_id": "b09decd1-b81b-4bff-9a7e-e6cfe0e70e9b"
+            },
+            {
+              "doc_id": "befe1b05-2ab4-4198-833e-ea77a812d383"
+            },
+            {
+              "doc_id": "c8342f6f-3216-4c3e-8741-d58321727aee"
+            },
+            {
+              "doc_id": "ce8edeae-4263-4f4c-a7f0-f7fbfae19452"
+            },
+            {
+              "doc_id": "d2a7c6f0-ffcb-47a9-a779-2f9e88937011"
+            },
+            {
+              "doc_id": "d7feb2c0-2f70-4f94-934b-45143ea4deef"
+            },
+            {
+              "doc_id": "df1c3580-8eae-43bd-b5c8-d6a60c8065e2"
+            },
+            {
+              "doc_id": "ec9bdd12-faa1-404a-b34f-ade610f829b0"
+            },
+            {
+              "doc_id": "f037b554-a6c3-4ba0-b3b0-fffea920b4e2"
+            },
+            {
+              "doc_id": "f64d18ba-6251-49a1-bca2-daf40ecfcff7"
+            }
+          ]
+        },
+        "heat waves": {
+          "answer": "heat waves",
+          "references": [
+            {
+              "doc_id": "0b72cd16-bee1-49d7-828b-dfdee7393e62"
+            },
+            {
+              "doc_id": "0e7420f4-8ece-4801-9c96-896bcecdf56e"
+            },
+            {
+              "doc_id": "1edcf180-5ab1-414c-9644-cbc49adb9278"
+            },
+            {
+              "doc_id": "48c88008-343c-4701-a4ea-a5afba5392f0"
+            },
+            {
+              "doc_id": "7978842c-7f0c-4c02-8cbe-90fd4d75cbdc"
+            },
+            {
+              "doc_id": "befe1b05-2ab4-4198-833e-ea77a812d383"
+            },
+            {
+              "doc_id": "ec9bdd12-faa1-404a-b34f-ade610f829b0"
+            },
+            {
+              "doc_id": "f037b554-a6c3-4ba0-b3b0-fffea920b4e2"
+            }
+          ]
+        },
+        "dust storms": {
+          "answer": "dust storms",
+          "references": [
+            {
+              "doc_id": "0b72cd16-bee1-49d7-828b-dfdee7393e62"
+            },
+            {
+              "doc_id": "1b16ca2a-82b4-4301-a8d3-e215592150a0"
+            },
+            {
+              "doc_id": "1b54599c-2f12-4a63-a448-3974c23d58ac"
+            },
+            {
+              "doc_id": "1edcf180-5ab1-414c-9644-cbc49adb9278"
+            },
+            {
+              "doc_id": "48c88008-343c-4701-a4ea-a5afba5392f0"
+            },
+            {
+              "doc_id": "81f67d93-ff13-40a7-a3a1-b2067124972b"
+            },
+            {
+              "doc_id": "b09decd1-b81b-4bff-9a7e-e6cfe0e70e9b"
+            },
+            {
+              "doc_id": "c8342f6f-3216-4c3e-8741-d58321727aee"
+            },
+            {
+              "doc_id": "d2a7c6f0-ffcb-47a9-a779-2f9e88937011"
+            },
+            {
+              "doc_id": "f037b554-a6c3-4ba0-b3b0-fffea920b4e2"
+            }
+          ]
+        },
+        "fires": {
+          "answer": "fires",
+          "references": [
+            {
+              "doc_id": "0b72cd16-bee1-49d7-828b-dfdee7393e62"
+            },
+            {
+              "doc_id": "1c3b3767-db2a-4313-9000-a7e841198b0f"
+            },
+            {
+              "doc_id": "1edcf180-5ab1-414c-9644-cbc49adb9278"
+            },
+            {
+              "doc_id": "48e8e0b8-d557-4bdb-9529-a343340127e1"
+            },
+            {
+              "doc_id": "a4c865c5-25f4-4abd-969e-1b55eb615dd0"
+            },
+            {
+              "doc_id": "c8342f6f-3216-4c3e-8741-d58321727aee"
+            },
+            {
+              "doc_id": "f037b554-a6c3-4ba0-b3b0-fffea920b4e2"
+            }
+          ]
+        },
+        "permafrost thawing": {
+          "answer": "permafrost thawing",
+          "references": [
+            {
+              "doc_id": "0b72cd16-bee1-49d7-828b-dfdee7393e62"
+            }
+          ]
+        },
+        "floods": {
+          "answer": "floods",
+          "references": [
+            {
+              "doc_id": "1b16ca2a-82b4-4301-a8d3-e215592150a0"
+            },
+            {
+              "doc_id": "1c3b3767-db2a-4313-9000-a7e841198b0f"
+            },
+            {
+              "doc_id": "48e8e0b8-d557-4bdb-9529-a343340127e1"
+            },
+            {
+              "doc_id": "689b34f2-1665-404e-919b-a931e7ba8f76"
+            },
+            {
+              "doc_id": "73a82d1f-bbba-46bc-a9ca-c1d085bb7cfa"
+            },
+            {
+              "doc_id": "73f9b3a5-6861-418d-92df-52fd3362fc4c"
+            },
+            {
+              "doc_id": "81f67d93-ff13-40a7-a3a1-b2067124972b"
+            },
+            {
+              "doc_id": "97c21319-c2e8-4097-af23-a8d491444245"
+            },
+            {
+              "doc_id": "988a3b40-147e-49ee-84a4-8ae51c441433"
+            },
+            {
+              "doc_id": "a4c865c5-25f4-4abd-969e-1b55eb615dd0"
+            },
+            {
+              "doc_id": "befe1b05-2ab4-4198-833e-ea77a812d383"
+            },
+            {
+              "doc_id": "c8342f6f-3216-4c3e-8741-d58321727aee"
+            },
+            {
+              "doc_id": "ce8edeae-4263-4f4c-a7f0-f7fbfae19452"
+            },
+            {
+              "doc_id": "d2a7c6f0-ffcb-47a9-a779-2f9e88937011"
+            },
+            {
+              "doc_id": "e3467de5-50aa-4d06-b289-a35600bbadfd"
+            },
+            {
+              "doc_id": "f037b554-a6c3-4ba0-b3b0-fffea920b4e2"
+            },
+            {
+              "doc_id": "f64d18ba-6251-49a1-bca2-daf40ecfcff7"
+            }
+          ]
+        },
+        "desertification": {
+          "answer": "desertification",
+          "references": [
+            {
+              "doc_id": "0b72cd16-bee1-49d7-828b-dfdee7393e62"
+            },
+            {
+              "doc_id": "1b16ca2a-82b4-4301-a8d3-e215592150a0"
+            },
+            {
+              "doc_id": "48c88008-343c-4701-a4ea-a5afba5392f0"
+            },
+            {
+              "doc_id": "7d9326f6-23b7-48c2-9fb3-1f7f3765d8d8"
+            },
+            {
+              "doc_id": "9702fb63-78ae-4990-b6d8-ed1fe4aa61d6"
+            },
+            {
+              "doc_id": "a548a9eb-6840-4375-8c64-5392b68a547f"
+            },
+            {
+              "doc_id": "c8342f6f-3216-4c3e-8741-d58321727aee"
+            }
+          ]
+        },
+        "land subsidence": {
+          "answer": "land subsidence",
+          "references": [
+            {
+              "doc_id": "1b16ca2a-82b4-4301-a8d3-e215592150a0"
+            }
+          ]
+        },
+        "strong storms": {
+          "answer": "strong storms",
+          "references": [
+            {
+              "doc_id": "1b16ca2a-82b4-4301-a8d3-e215592150a0"
+            },
+            {
+              "doc_id": "1c3b3767-db2a-4313-9000-a7e841198b0f"
+            },
+            {
+              "doc_id": "1edcf180-5ab1-414c-9644-cbc49adb9278"
+            },
+            {
+              "doc_id": "7978842c-7f0c-4c02-8cbe-90fd4d75cbdc"
+            },
+            {
+              "doc_id": "81f67d93-ff13-40a7-a3a1-b2067124972b"
+            },
+            {
+              "doc_id": "988a3b40-147e-49ee-84a4-8ae51c441433"
+            },
+            {
+              "doc_id": "a4c865c5-25f4-4abd-969e-1b55eb615dd0"
+            },
+            {
+              "doc_id": "befe1b05-2ab4-4198-833e-ea77a812d383"
+            },
+            {
+              "doc_id": "e3467de5-50aa-4d06-b289-a35600bbadfd"
+            },
+            {
+              "doc_id": "ec9bdd12-faa1-404a-b34f-ade610f829b0"
+            },
+            {
+              "doc_id": "f64d18ba-6251-49a1-bca2-daf40ecfcff7"
+            }
+          ]
+        },
+        "sea level rise": {
+          "answer": "sea level rise",
+          "references": [
+            {
+              "doc_id": "1edcf180-5ab1-414c-9644-cbc49adb9278"
+            },
+            {
+              "doc_id": "7978842c-7f0c-4c02-8cbe-90fd4d75cbdc"
+            },
+            {
+              "doc_id": "befe1b05-2ab4-4198-833e-ea77a812d383"
+            },
+            {
+              "doc_id": "cec82f3d-ab8f-4d21-8051-58697a05b87b"
+            },
+            {
+              "doc_id": "ec9bdd12-faa1-404a-b34f-ade610f829b0"
+            },
+            {
+              "doc_id": "f037b554-a6c3-4ba0-b3b0-fffea920b4e2"
+            }
+          ]
+        },
+        "extreme weather": {
+          "answer": "extreme weather",
+          "references": [
+            {
+              "doc_id": "38af1d5c-63ed-432d-b1e0-d57a347f6173"
+            },
+            {
+              "doc_id": "befe1b05-2ab4-4198-833e-ea77a812d383"
+            },
+            {
+              "doc_id": "f64d18ba-6251-49a1-bca2-daf40ecfcff7"
+            }
+          ]
+        },
+        "landslide": {
+          "answer": "landslide",
+          "references": [
+            {
+              "doc_id": "48e8e0b8-d557-4bdb-9529-a343340127e1"
+            },
+            {
+              "doc_id": "e3467de5-50aa-4d06-b289-a35600bbadfd"
+            }
+          ]
+        },
+        "decreased food security": {
+          "answer": "decreased food security",
+          "references": [
+            {
+              "doc_id": "48e8e0b8-d557-4bdb-9529-a343340127e1"
+            }
+          ]
+        },
+        "thunderstorms": {
+          "answer": "thunderstorms",
+          "references": [
+            {
+              "doc_id": "7978842c-7f0c-4c02-8cbe-90fd4d75cbdc"
+            }
+          ]
+        },
+        "awakening of microbes": {
+          "answer": "awakening of microbes",
+          "references": [
+            {
+              "doc_id": "7978842c-7f0c-4c02-8cbe-90fd4d75cbdc"
+            }
+          ]
+        },
+        "soil erosion": {
+          "answer": "soil erosion",
+          "references": [
+            {
+              "doc_id": "0b72cd16-bee1-49d7-828b-dfdee7393e62"
+            },
+            {
+              "doc_id": "7d9326f6-23b7-48c2-9fb3-1f7f3765d8d8"
+            },
+            {
+              "doc_id": "8973d6cd-8e11-4ba7-8096-34dcc0e122d6"
+            },
+            {
+              "doc_id": "a9485530-47ec-4015-8f1f-55d0e9b989ec"
+            },
+            {
+              "doc_id": "c8342f6f-3216-4c3e-8741-d58321727aee"
+            },
+            {
+              "doc_id": "d5f260ed-9bd1-4710-8416-b06a31513f71"
+            },
+            {
+              "doc_id": "f037b554-a6c3-4ba0-b3b0-fffea920b4e2"
+            }
+          ]
+        },
+        "coral bleaching": {
+          "answer": "coral bleaching",
+          "references": [
+            {
+              "doc_id": "cec82f3d-ab8f-4d21-8051-58697a05b87b"
+            }
+          ]
+        },
+        "increased insect pest activity": {
+          "answer": "increased insect pest activity",
+          "references": [
+            {
+              "doc_id": "6eed9007-a50a-482d-a6af-8fcf187e2486"
+            },
+            {
+              "doc_id": "b74c6eb7-5d55-42c7-befd-947a6f54f390"
+            },
+            {
+              "doc_id": "c850a725-8ad4-4416-8d09-17d79155bb96"
+            },
+            {
+              "doc_id": "e0c8337a-d56b-4f0d-8e65-b8d1881661f7"
+            }
+          ]
+        },
+        "decreasing protein content": {
+          "answer": "decreasing protein content",
+          "references": [
+            {
+              "doc_id": "7e3f4400-9f1c-4c47-b07d-f2a9d9291720"
+            },
+            {
+              "doc_id": "9acad9b2-a56e-4e58-9f22-a50f0ea44d37"
+            }
+          ]
+        },
+        "decreased agricultural productivity": {
+          "answer": "decreased agricultural productivity",
+          "references": [
+            {
+              "doc_id": "8afc03fc-49e2-488c-82e3-b437e51be5fd"
+            },
+            {
+              "doc_id": "9acad9b2-a56e-4e58-9f22-a50f0ea44d37"
+            },
+            {
+              "doc_id": "9f615d5c-25f1-4367-957d-651ca0f0e509"
+            },
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            },
+            {
+              "doc_id": "b626210a-b613-4e6b-9374-86da2b8da045"
+            },
+            {
+              "doc_id": "bac9de77-8cd0-46fe-b09a-8b756edbdcec"
+            },
+            {
+              "doc_id": "bae5c479-6304-4c1b-acac-cc73a69e6239"
+            },
+            {
+              "doc_id": "bf7f55dc-0729-462f-b0af-e56d9ed85481"
+            },
+            {
+              "doc_id": "bfa1d1ba-da88-43df-a418-6886b78c3d26"
+            },
+            {
+              "doc_id": "ce1c8d5d-3d5f-45ad-b08d-dffa90a875bc"
+            },
+            {
+              "doc_id": "d15b4ea7-3327-4965-ae3a-c2ef78ff1fd6"
+            },
+            {
+              "doc_id": "d37e07d8-4c93-4558-8de3-99df79b27720"
+            },
+            {
+              "doc_id": "e0c8337a-d56b-4f0d-8e65-b8d1881661f7"
+            },
+            {
+              "doc_id": "e2fc6044-c488-46f9-8874-e51ff483f75e"
+            },
+            {
+              "doc_id": "e8246944-602a-40a0-ab1d-9dd12d05a509"
+            },
+            {
+              "doc_id": "f00d1496-353e-407b-b13a-b71893ace576"
+            },
+            {
+              "doc_id": "f631f219-52c6-414e-afaf-895f72e00e8e"
+            },
+            {
+              "doc_id": "f7e0619a-0976-4ef4-8be1-3c0d7e160feb"
+            },
+            {
+              "doc_id": "f9ac7414-0e1a-4f82-b417-d98ed09a6c82"
+            },
+            {
+              "doc_id": "fcc92acd-bb28-484f-ae17-c4d06bd11f78"
+            },
+            {
+              "doc_id": "ff43c890-0596-4c57-96f4-7bb2e0ea4628"
+            }
+          ]
+        },
+        "Will lead to a decrease in the crops like rice and wheat": {
+          "answer": "Will lead to a decrease in the crops like rice and wheat",
+          "references": [
+            {
+              "doc_id": "02722a2f-2bc8-423b-9f03-0dc3e516e86c"
+            },
+            {
+              "doc_id": "04a0a930-ed60-4075-9112-0c176140ee21"
+            },
+            {
+              "doc_id": "30392f95-4ef3-4b8b-a179-601f1a37e9c5"
+            },
+            {
+              "doc_id": "fe89e534-9a9d-4211-a38b-b8d395732343"
+            }
+          ]
+        },
+        "Bear consumption will decrease": {
+          "answer": "Bear consumption will decrease",
+          "references": []
+        },
+        "Flooding in coastal areas": {
+          "answer": "Flooding in coastal areas",
+          "references": [
+            {
+              "doc_id": "04a0a930-ed60-4075-9112-0c176140ee21"
+            },
+            {
+              "doc_id": "fe89e534-9a9d-4211-a38b-b8d395732343"
+            }
+          ]
+        },
+        "More wild fire": {
+          "answer": "More wild fire",
+          "references": [
+            {
+              "doc_id": "04a0a930-ed60-4075-9112-0c176140ee21"
+            },
+            {
+              "doc_id": "742ca6bf-0cdb-4f98-bacf-8e86b40d713e"
+            },
+            {
+              "doc_id": "dc81477e-a776-494b-82e9-8a5d36f9dd75"
+            }
+          ]
+        },
+        "More jaze weather": {
+          "answer": "More jaze weather",
+          "references": []
+        },
+        "More haze weather": {
+          "answer": "More haze weather",
+          "references": [
+            {
+              "doc_id": "04a0a930-ed60-4075-9112-0c176140ee21"
+            }
+          ]
+        },
+        "More flooding": {
+          "answer": "More flooding",
+          "references": [
+            {
+              "doc_id": "04a0a930-ed60-4075-9112-0c176140ee21"
+            },
+            {
+              "doc_id": "0659cf43-e7d9-44c5-aea5-656ca872161c"
+            },
+            {
+              "doc_id": "0863da07-340f-405d-961a-8caf4132a450"
+            },
+            {
+              "doc_id": "30392f95-4ef3-4b8b-a179-601f1a37e9c5"
+            },
+            {
+              "doc_id": "429ab3a2-5ebf-4f7e-b46c-347d44cf5606"
+            },
+            {
+              "doc_id": "64a2aa0e-767a-430a-baa4-608257ae65c9"
+            },
+            {
+              "doc_id": "742ca6bf-0cdb-4f98-bacf-8e86b40d713e"
+            },
+            {
+              "doc_id": "7621fb76-8a36-4909-b9e2-f9d82ae77a35"
+            },
+            {
+              "doc_id": "79c893d7-b57a-42ce-832d-09215cd1e3ca"
+            },
+            {
+              "doc_id": "7d9326f6-23b7-48c2-9fb3-1f7f3765d8d8"
+            },
+            {
+              "doc_id": "7fe9d4cf-42dc-464c-bb12-fdbdb3468f47"
+            },
+            {
+              "doc_id": "80ddca5b-3a5c-494f-aee8-9fecac106a8f"
+            },
+            {
+              "doc_id": "8973d6cd-8e11-4ba7-8096-34dcc0e122d6"
+            },
+            {
+              "doc_id": "8c08b3aa-52f4-40b1-b178-274fa9239cbc"
+            },
+            {
+              "doc_id": "a02a884c-6201-48d1-9c32-41082521202f"
+            },
+            {
+              "doc_id": "a9485530-47ec-4015-8f1f-55d0e9b989ec"
+            },
+            {
+              "doc_id": "ae2c71ff-eb9f-4a26-ba7e-94379019d8a0"
+            },
+            {
+              "doc_id": "d5f260ed-9bd1-4710-8416-b06a31513f71"
+            },
+            {
+              "doc_id": "dc81477e-a776-494b-82e9-8a5d36f9dd75"
+            },
+            {
+              "doc_id": "def7a7f9-ba4a-4f0c-886f-54406d1e8c47"
+            }
+          ]
+        },
+        "deforest": {
+          "answer": "deforest",
+          "references": [
+            {
+              "doc_id": "0659cf43-e7d9-44c5-aea5-656ca872161c"
+            }
+          ]
+        },
+        "more drought": {
+          "answer": "more drought",
+          "references": [
+            {
+              "doc_id": "0863da07-340f-405d-961a-8caf4132a450"
+            },
+            {
+              "doc_id": "14f5f238-b46b-484e-b16a-9b44d6e7e5cf"
+            },
+            {
+              "doc_id": "18a61dcb-9ec4-4503-995a-f8079898fb86"
+            },
+            {
+              "doc_id": "30392f95-4ef3-4b8b-a179-601f1a37e9c5"
+            },
+            {
+              "doc_id": "39433c58-9d9d-4c5e-9c80-7755c3d8c419"
+            },
+            {
+              "doc_id": "3b55f9e8-db6f-49a9-97df-907971c51970"
+            },
+            {
+              "doc_id": "3e6addc3-09e7-4df3-9915-4736c228f624"
+            },
+            {
+              "doc_id": "742ca6bf-0cdb-4f98-bacf-8e86b40d713e"
+            },
+            {
+              "doc_id": "7621fb76-8a36-4909-b9e2-f9d82ae77a35"
+            },
+            {
+              "doc_id": "79c893d7-b57a-42ce-832d-09215cd1e3ca"
+            },
+            {
+              "doc_id": "7d9326f6-23b7-48c2-9fb3-1f7f3765d8d8"
+            },
+            {
+              "doc_id": "80ddca5b-3a5c-494f-aee8-9fecac106a8f"
+            },
+            {
+              "doc_id": "8f5d54f9-8427-4d2d-a947-f3ac098144fb"
+            },
+            {
+              "doc_id": "a9485530-47ec-4015-8f1f-55d0e9b989ec"
+            },
+            {
+              "doc_id": "ae2c71ff-eb9f-4a26-ba7e-94379019d8a0"
+            },
+            {
+              "doc_id": "d478b4d0-a8e6-4025-a0ea-c098dd8ec161"
+            },
+            {
+              "doc_id": "d5f260ed-9bd1-4710-8416-b06a31513f71"
+            },
+            {
+              "doc_id": "dc81477e-a776-494b-82e9-8a5d36f9dd75"
+            },
+            {
+              "doc_id": "f0a78691-b1fd-4b73-9822-91345a5ae246"
+            },
+            {
+              "doc_id": "fe89e534-9a9d-4211-a38b-b8d395732343"
+            }
+          ]
+        },
+        "decrease of beer consumption": {
+          "answer": "decrease of beer consumption",
+          "references": [
+            {
+              "doc_id": "04a0a930-ed60-4075-9112-0c176140ee21"
+            }
+          ]
+        },
+        "decrease of nutritional content of crops": {
+          "answer": "decrease of nutritional content of crops",
+          "references": [
+            {
+              "doc_id": "02722a2f-2bc8-423b-9f03-0dc3e516e86c"
+            },
+            {
+              "doc_id": "09950abd-9e47-4dcc-959f-ccb7848aba2d"
+            },
+            {
+              "doc_id": "3b55f9e8-db6f-49a9-97df-907971c51970"
+            },
+            {
+              "doc_id": "3e6addc3-09e7-4df3-9915-4736c228f624"
+            },
+            {
+              "doc_id": "a9485530-47ec-4015-8f1f-55d0e9b989ec"
+            }
+          ]
+        },
+        "More crop diseases": {
+          "answer": "More crop diseases",
+          "references": [
+            {
+              "doc_id": "14f5f238-b46b-484e-b16a-9b44d6e7e5cf"
+            },
+            {
+              "doc_id": "19cf5a8f-d23b-4960-83dd-f4bc93f025fa"
+            },
+            {
+              "doc_id": "3b55f9e8-db6f-49a9-97df-907971c51970"
+            },
+            {
+              "doc_id": "a9485530-47ec-4015-8f1f-55d0e9b989ec"
+            }
+          ]
+        },
+        "Decrease of corn yield": {
+          "answer": "Decrease of corn yield",
+          "references": [
+            {
+              "doc_id": "37d8e912-d282-4aec-b97c-c1b54b636214"
+            },
+            {
+              "doc_id": "3b55f9e8-db6f-49a9-97df-907971c51970"
+            }
+          ]
+        },
+        "Decrease of soybean yield": {
+          "answer": "Decrease of soybean yield",
+          "references": [
+            {
+              "doc_id": "37d8e912-d282-4aec-b97c-c1b54b636214"
+            }
+          ]
+        },
+        "Decrease of output of dairy products": {
+          "answer": "Decrease of output of dairy products",
+          "references": [
+            {
+              "doc_id": "37d8e912-d282-4aec-b97c-c1b54b636214"
+            }
+          ]
+        },
+        "Water shortage as a consequence threatens 40% of irrigated crops in 20 years": {
+          "answer": "Water shortage as a consequence threatens 40% of irrigated crops in 20 years",
+          "references": [
+            {
+              "doc_id": "39433c58-9d9d-4c5e-9c80-7755c3d8c419"
+            }
+          ]
+        },
+        "malnutrition": {
+          "answer": "malnutrition",
+          "references": [
+            {
+              "doc_id": "3e6addc3-09e7-4df3-9915-4736c228f624"
+            }
+          ]
+        },
+        "plague": {
+          "answer": "plague",
+          "references": [
+            {
+              "doc_id": "3e6addc3-09e7-4df3-9915-4736c228f624"
+            }
+          ]
+        },
+        "Food security is treatened": {
+          "answer": "Food security is treatened",
+          "references": []
+        },
+        "Food security is threatened": {
+          "answer": "Food security is threatened",
+          "references": [
+            {
+              "doc_id": "43adee86-232e-4804-adcc-0832045f36a1"
+            },
+            {
+              "doc_id": "4573b94e-3a08-4286-96ad-b68d6f72c869"
+            },
+            {
+              "doc_id": "5fc44c0f-e02a-4e63-a7e1-5d0e7d2d81e0"
+            },
+            {
+              "doc_id": "707f661e-512e-41f8-9bb8-a50b20630c47"
+            },
+            {
+              "doc_id": "a9485530-47ec-4015-8f1f-55d0e9b989ec"
+            }
+          ]
+        },
+        "Human health and housing face threats": {
+          "answer": "Human health and housing face threats",
+          "references": [
+            {
+              "doc_id": "4573b94e-3a08-4286-96ad-b68d6f72c869"
+            },
+            {
+              "doc_id": "a9485530-47ec-4015-8f1f-55d0e9b989ec"
+            }
+          ]
+        },
+        "growing season is brought forward, putting crops at higher risk of cold damage": {
+          "answer": "growing season is brought forward, putting crops at higher risk of cold damage",
+          "references": [
+            {
+              "doc_id": "6bd46ff0-4387-4029-9133-aafa4191c460"
+            }
+          ]
+        },
+        "super hurricane": {
+          "answer": "super hurricane",
+          "references": [
+            {
+              "doc_id": "742ca6bf-0cdb-4f98-bacf-8e86b40d713e"
+            },
+            {
+              "doc_id": "def7a7f9-ba4a-4f0c-886f-54406d1e8c47"
+            }
+          ]
+        },
+        "reduce fruit and vegetable production ": {
+          "answer": "reduce fruit and vegetable production ",
+          "references": []
+        },
+        "reduce fruit and vegetable yields in southern part of globe": {
+          "answer": "reduce fruit and vegetable yields in southern part of globe",
+          "references": [
+            {
+              "doc_id": "77d10211-e387-44af-a296-a9501939212e"
+            }
+          ]
+        },
+        "crop yields on in temperate zones will increase ": {
+          "answer": "crop yields on in temperate zones will increase ",
+          "references": [
+            {
+              "doc_id": "77d10211-e387-44af-a296-a9501939212e"
+            }
+          ]
+        },
+        "more high temperature weather": {
+          "answer": "more high temperature weather",
+          "references": [
+            {
+              "doc_id": "80ddca5b-3a5c-494f-aee8-9fecac106a8f"
+            },
+            {
+              "doc_id": "8c08b3aa-52f4-40b1-b178-274fa9239cbc"
+            },
+            {
+              "doc_id": "8e08f546-40be-4109-b411-52da771f5494"
+            },
+            {
+              "doc_id": "8f5d54f9-8427-4d2d-a947-f3ac098144fb"
+            },
+            {
+              "doc_id": "95303b40-cf25-4c43-a77d-7da5fac55ee8"
+            },
+            {
+              "doc_id": "ae2c71ff-eb9f-4a26-ba7e-94379019d8a0"
+            },
+            {
+              "doc_id": "d5f260ed-9bd1-4710-8416-b06a31513f71"
+            },
+            {
+              "doc_id": "dc81477e-a776-494b-82e9-8a5d36f9dd75"
+            },
+            {
+              "doc_id": "e10f326a-d70a-4da5-9301-00fc2f3e0a39"
+            },
+            {
+              "doc_id": "eb6fee39-c36b-40b2-b312-342c53e28ba3"
+            }
+          ]
+        },
+        "Spring and Autumn will disappear": {
+          "answer": "Spring and Autumn will disappear",
+          "references": [
+            {
+              "doc_id": "964841d5-7c26-4f30-b772-ee56c64ce519"
+            }
+          ]
+        },
+        "Decline of productivity of fisheries ": {
+          "answer": "Decline of productivity of fisheries ",
+          "references": [
+            {
+              "doc_id": "d5f260ed-9bd1-4710-8416-b06a31513f71"
+            },
+            {
+              "doc_id": "fe89e534-9a9d-4211-a38b-b8d395732343"
+            }
+          ]
+        },
+        "Early frost": {
+          "answer": "Early frost",
+          "references": [
+            {
+              "doc_id": "dc81477e-a776-494b-82e9-8a5d36f9dd75"
+            }
+          ]
+        }
+      },
+      "question_id": "57946bde8e8780320cd41577dffac751",
+      "aggregator_type": "OR",
+      "query_id": "351",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.673719+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the negative impact of climate change on crop production?": {
+      "question": "What is the negative impact of climate change on crop production?",
+      "answers": {
+        "decreased yields": {
+          "answer": "decreased yields",
+          "references": [
+            {
+              "doc_id": "02722a2f-2bc8-423b-9f03-0dc3e516e86c"
+            },
+            {
+              "doc_id": "032f6666-be55-4b9d-97e0-9fa0a9747b83"
+            },
+            {
+              "doc_id": "04a0a930-ed60-4075-9112-0c176140ee21"
+            },
+            {
+              "doc_id": "0b598754-2779-4ebf-ab64-7dd2db956500"
+            },
+            {
+              "doc_id": "0c5bab51-cf02-4129-973b-e16f71c88cff"
+            },
+            {
+              "doc_id": "0e0396da-aa19-4e92-bb68-0950ba964a1a"
+            },
+            {
+              "doc_id": "0e4ce016-cb94-4539-8bc3-ccf3520184be"
+            },
+            {
+              "doc_id": "0e95d9e6-0392-4e8b-ad83-852096a5f184"
+            },
+            {
+              "doc_id": "110422a8-5ddd-44dc-802d-34ace1ba5352"
+            },
+            {
+              "doc_id": "14f5f238-b46b-484e-b16a-9b44d6e7e5cf"
+            },
+            {
+              "doc_id": "1559668b-0f03-4760-9156-5968833fa2f3"
+            },
+            {
+              "doc_id": "1762eb2b-c555-41dc-91a8-b201d2cc2e31"
+            },
+            {
+              "doc_id": "180b7c34-f321-4f9f-9bc5-c064187e8422"
+            },
+            {
+              "doc_id": "18a61dcb-9ec4-4503-995a-f8079898fb86"
+            },
+            {
+              "doc_id": "19cf5a8f-d23b-4960-83dd-f4bc93f025fa"
+            },
+            {
+              "doc_id": "1c7c68e4-b52b-4543-a8b0-33337b2f78cd"
+            },
+            {
+              "doc_id": "1d015461-09f9-4e16-9350-a8d28de9b222"
+            },
+            {
+              "doc_id": "1d5c736b-083a-42c0-a27c-6f57ca775bd2"
+            },
+            {
+              "doc_id": "1ef3353c-afd6-4fd0-9a30-f89f0bc97ea6"
+            },
+            {
+              "doc_id": "1f76e0fa-6c92-445d-86a6-e8e2016283ba"
+            },
+            {
+              "doc_id": "2045121a-28c9-4b45-a29c-c3b3bd578bf6"
+            },
+            {
+              "doc_id": "20add5c9-d887-4d1e-bd93-7de08d930203"
+            },
+            {
+              "doc_id": "28979f1e-c043-41e8-b38d-37dd4bb2167a"
+            },
+            {
+              "doc_id": "2a1d31d3-cc93-4d55-9a93-f92b2237e08e"
+            },
+            {
+              "doc_id": "2cce6059-4233-4e24-9fbf-3fb2987356d5"
+            },
+            {
+              "doc_id": "2ddee758-f9ae-4028-8f28-1f0103330d95"
+            },
+            {
+              "doc_id": "30392f95-4ef3-4b8b-a179-601f1a37e9c5"
+            },
+            {
+              "doc_id": "37d8e912-d282-4aec-b97c-c1b54b636214"
+            },
+            {
+              "doc_id": "3b55f9e8-db6f-49a9-97df-907971c51970"
+            },
+            {
+              "doc_id": "3e6addc3-09e7-4df3-9915-4736c228f624"
+            },
+            {
+              "doc_id": "4096b956-cf90-4cfd-b200-56192c06220e"
+            },
+            {
+              "doc_id": "43adee86-232e-4804-adcc-0832045f36a1"
+            },
+            {
+              "doc_id": "48b48e82-7849-45c4-bdcf-c105383c78b3"
+            },
+            {
+              "doc_id": "4ef33319-108b-4ffb-9b26-2717e27e90b3"
+            },
+            {
+              "doc_id": "52d37f4b-4a09-456c-be1f-376f4e26fcd0"
+            },
+            {
+              "doc_id": "53ef1fa2-e081-428d-bccc-72356929111f"
+            },
+            {
+              "doc_id": "55bf0777-1193-4cd6-a19f-1502db0f5378"
+            },
+            {
+              "doc_id": "57b09029-0fb7-4af4-8b6f-428e96211504"
+            },
+            {
+              "doc_id": "59d77602-fd8d-48f7-a888-6606dcb374f7"
+            },
+            {
+              "doc_id": "5d58d9f8-21cd-473d-a9a6-e927297065cc"
+            },
+            {
+              "doc_id": "5e66cefc-e16e-4d5b-802f-6a1a808fd8ed"
+            },
+            {
+              "doc_id": "63e4b639-4c2a-4c96-92b2-5b22f3da1494"
+            },
+            {
+              "doc_id": "69321d44-2d80-42f7-88ce-849ef66a3bc9"
+            },
+            {
+              "doc_id": "6bd46ff0-4387-4029-9133-aafa4191c460"
+            },
+            {
+              "doc_id": "6c3df17c-8e3a-4480-b676-3d2d0e9042c2"
+            },
+            {
+              "doc_id": "6d8f6ec9-e372-4b42-b5a8-50ab7c73ccc7"
+            },
+            {
+              "doc_id": "707f661e-512e-41f8-9bb8-a50b20630c47"
+            },
+            {
+              "doc_id": "7388431f-4d15-48cc-ac2d-b261ca2dee8c"
+            },
+            {
+              "doc_id": "73f9b3a5-6861-418d-92df-52fd3362fc4c"
+            },
+            {
+              "doc_id": "742ca6bf-0cdb-4f98-bacf-8e86b40d713e"
+            },
+            {
+              "doc_id": "7978842c-7f0c-4c02-8cbe-90fd4d75cbdc"
+            },
+            {
+              "doc_id": "79c893d7-b57a-42ce-832d-09215cd1e3ca"
+            },
+            {
+              "doc_id": "7e3f4400-9f1c-4c47-b07d-f2a9d9291720"
+            },
+            {
+              "doc_id": "8afc03fc-49e2-488c-82e3-b437e51be5fd"
+            },
+            {
+              "doc_id": "8f5d54f9-8427-4d2d-a947-f3ac098144fb"
+            },
+            {
+              "doc_id": "9f615d5c-25f1-4367-957d-651ca0f0e509"
+            },
+            {
+              "doc_id": "a4c865c5-25f4-4abd-969e-1b55eb615dd0"
+            },
+            {
+              "doc_id": "a548a9eb-6840-4375-8c64-5392b68a547f"
+            },
+            {
+              "doc_id": "a9485530-47ec-4015-8f1f-55d0e9b989ec"
+            },
+            {
+              "doc_id": "afa40ca1-54bf-4f3e-bacc-fd8dec6e3b3b"
+            },
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            },
+            {
+              "doc_id": "b626210a-b613-4e6b-9374-86da2b8da045"
+            },
+            {
+              "doc_id": "bac9de77-8cd0-46fe-b09a-8b756edbdcec"
+            },
+            {
+              "doc_id": "bae5c479-6304-4c1b-acac-cc73a69e6239"
+            },
+            {
+              "doc_id": "bf7f55dc-0729-462f-b0af-e56d9ed85481"
+            },
+            {
+              "doc_id": "bfa1d1ba-da88-43df-a418-6886b78c3d26"
+            },
+            {
+              "doc_id": "c850a725-8ad4-4416-8d09-17d79155bb96"
+            },
+            {
+              "doc_id": "ce1c8d5d-3d5f-45ad-b08d-dffa90a875bc"
+            },
+            {
+              "doc_id": "ce8edeae-4263-4f4c-a7f0-f7fbfae19452"
+            },
+            {
+              "doc_id": "d15b4ea7-3327-4965-ae3a-c2ef78ff1fd6"
+            },
+            {
+              "doc_id": "d196f40f-4fff-49f9-8df9-b54d9cf5101d"
+            },
+            {
+              "doc_id": "d37e07d8-4c93-4558-8de3-99df79b27720"
+            },
+            {
+              "doc_id": "d478b4d0-a8e6-4025-a0ea-c098dd8ec161"
+            },
+            {
+              "doc_id": "def7a7f9-ba4a-4f0c-886f-54406d1e8c47"
+            },
+            {
+              "doc_id": "e2fc6044-c488-46f9-8874-e51ff483f75e"
+            },
+            {
+              "doc_id": "e8246944-602a-40a0-ab1d-9dd12d05a509"
+            },
+            {
+              "doc_id": "eb6fee39-c36b-40b2-b312-342c53e28ba3"
+            },
+            {
+              "doc_id": "ebb1f5d2-0545-4278-977f-7e048603a772"
+            },
+            {
+              "doc_id": "f00d1496-353e-407b-b13a-b71893ace576"
+            },
+            {
+              "doc_id": "f631f219-52c6-414e-afaf-895f72e00e8e"
+            },
+            {
+              "doc_id": "f7e0619a-0976-4ef4-8be1-3c0d7e160feb"
+            },
+            {
+              "doc_id": "f9ac7414-0e1a-4f82-b417-d98ed09a6c82"
+            },
+            {
+              "doc_id": "fcc92acd-bb28-484f-ae17-c4d06bd11f78"
+            },
+            {
+              "doc_id": "ff43c890-0596-4c57-96f4-7bb2e0ea4628"
+            }
+          ]
+        },
+        "smaller fruits": {
+          "answer": "smaller fruits",
+          "references": [
+            {
+              "doc_id": "093fe696-d8cc-4301-af0a-c361a27b676d"
+            }
+          ]
+        },
+        "less fertile blooms": {
+          "answer": "less fertile blooms",
+          "references": [
+            {
+              "doc_id": "093fe696-d8cc-4301-af0a-c361a27b676d"
+            }
+          ]
+        },
+        "decreased pollination": {
+          "answer": "decreased pollination",
+          "references": [
+            {
+              "doc_id": "093fe696-d8cc-4301-af0a-c361a27b676d"
+            },
+            {
+              "doc_id": "48e8e0b8-d557-4bdb-9529-a343340127e1"
+            },
+            {
+              "doc_id": "81f67d93-ff13-40a7-a3a1-b2067124972b"
+            }
+          ]
+        },
+        "increased weeds": {
+          "answer": "increased weeds",
+          "references": [
+            {
+              "doc_id": "093fe696-d8cc-4301-af0a-c361a27b676d"
+            },
+            {
+              "doc_id": "48e8e0b8-d557-4bdb-9529-a343340127e1"
+            },
+            {
+              "doc_id": "81f67d93-ff13-40a7-a3a1-b2067124972b"
+            },
+            {
+              "doc_id": "d2a7c6f0-ffcb-47a9-a779-2f9e88937011"
+            }
+          ]
+        },
+        "increased pests": {
+          "answer": "increased pests",
+          "references": [
+            {
+              "doc_id": "48e8e0b8-d557-4bdb-9529-a343340127e1"
+            },
+            {
+              "doc_id": "81f67d93-ff13-40a7-a3a1-b2067124972b"
+            },
+            {
+              "doc_id": "c8342f6f-3216-4c3e-8741-d58321727aee"
+            },
+            {
+              "doc_id": "d2a7c6f0-ffcb-47a9-a779-2f9e88937011"
+            }
+          ]
+        },
+        "frost damage": {
+          "answer": "frost damage",
+          "references": [
+            {
+              "doc_id": "d196f40f-4fff-49f9-8df9-b54d9cf5101d"
+            },
+            {
+              "doc_id": "d7feb2c0-2f70-4f94-934b-45143ea4deef"
+            }
+          ]
+        },
+        "destroyed with drought": {
+          "answer": "destroyed with drought",
+          "references": [
+            {
+              "doc_id": "d7feb2c0-2f70-4f94-934b-45143ea4deef"
+            }
+          ]
+        },
+        "Reduce the yields of vegetables high temperature resistant crops": {
+          "answer": "Reduce the yields of vegetables high temperature resistant crops",
+          "references": [
+            {
+              "doc_id": "95303b40-cf25-4c43-a77d-7da5fac55ee8"
+            }
+          ]
+        },
+        "Cause serious damage": {
+          "answer": "Cause serious damage",
+          "references": [
+            {
+              "doc_id": "964841d5-7c26-4f30-b772-ee56c64ce519"
+            }
+          ]
+        },
+        "decline of farmland quality ": {
+          "answer": "decline of farmland quality ",
+          "references": [
+            {
+              "doc_id": "9702fb63-78ae-4990-b6d8-ed1fe4aa61d6"
+            },
+            {
+              "doc_id": "a9485530-47ec-4015-8f1f-55d0e9b989ec"
+            }
+          ]
+        }
+      },
+      "question_id": "56ab1484fa5470e1142177b465a9ca28",
+      "aggregator_type": "OR",
+      "query_id": "351",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.674036+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What crops could be negatively impacted due to climate change?": {
+      "question": "What crops could be negatively impacted due to climate change?",
+      "answers": {
+        "soybeans": {
+          "answer": "soybeans",
+          "references": [
+            {
+              "doc_id": "0e0396da-aa19-4e92-bb68-0950ba964a1a"
+            },
+            {
+              "doc_id": "0e4ce016-cb94-4539-8bc3-ccf3520184be"
+            },
+            {
+              "doc_id": "1f76e0fa-6c92-445d-86a6-e8e2016283ba"
+            },
+            {
+              "doc_id": "37d8e912-d282-4aec-b97c-c1b54b636214"
+            },
+            {
+              "doc_id": "48b48e82-7849-45c4-bdcf-c105383c78b3"
+            },
+            {
+              "doc_id": "52d37f4b-4a09-456c-be1f-376f4e26fcd0"
+            },
+            {
+              "doc_id": "ebb1f5d2-0545-4278-977f-7e048603a772"
+            }
+          ]
+        },
+        "palm oil": {
+          "answer": "palm oil",
+          "references": [
+            {
+              "doc_id": "0e0396da-aa19-4e92-bb68-0950ba964a1a"
+            }
+          ]
+        },
+        "cocoa bean": {
+          "answer": "cocoa bean",
+          "references": [
+            {
+              "doc_id": "0e0396da-aa19-4e92-bb68-0950ba964a1a"
+            },
+            {
+              "doc_id": "1c7c68e4-b52b-4543-a8b0-33337b2f78cd"
+            },
+            {
+              "doc_id": "2a1d31d3-cc93-4d55-9a93-f92b2237e08e"
+            },
+            {
+              "doc_id": "48b48e82-7849-45c4-bdcf-c105383c78b3"
+            },
+            {
+              "doc_id": "84be0282-32fa-4f79-8678-95ca6942d25b"
+            }
+          ]
+        },
+        "corn": {
+          "answer": "corn",
+          "references": [
+            {
+              "doc_id": "02722a2f-2bc8-423b-9f03-0dc3e516e86c"
+            },
+            {
+              "doc_id": "032f6666-be55-4b9d-97e0-9fa0a9747b83"
+            },
+            {
+              "doc_id": "04a0a930-ed60-4075-9112-0c176140ee21"
+            },
+            {
+              "doc_id": "0b598754-2779-4ebf-ab64-7dd2db956500"
+            },
+            {
+              "doc_id": "0e4ce016-cb94-4539-8bc3-ccf3520184be"
+            },
+            {
+              "doc_id": "20add5c9-d887-4d1e-bd93-7de08d930203"
+            },
+            {
+              "doc_id": "37d8e912-d282-4aec-b97c-c1b54b636214"
+            },
+            {
+              "doc_id": "39433c58-9d9d-4c5e-9c80-7755c3d8c419"
+            },
+            {
+              "doc_id": "3b55f9e8-db6f-49a9-97df-907971c51970"
+            },
+            {
+              "doc_id": "3e6addc3-09e7-4df3-9915-4736c228f624"
+            },
+            {
+              "doc_id": "4573b94e-3a08-4286-96ad-b68d6f72c869"
+            },
+            {
+              "doc_id": "4ef33319-108b-4ffb-9b26-2717e27e90b3"
+            },
+            {
+              "doc_id": "52d37f4b-4a09-456c-be1f-376f4e26fcd0"
+            },
+            {
+              "doc_id": "59d77602-fd8d-48f7-a888-6606dcb374f7"
+            },
+            {
+              "doc_id": "6eed9007-a50a-482d-a6af-8fcf187e2486"
+            },
+            {
+              "doc_id": "95303b40-cf25-4c43-a77d-7da5fac55ee8"
+            },
+            {
+              "doc_id": "b3d3c55b-fa5b-4527-8acd-a5afb7a51185"
+            },
+            {
+              "doc_id": "c850a725-8ad4-4416-8d09-17d79155bb96"
+            },
+            {
+              "doc_id": "d478b4d0-a8e6-4025-a0ea-c098dd8ec161"
+            },
+            {
+              "doc_id": "e79dce48-4504-4ced-814d-246a4bab4368"
+            },
+            {
+              "doc_id": "ebb1f5d2-0545-4278-977f-7e048603a772"
+            }
+          ]
+        },
+        "wheat": {
+          "answer": "wheat",
+          "references": [
+            {
+              "doc_id": "02722a2f-2bc8-423b-9f03-0dc3e516e86c"
+            },
+            {
+              "doc_id": "032f6666-be55-4b9d-97e0-9fa0a9747b83"
+            },
+            {
+              "doc_id": "04a0a930-ed60-4075-9112-0c176140ee21"
+            },
+            {
+              "doc_id": "0b598754-2779-4ebf-ab64-7dd2db956500"
+            },
+            {
+              "doc_id": "1f76e0fa-6c92-445d-86a6-e8e2016283ba"
+            },
+            {
+              "doc_id": "20add5c9-d887-4d1e-bd93-7de08d930203"
+            },
+            {
+              "doc_id": "30392f95-4ef3-4b8b-a179-601f1a37e9c5"
+            },
+            {
+              "doc_id": "39433c58-9d9d-4c5e-9c80-7755c3d8c419"
+            },
+            {
+              "doc_id": "3b55f9e8-db6f-49a9-97df-907971c51970"
+            },
+            {
+              "doc_id": "3e6addc3-09e7-4df3-9915-4736c228f624"
+            },
+            {
+              "doc_id": "43fdc062-cc56-455c-bd78-6946b3bc8622"
+            },
+            {
+              "doc_id": "4573b94e-3a08-4286-96ad-b68d6f72c869"
+            },
+            {
+              "doc_id": "4ef33319-108b-4ffb-9b26-2717e27e90b3"
+            },
+            {
+              "doc_id": "59d77602-fd8d-48f7-a888-6606dcb374f7"
+            },
+            {
+              "doc_id": "5d58d9f8-21cd-473d-a9a6-e927297065cc"
+            },
+            {
+              "doc_id": "5e66cefc-e16e-4d5b-802f-6a1a808fd8ed"
+            },
+            {
+              "doc_id": "615c8651-9929-4b6c-9d0f-85feb4e730ce"
+            },
+            {
+              "doc_id": "6eed9007-a50a-482d-a6af-8fcf187e2486"
+            },
+            {
+              "doc_id": "7e3f4400-9f1c-4c47-b07d-f2a9d9291720"
+            },
+            {
+              "doc_id": "9acad9b2-a56e-4e58-9f22-a50f0ea44d37"
+            },
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            },
+            {
+              "doc_id": "c850a725-8ad4-4416-8d09-17d79155bb96"
+            },
+            {
+              "doc_id": "e2fc6044-c488-46f9-8874-e51ff483f75e"
+            },
+            {
+              "doc_id": "e6c9d496-3dc2-4c3b-af00-8a43b501f38a"
+            },
+            {
+              "doc_id": "e79dce48-4504-4ced-814d-246a4bab4368"
+            },
+            {
+              "doc_id": "eb6fee39-c36b-40b2-b312-342c53e28ba3"
+            },
+            {
+              "doc_id": "ebb1f5d2-0545-4278-977f-7e048603a772"
+            }
+          ]
+        },
+        "coffee bean": {
+          "answer": "coffee bean",
+          "references": [
+            {
+              "doc_id": "093fe696-d8cc-4301-af0a-c361a27b676d"
+            },
+            {
+              "doc_id": "0e0396da-aa19-4e92-bb68-0950ba964a1a"
+            },
+            {
+              "doc_id": "1c7c68e4-b52b-4543-a8b0-33337b2f78cd"
+            },
+            {
+              "doc_id": "4096b956-cf90-4cfd-b200-56192c06220e"
+            },
+            {
+              "doc_id": "48b48e82-7849-45c4-bdcf-c105383c78b3"
+            },
+            {
+              "doc_id": "bac9de77-8cd0-46fe-b09a-8b756edbdcec"
+            },
+            {
+              "doc_id": "f9ac7414-0e1a-4f82-b417-d98ed09a6c82"
+            }
+          ]
+        },
+        "rice": {
+          "answer": "rice",
+          "references": [
+            {
+              "doc_id": "02722a2f-2bc8-423b-9f03-0dc3e516e86c"
+            },
+            {
+              "doc_id": "032f6666-be55-4b9d-97e0-9fa0a9747b83"
+            },
+            {
+              "doc_id": "04a0a930-ed60-4075-9112-0c176140ee21"
+            },
+            {
+              "doc_id": "093fe696-d8cc-4301-af0a-c361a27b676d"
+            },
+            {
+              "doc_id": "0b598754-2779-4ebf-ab64-7dd2db956500"
+            },
+            {
+              "doc_id": "0e7420f4-8ece-4801-9c96-896bcecdf56e"
+            },
+            {
+              "doc_id": "1559668b-0f03-4760-9156-5968833fa2f3"
+            },
+            {
+              "doc_id": "1c7c68e4-b52b-4543-a8b0-33337b2f78cd"
+            },
+            {
+              "doc_id": "20add5c9-d887-4d1e-bd93-7de08d930203"
+            },
+            {
+              "doc_id": "2574acd9-d00c-48fa-82d8-dcc8da9470dd"
+            },
+            {
+              "doc_id": "30392f95-4ef3-4b8b-a179-601f1a37e9c5"
+            },
+            {
+              "doc_id": "39433c58-9d9d-4c5e-9c80-7755c3d8c419"
+            },
+            {
+              "doc_id": "3e6addc3-09e7-4df3-9915-4736c228f624"
+            },
+            {
+              "doc_id": "4573b94e-3a08-4286-96ad-b68d6f72c869"
+            },
+            {
+              "doc_id": "48b48e82-7849-45c4-bdcf-c105383c78b3"
+            },
+            {
+              "doc_id": "4ef33319-108b-4ffb-9b26-2717e27e90b3"
+            },
+            {
+              "doc_id": "59d77602-fd8d-48f7-a888-6606dcb374f7"
+            },
+            {
+              "doc_id": "6eed9007-a50a-482d-a6af-8fcf187e2486"
+            },
+            {
+              "doc_id": "7e3f4400-9f1c-4c47-b07d-f2a9d9291720"
+            },
+            {
+              "doc_id": "9acad9b2-a56e-4e58-9f22-a50f0ea44d37"
+            },
+            {
+              "doc_id": "c850a725-8ad4-4416-8d09-17d79155bb96"
+            },
+            {
+              "doc_id": "d478b4d0-a8e6-4025-a0ea-c098dd8ec161"
+            },
+            {
+              "doc_id": "e0c8337a-d56b-4f0d-8e65-b8d1881661f7"
+            },
+            {
+              "doc_id": "e79dce48-4504-4ced-814d-246a4bab4368"
+            },
+            {
+              "doc_id": "e8246944-602a-40a0-ab1d-9dd12d05a509"
+            },
+            {
+              "doc_id": "ebb1f5d2-0545-4278-977f-7e048603a772"
+            }
+          ]
+        },
+        "chickpeas": {
+          "answer": "chickpeas",
+          "references": [
+            {
+              "doc_id": "1c7c68e4-b52b-4543-a8b0-33337b2f78cd"
+            }
+          ]
+        },
+        "peaches": {
+          "answer": "peaches",
+          "references": [
+            {
+              "doc_id": "1c7c68e4-b52b-4543-a8b0-33337b2f78cd"
+            }
+          ]
+        },
+        "grains": {
+          "answer": "grains",
+          "references": [
+            {
+              "doc_id": "945630c4-c85b-4d44-b48b-41ba0f04d9e4"
+            },
+            {
+              "doc_id": "9f615d5c-25f1-4367-957d-651ca0f0e509"
+            },
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            },
+            {
+              "doc_id": "d15b4ea7-3327-4965-ae3a-c2ef78ff1fd6"
+            },
+            {
+              "doc_id": "df1c3580-8eae-43bd-b5c8-d6a60c8065e2"
+            }
+          ]
+        },
+        "sorghum": {
+          "answer": "sorghum",
+          "references": [
+            {
+              "doc_id": "e79dce48-4504-4ced-814d-246a4bab4368"
+            }
+          ]
+        },
+        "grapes": {
+          "answer": "grapes",
+          "references": [
+            {
+              "doc_id": "110422a8-5ddd-44dc-802d-34ace1ba5352"
+            },
+            {
+              "doc_id": "48b48e82-7849-45c4-bdcf-c105383c78b3"
+            },
+            {
+              "doc_id": "976b4a66-cb38-4ebb-97aa-ac06612b2e20"
+            }
+          ]
+        },
+        "vegetables": {
+          "answer": "vegetables",
+          "references": [
+            {
+              "doc_id": "5e66cefc-e16e-4d5b-802f-6a1a808fd8ed"
+            },
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            },
+            {
+              "doc_id": "e2fc6044-c488-46f9-8874-e51ff483f75e"
+            }
+          ]
+        },
+        "potato": {
+          "answer": "potato",
+          "references": [
+            {
+              "doc_id": "3e6addc3-09e7-4df3-9915-4736c228f624"
+            },
+            {
+              "doc_id": "7e3f4400-9f1c-4c47-b07d-f2a9d9291720"
+            },
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            },
+            {
+              "doc_id": "b626210a-b613-4e6b-9374-86da2b8da045"
+            },
+            {
+              "doc_id": "e2fc6044-c488-46f9-8874-e51ff483f75e"
+            },
+            {
+              "doc_id": "f9ac7414-0e1a-4f82-b417-d98ed09a6c82"
+            }
+          ]
+        },
+        "beets": {
+          "answer": "beets",
+          "references": []
+        },
+        "barley": {
+          "answer": "barley",
+          "references": [
+            {
+              "doc_id": "02722a2f-2bc8-423b-9f03-0dc3e516e86c"
+            },
+            {
+              "doc_id": "04a0a930-ed60-4075-9112-0c176140ee21"
+            },
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            }
+          ]
+        },
+        "flax": {
+          "answer": "flax",
+          "references": [
+            {
+              "doc_id": "b626210a-b613-4e6b-9374-86da2b8da045"
+            }
+          ]
+        },
+        "Rapeseed": {
+          "answer": "Rapeseed",
+          "references": [
+            {
+              "doc_id": "b626210a-b613-4e6b-9374-86da2b8da045"
+            }
+          ]
+        },
+        "fruits": {
+          "answer": "fruits",
+          "references": [
+            {
+              "doc_id": "bf7f55dc-0729-462f-b0af-e56d9ed85481"
+            },
+            {
+              "doc_id": "bfa1d1ba-da88-43df-a418-6886b78c3d26"
+            }
+          ]
+        },
+        "feed crops": {
+          "answer": "feed crops",
+          "references": [
+            {
+              "doc_id": "d15b4ea7-3327-4965-ae3a-c2ef78ff1fd6"
+            }
+          ]
+        },
+        "olives": {
+          "answer": "olives",
+          "references": [
+            {
+              "doc_id": "e2fc6044-c488-46f9-8874-e51ff483f75e"
+            },
+            {
+              "doc_id": "f9ac7414-0e1a-4f82-b417-d98ed09a6c82"
+            }
+          ]
+        },
+        "Lychee and longan": {
+          "answer": "Lychee and longan",
+          "references": [
+            {
+              "doc_id": "14f5f238-b46b-484e-b16a-9b44d6e7e5cf"
+            },
+            {
+              "doc_id": "1df3856d-9a1a-40f3-a71a-361ca1741902"
+            },
+            {
+              "doc_id": "e6c9d496-3dc2-4c3b-af00-8a43b501f38a"
+            }
+          ]
+        },
+        "winter wheat": {
+          "answer": "winter wheat",
+          "references": [
+            {
+              "doc_id": "615c8651-9929-4b6c-9d0f-85feb4e730ce"
+            }
+          ]
+        },
+        "grape": {
+          "answer": "grape",
+          "references": [
+            {
+              "doc_id": "6bd46ff0-4387-4029-9133-aafa4191c460"
+            }
+          ]
+        },
+        "legume": {
+          "answer": "legume",
+          "references": [
+            {
+              "doc_id": "77d10211-e387-44af-a296-a9501939212e"
+            }
+          ]
+        },
+        "banana": {
+          "answer": "banana",
+          "references": [
+            {
+              "doc_id": "77d10211-e387-44af-a296-a9501939212e"
+            }
+          ]
+        },
+        "Vegetables": {
+          "answer": "Vegetables",
+          "references": [
+            {
+              "doc_id": "95303b40-cf25-4c43-a77d-7da5fac55ee8"
+            }
+          ]
+        },
+        "Maple": {
+          "answer": "Maple",
+          "references": [
+            {
+              "doc_id": "eb6fee39-c36b-40b2-b312-342c53e28ba3"
+            }
+          ]
+        }
+      },
+      "question_id": "5f53faaf6ca23f46bf1251255c8efd67",
+      "aggregator_type": "OR",
+      "query_id": "351",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.674399+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What benefits might climate change bring to farmers?": {
+      "question": "What benefits might climate change bring to farmers?",
+      "answers": {
+        "easier overwintering of animals": {
+          "answer": "easier overwintering of animals",
+          "references": [
+            {
+              "doc_id": "0bb3d2ee-d751-4c8d-8289-c90ad13fec32"
+            },
+            {
+              "doc_id": "f631f219-52c6-414e-afaf-895f72e00e8e"
+            }
+          ]
+        },
+        "growing late-ripening crops": {
+          "answer": "growing late-ripening crops",
+          "references": [
+            {
+              "doc_id": "0bb3d2ee-d751-4c8d-8289-c90ad13fec32"
+            },
+            {
+              "doc_id": "f631f219-52c6-414e-afaf-895f72e00e8e"
+            },
+            {
+              "doc_id": "f9b92c39-9895-4766-90b9-5c966895fd29"
+            }
+          ]
+        },
+        "growing heat-loving crops": {
+          "answer": "growing heat-loving crops",
+          "references": [
+            {
+              "doc_id": "093fe696-d8cc-4301-af0a-c361a27b676d"
+            },
+            {
+              "doc_id": "0bb3d2ee-d751-4c8d-8289-c90ad13fec32"
+            },
+            {
+              "doc_id": "1df3856d-9a1a-40f3-a71a-361ca1741902"
+            },
+            {
+              "doc_id": "1ecab64a-f50c-4d78-a77a-4e555fcd9c4c"
+            },
+            {
+              "doc_id": "2045121a-28c9-4b45-a29c-c3b3bd578bf6"
+            },
+            {
+              "doc_id": "7388431f-4d15-48cc-ac2d-b261ca2dee8c"
+            },
+            {
+              "doc_id": "b504b32d-a69c-450a-ba32-ccb4ab00b08e"
+            },
+            {
+              "doc_id": "b626210a-b613-4e6b-9374-86da2b8da045"
+            },
+            {
+              "doc_id": "bac9de77-8cd0-46fe-b09a-8b756edbdcec"
+            },
+            {
+              "doc_id": "f9b92c39-9895-4766-90b9-5c966895fd29"
+            },
+            {
+              "doc_id": "f9def72c-4745-4ab1-ba07-ea3041d89723"
+            },
+            {
+              "doc_id": "fcc92acd-bb28-484f-ae17-c4d06bd11f78"
+            }
+          ]
+        },
+        "reduced need to cover crops during winter": {
+          "answer": "reduced need to cover crops during winter",
+          "references": [
+            {
+              "doc_id": "0bb3d2ee-d751-4c8d-8289-c90ad13fec32"
+            }
+          ]
+        },
+        "several harvests per year": {
+          "answer": "several harvests per year",
+          "references": [
+            {
+              "doc_id": "0bb3d2ee-d751-4c8d-8289-c90ad13fec32"
+            },
+            {
+              "doc_id": "2045121a-28c9-4b45-a29c-c3b3bd578bf6"
+            },
+            {
+              "doc_id": "f9b92c39-9895-4766-90b9-5c966895fd29"
+            }
+          ]
+        },
+        "increased sugar content in grapes": {
+          "answer": "increased sugar content in grapes",
+          "references": [
+            {
+              "doc_id": "0bb3d2ee-d751-4c8d-8289-c90ad13fec32"
+            },
+            {
+              "doc_id": "976b4a66-cb38-4ebb-97aa-ac06612b2e20"
+            }
+          ]
+        },
+        "increase yields": {
+          "answer": "increase yields",
+          "references": [
+            {
+              "doc_id": "ebb1f5d2-0545-4278-977f-7e048603a772"
+            },
+            {
+              "doc_id": "f9def72c-4745-4ab1-ba07-ea3041d89723"
+            }
+          ]
+        },
+        "greater agricultural productivity": {
+          "answer": "greater agricultural productivity",
+          "references": [
+            {
+              "doc_id": "2f017e94-f748-4eb9-a608-58855e3b4bbf"
+            },
+            {
+              "doc_id": "888bd7c1-8a19-425b-9157-eee9e48fdcd7"
+            },
+            {
+              "doc_id": "b504b32d-a69c-450a-ba32-ccb4ab00b08e"
+            },
+            {
+              "doc_id": "b74c6eb7-5d55-42c7-befd-947a6f54f390"
+            },
+            {
+              "doc_id": "d2f45e2e-0541-48d9-9281-9f9ae3a17c00"
+            },
+            {
+              "doc_id": "d5b2dcfd-1f75-4363-bab8-ab7aa8d5b091"
+            },
+            {
+              "doc_id": "e0c8337a-d56b-4f0d-8e65-b8d1881661f7"
+            }
+          ]
+        },
+        "longer growing season": {
+          "answer": "longer growing season",
+          "references": [
+            {
+              "doc_id": "2f017e94-f748-4eb9-a608-58855e3b4bbf"
+            },
+            {
+              "doc_id": "6e78ec7d-bb21-4991-80be-6ae8fc420aa0"
+            },
+            {
+              "doc_id": "f17c6930-6c13-4366-aca9-a3ac191d7b53"
+            },
+            {
+              "doc_id": "f631f219-52c6-414e-afaf-895f72e00e8e"
+            },
+            {
+              "doc_id": "f9b92c39-9895-4766-90b9-5c966895fd29"
+            }
+          ]
+        },
+        "more arable land available": {
+          "answer": "more arable land available",
+          "references": [
+            {
+              "doc_id": "63e4b639-4c2a-4c96-92b2-5b22f3da1494"
+            },
+            {
+              "doc_id": "8130730f-9202-4327-b8d0-89e2598ab573"
+            },
+            {
+              "doc_id": "b3d3c55b-fa5b-4527-8acd-a5afb7a51185"
+            },
+            {
+              "doc_id": "d15b4ea7-3327-4965-ae3a-c2ef78ff1fd6"
+            },
+            {
+              "doc_id": "d5b2dcfd-1f75-4363-bab8-ab7aa8d5b091"
+            },
+            {
+              "doc_id": "dcf7b6c1-d3d4-432f-9656-8ce167a8f3eb"
+            },
+            {
+              "doc_id": "f17c6930-6c13-4366-aca9-a3ac191d7b53"
+            }
+          ]
+        },
+        "crop yields on in temperate zones will increase": {
+          "answer": "crop yields on in temperate zones will increase",
+          "references": [
+            {
+              "doc_id": "77d10211-e387-44af-a296-a9501939212e"
+            }
+          ]
+        },
+        "More desert areas become suitable for growing fruits and vegetables": {
+          "answer": "More desert areas become suitable for growing fruits and vegetables",
+          "references": [
+            {
+              "doc_id": "7fe9d4cf-42dc-464c-bb12-fdbdb3468f47"
+            }
+          ]
+        }
+      },
+      "question_id": "7eb0bc4b7d36e57cb5334a297bd8b1f1",
+      "aggregator_type": "OR",
+      "query_id": "351",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.674543+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What countries have reported climate change impacting agriculture?": {
+      "question": "What countries have reported climate change impacting agriculture?",
+      "answers": {
+        "Ukraine": {
+          "answer": "Ukraine",
+          "references": [
+            {
+              "doc_id": "0e95d9e6-0392-4e8b-ad83-852096a5f184"
+            },
+            {
+              "doc_id": "1ecab64a-f50c-4d78-a77a-4e555fcd9c4c"
+            },
+            {
+              "doc_id": "2045121a-28c9-4b45-a29c-c3b3bd578bf6"
+            },
+            {
+              "doc_id": "4ef33319-108b-4ffb-9b26-2717e27e90b3"
+            },
+            {
+              "doc_id": "5d58d9f8-21cd-473d-a9a6-e927297065cc"
+            },
+            {
+              "doc_id": "8afc03fc-49e2-488c-82e3-b437e51be5fd"
+            },
+            {
+              "doc_id": "8c08b3aa-52f4-40b1-b178-274fa9239cbc"
+            },
+            {
+              "doc_id": "be5579ea-f2ca-46f1-abe7-594668f08b49"
+            },
+            {
+              "doc_id": "bf7f55dc-0729-462f-b0af-e56d9ed85481"
+            },
+            {
+              "doc_id": "bfa1d1ba-da88-43df-a418-6886b78c3d26"
+            },
+            {
+              "doc_id": "d2f45e2e-0541-48d9-9281-9f9ae3a17c00"
+            }
+          ]
+        },
+        "Italy": {
+          "answer": "Italy",
+          "references": [
+            {
+              "doc_id": "02722a2f-2bc8-423b-9f03-0dc3e516e86c"
+            },
+            {
+              "doc_id": "110422a8-5ddd-44dc-802d-34ace1ba5352"
+            },
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            },
+            {
+              "doc_id": "e2fc6044-c488-46f9-8874-e51ff483f75e"
+            }
+          ]
+        },
+        "Spain": {
+          "answer": "Spain",
+          "references": [
+            {
+              "doc_id": "02722a2f-2bc8-423b-9f03-0dc3e516e86c"
+            },
+            {
+              "doc_id": "110422a8-5ddd-44dc-802d-34ace1ba5352"
+            },
+            {
+              "doc_id": "976b4a66-cb38-4ebb-97aa-ac06612b2e20"
+            },
+            {
+              "doc_id": "e2fc6044-c488-46f9-8874-e51ff483f75e"
+            }
+          ]
+        },
+        "Australia": {
+          "answer": "Australia",
+          "references": [
+            {
+              "doc_id": "110422a8-5ddd-44dc-802d-34ace1ba5352"
+            },
+            {
+              "doc_id": "615c8651-9929-4b6c-9d0f-85feb4e730ce"
+            },
+            {
+              "doc_id": "63e4b639-4c2a-4c96-92b2-5b22f3da1494"
+            },
+            {
+              "doc_id": "dc81477e-a776-494b-82e9-8a5d36f9dd75"
+            },
+            {
+              "doc_id": "e6c9d496-3dc2-4c3b-af00-8a43b501f38a"
+            }
+          ]
+        },
+        "Belarus": {
+          "answer": "Belarus",
+          "references": [
+            {
+              "doc_id": "1762eb2b-c555-41dc-91a8-b201d2cc2e31"
+            },
+            {
+              "doc_id": "7388431f-4d15-48cc-ac2d-b261ca2dee8c"
+            },
+            {
+              "doc_id": "b504b32d-a69c-450a-ba32-ccb4ab00b08e"
+            },
+            {
+              "doc_id": "b626210a-b613-4e6b-9374-86da2b8da045"
+            }
+          ]
+        },
+        "U.S.": {
+          "answer": "U.S.",
+          "references": [
+            {
+              "doc_id": "1ef3353c-afd6-4fd0-9a30-f89f0bc97ea6"
+            },
+            {
+              "doc_id": "f00d1496-353e-407b-b13a-b71893ace576"
+            }
+          ]
+        },
+        "Brazil": {
+          "answer": "Brazil",
+          "references": [
+            {
+              "doc_id": "2a1d31d3-cc93-4d55-9a93-f92b2237e08e"
+            }
+          ]
+        },
+        "Russia": {
+          "answer": "Russia",
+          "references": [
+            {
+              "doc_id": "57b09029-0fb7-4af4-8b6f-428e96211504"
+            },
+            {
+              "doc_id": "6e78ec7d-bb21-4991-80be-6ae8fc420aa0"
+            },
+            {
+              "doc_id": "8130730f-9202-4327-b8d0-89e2598ab573"
+            },
+            {
+              "doc_id": "9f615d5c-25f1-4367-957d-651ca0f0e509"
+            },
+            {
+              "doc_id": "b3d3c55b-fa5b-4527-8acd-a5afb7a51185"
+            },
+            {
+              "doc_id": "b74c6eb7-5d55-42c7-befd-947a6f54f390"
+            },
+            {
+              "doc_id": "ce1c8d5d-3d5f-45ad-b08d-dffa90a875bc"
+            },
+            {
+              "doc_id": "d15b4ea7-3327-4965-ae3a-c2ef78ff1fd6"
+            },
+            {
+              "doc_id": "d5b2dcfd-1f75-4363-bab8-ab7aa8d5b091"
+            },
+            {
+              "doc_id": "dcf7b6c1-d3d4-432f-9656-8ce167a8f3eb"
+            },
+            {
+              "doc_id": "ec8ad7cf-5e6f-4afa-a365-59999697e4e9"
+            },
+            {
+              "doc_id": "f7e0619a-0976-4ef4-8be1-3c0d7e160feb"
+            },
+            {
+              "doc_id": "fcc92acd-bb28-484f-ae17-c4d06bd11f78"
+            }
+          ]
+        },
+        "France": {
+          "answer": "France",
+          "references": [
+            {
+              "doc_id": "5e66cefc-e16e-4d5b-802f-6a1a808fd8ed"
+            },
+            {
+              "doc_id": "6bd46ff0-4387-4029-9133-aafa4191c460"
+            },
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            }
+          ]
+        },
+        "Germany": {
+          "answer": "Germany",
+          "references": [
+            {
+              "doc_id": "5e66cefc-e16e-4d5b-802f-6a1a808fd8ed"
+            },
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            },
+            {
+              "doc_id": "bfa1d1ba-da88-43df-a418-6886b78c3d26"
+            },
+            {
+              "doc_id": "e2fc6044-c488-46f9-8874-e51ff483f75e"
+            }
+          ]
+        },
+        "Canada": {
+          "answer": "Canada",
+          "references": [
+            {
+              "doc_id": "04a0a930-ed60-4075-9112-0c176140ee21"
+            },
+            {
+              "doc_id": "63e4b639-4c2a-4c96-92b2-5b22f3da1494"
+            },
+            {
+              "doc_id": "dc81477e-a776-494b-82e9-8a5d36f9dd75"
+            }
+          ]
+        },
+        "China": {
+          "answer": "China",
+          "references": [
+            {
+              "doc_id": "7fe9d4cf-42dc-464c-bb12-fdbdb3468f47"
+            },
+            {
+              "doc_id": "9acad9b2-a56e-4e58-9f22-a50f0ea44d37"
+            }
+          ]
+        },
+        "Japan": {
+          "answer": "Japan",
+          "references": [
+            {
+              "doc_id": "429ab3a2-5ebf-4f7e-b46c-347d44cf5606"
+            },
+            {
+              "doc_id": "9acad9b2-a56e-4e58-9f22-a50f0ea44d37"
+            }
+          ]
+        },
+        "Belgium": {
+          "answer": "Belgium",
+          "references": []
+        },
+        "Uzbekistan": {
+          "answer": "Uzbekistan",
+          "references": [
+            {
+              "doc_id": "0bb3d2ee-d751-4c8d-8289-c90ad13fec32"
+            }
+          ]
+        },
+        "United Kingdom": {
+          "answer": "United Kingdom",
+          "references": [
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            }
+          ]
+        },
+        "Sweden": {
+          "answer": "Sweden",
+          "references": [
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            }
+          ]
+        },
+        "Finland": {
+          "answer": "Finland",
+          "references": [
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            }
+          ]
+        },
+        "Poland": {
+          "answer": "Poland",
+          "references": [
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            }
+          ]
+        },
+        "Estonia": {
+          "answer": "Estonia",
+          "references": [
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            }
+          ]
+        },
+        "Latvia": {
+          "answer": "Latvia",
+          "references": [
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            },
+            {
+              "doc_id": "f631f219-52c6-414e-afaf-895f72e00e8e"
+            },
+            {
+              "doc_id": "f9b92c39-9895-4766-90b9-5c966895fd29"
+            }
+          ]
+        },
+        "Lithuania": {
+          "answer": "Lithuania",
+          "references": [
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            }
+          ]
+        },
+        "Denmark": {
+          "answer": "Denmark",
+          "references": [
+            {
+              "doc_id": "b1ce6db5-43e6-4401-a8e4-e0e5cc669955"
+            }
+          ]
+        },
+        "India": {
+          "answer": "India",
+          "references": [
+            {
+              "doc_id": "52d37f4b-4a09-456c-be1f-376f4e26fcd0"
+            },
+            {
+              "doc_id": "a02a884c-6201-48d1-9c32-41082521202f"
+            },
+            {
+              "doc_id": "e6c9d496-3dc2-4c3b-af00-8a43b501f38a"
+            },
+            {
+              "doc_id": "e8246944-602a-40a0-ab1d-9dd12d05a509"
+            },
+            {
+              "doc_id": "fb478520-5f0a-4fbd-849e-d761cfc2ce42"
+            }
+          ]
+        },
+        "Latin America": {
+          "answer": "Latin America",
+          "references": [
+            {
+              "doc_id": "f00d1496-353e-407b-b13a-b71893ace576"
+            },
+            {
+              "doc_id": "fcc92acd-bb28-484f-ae17-c4d06bd11f78"
+            }
+          ]
+        },
+        "Caribbean Basin": {
+          "answer": "Caribbean Basin",
+          "references": [
+            {
+              "doc_id": "f00d1496-353e-407b-b13a-b71893ace576"
+            },
+            {
+              "doc_id": "fcc92acd-bb28-484f-ae17-c4d06bd11f78"
+            }
+          ]
+        },
+        "Africa": {
+          "answer": "Africa",
+          "references": [
+            {
+              "doc_id": "f00d1496-353e-407b-b13a-b71893ace576"
+            },
+            {
+              "doc_id": "f7e0619a-0976-4ef4-8be1-3c0d7e160feb"
+            },
+            {
+              "doc_id": "fcc92acd-bb28-484f-ae17-c4d06bd11f78"
+            }
+          ]
+        },
+        "Asia": {
+          "answer": "Asia",
+          "references": [
+            {
+              "doc_id": "f7e0619a-0976-4ef4-8be1-3c0d7e160feb"
+            },
+            {
+              "doc_id": "fcc92acd-bb28-484f-ae17-c4d06bd11f78"
+            }
+          ]
+        },
+        "Tajikistan": {
+          "answer": "Tajikistan",
+          "references": [
+            {
+              "doc_id": "0bb3d2ee-d751-4c8d-8289-c90ad13fec32"
+            }
+          ]
+        },
+        "Turkmenistan": {
+          "answer": "Turkmenistan",
+          "references": [
+            {
+              "doc_id": "0bb3d2ee-d751-4c8d-8289-c90ad13fec32"
+            }
+          ]
+        },
+        "Kyrgyzstan": {
+          "answer": "Kyrgyzstan",
+          "references": [
+            {
+              "doc_id": "0bb3d2ee-d751-4c8d-8289-c90ad13fec32"
+            }
+          ]
+        },
+        "Kazakhstan": {
+          "answer": "Kazakhstan",
+          "references": [
+            {
+              "doc_id": "0c5bab51-cf02-4129-973b-e16f71c88cff"
+            }
+          ]
+        },
+        "Taiwan": {
+          "answer": "Taiwan",
+          "references": [
+            {
+              "doc_id": "14f5f238-b46b-484e-b16a-9b44d6e7e5cf"
+            },
+            {
+              "doc_id": "1df3856d-9a1a-40f3-a71a-361ca1741902"
+            },
+            {
+              "doc_id": "429ab3a2-5ebf-4f7e-b46c-347d44cf5606"
+            },
+            {
+              "doc_id": "64a2aa0e-767a-430a-baa4-608257ae65c9"
+            },
+            {
+              "doc_id": "80ddca5b-3a5c-494f-aee8-9fecac106a8f"
+            },
+            {
+              "doc_id": "a9485530-47ec-4015-8f1f-55d0e9b989ec"
+            },
+            {
+              "doc_id": "def7a7f9-ba4a-4f0c-886f-54406d1e8c47"
+            },
+            {
+              "doc_id": "e277a850-ace0-40d5-a819-c7d66bbfc932"
+            },
+            {
+              "doc_id": "e6c9d496-3dc2-4c3b-af00-8a43b501f38a"
+            },
+            {
+              "doc_id": "f0a78691-b1fd-4b73-9822-91345a5ae246"
+            }
+          ]
+        },
+        "Austria": {
+          "answer": "Austria",
+          "references": [
+            {
+              "doc_id": "18a61dcb-9ec4-4503-995a-f8079898fb86"
+            }
+          ]
+        },
+        "Do the planning based on the study of the needs of citizens": {
+          "answer": "Do the planning based on the study of the needs of citizens",
+          "references": []
+        },
+        "England": {
+          "answer": "England",
+          "references": [
+            {
+              "doc_id": "30392f95-4ef3-4b8b-a179-601f1a37e9c5"
+            },
+            {
+              "doc_id": "8973d6cd-8e11-4ba7-8096-34dcc0e122d6"
+            },
+            {
+              "doc_id": "8c08b3aa-52f4-40b1-b178-274fa9239cbc"
+            }
+          ]
+        },
+        "United States": {
+          "answer": "United States",
+          "references": [
+            {
+              "doc_id": "52d37f4b-4a09-456c-be1f-376f4e26fcd0"
+            },
+            {
+              "doc_id": "615c8651-9929-4b6c-9d0f-85feb4e730ce"
+            },
+            {
+              "doc_id": "8c08b3aa-52f4-40b1-b178-274fa9239cbc"
+            },
+            {
+              "doc_id": "964841d5-7c26-4f30-b772-ee56c64ce519"
+            },
+            {
+              "doc_id": "e6c9d496-3dc2-4c3b-af00-8a43b501f38a"
+            }
+          ]
+        },
+        "Vietnam": {
+          "answer": "Vietnam",
+          "references": [
+            {
+              "doc_id": "615c8651-9929-4b6c-9d0f-85feb4e730ce"
+            }
+          ]
+        },
+        "Some African countries": {
+          "answer": "Some African countries",
+          "references": [
+            {
+              "doc_id": "7621fb76-8a36-4909-b9e2-f9d82ae77a35"
+            },
+            {
+              "doc_id": "77d10211-e387-44af-a296-a9501939212e"
+            }
+          ]
+        },
+        "Western Europe": {
+          "answer": "Western Europe",
+          "references": [
+            {
+              "doc_id": "8c08b3aa-52f4-40b1-b178-274fa9239cbc"
+            }
+          ]
+        },
+        "Bangladesh": {
+          "answer": "Bangladesh",
+          "references": [
+            {
+              "doc_id": "9702fb63-78ae-4990-b6d8-ed1fe4aa61d6"
+            }
+          ]
+        },
+        "North Korea": {
+          "answer": "North Korea",
+          "references": [
+            {
+              "doc_id": "d478b4d0-a8e6-4025-a0ea-c098dd8ec161"
+            }
+          ]
+        },
+        "Hong Kong": {
+          "answer": "Hong Kong",
+          "references": [
+            {
+              "doc_id": "e10f326a-d70a-4da5-9301-00fc2f3e0a39"
+            }
+          ]
+        },
+        "South Africa": {
+          "answer": "South Africa",
+          "references": [
+            {
+              "doc_id": "fb478520-5f0a-4fbd-849e-d761cfc2ce42"
+            }
+          ]
+        },
+        "Some Asian countries": {
+          "answer": "Some Asian countries",
+          "references": [
+            {
+              "doc_id": "fe89e534-9a9d-4211-a38b-b8d395732343"
+            }
+          ]
+        }
+      },
+      "question_id": "9bbec68d71d6fb9edc508a915f7c2bc7",
+      "aggregator_type": "OR",
+      "query_id": "351",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.674980+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Would climate change increase or decrease insect activity?": {
+      "question": "Would climate change increase or decrease insect activity?",
+      "answers": {
+        "increase": {
+          "answer": "increase",
+          "references": [
+            {
+              "doc_id": "093fe696-d8cc-4301-af0a-c361a27b676d"
+            },
+            {
+              "doc_id": "0c5bab51-cf02-4129-973b-e16f71c88cff"
+            },
+            {
+              "doc_id": "0e7420f4-8ece-4801-9c96-896bcecdf56e"
+            },
+            {
+              "doc_id": "20add5c9-d887-4d1e-bd93-7de08d930203"
+            },
+            {
+              "doc_id": "2ddee758-f9ae-4028-8f28-1f0103330d95"
+            },
+            {
+              "doc_id": "3b55f9e8-db6f-49a9-97df-907971c51970"
+            },
+            {
+              "doc_id": "4573b94e-3a08-4286-96ad-b68d6f72c869"
+            },
+            {
+              "doc_id": "55bf0777-1193-4cd6-a19f-1502db0f5378"
+            },
+            {
+              "doc_id": "59d77602-fd8d-48f7-a888-6606dcb374f7"
+            },
+            {
+              "doc_id": "6eed9007-a50a-482d-a6af-8fcf187e2486"
+            },
+            {
+              "doc_id": "79c893d7-b57a-42ce-832d-09215cd1e3ca"
+            },
+            {
+              "doc_id": "81f67d93-ff13-40a7-a3a1-b2067124972b"
+            },
+            {
+              "doc_id": "a50315a9-1358-4e6a-8843-ad133ea522b1"
+            },
+            {
+              "doc_id": "a9485530-47ec-4015-8f1f-55d0e9b989ec"
+            },
+            {
+              "doc_id": "b74c6eb7-5d55-42c7-befd-947a6f54f390"
+            },
+            {
+              "doc_id": "bfa1d1ba-da88-43df-a418-6886b78c3d26"
+            },
+            {
+              "doc_id": "c8342f6f-3216-4c3e-8741-d58321727aee"
+            },
+            {
+              "doc_id": "c850a725-8ad4-4416-8d09-17d79155bb96"
+            },
+            {
+              "doc_id": "def7a7f9-ba4a-4f0c-886f-54406d1e8c47"
+            },
+            {
+              "doc_id": "df1c3580-8eae-43bd-b5c8-d6a60c8065e2"
+            },
+            {
+              "doc_id": "e0c8337a-d56b-4f0d-8e65-b8d1881661f7"
+            },
+            {
+              "doc_id": "f9b92c39-9895-4766-90b9-5c966895fd29"
+            }
+          ]
+        },
+        "decrease": {
+          "answer": "decrease",
+          "references": [
+            {
+              "doc_id": "0e0396da-aa19-4e92-bb68-0950ba964a1a"
+            },
+            {
+              "doc_id": "4096b956-cf90-4cfd-b200-56192c06220e"
+            }
+          ]
+        }
+      },
+      "question_id": "4f953ed7ad90b6169103edcabfc613a3",
+      "aggregator_type": "OR",
+      "query_id": "351",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.675034+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What crops are susceptible to increased insect activity?": {
+      "question": "What crops are susceptible to increased insect activity?",
+      "answers": {
+        "corn": {
+          "answer": "corn",
+          "references": [
+            {
+              "doc_id": "032f6666-be55-4b9d-97e0-9fa0a9747b83"
+            },
+            {
+              "doc_id": "20add5c9-d887-4d1e-bd93-7de08d930203"
+            },
+            {
+              "doc_id": "59d77602-fd8d-48f7-a888-6606dcb374f7"
+            },
+            {
+              "doc_id": "6eed9007-a50a-482d-a6af-8fcf187e2486"
+            },
+            {
+              "doc_id": "c850a725-8ad4-4416-8d09-17d79155bb96"
+            }
+          ]
+        },
+        "rice": {
+          "answer": "rice",
+          "references": [
+            {
+              "doc_id": "20add5c9-d887-4d1e-bd93-7de08d930203"
+            },
+            {
+              "doc_id": "59d77602-fd8d-48f7-a888-6606dcb374f7"
+            },
+            {
+              "doc_id": "6eed9007-a50a-482d-a6af-8fcf187e2486"
+            },
+            {
+              "doc_id": "c850a725-8ad4-4416-8d09-17d79155bb96"
+            }
+          ]
+        },
+        "wheat": {
+          "answer": "wheat",
+          "references": [
+            {
+              "doc_id": "032f6666-be55-4b9d-97e0-9fa0a9747b83"
+            },
+            {
+              "doc_id": "20add5c9-d887-4d1e-bd93-7de08d930203"
+            },
+            {
+              "doc_id": "59d77602-fd8d-48f7-a888-6606dcb374f7"
+            },
+            {
+              "doc_id": "6eed9007-a50a-482d-a6af-8fcf187e2486"
+            },
+            {
+              "doc_id": "c850a725-8ad4-4416-8d09-17d79155bb96"
+            },
+            {
+              "doc_id": "d2a7c6f0-ffcb-47a9-a779-2f9e88937011"
+            },
+            {
+              "doc_id": "df1c3580-8eae-43bd-b5c8-d6a60c8065e2"
+            }
+          ]
+        },
+        "dates": {
+          "answer": "dates",
+          "references": [
+            {
+              "doc_id": "81f67d93-ff13-40a7-a3a1-b2067124972b"
+            },
+            {
+              "doc_id": "d2a7c6f0-ffcb-47a9-a779-2f9e88937011"
+            }
+          ]
+        }
+      },
+      "question_id": "82922439347b6b9dacb9fcfdf9f3c179",
+      "aggregator_type": "OR",
+      "query_id": "351",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.675092+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What agricultural practices can create a carbon sink?": {
+      "question": "What agricultural practices can create a carbon sink?",
+      "answers": {
+        "biochar": {
+          "answer": "biochar",
+          "references": []
+        }
+      },
+      "question_id": "09daf1509009623ac3e05565431a0af2",
+      "aggregator_type": "OR",
+      "query_id": "351",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.675109+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What crops are impacted from poor irrigation": {
+      "question": "What crops are impacted from poor irrigation",
+      "answers": {
+        "orchards": {
+          "answer": "orchards",
+          "references": [
+            {
+              "doc_id": "0bb3d2ee-d751-4c8d-8289-c90ad13fec32"
+            }
+          ]
+        },
+        "winter wheat": {
+          "answer": "winter wheat",
+          "references": [
+            {
+              "doc_id": "0bb3d2ee-d751-4c8d-8289-c90ad13fec32"
+            }
+          ]
+        },
+        "cotton": {
+          "answer": "cotton",
+          "references": [
+            {
+              "doc_id": "0bb3d2ee-d751-4c8d-8289-c90ad13fec32"
+            }
+          ]
+        },
+        "wheat": {
+          "answer": "wheat",
+          "references": [
+            {
+              "doc_id": "c31c4ebe-1874-494e-bce3-16d702ceb10f"
+            }
+          ]
+        },
+        "potatoes": {
+          "answer": "potatoes",
+          "references": [
+            {
+              "doc_id": "1ef3353c-afd6-4fd0-9a30-f89f0bc97ea6"
+            }
+          ]
+        },
+        "wheat, corn, rice": {
+          "answer": "wheat, corn, rice",
+          "references": [
+            {
+              "doc_id": "39433c58-9d9d-4c5e-9c80-7755c3d8c419"
+            }
+          ]
+        }
+      },
+      "question_id": "dd5524eec731a4fc9c0d76cd4ae4b3ea",
+      "aggregator_type": "OR",
+      "query_id": "351",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.675163+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What can be done to reduce irrigation needs?": {
+      "question": "What can be done to reduce irrigation needs?",
+      "answers": {
+        "water-saving technology": {
+          "answer": "water-saving technology",
+          "references": [
+            {
+              "doc_id": "0bb3d2ee-d751-4c8d-8289-c90ad13fec32"
+            },
+            {
+              "doc_id": "0c5bab51-cf02-4129-973b-e16f71c88cff"
+            },
+            {
+              "doc_id": "5d58d9f8-21cd-473d-a9a6-e927297065cc"
+            },
+            {
+              "doc_id": "bf7f55dc-0729-462f-b0af-e56d9ed85481"
+            },
+            {
+              "doc_id": "e8246944-602a-40a0-ab1d-9dd12d05a509"
+            }
+          ]
+        },
+        "keep records of water use": {
+          "answer": "keep records of water use",
+          "references": [
+            {
+              "doc_id": "0bb3d2ee-d751-4c8d-8289-c90ad13fec32"
+            }
+          ]
+        },
+        "greenhouse farming": {
+          "answer": "greenhouse farming",
+          "references": [
+            {
+              "doc_id": "1b54599c-2f12-4a63-a448-3974c23d58ac"
+            },
+            {
+              "doc_id": "2845cbac-85e1-4594-adce-5f7fffbbd389"
+            }
+          ]
+        },
+        "modern irrigation systems": {
+          "answer": "modern irrigation systems",
+          "references": [
+            {
+              "doc_id": "2845cbac-85e1-4594-adce-5f7fffbbd389"
+            },
+            {
+              "doc_id": "d5895bb9-e8c1-4a32-9eea-fc88dcac7cd3"
+            }
+          ]
+        },
+        "lower water-demand crops": {
+          "answer": "lower water-demand crops",
+          "references": [
+            {
+              "doc_id": "2845cbac-85e1-4594-adce-5f7fffbbd389"
+            },
+            {
+              "doc_id": "38af1d5c-63ed-432d-b1e0-d57a347f6173"
+            },
+            {
+              "doc_id": "689b34f2-1665-404e-919b-a931e7ba8f76"
+            },
+            {
+              "doc_id": "6b35fdf6-a742-4a77-a10e-6b2e06a3bbc8"
+            },
+            {
+              "doc_id": "7a5a7164-176f-4142-b1b0-83a7840c48d6"
+            },
+            {
+              "doc_id": "b259c257-5c40-4f40-8cb0-776999a8405d"
+            },
+            {
+              "doc_id": "c31c4ebe-1874-494e-bce3-16d702ceb10f"
+            }
+          ]
+        },
+        " ": {
+          "answer": " ",
+          "references": [
+            {
+              "doc_id": "80ddca5b-3a5c-494f-aee8-9fecac106a8f"
+            }
+          ]
+        },
+        "explore comprehensive solutions from the studies of different disciplines": {
+          "answer": "explore comprehensive solutions from the studies of different disciplines",
+          "references": [
+            {
+              "doc_id": "80ddca5b-3a5c-494f-aee8-9fecac106a8f"
+            }
+          ]
+        }
+      },
+      "question_id": "720583f032de0832357097a10410f612",
+      "aggregator_type": "OR",
+      "query_id": "351",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.675252+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

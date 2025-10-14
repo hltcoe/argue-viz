@@ -1,0 +1,1515 @@
+{
+  "query_id": "367",
+  "title_query": "Stratolaunch biggest airplane",
+  "full_query": "I need to find out as much as I can about the world\u2019s biggest airplane made by Stratolaunch Systems. I want to know about its physical description, performance data, and how the aircraft might be used. The aircraft's first flight should be described.",
+  "full_background": "I am a self-proclaimed airplane nerd that writes a blog, and am fascinated by this newest endeavor by Stratolaunch. I need a report so that I can write about it accurately in my blog.",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What is the largest airplane in the world at this time?": {
+      "question": "What is the largest airplane in the world at this time?",
+      "answers": {
+        "The Stratolaunch Model 351": {
+          "answer": "The Stratolaunch Model 351",
+          "references": [
+            {
+              "doc_id": "009a9ba3-373b-4205-809c-d8efbea95b00"
+            },
+            {
+              "doc_id": "023c3141-0679-4b5d-8700-380e2fb2e74b"
+            },
+            {
+              "doc_id": "1094e1dc-ac51-4370-a5cd-8a308c5b0645"
+            },
+            {
+              "doc_id": "1a767eff-e63f-49e9-8c9a-77de339d51c7"
+            },
+            {
+              "doc_id": "1ab87749-f6be-47a5-ad09-0b3a76e7bf13"
+            },
+            {
+              "doc_id": "1c697eb0-6f1d-43bd-8678-08e1db9cbd55"
+            },
+            {
+              "doc_id": "1dd4fad9-b54c-4847-b56c-cc84b5960f73"
+            },
+            {
+              "doc_id": "2319061f-e500-4231-a8c6-6187a9c543b0"
+            },
+            {
+              "doc_id": "26a38789-dd1b-4847-a1c8-172178a96edf"
+            },
+            {
+              "doc_id": "2d78345e-4696-4930-af77-e6c9bffe5cc2"
+            },
+            {
+              "doc_id": "3deb3171-7288-4ffc-be9d-065219cb45d0"
+            },
+            {
+              "doc_id": "4a5a476d-6c58-4c2f-8042-b12291ded3d2"
+            },
+            {
+              "doc_id": "5657426e-881e-443f-89f0-e9e1c57b42d5"
+            },
+            {
+              "doc_id": "6444f5ad-360d-4313-9d8c-03df7f6fe9e3"
+            },
+            {
+              "doc_id": "6ab22fa5-2083-4064-98af-1493127c4a37"
+            },
+            {
+              "doc_id": "6e51b315-351d-41aa-9038-4a031621b9a2"
+            },
+            {
+              "doc_id": "73c1409d-a564-4d37-b96a-d7feef69565b"
+            },
+            {
+              "doc_id": "767a80e1-8086-4fd8-97ee-78ec63d69034"
+            },
+            {
+              "doc_id": "7b33af20-504d-4b92-904d-6b729a5ee76a"
+            },
+            {
+              "doc_id": "8ba29e36-42be-49a2-bf52-0dd5627fe883"
+            },
+            {
+              "doc_id": "93e8d758-fe24-4604-8cdf-115f08091500"
+            },
+            {
+              "doc_id": "9eea978b-a1f4-4225-924c-a6387c3cc562"
+            },
+            {
+              "doc_id": "ad74e946-c3f8-410c-acaa-7b1c1fea9ccb"
+            },
+            {
+              "doc_id": "af4f99f4-3e4f-4d1a-b206-e361232bd0be"
+            },
+            {
+              "doc_id": "bc5a2f27-bec9-43bc-8b6f-fae3822664a4"
+            },
+            {
+              "doc_id": "be9007af-1518-4969-8f28-688116a17c33"
+            },
+            {
+              "doc_id": "c0d2e108-bf11-45f6-9cd1-44a7b392a2c8"
+            },
+            {
+              "doc_id": "d151fbce-9217-4ddf-867b-603d6e359f29"
+            },
+            {
+              "doc_id": "d39e0556-6f29-4b5e-8cc2-dbccdb12fa99"
+            },
+            {
+              "doc_id": "d5bd0bd9-d1aa-4bf5-9add-88805b1cf5cd"
+            },
+            {
+              "doc_id": "db166cd9-dfa2-4b6e-8346-a3ee6c2c1c57"
+            },
+            {
+              "doc_id": "e462ef5e-ec4a-449d-919a-c916a979e4b3"
+            },
+            {
+              "doc_id": "ece144f1-79b8-4652-9963-bdf8c4953ac7"
+            },
+            {
+              "doc_id": "f9e8f659-84ba-4d42-901d-08bb166300a3"
+            },
+            {
+              "doc_id": "fc6ad727-8097-42fd-8d2a-9a837a3ceefb"
+            }
+          ]
+        },
+        "theSTatolaunch": {
+          "answer": "theSTatolaunch",
+          "references": []
+        },
+        "The Stratolaunch": {
+          "answer": "The Stratolaunch",
+          "references": [
+            {
+              "doc_id": "044973d2-292b-4310-a325-48bf13c2fc91"
+            },
+            {
+              "doc_id": "0704770f-779f-4422-9249-91ba3a63c4b2"
+            },
+            {
+              "doc_id": "32d7b77e-8e77-40b9-9dce-e591513b3e9c"
+            },
+            {
+              "doc_id": "4bddb0ab-92d8-4355-9dce-8564f6c644b3"
+            },
+            {
+              "doc_id": "50755b6e-ab33-4100-a393-7702c7c349ba"
+            },
+            {
+              "doc_id": "5cc2d3df-f23a-4157-a3e5-13aa026ac16e"
+            },
+            {
+              "doc_id": "969567cd-08e2-477f-9063-cedfc40a275f"
+            },
+            {
+              "doc_id": "9ad72e79-79c6-47db-85ea-03d28f43e09b"
+            },
+            {
+              "doc_id": "d8b7fa3c-a7f2-48af-bfce-e79e4bea6136"
+            },
+            {
+              "doc_id": "df9d8258-e51a-4524-a250-81a5dd868096"
+            },
+            {
+              "doc_id": "ff2acfe9-de31-4ff2-a471-97a3af215da4"
+            }
+          ]
+        },
+        "Roc": {
+          "answer": "Roc",
+          "references": [
+            {
+              "doc_id": "023c3141-0679-4b5d-8700-380e2fb2e74b"
+            },
+            {
+              "doc_id": "165eff75-4bcd-4842-b7d2-cdbee1770d15"
+            },
+            {
+              "doc_id": "175ddd2d-4f49-45ae-bf2d-8d3ab21b2750"
+            },
+            {
+              "doc_id": "3f3429cc-1b68-411e-8218-b019a3fc0a54"
+            },
+            {
+              "doc_id": "4db78109-9c17-4ee5-959b-eed1e80f5f98"
+            },
+            {
+              "doc_id": "5988eaaf-dc10-4503-a542-f6e468b09215"
+            },
+            {
+              "doc_id": "5a0f5573-2481-46e7-ba8d-1f9601d037c8"
+            },
+            {
+              "doc_id": "76653435-a6b3-433c-aac7-48aa0078c972"
+            },
+            {
+              "doc_id": "90d5329e-f881-4029-bf18-75a5bee43afb"
+            },
+            {
+              "doc_id": "d07c8878-9689-44f8-aeba-87d7b54928c1"
+            },
+            {
+              "doc_id": "f3d29edc-6b22-4f16-8eea-968140f75485"
+            }
+          ]
+        },
+        "Stratolaunch": {
+          "answer": "Stratolaunch",
+          "references": [
+            {
+              "doc_id": "3f3429cc-1b68-411e-8218-b019a3fc0a54"
+            },
+            {
+              "doc_id": "422943aa-873c-477f-aaac-82c580f02a9f"
+            },
+            {
+              "doc_id": "5988eaaf-dc10-4503-a542-f6e468b09215"
+            },
+            {
+              "doc_id": "76653435-a6b3-433c-aac7-48aa0078c972"
+            },
+            {
+              "doc_id": "8f02f593-a60e-4f9f-999d-f527cc9c802e"
+            },
+            {
+              "doc_id": "d5325d34-f5c2-4210-9231-070adb42705d"
+            },
+            {
+              "doc_id": "ecbf4a99-b32e-4c29-bd53-6366a2059def"
+            }
+          ]
+        }
+      },
+      "question_id": "858acc8efcd1973033ce938caebad920",
+      "aggregator_type": "OR",
+      "query_id": "367",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.697449+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the Stratolaunch Model 351's wingspan?": {
+      "question": "What is the Stratolaunch Model 351's wingspan?",
+      "answers": {
+        "117 meters": {
+          "answer": "117 meters",
+          "references": [
+            {
+              "doc_id": "009a9ba3-373b-4205-809c-d8efbea95b00"
+            },
+            {
+              "doc_id": "023c3141-0679-4b5d-8700-380e2fb2e74b"
+            },
+            {
+              "doc_id": "0704770f-779f-4422-9249-91ba3a63c4b2"
+            },
+            {
+              "doc_id": "1094e1dc-ac51-4370-a5cd-8a308c5b0645"
+            },
+            {
+              "doc_id": "165eff75-4bcd-4842-b7d2-cdbee1770d15"
+            },
+            {
+              "doc_id": "175ddd2d-4f49-45ae-bf2d-8d3ab21b2750"
+            },
+            {
+              "doc_id": "1a767eff-e63f-49e9-8c9a-77de339d51c7"
+            },
+            {
+              "doc_id": "1ab87749-f6be-47a5-ad09-0b3a76e7bf13"
+            },
+            {
+              "doc_id": "1c697eb0-6f1d-43bd-8678-08e1db9cbd55"
+            },
+            {
+              "doc_id": "1dd4fad9-b54c-4847-b56c-cc84b5960f73"
+            },
+            {
+              "doc_id": "26a38789-dd1b-4847-a1c8-172178a96edf"
+            },
+            {
+              "doc_id": "3deb3171-7288-4ffc-be9d-065219cb45d0"
+            },
+            {
+              "doc_id": "3f3429cc-1b68-411e-8218-b019a3fc0a54"
+            },
+            {
+              "doc_id": "422943aa-873c-477f-aaac-82c580f02a9f"
+            },
+            {
+              "doc_id": "4bddb0ab-92d8-4355-9dce-8564f6c644b3"
+            },
+            {
+              "doc_id": "4db78109-9c17-4ee5-959b-eed1e80f5f98"
+            },
+            {
+              "doc_id": "5988eaaf-dc10-4503-a542-f6e468b09215"
+            },
+            {
+              "doc_id": "5a0f5573-2481-46e7-ba8d-1f9601d037c8"
+            },
+            {
+              "doc_id": "6444f5ad-360d-4313-9d8c-03df7f6fe9e3"
+            },
+            {
+              "doc_id": "6ab22fa5-2083-4064-98af-1493127c4a37"
+            },
+            {
+              "doc_id": "6e51b315-351d-41aa-9038-4a031621b9a2"
+            },
+            {
+              "doc_id": "73c1409d-a564-4d37-b96a-d7feef69565b"
+            },
+            {
+              "doc_id": "765c3440-dfed-446d-910f-e02ea9ed0c91"
+            },
+            {
+              "doc_id": "76653435-a6b3-433c-aac7-48aa0078c972"
+            },
+            {
+              "doc_id": "7b33af20-504d-4b92-904d-6b729a5ee76a"
+            },
+            {
+              "doc_id": "8ba29e36-42be-49a2-bf52-0dd5627fe883"
+            },
+            {
+              "doc_id": "8f02f593-a60e-4f9f-999d-f527cc9c802e"
+            },
+            {
+              "doc_id": "90d5329e-f881-4029-bf18-75a5bee43afb"
+            },
+            {
+              "doc_id": "9191cf5f-ae23-4ad2-a4df-2f597d513cd3"
+            },
+            {
+              "doc_id": "940d349d-1724-40cf-a0b1-3d43df4df4f4"
+            },
+            {
+              "doc_id": "969567cd-08e2-477f-9063-cedfc40a275f"
+            },
+            {
+              "doc_id": "9ad72e79-79c6-47db-85ea-03d28f43e09b"
+            },
+            {
+              "doc_id": "a8dd3dc6-4239-4b65-a2df-e3a4c380055c"
+            },
+            {
+              "doc_id": "ad74e946-c3f8-410c-acaa-7b1c1fea9ccb"
+            },
+            {
+              "doc_id": "bc5a2f27-bec9-43bc-8b6f-fae3822664a4"
+            },
+            {
+              "doc_id": "be9007af-1518-4969-8f28-688116a17c33"
+            },
+            {
+              "doc_id": "d07c8878-9689-44f8-aeba-87d7b54928c1"
+            },
+            {
+              "doc_id": "d5bd0bd9-d1aa-4bf5-9add-88805b1cf5cd"
+            },
+            {
+              "doc_id": "d8b7fa3c-a7f2-48af-bfce-e79e4bea6136"
+            },
+            {
+              "doc_id": "db166cd9-dfa2-4b6e-8346-a3ee6c2c1c57"
+            },
+            {
+              "doc_id": "df9d8258-e51a-4524-a250-81a5dd868096"
+            },
+            {
+              "doc_id": "e462ef5e-ec4a-449d-919a-c916a979e4b3"
+            },
+            {
+              "doc_id": "f3d29edc-6b22-4f16-8eea-968140f75485"
+            },
+            {
+              "doc_id": "ff2acfe9-de31-4ff2-a471-97a3af215da4"
+            }
+          ]
+        },
+        "385 feet": {
+          "answer": "385 feet",
+          "references": [
+            {
+              "doc_id": "2d78345e-4696-4930-af77-e6c9bffe5cc2"
+            },
+            {
+              "doc_id": "5988eaaf-dc10-4503-a542-f6e468b09215"
+            }
+          ]
+        }
+      },
+      "question_id": "99b70c25408e2c115210cf4d977a140b",
+      "aggregator_type": "OR",
+      "query_id": "367",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.697533+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the Stratolaunch Model 351's empty weight?": {
+      "question": "What is the Stratolaunch Model 351's empty weight?",
+      "answers": {
+        "226 tons": {
+          "answer": "226 tons",
+          "references": [
+            {
+              "doc_id": "4bddb0ab-92d8-4355-9dce-8564f6c644b3"
+            },
+            {
+              "doc_id": "76653435-a6b3-433c-aac7-48aa0078c972"
+            },
+            {
+              "doc_id": "969567cd-08e2-477f-9063-cedfc40a275f"
+            },
+            {
+              "doc_id": "d8b7fa3c-a7f2-48af-bfce-e79e4bea6136"
+            }
+          ]
+        },
+        "230 tons": {
+          "answer": "230 tons",
+          "references": [
+            {
+              "doc_id": "0704770f-779f-4422-9249-91ba3a63c4b2"
+            }
+          ]
+        },
+        "226 metric tons": {
+          "answer": "226 metric tons",
+          "references": [
+            {
+              "doc_id": "1dd4fad9-b54c-4847-b56c-cc84b5960f73"
+            },
+            {
+              "doc_id": "8ba29e36-42be-49a2-bf52-0dd5627fe883"
+            },
+            {
+              "doc_id": "940d349d-1724-40cf-a0b1-3d43df4df4f4"
+            }
+          ]
+        },
+        "250 lb tons": {
+          "answer": "250 lb tons",
+          "references": [
+            {
+              "doc_id": "1c697eb0-6f1d-43bd-8678-08e1db9cbd55"
+            },
+            {
+              "doc_id": "d5bd0bd9-d1aa-4bf5-9add-88805b1cf5cd"
+            }
+          ]
+        },
+        "226,800 kg": {
+          "answer": "226,800 kg",
+          "references": [
+            {
+              "doc_id": "023c3141-0679-4b5d-8700-380e2fb2e74b"
+            },
+            {
+              "doc_id": "d07c8878-9689-44f8-aeba-87d7b54928c1"
+            }
+          ]
+        },
+        "around 230 tons": {
+          "answer": "around 230 tons",
+          "references": [
+            {
+              "doc_id": "3f3429cc-1b68-411e-8218-b019a3fc0a54"
+            }
+          ]
+        },
+        "226,700 kg": {
+          "answer": "226,700 kg",
+          "references": [
+            {
+              "doc_id": "422943aa-873c-477f-aaac-82c580f02a9f"
+            }
+          ]
+        },
+        "227 tons": {
+          "answer": "227 tons",
+          "references": [
+            {
+              "doc_id": "5988eaaf-dc10-4503-a542-f6e468b09215"
+            }
+          ]
+        }
+      },
+      "question_id": "15020ffcdc8c39e862e947b9e520689b",
+      "aggregator_type": "OR",
+      "query_id": "367",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.697611+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the Stratolaunch Model 351's fully loaded take-off weight?": {
+      "question": "What is the Stratolaunch Model 351's fully loaded take-off weight?",
+      "answers": {
+        "590 tons": {
+          "answer": "590 tons",
+          "references": [
+            {
+              "doc_id": "009a9ba3-373b-4205-809c-d8efbea95b00"
+            },
+            {
+              "doc_id": "1a767eff-e63f-49e9-8c9a-77de339d51c7"
+            },
+            {
+              "doc_id": "1c697eb0-6f1d-43bd-8678-08e1db9cbd55"
+            },
+            {
+              "doc_id": "1dd4fad9-b54c-4847-b56c-cc84b5960f73"
+            },
+            {
+              "doc_id": "73c1409d-a564-4d37-b96a-d7feef69565b"
+            },
+            {
+              "doc_id": "8ba29e36-42be-49a2-bf52-0dd5627fe883"
+            },
+            {
+              "doc_id": "940d349d-1724-40cf-a0b1-3d43df4df4f4"
+            },
+            {
+              "doc_id": "be9007af-1518-4969-8f28-688116a17c33"
+            },
+            {
+              "doc_id": "d5bd0bd9-d1aa-4bf5-9add-88805b1cf5cd"
+            }
+          ]
+        },
+        "589.6 tons": {
+          "answer": "589.6 tons",
+          "references": [
+            {
+              "doc_id": "5988eaaf-dc10-4503-a542-f6e468b09215"
+            }
+          ]
+        },
+        "\u8f7d\u8377\u63a5\u8fd1 230 \u5428": {
+          "answer": "\u8f7d\u8377\u63a5\u8fd1 230 \u5428",
+          "references": []
+        },
+        "230 tons": {
+          "answer": "230 tons",
+          "references": [
+            {
+              "doc_id": "ecbf4a99-b32e-4c29-bd53-6366a2059def"
+            }
+          ]
+        }
+      },
+      "question_id": "13e365d729c7bba8758d61c4c6489443",
+      "aggregator_type": "OR",
+      "query_id": "367",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.697660+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How much payload weight can the Stratolaunch Model 351 carry?": {
+      "question": "How much payload weight can the Stratolaunch Model 351 carry?",
+      "answers": {
+        "Up to 250 tons": {
+          "answer": "Up to 250 tons",
+          "references": [
+            {
+              "doc_id": "0704770f-779f-4422-9249-91ba3a63c4b2"
+            },
+            {
+              "doc_id": "2d78345e-4696-4930-af77-e6c9bffe5cc2"
+            },
+            {
+              "doc_id": "3deb3171-7288-4ffc-be9d-065219cb45d0"
+            },
+            {
+              "doc_id": "6444f5ad-360d-4313-9d8c-03df7f6fe9e3"
+            },
+            {
+              "doc_id": "6e51b315-351d-41aa-9038-4a031621b9a2"
+            },
+            {
+              "doc_id": "76653435-a6b3-433c-aac7-48aa0078c972"
+            },
+            {
+              "doc_id": "7b33af20-504d-4b92-904d-6b729a5ee76a"
+            },
+            {
+              "doc_id": "940d349d-1724-40cf-a0b1-3d43df4df4f4"
+            }
+          ]
+        },
+        "250,000 kg": {
+          "answer": "250,000 kg",
+          "references": [
+            {
+              "doc_id": "023c3141-0679-4b5d-8700-380e2fb2e74b"
+            },
+            {
+              "doc_id": "3f3429cc-1b68-411e-8218-b019a3fc0a54"
+            },
+            {
+              "doc_id": "d07c8878-9689-44f8-aeba-87d7b54928c1"
+            }
+          ]
+        },
+        "Up to 275 tons": {
+          "answer": "Up to 275 tons",
+          "references": [
+            {
+              "doc_id": "5988eaaf-dc10-4503-a542-f6e468b09215"
+            }
+          ]
+        },
+        "230 tons": {
+          "answer": "230 tons",
+          "references": [
+            {
+              "doc_id": "d5325d34-f5c2-4210-9231-070adb42705d"
+            }
+          ]
+        }
+      },
+      "question_id": "5a4016a1f44f6c1af40127ff1f007e01",
+      "aggregator_type": "OR",
+      "query_id": "367",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.697709+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the take-off range of the Stratolaunch Model 351 with a full load?": {
+      "question": "What is the take-off range of the Stratolaunch Model 351 with a full load?",
+      "answers": {
+        "3800 meters": {
+          "answer": "3800 meters",
+          "references": [
+            {
+              "doc_id": "73c1409d-a564-4d37-b96a-d7feef69565b"
+            },
+            {
+              "doc_id": "940d349d-1724-40cf-a0b1-3d43df4df4f4"
+            }
+          ]
+        }
+      },
+      "question_id": "4c083a0960706c563bc7031e6fc30dd4",
+      "aggregator_type": "OR",
+      "query_id": "367",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.697728+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the Stratolaunch Model 351 constructed from?": {
+      "question": "What is the Stratolaunch Model 351 constructed from?",
+      "answers": {
+        "Two Boeing 747s": {
+          "answer": "Two Boeing 747s",
+          "references": [
+            {
+              "doc_id": "1dd4fad9-b54c-4847-b56c-cc84b5960f73"
+            },
+            {
+              "doc_id": "73c1409d-a564-4d37-b96a-d7feef69565b"
+            }
+          ]
+        },
+        "light carbon fiber elements": {
+          "answer": "light carbon fiber elements",
+          "references": [
+            {
+              "doc_id": "1dd4fad9-b54c-4847-b56c-cc84b5960f73"
+            },
+            {
+              "doc_id": "a8dd3dc6-4239-4b65-a2df-e3a4c380055c"
+            }
+          ]
+        },
+        "Two fuselages": {
+          "answer": "Two fuselages",
+          "references": [
+            {
+              "doc_id": "009a9ba3-373b-4205-809c-d8efbea95b00"
+            },
+            {
+              "doc_id": "1a767eff-e63f-49e9-8c9a-77de339d51c7"
+            },
+            {
+              "doc_id": "1c697eb0-6f1d-43bd-8678-08e1db9cbd55"
+            },
+            {
+              "doc_id": "2d78345e-4696-4930-af77-e6c9bffe5cc2"
+            },
+            {
+              "doc_id": "3deb3171-7288-4ffc-be9d-065219cb45d0"
+            },
+            {
+              "doc_id": "5657426e-881e-443f-89f0-e9e1c57b42d5"
+            },
+            {
+              "doc_id": "6ab22fa5-2083-4064-98af-1493127c4a37"
+            },
+            {
+              "doc_id": "765c3440-dfed-446d-910f-e02ea9ed0c91"
+            },
+            {
+              "doc_id": "767a80e1-8086-4fd8-97ee-78ec63d69034"
+            },
+            {
+              "doc_id": "93e8d758-fe24-4604-8cdf-115f08091500"
+            },
+            {
+              "doc_id": "940d349d-1724-40cf-a0b1-3d43df4df4f4"
+            },
+            {
+              "doc_id": "af4f99f4-3e4f-4d1a-b206-e361232bd0be"
+            },
+            {
+              "doc_id": "bc5a2f27-bec9-43bc-8b6f-fae3822664a4"
+            },
+            {
+              "doc_id": "c0d2e108-bf11-45f6-9cd1-44a7b392a2c8"
+            },
+            {
+              "doc_id": "d39e0556-6f29-4b5e-8cc2-dbccdb12fa99"
+            },
+            {
+              "doc_id": "d5bd0bd9-d1aa-4bf5-9add-88805b1cf5cd"
+            },
+            {
+              "doc_id": "db166cd9-dfa2-4b6e-8346-a3ee6c2c1c57"
+            },
+            {
+              "doc_id": "e462ef5e-ec4a-449d-919a-c916a979e4b3"
+            },
+            {
+              "doc_id": "ece144f1-79b8-4652-9963-bdf8c4953ac7"
+            },
+            {
+              "doc_id": "f9e8f659-84ba-4d42-901d-08bb166300a3"
+            }
+          ]
+        },
+        "Many parts of the older generation Boeing 747, including the engines": {
+          "answer": "Many parts of the older generation Boeing 747, including the engines",
+          "references": [
+            {
+              "doc_id": "3f3429cc-1b68-411e-8218-b019a3fc0a54"
+            },
+            {
+              "doc_id": "a8dd3dc6-4239-4b65-a2df-e3a4c380055c"
+            }
+          ]
+        },
+        "Engine and landing gear designed for the Boeing 747 aircraft": {
+          "answer": "Engine and landing gear designed for the Boeing 747 aircraft",
+          "references": [
+            {
+              "doc_id": "a8dd3dc6-4239-4b65-a2df-e3a4c380055c"
+            }
+          ]
+        },
+        "6 engines originally designed for Boeing 747": {
+          "answer": "6 engines originally designed for Boeing 747",
+          "references": [
+            {
+              "doc_id": "ecbf4a99-b32e-4c29-bd53-6366a2059def"
+            }
+          ]
+        }
+      },
+      "question_id": "8008ba44d4aa0f45a89cdf487dff4dfd",
+      "aggregator_type": "OR",
+      "query_id": "367",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.697807+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What kind of engines does the Stratolaunch Model 351 have?": {
+      "question": "What kind of engines does the Stratolaunch Model 351 have?",
+      "answers": {
+        "6 25-ton thrust Pratt & Whitney PW4056 bypass turbojet engines": {
+          "answer": "6 25-ton thrust Pratt & Whitney PW4056 bypass turbojet engines",
+          "references": [
+            {
+              "doc_id": "009a9ba3-373b-4205-809c-d8efbea95b00"
+            },
+            {
+              "doc_id": "1a767eff-e63f-49e9-8c9a-77de339d51c7"
+            },
+            {
+              "doc_id": "1c697eb0-6f1d-43bd-8678-08e1db9cbd55"
+            },
+            {
+              "doc_id": "26a38789-dd1b-4847-a1c8-172178a96edf"
+            },
+            {
+              "doc_id": "2d78345e-4696-4930-af77-e6c9bffe5cc2"
+            },
+            {
+              "doc_id": "3deb3171-7288-4ffc-be9d-065219cb45d0"
+            },
+            {
+              "doc_id": "5657426e-881e-443f-89f0-e9e1c57b42d5"
+            },
+            {
+              "doc_id": "73c1409d-a564-4d37-b96a-d7feef69565b"
+            },
+            {
+              "doc_id": "76653435-a6b3-433c-aac7-48aa0078c972"
+            },
+            {
+              "doc_id": "767a80e1-8086-4fd8-97ee-78ec63d69034"
+            },
+            {
+              "doc_id": "9191cf5f-ae23-4ad2-a4df-2f597d513cd3"
+            },
+            {
+              "doc_id": "93e8d758-fe24-4604-8cdf-115f08091500"
+            },
+            {
+              "doc_id": "af4f99f4-3e4f-4d1a-b206-e361232bd0be"
+            },
+            {
+              "doc_id": "be9007af-1518-4969-8f28-688116a17c33"
+            },
+            {
+              "doc_id": "d5bd0bd9-d1aa-4bf5-9add-88805b1cf5cd"
+            },
+            {
+              "doc_id": "e462ef5e-ec4a-449d-919a-c916a979e4b3"
+            },
+            {
+              "doc_id": "ece144f1-79b8-4652-9963-bdf8c4953ac7"
+            },
+            {
+              "doc_id": "f9e8f659-84ba-4d42-901d-08bb166300a3"
+            }
+          ]
+        },
+        "6 Pratt & Whitney engines": {
+          "answer": "6 Pratt & Whitney engines",
+          "references": [
+            {
+              "doc_id": "ff2acfe9-de31-4ff2-a471-97a3af215da4"
+            }
+          ]
+        },
+        "Engine designed for the Boeing 747 aircraft": {
+          "answer": "Engine designed for the Boeing 747 aircraft",
+          "references": [
+            {
+              "doc_id": "a8dd3dc6-4239-4b65-a2df-e3a4c380055c"
+            }
+          ]
+        }
+      },
+      "question_id": "5ffb694fbf5897542e001d871a4b36d7",
+      "aggregator_type": "OR",
+      "query_id": "367",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.697859+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How many wheels does the Stratolaunch Model 351 have on its chassis?": {
+      "question": "How many wheels does the Stratolaunch Model 351 have on its chassis?",
+      "answers": {
+        "28": {
+          "answer": "28",
+          "references": [
+            {
+              "doc_id": "009a9ba3-373b-4205-809c-d8efbea95b00"
+            },
+            {
+              "doc_id": "1c697eb0-6f1d-43bd-8678-08e1db9cbd55"
+            },
+            {
+              "doc_id": "6444f5ad-360d-4313-9d8c-03df7f6fe9e3"
+            },
+            {
+              "doc_id": "73c1409d-a564-4d37-b96a-d7feef69565b"
+            },
+            {
+              "doc_id": "be9007af-1518-4969-8f28-688116a17c33"
+            },
+            {
+              "doc_id": "d07c8878-9689-44f8-aeba-87d7b54928c1"
+            },
+            {
+              "doc_id": "d5bd0bd9-d1aa-4bf5-9add-88805b1cf5cd"
+            }
+          ]
+        }
+      },
+      "question_id": "88c460b00f9378ea2965e6cf1046022f",
+      "aggregator_type": "OR",
+      "query_id": "367",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.697931+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What are the two fuselages on the Stratolaunch Model 351 designed to hold?": {
+      "question": "What are the two fuselages on the Stratolaunch Model 351 designed to hold?",
+      "answers": {
+        "Crew": {
+          "answer": "Crew",
+          "references": [
+            {
+              "doc_id": "e462ef5e-ec4a-449d-919a-c916a979e4b3"
+            }
+          ]
+        },
+        "avionics equipment": {
+          "answer": "avionics equipment",
+          "references": [
+            {
+              "doc_id": "e462ef5e-ec4a-449d-919a-c916a979e4b3"
+            }
+          ]
+        }
+      },
+      "question_id": "142c1814ba8e417e4d99534c6acad88f",
+      "aggregator_type": "OR",
+      "query_id": "367",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.697961+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the Stratolaunch Model 351 designed to carry?": {
+      "question": "What is the Stratolaunch Model 351 designed to carry?",
+      "answers": {
+        "Pegasus XL launch vehicles": {
+          "answer": "Pegasus XL launch vehicles",
+          "references": [
+            {
+              "doc_id": "009a9ba3-373b-4205-809c-d8efbea95b00"
+            },
+            {
+              "doc_id": "1c697eb0-6f1d-43bd-8678-08e1db9cbd55"
+            },
+            {
+              "doc_id": "2319061f-e500-4231-a8c6-6187a9c543b0"
+            },
+            {
+              "doc_id": "2d78345e-4696-4930-af77-e6c9bffe5cc2"
+            },
+            {
+              "doc_id": "32d7b77e-8e77-40b9-9dce-e591513b3e9c"
+            },
+            {
+              "doc_id": "3a9d9044-2cf0-4f1f-aa30-46f68d91833f"
+            },
+            {
+              "doc_id": "6444f5ad-360d-4313-9d8c-03df7f6fe9e3"
+            },
+            {
+              "doc_id": "73c1409d-a564-4d37-b96a-d7feef69565b"
+            },
+            {
+              "doc_id": "940d349d-1724-40cf-a0b1-3d43df4df4f4"
+            },
+            {
+              "doc_id": "d151fbce-9217-4ddf-867b-603d6e359f29"
+            }
+          ]
+        },
+        "missiles": {
+          "answer": "missiles",
+          "references": [
+            {
+              "doc_id": "0704770f-779f-4422-9249-91ba3a63c4b2"
+            },
+            {
+              "doc_id": "50755b6e-ab33-4100-a393-7702c7c349ba"
+            },
+            {
+              "doc_id": "5cc2d3df-f23a-4157-a3e5-13aa026ac16e"
+            },
+            {
+              "doc_id": "969567cd-08e2-477f-9063-cedfc40a275f"
+            },
+            {
+              "doc_id": "d8b7fa3c-a7f2-48af-bfce-e79e4bea6136"
+            }
+          ]
+        },
+        "rocket launch vehicles": {
+          "answer": "rocket launch vehicles",
+          "references": [
+            {
+              "doc_id": "03a8210a-7729-4b1a-b2f4-87f946b9e29e"
+            },
+            {
+              "doc_id": "1094e1dc-ac51-4370-a5cd-8a308c5b0645"
+            },
+            {
+              "doc_id": "1a767eff-e63f-49e9-8c9a-77de339d51c7"
+            },
+            {
+              "doc_id": "26a38789-dd1b-4847-a1c8-172178a96edf"
+            },
+            {
+              "doc_id": "2d78345e-4696-4930-af77-e6c9bffe5cc2"
+            },
+            {
+              "doc_id": "3deb3171-7288-4ffc-be9d-065219cb45d0"
+            },
+            {
+              "doc_id": "5341cabd-3f06-4e7c-8743-57921626c826"
+            },
+            {
+              "doc_id": "6ab22fa5-2083-4064-98af-1493127c4a37"
+            },
+            {
+              "doc_id": "6e51b315-351d-41aa-9038-4a031621b9a2"
+            },
+            {
+              "doc_id": "73c1409d-a564-4d37-b96a-d7feef69565b"
+            },
+            {
+              "doc_id": "765c3440-dfed-446d-910f-e02ea9ed0c91"
+            },
+            {
+              "doc_id": "767a80e1-8086-4fd8-97ee-78ec63d69034"
+            },
+            {
+              "doc_id": "7b33af20-504d-4b92-904d-6b729a5ee76a"
+            },
+            {
+              "doc_id": "8ba29e36-42be-49a2-bf52-0dd5627fe883"
+            },
+            {
+              "doc_id": "940d349d-1724-40cf-a0b1-3d43df4df4f4"
+            },
+            {
+              "doc_id": "9eea978b-a1f4-4225-924c-a6387c3cc562"
+            },
+            {
+              "doc_id": "bc5a2f27-bec9-43bc-8b6f-fae3822664a4"
+            },
+            {
+              "doc_id": "be9007af-1518-4969-8f28-688116a17c33"
+            },
+            {
+              "doc_id": "d151fbce-9217-4ddf-867b-603d6e359f29"
+            },
+            {
+              "doc_id": "d5bd0bd9-d1aa-4bf5-9add-88805b1cf5cd"
+            },
+            {
+              "doc_id": "db166cd9-dfa2-4b6e-8346-a3ee6c2c1c57"
+            },
+            {
+              "doc_id": "e462ef5e-ec4a-449d-919a-c916a979e4b3"
+            },
+            {
+              "doc_id": "fc6ad727-8097-42fd-8d2a-9a837a3ceefb"
+            }
+          ]
+        },
+        "Rockets loaded with small satellites": {
+          "answer": "Rockets loaded with small satellites",
+          "references": [
+            {
+              "doc_id": "5a0f5573-2481-46e7-ba8d-1f9601d037c8"
+            },
+            {
+              "doc_id": "8f02f593-a60e-4f9f-999d-f527cc9c802e"
+            },
+            {
+              "doc_id": "90d5329e-f881-4029-bf18-75a5bee43afb"
+            }
+          ]
+        },
+        "Rockets": {
+          "answer": "Rockets",
+          "references": [
+            {
+              "doc_id": "76653435-a6b3-433c-aac7-48aa0078c972"
+            },
+            {
+              "doc_id": "90d5329e-f881-4029-bf18-75a5bee43afb"
+            }
+          ]
+        },
+        " Talon-A vehicles ": {
+          "answer": " Talon-A vehicles ",
+          "references": [
+            {
+              "doc_id": "76653435-a6b3-433c-aac7-48aa0078c972"
+            }
+          ]
+        },
+        "Multiple rockets, like the Pegasus XL": {
+          "answer": "Multiple rockets, like the Pegasus XL",
+          "references": [
+            {
+              "doc_id": "d07c8878-9689-44f8-aeba-87d7b54928c1"
+            }
+          ]
+        },
+        "Small satellites": {
+          "answer": "Small satellites",
+          "references": [
+            {
+              "doc_id": "d5325d34-f5c2-4210-9231-070adb42705d"
+            },
+            {
+              "doc_id": "f3d29edc-6b22-4f16-8eea-968140f75485"
+            }
+          ]
+        }
+      },
+      "question_id": "efc3c212bfa33f1be6531b41d4d2ac80",
+      "aggregator_type": "OR",
+      "query_id": "367",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.698080+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What are the Pegasus XL launch vehicles expected to launch?": {
+      "question": "What are the Pegasus XL launch vehicles expected to launch?",
+      "answers": {
+        "satellites into orbit": {
+          "answer": "satellites into orbit",
+          "references": [
+            {
+              "doc_id": "1c697eb0-6f1d-43bd-8678-08e1db9cbd55"
+            },
+            {
+              "doc_id": "2319061f-e500-4231-a8c6-6187a9c543b0"
+            },
+            {
+              "doc_id": "32d7b77e-8e77-40b9-9dce-e591513b3e9c"
+            },
+            {
+              "doc_id": "5341cabd-3f06-4e7c-8743-57921626c826"
+            },
+            {
+              "doc_id": "5a0f5573-2481-46e7-ba8d-1f9601d037c8"
+            },
+            {
+              "doc_id": "6444f5ad-360d-4313-9d8c-03df7f6fe9e3"
+            },
+            {
+              "doc_id": "76653435-a6b3-433c-aac7-48aa0078c972"
+            },
+            {
+              "doc_id": "a8dd3dc6-4239-4b65-a2df-e3a4c380055c"
+            },
+            {
+              "doc_id": "d151fbce-9217-4ddf-867b-603d6e359f29"
+            },
+            {
+              "doc_id": "d5325d34-f5c2-4210-9231-070adb42705d"
+            }
+          ]
+        }
+      },
+      "question_id": "a15e6c98373dc339c5a1bc1166770be6",
+      "aggregator_type": "OR",
+      "query_id": "367",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.698114+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What will the DoD use the Stratolaunch Model 351 for?": {
+      "question": "What will the DoD use the Stratolaunch Model 351 for?",
+      "answers": {
+        "Test hypersonic technologies": {
+          "answer": "Test hypersonic technologies",
+          "references": [
+            {
+              "doc_id": "1094e1dc-ac51-4370-a5cd-8a308c5b0645"
+            },
+            {
+              "doc_id": "4a5a476d-6c58-4c2f-8042-b12291ded3d2"
+            }
+          ]
+        },
+        "A launch platform for hypersonic vehicles": {
+          "answer": "A launch platform for hypersonic vehicles",
+          "references": [
+            {
+              "doc_id": "f3d29edc-6b22-4f16-8eea-968140f75485"
+            }
+          ]
+        }
+      },
+      "question_id": "ab88da19a42f057a09b8182acc4194e2",
+      "aggregator_type": "OR",
+      "query_id": "367",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.698142+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "From what altitude is the Stratolaunch Model 351 designed to launch?": {
+      "question": "From what altitude is the Stratolaunch Model 351 designed to launch?",
+      "answers": {
+        "10,500 meters": {
+          "answer": "10,500 meters",
+          "references": [
+            {
+              "doc_id": "73c1409d-a564-4d37-b96a-d7feef69565b"
+            }
+          ]
+        },
+        "35000 feet": {
+          "answer": "35000 feet",
+          "references": [
+            {
+              "doc_id": "969567cd-08e2-477f-9063-cedfc40a275f"
+            },
+            {
+              "doc_id": "d8b7fa3c-a7f2-48af-bfce-e79e4bea6136"
+            }
+          ]
+        },
+        "35,000 feet (nearly 11,000 meters)": {
+          "answer": "35,000 feet (nearly 11,000 meters)",
+          "references": [
+            {
+              "doc_id": "023c3141-0679-4b5d-8700-380e2fb2e74b"
+            },
+            {
+              "doc_id": "a8dd3dc6-4239-4b65-a2df-e3a4c380055c"
+            },
+            {
+              "doc_id": "d07c8878-9689-44f8-aeba-87d7b54928c1"
+            }
+          ]
+        },
+        "more than 30,000 feet": {
+          "answer": "more than 30,000 feet",
+          "references": [
+            {
+              "doc_id": "3f3429cc-1b68-411e-8218-b019a3fc0a54"
+            }
+          ]
+        }
+      },
+      "question_id": "268cae0d11734d59f995c4ee76747d42",
+      "aggregator_type": "OR",
+      "query_id": "367",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.698188+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "When was the Stratolaunch Model 351's maiden voyage?": {
+      "question": "When was the Stratolaunch Model 351's maiden voyage?",
+      "answers": {
+        "April 2019": {
+          "answer": "April 2019",
+          "references": [
+            {
+              "doc_id": "50755b6e-ab33-4100-a393-7702c7c349ba"
+            },
+            {
+              "doc_id": "6ab22fa5-2083-4064-98af-1493127c4a37"
+            },
+            {
+              "doc_id": "76653435-a6b3-433c-aac7-48aa0078c972"
+            },
+            {
+              "doc_id": "9eea978b-a1f4-4225-924c-a6387c3cc562"
+            },
+            {
+              "doc_id": "d151fbce-9217-4ddf-867b-603d6e359f29"
+            },
+            {
+              "doc_id": "d8b7fa3c-a7f2-48af-bfce-e79e4bea6136"
+            },
+            {
+              "doc_id": "db166cd9-dfa2-4b6e-8346-a3ee6c2c1c57"
+            },
+            {
+              "doc_id": "df668099-39ae-4be2-b8af-68bac7702791"
+            }
+          ]
+        },
+        "April 13, 2019": {
+          "answer": "April 13, 2019",
+          "references": [
+            {
+              "doc_id": "165eff75-4bcd-4842-b7d2-cdbee1770d15"
+            },
+            {
+              "doc_id": "4db78109-9c17-4ee5-959b-eed1e80f5f98"
+            },
+            {
+              "doc_id": "90d5329e-f881-4029-bf18-75a5bee43afb"
+            },
+            {
+              "doc_id": "df668099-39ae-4be2-b8af-68bac7702791"
+            },
+            {
+              "doc_id": "ea4c1307-2726-402f-a120-910504cdbcfb"
+            }
+          ]
+        }
+      },
+      "question_id": "5a1bd9a2f7f50e13b721c72ff45483cb",
+      "aggregator_type": "OR",
+      "query_id": "367",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.698237+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "At what altitude did the Stratolaunch Model 351 complete its maiden voyage?": {
+      "question": "At what altitude did the Stratolaunch Model 351 complete its maiden voyage?",
+      "answers": {
+        "5200 meters": {
+          "answer": "5200 meters",
+          "references": [
+            {
+              "doc_id": "af4f99f4-3e4f-4d1a-b206-e361232bd0be"
+            },
+            {
+              "doc_id": "d151fbce-9217-4ddf-867b-603d6e359f29"
+            }
+          ]
+        },
+        "More than 5 km": {
+          "answer": "More than 5 km",
+          "references": [
+            {
+              "doc_id": "32d7b77e-8e77-40b9-9dce-e591513b3e9c"
+            },
+            {
+              "doc_id": "4bddb0ab-92d8-4355-9dce-8564f6c644b3"
+            },
+            {
+              "doc_id": "50755b6e-ab33-4100-a393-7702c7c349ba"
+            },
+            {
+              "doc_id": "969567cd-08e2-477f-9063-cedfc40a275f"
+            },
+            {
+              "doc_id": "d8b7fa3c-a7f2-48af-bfce-e79e4bea6136"
+            }
+          ]
+        },
+        "17,500 feet": {
+          "answer": "17,500 feet",
+          "references": [
+            {
+              "doc_id": "4a5a476d-6c58-4c2f-8042-b12291ded3d2"
+            }
+          ]
+        },
+        "5182 meters": {
+          "answer": "5182 meters",
+          "references": [
+            {
+              "doc_id": "90d5329e-f881-4029-bf18-75a5bee43afb"
+            },
+            {
+              "doc_id": "a8dd3dc6-4239-4b65-a2df-e3a4c380055c"
+            }
+          ]
+        },
+        "15,000 feet (4,572 meters)": {
+          "answer": "15,000 feet (4,572 meters)",
+          "references": [
+            {
+              "doc_id": "ea4c1307-2726-402f-a120-910504cdbcfb"
+            }
+          ]
+        }
+      },
+      "question_id": "e0cc9da49402a5f7f789a5c85ce17904",
+      "aggregator_type": "OR",
+      "query_id": "367",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.698297+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "At what altitude did the Stratolaunch Model 351 complete its second voyage?": {
+      "question": "At what altitude did the Stratolaunch Model 351 complete its second voyage?",
+      "answers": {
+        "4300 meters": {
+          "answer": "4300 meters",
+          "references": [
+            {
+              "doc_id": "f3d29edc-6b22-4f16-8eea-968140f75485"
+            }
+          ]
+        },
+        "14,000 feet or 4267 meters": {
+          "answer": "14,000 feet or 4267 meters",
+          "references": [
+            {
+              "doc_id": "044973d2-292b-4310-a325-48bf13c2fc91"
+            },
+            {
+              "doc_id": "50755b6e-ab33-4100-a393-7702c7c349ba"
+            },
+            {
+              "doc_id": "df9d8258-e51a-4524-a250-81a5dd868096"
+            }
+          ]
+        },
+        "14,500 feet": {
+          "answer": "14,500 feet",
+          "references": [
+            {
+              "doc_id": "4a5a476d-6c58-4c2f-8042-b12291ded3d2"
+            }
+          ]
+        }
+      },
+      "question_id": "859d9eea2c201938f5808b62ed9f4e8e",
+      "aggregator_type": "OR",
+      "query_id": "367",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.698333+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How long did the Stratolaunch Model 351 fly during its second voyage?": {
+      "question": "How long did the Stratolaunch Model 351 fly during its second voyage?",
+      "answers": {
+        "3 hours 14 minutes": {
+          "answer": "3 hours 14 minutes",
+          "references": [
+            {
+              "doc_id": "044973d2-292b-4310-a325-48bf13c2fc91"
+            },
+            {
+              "doc_id": "4a5a476d-6c58-4c2f-8042-b12291ded3d2"
+            },
+            {
+              "doc_id": "50755b6e-ab33-4100-a393-7702c7c349ba"
+            },
+            {
+              "doc_id": "5a0f5573-2481-46e7-ba8d-1f9601d037c8"
+            },
+            {
+              "doc_id": "f3d29edc-6b22-4f16-8eea-968140f75485"
+            }
+          ]
+        }
+      },
+      "question_id": "b33c5109aa93078828f7a313d8b01404",
+      "aggregator_type": "OR",
+      "query_id": "367",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.698356+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,1827 @@
+{
+  "query_id": "352",
+  "title_query": "Iranian movies  Golden Bear award",
+  "full_query": "I need a report about Persian or Iranian movies that have won the prestigious Golden Bear award at the Berlin International Film Festival. For each winner I need details including the name of the film, the director, the director's cinematic approach, any relevant social-political context, and key themes.",
+  "full_background": "I am a research assistant for a popular YouTuber who is making a video about award-winning Persian movies.",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "Which Iranian movie won the Golden Bear in 2011?": {
+      "question": "Which Iranian movie won the Golden Bear in 2011?",
+      "answers": {
+        "Nader and Simin, A Separation": {
+          "answer": "Nader and Simin, A Separation",
+          "references": [
+            {
+              "doc_id": "022d6f6c-cbad-4978-9939-2c603646d150"
+            },
+            {
+              "doc_id": "0c8cc6c4-2d5b-439d-a38c-ad81d95518fd"
+            },
+            {
+              "doc_id": "26c6be88-7b30-41fc-8cba-fbc1caaada52"
+            },
+            {
+              "doc_id": "5c623e3c-dd80-4890-93bc-ae561fa71584"
+            },
+            {
+              "doc_id": "7b4f51cb-08ff-4cf9-9ab3-81378fd3e551"
+            },
+            {
+              "doc_id": "7d44525e-b3c8-474d-ad54-a582c9515af2"
+            },
+            {
+              "doc_id": "81f2bc34-4b60-4b58-b271-2f36f15458b2"
+            },
+            {
+              "doc_id": "888e6925-d505-4b8c-8d9d-0c5dacdcbccf"
+            },
+            {
+              "doc_id": "8e157cb1-24ad-4101-b583-7346fad2a035"
+            },
+            {
+              "doc_id": "998bb7b3-db77-40d9-bb5f-2d12d37d6f0c"
+            },
+            {
+              "doc_id": "b6126e1a-50e1-40c7-a26e-66464286e16e"
+            },
+            {
+              "doc_id": "b63bc1c0-c3ea-458d-8018-211d6e82790e"
+            },
+            {
+              "doc_id": "bfeaf597-d2fa-4583-bbe0-ba06031d9327"
+            },
+            {
+              "doc_id": "c0d516cf-f7fa-48d6-b5fd-98efb3b6d863"
+            },
+            {
+              "doc_id": "c41760cc-0e2f-4902-b134-b7adc51b2c02"
+            },
+            {
+              "doc_id": "cc6f7dc7-7562-41b7-926a-8a74a50554ed"
+            },
+            {
+              "doc_id": "d4ceed44-3dec-4514-af44-387d1320fb5e"
+            },
+            {
+              "doc_id": "d88de05f-fceb-4d46-a049-a8c8bae3ce5e"
+            },
+            {
+              "doc_id": "d991c5fe-8826-4c2c-9de1-22eb159d1a15"
+            },
+            {
+              "doc_id": "eb648398-d5f9-4fa2-b9c0-012805a53c66"
+            }
+          ]
+        },
+        "A Separation": {
+          "answer": "A Separation",
+          "references": [
+            {
+              "doc_id": "3816e4cf-c3ec-4996-82bf-4d5b080e72c0"
+            },
+            {
+              "doc_id": "7a55dbaa-c3ca-4d8c-a8f2-c3b40ea554ac"
+            },
+            {
+              "doc_id": "cb7cc876-c502-4326-adea-a48dbf62057c"
+            },
+            {
+              "doc_id": "e77ae619-318b-4252-8737-232558dc5430"
+            }
+          ]
+        }
+      },
+      "question_id": "603305020c0c0d352b1f98c71f4ed2fd",
+      "aggregator_type": "OR",
+      "query_id": "352",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.682166+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Who directed the film Nader and Simin, A Separation?": {
+      "question": "Who directed the film Nader and Simin, A Separation?",
+      "answers": {
+        "Asghar Farhadi": {
+          "answer": "Asghar Farhadi",
+          "references": [
+            {
+              "doc_id": "022d6f6c-cbad-4978-9939-2c603646d150"
+            },
+            {
+              "doc_id": "0c8cc6c4-2d5b-439d-a38c-ad81d95518fd"
+            },
+            {
+              "doc_id": "0f312882-9a2a-4681-8b26-6b84afd601c3"
+            },
+            {
+              "doc_id": "15a97f2e-fa30-4c27-97fa-188808dd8c35"
+            },
+            {
+              "doc_id": "205429bf-29f5-4392-9311-ba966de46fd8"
+            },
+            {
+              "doc_id": "26c6be88-7b30-41fc-8cba-fbc1caaada52"
+            },
+            {
+              "doc_id": "335deb0b-2f2b-4568-854f-35228222e2ab"
+            },
+            {
+              "doc_id": "3816e4cf-c3ec-4996-82bf-4d5b080e72c0"
+            },
+            {
+              "doc_id": "4fb590e9-1bdb-4d7d-bb32-0a8bfe100b45"
+            },
+            {
+              "doc_id": "5c623e3c-dd80-4890-93bc-ae561fa71584"
+            },
+            {
+              "doc_id": "7a55dbaa-c3ca-4d8c-a8f2-c3b40ea554ac"
+            },
+            {
+              "doc_id": "7b4f51cb-08ff-4cf9-9ab3-81378fd3e551"
+            },
+            {
+              "doc_id": "7d44525e-b3c8-474d-ad54-a582c9515af2"
+            },
+            {
+              "doc_id": "81f2bc34-4b60-4b58-b271-2f36f15458b2"
+            },
+            {
+              "doc_id": "888e6925-d505-4b8c-8d9d-0c5dacdcbccf"
+            },
+            {
+              "doc_id": "8e157cb1-24ad-4101-b583-7346fad2a035"
+            },
+            {
+              "doc_id": "998bb7b3-db77-40d9-bb5f-2d12d37d6f0c"
+            },
+            {
+              "doc_id": "a83d15e2-262e-4b9b-8e5a-aa891ade747e"
+            },
+            {
+              "doc_id": "ad2b7c30-efce-47a0-b177-1d765feadf12"
+            },
+            {
+              "doc_id": "b6126e1a-50e1-40c7-a26e-66464286e16e"
+            },
+            {
+              "doc_id": "b63bc1c0-c3ea-458d-8018-211d6e82790e"
+            },
+            {
+              "doc_id": "bfeaf597-d2fa-4583-bbe0-ba06031d9327"
+            },
+            {
+              "doc_id": "c41760cc-0e2f-4902-b134-b7adc51b2c02"
+            },
+            {
+              "doc_id": "cb7cc876-c502-4326-adea-a48dbf62057c"
+            },
+            {
+              "doc_id": "cc6f7dc7-7562-41b7-926a-8a74a50554ed"
+            },
+            {
+              "doc_id": "d4ceed44-3dec-4514-af44-387d1320fb5e"
+            },
+            {
+              "doc_id": "d88de05f-fceb-4d46-a049-a8c8bae3ce5e"
+            },
+            {
+              "doc_id": "d991c5fe-8826-4c2c-9de1-22eb159d1a15"
+            },
+            {
+              "doc_id": "e77ae619-318b-4252-8737-232558dc5430"
+            },
+            {
+              "doc_id": "eb648398-d5f9-4fa2-b9c0-012805a53c66"
+            },
+            {
+              "doc_id": "f733cd20-8792-4af5-ba9f-b3dada570226"
+            }
+          ]
+        }
+      },
+      "question_id": "99163753374f0d9f348bdc83a7434058",
+      "aggregator_type": "OR",
+      "query_id": "352",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.682236+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Which Iranian movie won the Golden Bear in 2015?": {
+      "question": "Which Iranian movie won the Golden Bear in 2015?",
+      "answers": {
+        "Taxi": {
+          "answer": "Taxi",
+          "references": [
+            {
+              "doc_id": "022d6f6c-cbad-4978-9939-2c603646d150"
+            },
+            {
+              "doc_id": "0dc89cd0-8a28-4cf4-8bb1-4b5953f2b5e8"
+            },
+            {
+              "doc_id": "0f312882-9a2a-4681-8b26-6b84afd601c3"
+            },
+            {
+              "doc_id": "4fe8fcf2-572c-4afd-bc71-9ae33cfffd2e"
+            },
+            {
+              "doc_id": "52530f14-fdab-42f8-9745-863a01b8f2e6"
+            },
+            {
+              "doc_id": "5c623e3c-dd80-4890-93bc-ae561fa71584"
+            },
+            {
+              "doc_id": "6f5884f1-0204-44bf-b89f-ae8b806d7d9d"
+            },
+            {
+              "doc_id": "888e6925-d505-4b8c-8d9d-0c5dacdcbccf"
+            },
+            {
+              "doc_id": "a67736ed-e8b4-4f2d-a7d3-302ba41d4a87"
+            },
+            {
+              "doc_id": "acf6b4b3-ed4f-47d1-a8ff-77a68e89df31"
+            },
+            {
+              "doc_id": "ae3347de-a8fe-4cb9-b890-1dcfe6377f8e"
+            },
+            {
+              "doc_id": "b7040e93-793b-4dc3-b46b-2be88d3a6c49"
+            },
+            {
+              "doc_id": "c64b3285-3ade-4196-834c-128153f04081"
+            },
+            {
+              "doc_id": "c72edc00-e23e-4495-b4c4-67bf3e41066b"
+            }
+          ]
+        }
+      },
+      "question_id": "2a1340b6356ea296c7af5577651d22c7",
+      "aggregator_type": "OR",
+      "query_id": "352",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.682273+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Who directed the film Taxi?": {
+      "question": "Who directed the film Taxi?",
+      "answers": {
+        "Jafar Panahi": {
+          "answer": "Jafar Panahi",
+          "references": [
+            {
+              "doc_id": "022d6f6c-cbad-4978-9939-2c603646d150"
+            },
+            {
+              "doc_id": "0dc89cd0-8a28-4cf4-8bb1-4b5953f2b5e8"
+            },
+            {
+              "doc_id": "0f312882-9a2a-4681-8b26-6b84afd601c3"
+            },
+            {
+              "doc_id": "15a97f2e-fa30-4c27-97fa-188808dd8c35"
+            },
+            {
+              "doc_id": "1e4974ac-23bc-456a-bbab-2c52a55168df"
+            },
+            {
+              "doc_id": "4fe8fcf2-572c-4afd-bc71-9ae33cfffd2e"
+            },
+            {
+              "doc_id": "52530f14-fdab-42f8-9745-863a01b8f2e6"
+            },
+            {
+              "doc_id": "5c623e3c-dd80-4890-93bc-ae561fa71584"
+            },
+            {
+              "doc_id": "6f5884f1-0204-44bf-b89f-ae8b806d7d9d"
+            },
+            {
+              "doc_id": "888e6925-d505-4b8c-8d9d-0c5dacdcbccf"
+            },
+            {
+              "doc_id": "a67736ed-e8b4-4f2d-a7d3-302ba41d4a87"
+            },
+            {
+              "doc_id": "acf6b4b3-ed4f-47d1-a8ff-77a68e89df31"
+            },
+            {
+              "doc_id": "ae3347de-a8fe-4cb9-b890-1dcfe6377f8e"
+            },
+            {
+              "doc_id": "b7040e93-793b-4dc3-b46b-2be88d3a6c49"
+            },
+            {
+              "doc_id": "c1fdd34b-7852-44f3-ad90-bb3730be6c6e"
+            },
+            {
+              "doc_id": "c64b3285-3ade-4196-834c-128153f04081"
+            },
+            {
+              "doc_id": "c72edc00-e23e-4495-b4c4-67bf3e41066b"
+            }
+          ]
+        }
+      },
+      "question_id": "630cafa47c233eb0d2d8ea39d5aa8a4f",
+      "aggregator_type": "OR",
+      "query_id": "352",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.682312+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What was director Jafar Panahi convicted of in Iran?": {
+      "question": "What was director Jafar Panahi convicted of in Iran?",
+      "answers": {
+        "Anti-government activities": {
+          "answer": "Anti-government activities",
+          "references": [
+            {
+              "doc_id": "022d6f6c-cbad-4978-9939-2c603646d150"
+            },
+            {
+              "doc_id": "1e4974ac-23bc-456a-bbab-2c52a55168df"
+            },
+            {
+              "doc_id": "52530f14-fdab-42f8-9745-863a01b8f2e6"
+            },
+            {
+              "doc_id": "a67736ed-e8b4-4f2d-a7d3-302ba41d4a87"
+            },
+            {
+              "doc_id": "c64b3285-3ade-4196-834c-128153f04081"
+            },
+            {
+              "doc_id": "d468d658-c040-451c-a63f-01378df00765"
+            }
+          ]
+        },
+        "supporting ": {
+          "answer": "supporting ",
+          "references": []
+        },
+        "supporting the 2008 protests in Iran": {
+          "answer": "supporting the 2008 protests in Iran",
+          "references": [
+            {
+              "doc_id": "b7040e93-793b-4dc3-b46b-2be88d3a6c49"
+            }
+          ]
+        },
+        "Endangering national security": {
+          "answer": "Endangering national security",
+          "references": [
+            {
+              "doc_id": "0f312882-9a2a-4681-8b26-6b84afd601c3"
+            },
+            {
+              "doc_id": "88232f24-a1f5-4662-8e5b-326a3e42a62e"
+            },
+            {
+              "doc_id": "acf6b4b3-ed4f-47d1-a8ff-77a68e89df31"
+            }
+          ]
+        }
+      },
+      "question_id": "0ea9e0c3af0228f306db7da5b28a20cd",
+      "aggregator_type": "OR",
+      "query_id": "352",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.682361+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Which Iranian movie won the Golden Bear in 2020?": {
+      "question": "Which Iranian movie won the Golden Bear in 2020?",
+      "answers": {
+        "Evil Does not Exist": {
+          "answer": "Evil Does not Exist",
+          "references": [
+            {
+              "doc_id": "024447e4-120a-4c3c-a7ec-e6e3b16ca870"
+            },
+            {
+              "doc_id": "0746fe25-6ac9-4f2f-937e-0e8b3fcf1f2e"
+            },
+            {
+              "doc_id": "0c8cc6c4-2d5b-439d-a38c-ad81d95518fd"
+            },
+            {
+              "doc_id": "1611c486-103a-42cf-b28d-5dbcfe0d7ee1"
+            },
+            {
+              "doc_id": "17bd6ada-c116-4951-8740-2fea6c192184"
+            },
+            {
+              "doc_id": "1977bc5b-4c5d-4704-872f-ce4f8f92d47e"
+            },
+            {
+              "doc_id": "2a661c51-c10c-4431-aadd-cf7baa4a0af5"
+            },
+            {
+              "doc_id": "2b8e1b7d-3e8b-45fa-b4b7-cb5eb2327784"
+            },
+            {
+              "doc_id": "30949884-f226-44c2-a097-4647c4fc5ca5"
+            },
+            {
+              "doc_id": "335deb0b-2f2b-4568-854f-35228222e2ab"
+            },
+            {
+              "doc_id": "4648303b-d908-4129-981a-755c7c4e194c"
+            },
+            {
+              "doc_id": "4e49bc56-7cf1-435e-8df6-d8f48a69d905"
+            },
+            {
+              "doc_id": "4fe8fcf2-572c-4afd-bc71-9ae33cfffd2e"
+            },
+            {
+              "doc_id": "506e26e2-3e1f-4066-a447-b3c1ce49810c"
+            },
+            {
+              "doc_id": "5c623e3c-dd80-4890-93bc-ae561fa71584"
+            },
+            {
+              "doc_id": "61f71709-8c5a-43a0-8dc6-a381fbe7a7a9"
+            },
+            {
+              "doc_id": "706bf398-3975-4f67-8627-ba974f62f651"
+            },
+            {
+              "doc_id": "7104c177-c3c9-48d6-979a-fa480b66ba05"
+            },
+            {
+              "doc_id": "7b4f51cb-08ff-4cf9-9ab3-81378fd3e551"
+            },
+            {
+              "doc_id": "8011ea79-de6c-4fd9-887d-6385c985952b"
+            },
+            {
+              "doc_id": "998bb7b3-db77-40d9-bb5f-2d12d37d6f0c"
+            },
+            {
+              "doc_id": "a0c2c31b-1c3b-4f7d-a697-defa2fbd3779"
+            },
+            {
+              "doc_id": "abdc116a-adab-467f-951e-45337f57a6eb"
+            },
+            {
+              "doc_id": "ac1fb623-8189-460b-bf1d-4b0d28ae4576"
+            },
+            {
+              "doc_id": "ac53bf56-37a7-444c-80eb-35577a7f4a87"
+            },
+            {
+              "doc_id": "ae3347de-a8fe-4cb9-b890-1dcfe6377f8e"
+            },
+            {
+              "doc_id": "b5d2ff0c-14f2-4bc5-a25a-d77340e3ab03"
+            },
+            {
+              "doc_id": "b64afa86-7c8c-46f7-9fb7-9a3183e77314"
+            },
+            {
+              "doc_id": "b6f9b69c-cb52-4329-97ec-2617b6c5cf66"
+            },
+            {
+              "doc_id": "bb32c39d-dff2-4aad-bdc9-3ceef7d4bddb"
+            },
+            {
+              "doc_id": "c64b3285-3ade-4196-834c-128153f04081"
+            },
+            {
+              "doc_id": "e2f031dc-b132-4f36-8ba2-c9bb3fba3fbd"
+            },
+            {
+              "doc_id": "e4733674-a80e-4413-ab43-66ec0b3b5101"
+            },
+            {
+              "doc_id": "ea6ecad2-5200-41d3-9364-c563c1dbb7d9"
+            },
+            {
+              "doc_id": "f3ca9003-141b-44ee-bee9-e31ca42d1724"
+            },
+            {
+              "doc_id": "f9eb0421-f903-474c-a304-02ae62121a52"
+            }
+          ]
+        },
+        "There is No Evil": {
+          "answer": "There is No Evil",
+          "references": [
+            {
+              "doc_id": "0f312882-9a2a-4681-8b26-6b84afd601c3"
+            },
+            {
+              "doc_id": "110e8b1e-7f20-4f0e-ad03-50726e8983fb"
+            },
+            {
+              "doc_id": "162ae5a6-4d6b-475f-81fe-b627fcbdbbba"
+            },
+            {
+              "doc_id": "2a7f11fa-363d-43f9-b263-0bdbdc61d3d0"
+            },
+            {
+              "doc_id": "47c9b8c9-1ee8-4fa2-b42e-2550750a70d3"
+            },
+            {
+              "doc_id": "7ed9f2b0-fc3d-4841-8664-a8579a009ca4"
+            },
+            {
+              "doc_id": "88232f24-a1f5-4662-8e5b-326a3e42a62e"
+            },
+            {
+              "doc_id": "9f6318db-5773-4839-afc3-1876c58663a9"
+            },
+            {
+              "doc_id": "bc619aad-f612-44e8-aeac-379d9ae3ef3d"
+            },
+            {
+              "doc_id": "bcb9a9d6-3f80-45a9-a2cd-0d23c4d2642b"
+            },
+            {
+              "doc_id": "c1638b40-bf91-431e-8391-017c22bcc6d6"
+            },
+            {
+              "doc_id": "c40ee38d-2d6d-4ef5-bb8e-856741c938c8"
+            },
+            {
+              "doc_id": "c8891a4d-49c0-4af7-aaf4-06725295b1f0"
+            },
+            {
+              "doc_id": "dc166cbc-ff2b-4b87-8f51-7cde50f3cedd"
+            }
+          ]
+        },
+        "Innocence (aka: There is No Evil) ": {
+          "answer": "Innocence (aka: There is No Evil) ",
+          "references": [
+            {
+              "doc_id": "88232f24-a1f5-4662-8e5b-326a3e42a62e"
+            },
+            {
+              "doc_id": "9f6318db-5773-4839-afc3-1876c58663a9"
+            }
+          ]
+        }
+      },
+      "question_id": "7dec9710a373e5ae3d111010fc955339",
+      "aggregator_type": "OR",
+      "query_id": "352",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.682451+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Who directed the film There is No Evil?": {
+      "question": "Who directed the film There is No Evil?",
+      "answers": {
+        "Mohammad Rasoulof": {
+          "answer": "Mohammad Rasoulof",
+          "references": [
+            {
+              "doc_id": "022d6f6c-cbad-4978-9939-2c603646d150"
+            },
+            {
+              "doc_id": "024447e4-120a-4c3c-a7ec-e6e3b16ca870"
+            },
+            {
+              "doc_id": "0746fe25-6ac9-4f2f-937e-0e8b3fcf1f2e"
+            },
+            {
+              "doc_id": "0c8cc6c4-2d5b-439d-a38c-ad81d95518fd"
+            },
+            {
+              "doc_id": "0f312882-9a2a-4681-8b26-6b84afd601c3"
+            },
+            {
+              "doc_id": "110e8b1e-7f20-4f0e-ad03-50726e8983fb"
+            },
+            {
+              "doc_id": "1611c486-103a-42cf-b28d-5dbcfe0d7ee1"
+            },
+            {
+              "doc_id": "162ae5a6-4d6b-475f-81fe-b627fcbdbbba"
+            },
+            {
+              "doc_id": "17bd6ada-c116-4951-8740-2fea6c192184"
+            },
+            {
+              "doc_id": "1977bc5b-4c5d-4704-872f-ce4f8f92d47e"
+            },
+            {
+              "doc_id": "2a661c51-c10c-4431-aadd-cf7baa4a0af5"
+            },
+            {
+              "doc_id": "2a7f11fa-363d-43f9-b263-0bdbdc61d3d0"
+            },
+            {
+              "doc_id": "2b8e1b7d-3e8b-45fa-b4b7-cb5eb2327784"
+            },
+            {
+              "doc_id": "30949884-f226-44c2-a097-4647c4fc5ca5"
+            },
+            {
+              "doc_id": "335deb0b-2f2b-4568-854f-35228222e2ab"
+            },
+            {
+              "doc_id": "4648303b-d908-4129-981a-755c7c4e194c"
+            },
+            {
+              "doc_id": "47c9b8c9-1ee8-4fa2-b42e-2550750a70d3"
+            },
+            {
+              "doc_id": "4e49bc56-7cf1-435e-8df6-d8f48a69d905"
+            },
+            {
+              "doc_id": "4fe8fcf2-572c-4afd-bc71-9ae33cfffd2e"
+            },
+            {
+              "doc_id": "506e26e2-3e1f-4066-a447-b3c1ce49810c"
+            },
+            {
+              "doc_id": "5c623e3c-dd80-4890-93bc-ae561fa71584"
+            },
+            {
+              "doc_id": "61f71709-8c5a-43a0-8dc6-a381fbe7a7a9"
+            },
+            {
+              "doc_id": "706bf398-3975-4f67-8627-ba974f62f651"
+            },
+            {
+              "doc_id": "7104c177-c3c9-48d6-979a-fa480b66ba05"
+            },
+            {
+              "doc_id": "7b4f51cb-08ff-4cf9-9ab3-81378fd3e551"
+            },
+            {
+              "doc_id": "7ed9f2b0-fc3d-4841-8664-a8579a009ca4"
+            },
+            {
+              "doc_id": "8011ea79-de6c-4fd9-887d-6385c985952b"
+            },
+            {
+              "doc_id": "88232f24-a1f5-4662-8e5b-326a3e42a62e"
+            },
+            {
+              "doc_id": "998bb7b3-db77-40d9-bb5f-2d12d37d6f0c"
+            },
+            {
+              "doc_id": "9f6318db-5773-4839-afc3-1876c58663a9"
+            },
+            {
+              "doc_id": "a0c2c31b-1c3b-4f7d-a697-defa2fbd3779"
+            },
+            {
+              "doc_id": "abdc116a-adab-467f-951e-45337f57a6eb"
+            },
+            {
+              "doc_id": "ac1fb623-8189-460b-bf1d-4b0d28ae4576"
+            },
+            {
+              "doc_id": "ac53bf56-37a7-444c-80eb-35577a7f4a87"
+            },
+            {
+              "doc_id": "ae3347de-a8fe-4cb9-b890-1dcfe6377f8e"
+            },
+            {
+              "doc_id": "b64afa86-7c8c-46f7-9fb7-9a3183e77314"
+            },
+            {
+              "doc_id": "bb32c39d-dff2-4aad-bdc9-3ceef7d4bddb"
+            },
+            {
+              "doc_id": "bc619aad-f612-44e8-aeac-379d9ae3ef3d"
+            },
+            {
+              "doc_id": "bcb9a9d6-3f80-45a9-a2cd-0d23c4d2642b"
+            },
+            {
+              "doc_id": "bfeaf597-d2fa-4583-bbe0-ba06031d9327"
+            },
+            {
+              "doc_id": "c1638b40-bf91-431e-8391-017c22bcc6d6"
+            },
+            {
+              "doc_id": "c40ee38d-2d6d-4ef5-bb8e-856741c938c8"
+            },
+            {
+              "doc_id": "c64b3285-3ade-4196-834c-128153f04081"
+            },
+            {
+              "doc_id": "c8891a4d-49c0-4af7-aaf4-06725295b1f0"
+            },
+            {
+              "doc_id": "c9a48582-0b79-4ecd-b8a0-b1eaad347fa4"
+            },
+            {
+              "doc_id": "dc166cbc-ff2b-4b87-8f51-7cde50f3cedd"
+            },
+            {
+              "doc_id": "e2f031dc-b132-4f36-8ba2-c9bb3fba3fbd"
+            },
+            {
+              "doc_id": "e4733674-a80e-4413-ab43-66ec0b3b5101"
+            },
+            {
+              "doc_id": "ea6ecad2-5200-41d3-9364-c563c1dbb7d9"
+            },
+            {
+              "doc_id": "f3ca9003-141b-44ee-bee9-e31ca42d1724"
+            },
+            {
+              "doc_id": "f9eb0421-f903-474c-a304-02ae62121a52"
+            }
+          ]
+        }
+      },
+      "question_id": "75e77a5ee75faa4f9aab1e20827eb2aa",
+      "aggregator_type": "OR",
+      "query_id": "352",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.682524+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How many stories does the film There is No Evil contain?": {
+      "question": "How many stories does the film There is No Evil contain?",
+      "answers": {
+        "Four": {
+          "answer": "Four",
+          "references": [
+            {
+              "doc_id": "022d6f6c-cbad-4978-9939-2c603646d150"
+            },
+            {
+              "doc_id": "0c8cc6c4-2d5b-439d-a38c-ad81d95518fd"
+            },
+            {
+              "doc_id": "0f312882-9a2a-4681-8b26-6b84afd601c3"
+            },
+            {
+              "doc_id": "110e8b1e-7f20-4f0e-ad03-50726e8983fb"
+            },
+            {
+              "doc_id": "162ae5a6-4d6b-475f-81fe-b627fcbdbbba"
+            },
+            {
+              "doc_id": "17bd6ada-c116-4951-8740-2fea6c192184"
+            },
+            {
+              "doc_id": "2a7f11fa-363d-43f9-b263-0bdbdc61d3d0"
+            },
+            {
+              "doc_id": "2b8e1b7d-3e8b-45fa-b4b7-cb5eb2327784"
+            },
+            {
+              "doc_id": "30949884-f226-44c2-a097-4647c4fc5ca5"
+            },
+            {
+              "doc_id": "335deb0b-2f2b-4568-854f-35228222e2ab"
+            },
+            {
+              "doc_id": "399369d4-a4d6-46bf-b0de-e00b616eafc0"
+            },
+            {
+              "doc_id": "47c9b8c9-1ee8-4fa2-b42e-2550750a70d3"
+            },
+            {
+              "doc_id": "4e49bc56-7cf1-435e-8df6-d8f48a69d905"
+            },
+            {
+              "doc_id": "8011ea79-de6c-4fd9-887d-6385c985952b"
+            },
+            {
+              "doc_id": "998bb7b3-db77-40d9-bb5f-2d12d37d6f0c"
+            },
+            {
+              "doc_id": "9f6318db-5773-4839-afc3-1876c58663a9"
+            },
+            {
+              "doc_id": "ac53bf56-37a7-444c-80eb-35577a7f4a87"
+            },
+            {
+              "doc_id": "bc619aad-f612-44e8-aeac-379d9ae3ef3d"
+            },
+            {
+              "doc_id": "c1638b40-bf91-431e-8391-017c22bcc6d6"
+            },
+            {
+              "doc_id": "c64b3285-3ade-4196-834c-128153f04081"
+            },
+            {
+              "doc_id": "c9a48582-0b79-4ecd-b8a0-b1eaad347fa4"
+            },
+            {
+              "doc_id": "f9eb0421-f903-474c-a304-02ae62121a52"
+            }
+          ]
+        }
+      },
+      "question_id": "4ff5ad73fda48423aa4891393354da9d",
+      "aggregator_type": "OR",
+      "query_id": "352",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.682614+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the subject matter of the film There is No Evil?": {
+      "question": "What is the subject matter of the film There is No Evil?",
+      "answers": {
+        "Life in a totalitarian society": {
+          "answer": "Life in a totalitarian society",
+          "references": [
+            {
+              "doc_id": "0f312882-9a2a-4681-8b26-6b84afd601c3"
+            },
+            {
+              "doc_id": "110e8b1e-7f20-4f0e-ad03-50726e8983fb"
+            },
+            {
+              "doc_id": "162ae5a6-4d6b-475f-81fe-b627fcbdbbba"
+            },
+            {
+              "doc_id": "30949884-f226-44c2-a097-4647c4fc5ca5"
+            },
+            {
+              "doc_id": "4648303b-d908-4129-981a-755c7c4e194c"
+            },
+            {
+              "doc_id": "47c9b8c9-1ee8-4fa2-b42e-2550750a70d3"
+            },
+            {
+              "doc_id": "9f6318db-5773-4839-afc3-1876c58663a9"
+            },
+            {
+              "doc_id": "bc619aad-f612-44e8-aeac-379d9ae3ef3d"
+            },
+            {
+              "doc_id": "ea6ecad2-5200-41d3-9364-c563c1dbb7d9"
+            },
+            {
+              "doc_id": "f9eb0421-f903-474c-a304-02ae62121a52"
+            }
+          ]
+        },
+        "Freedom": {
+          "answer": "Freedom",
+          "references": [
+            {
+              "doc_id": "024447e4-120a-4c3c-a7ec-e6e3b16ca870"
+            },
+            {
+              "doc_id": "0f312882-9a2a-4681-8b26-6b84afd601c3"
+            },
+            {
+              "doc_id": "110e8b1e-7f20-4f0e-ad03-50726e8983fb"
+            },
+            {
+              "doc_id": "162ae5a6-4d6b-475f-81fe-b627fcbdbbba"
+            },
+            {
+              "doc_id": "30949884-f226-44c2-a097-4647c4fc5ca5"
+            },
+            {
+              "doc_id": "4e49bc56-7cf1-435e-8df6-d8f48a69d905"
+            },
+            {
+              "doc_id": "88232f24-a1f5-4662-8e5b-326a3e42a62e"
+            },
+            {
+              "doc_id": "ea6ecad2-5200-41d3-9364-c563c1dbb7d9"
+            }
+          ]
+        },
+        "Death penalty": {
+          "answer": "Death penalty",
+          "references": [
+            {
+              "doc_id": "0f312882-9a2a-4681-8b26-6b84afd601c3"
+            },
+            {
+              "doc_id": "110e8b1e-7f20-4f0e-ad03-50726e8983fb"
+            },
+            {
+              "doc_id": "162ae5a6-4d6b-475f-81fe-b627fcbdbbba"
+            },
+            {
+              "doc_id": "2a7f11fa-363d-43f9-b263-0bdbdc61d3d0"
+            },
+            {
+              "doc_id": "30949884-f226-44c2-a097-4647c4fc5ca5"
+            },
+            {
+              "doc_id": "399369d4-a4d6-46bf-b0de-e00b616eafc0"
+            },
+            {
+              "doc_id": "47c9b8c9-1ee8-4fa2-b42e-2550750a70d3"
+            },
+            {
+              "doc_id": "706bf398-3975-4f67-8627-ba974f62f651"
+            },
+            {
+              "doc_id": "7ed9f2b0-fc3d-4841-8664-a8579a009ca4"
+            },
+            {
+              "doc_id": "88232f24-a1f5-4662-8e5b-326a3e42a62e"
+            },
+            {
+              "doc_id": "9f6318db-5773-4839-afc3-1876c58663a9"
+            },
+            {
+              "doc_id": "ac53bf56-37a7-444c-80eb-35577a7f4a87"
+            },
+            {
+              "doc_id": "bcb9a9d6-3f80-45a9-a2cd-0d23c4d2642b"
+            },
+            {
+              "doc_id": "c1638b40-bf91-431e-8391-017c22bcc6d6"
+            },
+            {
+              "doc_id": "c40ee38d-2d6d-4ef5-bb8e-856741c938c8"
+            },
+            {
+              "doc_id": "f3ca9003-141b-44ee-bee9-e31ca42d1724"
+            }
+          ]
+        },
+        "Moral choices": {
+          "answer": "Moral choices",
+          "references": [
+            {
+              "doc_id": "0c8cc6c4-2d5b-439d-a38c-ad81d95518fd"
+            },
+            {
+              "doc_id": "0f312882-9a2a-4681-8b26-6b84afd601c3"
+            },
+            {
+              "doc_id": "110e8b1e-7f20-4f0e-ad03-50726e8983fb"
+            },
+            {
+              "doc_id": "162ae5a6-4d6b-475f-81fe-b627fcbdbbba"
+            },
+            {
+              "doc_id": "2a7f11fa-363d-43f9-b263-0bdbdc61d3d0"
+            },
+            {
+              "doc_id": "399369d4-a4d6-46bf-b0de-e00b616eafc0"
+            },
+            {
+              "doc_id": "4e49bc56-7cf1-435e-8df6-d8f48a69d905"
+            },
+            {
+              "doc_id": "998bb7b3-db77-40d9-bb5f-2d12d37d6f0c"
+            },
+            {
+              "doc_id": "bc619aad-f612-44e8-aeac-379d9ae3ef3d"
+            }
+          ]
+        },
+        "execution": {
+          "answer": "execution",
+          "references": [
+            {
+              "doc_id": "022d6f6c-cbad-4978-9939-2c603646d150"
+            },
+            {
+              "doc_id": "335deb0b-2f2b-4568-854f-35228222e2ab"
+            },
+            {
+              "doc_id": "8011ea79-de6c-4fd9-887d-6385c985952b"
+            },
+            {
+              "doc_id": "c9a48582-0b79-4ecd-b8a0-b1eaad347fa4"
+            }
+          ]
+        },
+        "individual responsibility": {
+          "answer": "individual responsibility",
+          "references": [
+            {
+              "doc_id": "0746fe25-6ac9-4f2f-937e-0e8b3fcf1f2e"
+            },
+            {
+              "doc_id": "17bd6ada-c116-4951-8740-2fea6c192184"
+            },
+            {
+              "doc_id": "2a7f11fa-363d-43f9-b263-0bdbdc61d3d0"
+            },
+            {
+              "doc_id": "ac53bf56-37a7-444c-80eb-35577a7f4a87"
+            },
+            {
+              "doc_id": "f3ca9003-141b-44ee-bee9-e31ca42d1724"
+            }
+          ]
+        },
+        "Italian Artist Antonio Ligabue": {
+          "answer": "Italian Artist Antonio Ligabue",
+          "references": [
+            {
+              "doc_id": "1977bc5b-4c5d-4704-872f-ce4f8f92d47e"
+            }
+          ]
+        },
+        "Paradoxes of life in contemporary Iran": {
+          "answer": "Paradoxes of life in contemporary Iran",
+          "references": [
+            {
+              "doc_id": "2b8e1b7d-3e8b-45fa-b4b7-cb5eb2327784"
+            }
+          ]
+        },
+        "Murder": {
+          "answer": "Murder",
+          "references": [
+            {
+              "doc_id": "30949884-f226-44c2-a097-4647c4fc5ca5"
+            }
+          ]
+        }
+      },
+      "question_id": "d618a19ffac6a249004b35a8e1e4ba84",
+      "aggregator_type": "OR",
+      "query_id": "352",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.682750+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What does Mohammad Rasoulof posit as the theme of his film There is No Evil?": {
+      "question": "What does Mohammad Rasoulof posit as the theme of his film There is No Evil?",
+      "answers": {
+        "Personal responsibility": {
+          "answer": "Personal responsibility",
+          "references": [
+            {
+              "doc_id": "0746fe25-6ac9-4f2f-937e-0e8b3fcf1f2e"
+            },
+            {
+              "doc_id": "0c8cc6c4-2d5b-439d-a38c-ad81d95518fd"
+            },
+            {
+              "doc_id": "335deb0b-2f2b-4568-854f-35228222e2ab"
+            },
+            {
+              "doc_id": "4648303b-d908-4129-981a-755c7c4e194c"
+            },
+            {
+              "doc_id": "bc619aad-f612-44e8-aeac-379d9ae3ef3d"
+            },
+            {
+              "doc_id": "e4733674-a80e-4413-ab43-66ec0b3b5101"
+            },
+            {
+              "doc_id": "f3ca9003-141b-44ee-bee9-e31ca42d1724"
+            }
+          ]
+        },
+        "Decisions under a dictatorship": {
+          "answer": "Decisions under a dictatorship",
+          "references": [
+            {
+              "doc_id": "110e8b1e-7f20-4f0e-ad03-50726e8983fb"
+            },
+            {
+              "doc_id": "162ae5a6-4d6b-475f-81fe-b627fcbdbbba"
+            },
+            {
+              "doc_id": "4648303b-d908-4129-981a-755c7c4e194c"
+            },
+            {
+              "doc_id": "88232f24-a1f5-4662-8e5b-326a3e42a62e"
+            },
+            {
+              "doc_id": "c40ee38d-2d6d-4ef5-bb8e-856741c938c8"
+            },
+            {
+              "doc_id": "c8891a4d-49c0-4af7-aaf4-06725295b1f0"
+            }
+          ]
+        },
+        "Rebellion and subjugation under dictatorship": {
+          "answer": "Rebellion and subjugation under dictatorship",
+          "references": [
+            {
+              "doc_id": "4648303b-d908-4129-981a-755c7c4e194c"
+            }
+          ]
+        }
+      },
+      "question_id": "40fcb40b03f11fa9a4418dfb1dfae387",
+      "aggregator_type": "OR",
+      "query_id": "352",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.682797+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Why was the film There is No Evil shot in secret?": {
+      "question": "Why was the film There is No Evil shot in secret?",
+      "answers": {
+        "Rasoulof is banned from making movies in Iran": {
+          "answer": "Rasoulof is banned from making movies in Iran",
+          "references": [
+            {
+              "doc_id": "30949884-f226-44c2-a097-4647c4fc5ca5"
+            },
+            {
+              "doc_id": "47c9b8c9-1ee8-4fa2-b42e-2550750a70d3"
+            },
+            {
+              "doc_id": "706bf398-3975-4f67-8627-ba974f62f651"
+            },
+            {
+              "doc_id": "bc619aad-f612-44e8-aeac-379d9ae3ef3d"
+            },
+            {
+              "doc_id": "bcb9a9d6-3f80-45a9-a2cd-0d23c4d2642b"
+            },
+            {
+              "doc_id": "c1638b40-bf91-431e-8391-017c22bcc6d6"
+            },
+            {
+              "doc_id": "c64b3285-3ade-4196-834c-128153f04081"
+            },
+            {
+              "doc_id": "c8891a4d-49c0-4af7-aaf4-06725295b1f0"
+            }
+          ]
+        }
+      },
+      "question_id": "b16e95cbdc03acb46043f00f35c7dda4",
+      "aggregator_type": "OR",
+      "query_id": "352",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.682823+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Why was Mohammad Rasoulof unable to accept the Golden Bear in person?": {
+      "question": "Why was Mohammad Rasoulof unable to accept the Golden Bear in person?",
+      "answers": {
+        "in prison": {
+          "answer": "in prison",
+          "references": [
+            {
+              "doc_id": "30949884-f226-44c2-a097-4647c4fc5ca5"
+            },
+            {
+              "doc_id": "66bf28e5-48b3-41fc-83f7-25e4c04dcc20"
+            },
+            {
+              "doc_id": "bb32c39d-dff2-4aad-bdc9-3ceef7d4bddb"
+            },
+            {
+              "doc_id": "bc619aad-f612-44e8-aeac-379d9ae3ef3d"
+            },
+            {
+              "doc_id": "c40ee38d-2d6d-4ef5-bb8e-856741c938c8"
+            }
+          ]
+        },
+        "prohibited from leaving Iran": {
+          "answer": "prohibited from leaving Iran",
+          "references": [
+            {
+              "doc_id": "024447e4-120a-4c3c-a7ec-e6e3b16ca870"
+            },
+            {
+              "doc_id": "0746fe25-6ac9-4f2f-937e-0e8b3fcf1f2e"
+            },
+            {
+              "doc_id": "110e8b1e-7f20-4f0e-ad03-50726e8983fb"
+            },
+            {
+              "doc_id": "17bd6ada-c116-4951-8740-2fea6c192184"
+            },
+            {
+              "doc_id": "30949884-f226-44c2-a097-4647c4fc5ca5"
+            },
+            {
+              "doc_id": "335deb0b-2f2b-4568-854f-35228222e2ab"
+            },
+            {
+              "doc_id": "4648303b-d908-4129-981a-755c7c4e194c"
+            },
+            {
+              "doc_id": "47c9b8c9-1ee8-4fa2-b42e-2550750a70d3"
+            },
+            {
+              "doc_id": "4e49bc56-7cf1-435e-8df6-d8f48a69d905"
+            },
+            {
+              "doc_id": "4fe8fcf2-572c-4afd-bc71-9ae33cfffd2e"
+            },
+            {
+              "doc_id": "706bf398-3975-4f67-8627-ba974f62f651"
+            },
+            {
+              "doc_id": "7ed9f2b0-fc3d-4841-8664-a8579a009ca4"
+            },
+            {
+              "doc_id": "88232f24-a1f5-4662-8e5b-326a3e42a62e"
+            },
+            {
+              "doc_id": "ac1fb623-8189-460b-bf1d-4b0d28ae4576"
+            },
+            {
+              "doc_id": "ac53bf56-37a7-444c-80eb-35577a7f4a87"
+            },
+            {
+              "doc_id": "ae3347de-a8fe-4cb9-b890-1dcfe6377f8e"
+            },
+            {
+              "doc_id": "bb32c39d-dff2-4aad-bdc9-3ceef7d4bddb"
+            },
+            {
+              "doc_id": "bc619aad-f612-44e8-aeac-379d9ae3ef3d"
+            },
+            {
+              "doc_id": "bcb9a9d6-3f80-45a9-a2cd-0d23c4d2642b"
+            },
+            {
+              "doc_id": "c1638b40-bf91-431e-8391-017c22bcc6d6"
+            },
+            {
+              "doc_id": "c40ee38d-2d6d-4ef5-bb8e-856741c938c8"
+            },
+            {
+              "doc_id": "c64b3285-3ade-4196-834c-128153f04081"
+            },
+            {
+              "doc_id": "c9a48582-0b79-4ecd-b8a0-b1eaad347fa4"
+            },
+            {
+              "doc_id": "dc166cbc-ff2b-4b87-8f51-7cde50f3cedd"
+            },
+            {
+              "doc_id": "e2f031dc-b132-4f36-8ba2-c9bb3fba3fbd"
+            },
+            {
+              "doc_id": "e4733674-a80e-4413-ab43-66ec0b3b5101"
+            },
+            {
+              "doc_id": "f3ca9003-141b-44ee-bee9-e31ca42d1724"
+            },
+            {
+              "doc_id": "f9eb0421-f903-474c-a304-02ae62121a52"
+            }
+          ]
+        },
+        "sentenced to a year in prison": {
+          "answer": "sentenced to a year in prison",
+          "references": [
+            {
+              "doc_id": "17bd6ada-c116-4951-8740-2fea6c192184"
+            },
+            {
+              "doc_id": "30949884-f226-44c2-a097-4647c4fc5ca5"
+            },
+            {
+              "doc_id": "47c9b8c9-1ee8-4fa2-b42e-2550750a70d3"
+            },
+            {
+              "doc_id": "66bf28e5-48b3-41fc-83f7-25e4c04dcc20"
+            },
+            {
+              "doc_id": "706bf398-3975-4f67-8627-ba974f62f651"
+            },
+            {
+              "doc_id": "ac53bf56-37a7-444c-80eb-35577a7f4a87"
+            },
+            {
+              "doc_id": "ae3347de-a8fe-4cb9-b890-1dcfe6377f8e"
+            },
+            {
+              "doc_id": "bb32c39d-dff2-4aad-bdc9-3ceef7d4bddb"
+            },
+            {
+              "doc_id": "bc619aad-f612-44e8-aeac-379d9ae3ef3d"
+            },
+            {
+              "doc_id": "bcb9a9d6-3f80-45a9-a2cd-0d23c4d2642b"
+            },
+            {
+              "doc_id": "c1638b40-bf91-431e-8391-017c22bcc6d6"
+            },
+            {
+              "doc_id": "c40ee38d-2d6d-4ef5-bb8e-856741c938c8"
+            },
+            {
+              "doc_id": "c8891a4d-49c0-4af7-aaf4-06725295b1f0"
+            },
+            {
+              "doc_id": "c9a48582-0b79-4ecd-b8a0-b1eaad347fa4"
+            }
+          ]
+        },
+        "conflict with Iranian authorities": {
+          "answer": "conflict with Iranian authorities",
+          "references": [
+            {
+              "doc_id": "2b8e1b7d-3e8b-45fa-b4b7-cb5eb2327784"
+            }
+          ]
+        },
+        "legal reasons": {
+          "answer": "legal reasons",
+          "references": [
+            {
+              "doc_id": "abdc116a-adab-467f-951e-45337f57a6eb"
+            }
+          ]
+        }
+      },
+      "question_id": "18554658bd8e8831b7b042de44764913",
+      "aggregator_type": "OR",
+      "query_id": "352",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.682928+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Why was Mohammad Rasoulof in prison in Iran?": {
+      "question": "Why was Mohammad Rasoulof in prison in Iran?",
+      "answers": {
+        "For anti-state propaganda": {
+          "answer": "For anti-state propaganda",
+          "references": [
+            {
+              "doc_id": "0746fe25-6ac9-4f2f-937e-0e8b3fcf1f2e"
+            },
+            {
+              "doc_id": "17bd6ada-c116-4951-8740-2fea6c192184"
+            },
+            {
+              "doc_id": "30949884-f226-44c2-a097-4647c4fc5ca5"
+            },
+            {
+              "doc_id": "66bf28e5-48b3-41fc-83f7-25e4c04dcc20"
+            },
+            {
+              "doc_id": "706bf398-3975-4f67-8627-ba974f62f651"
+            },
+            {
+              "doc_id": "ac53bf56-37a7-444c-80eb-35577a7f4a87"
+            },
+            {
+              "doc_id": "ae3347de-a8fe-4cb9-b890-1dcfe6377f8e"
+            },
+            {
+              "doc_id": "bcb9a9d6-3f80-45a9-a2cd-0d23c4d2642b"
+            },
+            {
+              "doc_id": "c9a48582-0b79-4ecd-b8a0-b1eaad347fa4"
+            }
+          ]
+        },
+        "For threatening national security": {
+          "answer": "For threatening national security",
+          "references": [
+            {
+              "doc_id": "110e8b1e-7f20-4f0e-ad03-50726e8983fb"
+            },
+            {
+              "doc_id": "30949884-f226-44c2-a097-4647c4fc5ca5"
+            },
+            {
+              "doc_id": "47c9b8c9-1ee8-4fa2-b42e-2550750a70d3"
+            },
+            {
+              "doc_id": "706bf398-3975-4f67-8627-ba974f62f651"
+            },
+            {
+              "doc_id": "ac53bf56-37a7-444c-80eb-35577a7f4a87"
+            },
+            {
+              "doc_id": "bcb9a9d6-3f80-45a9-a2cd-0d23c4d2642b"
+            },
+            {
+              "doc_id": "c1638b40-bf91-431e-8391-017c22bcc6d6"
+            },
+            {
+              "doc_id": "f3ca9003-141b-44ee-bee9-e31ca42d1724"
+            },
+            {
+              "doc_id": "f9eb0421-f903-474c-a304-02ae62121a52"
+            }
+          ]
+        },
+        "For anti-government activities": {
+          "answer": "For anti-government activities",
+          "references": [
+            {
+              "doc_id": "88232f24-a1f5-4662-8e5b-326a3e42a62e"
+            },
+            {
+              "doc_id": "f3ca9003-141b-44ee-bee9-e31ca42d1724"
+            }
+          ]
+        },
+        "For conspiracy": {
+          "answer": "For conspiracy",
+          "references": [
+            {
+              "doc_id": "30949884-f226-44c2-a097-4647c4fc5ca5"
+            },
+            {
+              "doc_id": "706bf398-3975-4f67-8627-ba974f62f651"
+            }
+          ]
+        },
+        "For the film Incorruptible": {
+          "answer": "For the film Incorruptible",
+          "references": [
+            {
+              "doc_id": "706bf398-3975-4f67-8627-ba974f62f651"
+            },
+            {
+              "doc_id": "bb32c39d-dff2-4aad-bdc9-3ceef7d4bddb"
+            }
+          ]
+        },
+        "For the film Manuscripts Don't Burn": {
+          "answer": "For the film Manuscripts Don't Burn",
+          "references": [
+            {
+              "doc_id": "706bf398-3975-4f67-8627-ba974f62f651"
+            }
+          ]
+        },
+        "For the film Goodbye": {
+          "answer": "For the film Goodbye",
+          "references": [
+            {
+              "doc_id": "706bf398-3975-4f67-8627-ba974f62f651"
+            }
+          ]
+        }
+      },
+      "question_id": "948ffafdd4f0053648cce068a767e07f",
+      "aggregator_type": "OR",
+      "query_id": "352",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.683019+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Who accepted the Golden Bear on behalf of Mohammad Rasoulof?": {
+      "question": "Who accepted the Golden Bear on behalf of Mohammad Rasoulof?",
+      "answers": {
+        "The film crew": {
+          "answer": "The film crew",
+          "references": [
+            {
+              "doc_id": "bb32c39d-dff2-4aad-bdc9-3ceef7d4bddb"
+            }
+          ]
+        },
+        "Baran Rasoulof": {
+          "answer": "Baran Rasoulof",
+          "references": [
+            {
+              "doc_id": "024447e4-120a-4c3c-a7ec-e6e3b16ca870"
+            },
+            {
+              "doc_id": "0746fe25-6ac9-4f2f-937e-0e8b3fcf1f2e"
+            },
+            {
+              "doc_id": "0c8cc6c4-2d5b-439d-a38c-ad81d95518fd"
+            },
+            {
+              "doc_id": "0f312882-9a2a-4681-8b26-6b84afd601c3"
+            },
+            {
+              "doc_id": "17bd6ada-c116-4951-8740-2fea6c192184"
+            },
+            {
+              "doc_id": "2b8e1b7d-3e8b-45fa-b4b7-cb5eb2327784"
+            },
+            {
+              "doc_id": "47c9b8c9-1ee8-4fa2-b42e-2550750a70d3"
+            },
+            {
+              "doc_id": "4fe8fcf2-572c-4afd-bc71-9ae33cfffd2e"
+            },
+            {
+              "doc_id": "998bb7b3-db77-40d9-bb5f-2d12d37d6f0c"
+            },
+            {
+              "doc_id": "abdc116a-adab-467f-951e-45337f57a6eb"
+            },
+            {
+              "doc_id": "b6f9b69c-cb52-4329-97ec-2617b6c5cf66"
+            },
+            {
+              "doc_id": "bc619aad-f612-44e8-aeac-379d9ae3ef3d"
+            },
+            {
+              "doc_id": "bcb9a9d6-3f80-45a9-a2cd-0d23c4d2642b"
+            },
+            {
+              "doc_id": "c1638b40-bf91-431e-8391-017c22bcc6d6"
+            },
+            {
+              "doc_id": "c64b3285-3ade-4196-834c-128153f04081"
+            },
+            {
+              "doc_id": "e4733674-a80e-4413-ab43-66ec0b3b5101"
+            },
+            {
+              "doc_id": "f3ca9003-141b-44ee-bee9-e31ca42d1724"
+            }
+          ]
+        },
+        "Mohammad Rasoulof's daughter": {
+          "answer": "Mohammad Rasoulof's daughter",
+          "references": [
+            {
+              "doc_id": "024447e4-120a-4c3c-a7ec-e6e3b16ca870"
+            },
+            {
+              "doc_id": "0746fe25-6ac9-4f2f-937e-0e8b3fcf1f2e"
+            },
+            {
+              "doc_id": "0c8cc6c4-2d5b-439d-a38c-ad81d95518fd"
+            },
+            {
+              "doc_id": "0f312882-9a2a-4681-8b26-6b84afd601c3"
+            },
+            {
+              "doc_id": "17bd6ada-c116-4951-8740-2fea6c192184"
+            },
+            {
+              "doc_id": "2b8e1b7d-3e8b-45fa-b4b7-cb5eb2327784"
+            },
+            {
+              "doc_id": "47c9b8c9-1ee8-4fa2-b42e-2550750a70d3"
+            },
+            {
+              "doc_id": "4fe8fcf2-572c-4afd-bc71-9ae33cfffd2e"
+            },
+            {
+              "doc_id": "998bb7b3-db77-40d9-bb5f-2d12d37d6f0c"
+            },
+            {
+              "doc_id": "abdc116a-adab-467f-951e-45337f57a6eb"
+            },
+            {
+              "doc_id": "bc619aad-f612-44e8-aeac-379d9ae3ef3d"
+            },
+            {
+              "doc_id": "bcb9a9d6-3f80-45a9-a2cd-0d23c4d2642b"
+            },
+            {
+              "doc_id": "c1638b40-bf91-431e-8391-017c22bcc6d6"
+            },
+            {
+              "doc_id": "c64b3285-3ade-4196-834c-128153f04081"
+            },
+            {
+              "doc_id": "e4733674-a80e-4413-ab43-66ec0b3b5101"
+            },
+            {
+              "doc_id": "f3ca9003-141b-44ee-bee9-e31ca42d1724"
+            }
+          ]
+        }
+      },
+      "question_id": "3e6e4c18795d042d3aba6640d9cad277",
+      "aggregator_type": "OR",
+      "query_id": "352",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.683089+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What measure did the Iranian government take against Mohammad Rasoulof?": {
+      "question": "What measure did the Iranian government take against Mohammad Rasoulof?",
+      "answers": {
+        "Banned Mohammad Rasoulof from making movies in Iran": {
+          "answer": "Banned Mohammad Rasoulof from making movies in Iran",
+          "references": [
+            {
+              "doc_id": "110e8b1e-7f20-4f0e-ad03-50726e8983fb"
+            },
+            {
+              "doc_id": "47c9b8c9-1ee8-4fa2-b42e-2550750a70d3"
+            },
+            {
+              "doc_id": "706bf398-3975-4f67-8627-ba974f62f651"
+            },
+            {
+              "doc_id": "bc619aad-f612-44e8-aeac-379d9ae3ef3d"
+            },
+            {
+              "doc_id": "bcb9a9d6-3f80-45a9-a2cd-0d23c4d2642b"
+            },
+            {
+              "doc_id": "c1638b40-bf91-431e-8391-017c22bcc6d6"
+            },
+            {
+              "doc_id": "c40ee38d-2d6d-4ef5-bb8e-856741c938c8"
+            },
+            {
+              "doc_id": "c64b3285-3ade-4196-834c-128153f04081"
+            },
+            {
+              "doc_id": "c8891a4d-49c0-4af7-aaf4-06725295b1f0"
+            }
+          ]
+        },
+        "banned Mohammad Rasoulof from leaving Iran": {
+          "answer": "banned Mohammad Rasoulof from leaving Iran",
+          "references": [
+            {
+              "doc_id": "024447e4-120a-4c3c-a7ec-e6e3b16ca870"
+            },
+            {
+              "doc_id": "0746fe25-6ac9-4f2f-937e-0e8b3fcf1f2e"
+            },
+            {
+              "doc_id": "0f312882-9a2a-4681-8b26-6b84afd601c3"
+            },
+            {
+              "doc_id": "110e8b1e-7f20-4f0e-ad03-50726e8983fb"
+            },
+            {
+              "doc_id": "17bd6ada-c116-4951-8740-2fea6c192184"
+            },
+            {
+              "doc_id": "335deb0b-2f2b-4568-854f-35228222e2ab"
+            },
+            {
+              "doc_id": "47c9b8c9-1ee8-4fa2-b42e-2550750a70d3"
+            },
+            {
+              "doc_id": "4fe8fcf2-572c-4afd-bc71-9ae33cfffd2e"
+            },
+            {
+              "doc_id": "706bf398-3975-4f67-8627-ba974f62f651"
+            },
+            {
+              "doc_id": "7ed9f2b0-fc3d-4841-8664-a8579a009ca4"
+            },
+            {
+              "doc_id": "88232f24-a1f5-4662-8e5b-326a3e42a62e"
+            },
+            {
+              "doc_id": "ac1fb623-8189-460b-bf1d-4b0d28ae4576"
+            },
+            {
+              "doc_id": "ac53bf56-37a7-444c-80eb-35577a7f4a87"
+            },
+            {
+              "doc_id": "ae3347de-a8fe-4cb9-b890-1dcfe6377f8e"
+            },
+            {
+              "doc_id": "bc619aad-f612-44e8-aeac-379d9ae3ef3d"
+            },
+            {
+              "doc_id": "bcb9a9d6-3f80-45a9-a2cd-0d23c4d2642b"
+            },
+            {
+              "doc_id": "c1638b40-bf91-431e-8391-017c22bcc6d6"
+            },
+            {
+              "doc_id": "c40ee38d-2d6d-4ef5-bb8e-856741c938c8"
+            },
+            {
+              "doc_id": "c64b3285-3ade-4196-834c-128153f04081"
+            },
+            {
+              "doc_id": "c9a48582-0b79-4ecd-b8a0-b1eaad347fa4"
+            },
+            {
+              "doc_id": "dc166cbc-ff2b-4b87-8f51-7cde50f3cedd"
+            },
+            {
+              "doc_id": "e2f031dc-b132-4f36-8ba2-c9bb3fba3fbd"
+            },
+            {
+              "doc_id": "e4733674-a80e-4413-ab43-66ec0b3b5101"
+            },
+            {
+              "doc_id": "f3ca9003-141b-44ee-bee9-e31ca42d1724"
+            }
+          ]
+        },
+        "imprisoned Mohammad Rasoulof": {
+          "answer": "imprisoned Mohammad Rasoulof",
+          "references": [
+            {
+              "doc_id": "0746fe25-6ac9-4f2f-937e-0e8b3fcf1f2e"
+            },
+            {
+              "doc_id": "110e8b1e-7f20-4f0e-ad03-50726e8983fb"
+            },
+            {
+              "doc_id": "17bd6ada-c116-4951-8740-2fea6c192184"
+            },
+            {
+              "doc_id": "2a661c51-c10c-4431-aadd-cf7baa4a0af5"
+            },
+            {
+              "doc_id": "47c9b8c9-1ee8-4fa2-b42e-2550750a70d3"
+            },
+            {
+              "doc_id": "706bf398-3975-4f67-8627-ba974f62f651"
+            },
+            {
+              "doc_id": "88232f24-a1f5-4662-8e5b-326a3e42a62e"
+            },
+            {
+              "doc_id": "ac53bf56-37a7-444c-80eb-35577a7f4a87"
+            },
+            {
+              "doc_id": "ae3347de-a8fe-4cb9-b890-1dcfe6377f8e"
+            },
+            {
+              "doc_id": "bc619aad-f612-44e8-aeac-379d9ae3ef3d"
+            },
+            {
+              "doc_id": "bcb9a9d6-3f80-45a9-a2cd-0d23c4d2642b"
+            },
+            {
+              "doc_id": "c1638b40-bf91-431e-8391-017c22bcc6d6"
+            },
+            {
+              "doc_id": "c40ee38d-2d6d-4ef5-bb8e-856741c938c8"
+            },
+            {
+              "doc_id": "c8891a4d-49c0-4af7-aaf4-06725295b1f0"
+            },
+            {
+              "doc_id": "c9a48582-0b79-4ecd-b8a0-b1eaad347fa4"
+            },
+            {
+              "doc_id": "f3ca9003-141b-44ee-bee9-e31ca42d1724"
+            }
+          ]
+        }
+      },
+      "question_id": "1da88c615f176819b44f23b75ad89ca1",
+      "aggregator_type": "OR",
+      "query_id": "352",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.683209+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

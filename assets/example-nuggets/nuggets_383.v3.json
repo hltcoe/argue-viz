@@ -1,0 +1,512 @@
+{
+  "query_id": "383",
+  "title_query": "Writing Style Ernest Hemingway",
+  "full_query": "Create a report about Ernest Hemingway, the famous American writer, that discusses his special style of polished and concise writing.  The report should include quotes from Hemingway himself or from third parties that characterize his writing style.",
+  "full_background": "I am a high school English teacher developing a lesson plan on the writing style of Ernest Hemingway.",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "What is the writing style of Ernest Hemingway often called?": {
+      "question": "What is the writing style of Ernest Hemingway often called?",
+      "answers": {
+        "Minimalism": {
+          "answer": "Minimalism",
+          "references": [
+            {
+              "doc_id": "27e25847-3503-41f1-b5a3-bf1e42b9c7f1"
+            },
+            {
+              "doc_id": "2b873ca4-c458-46b6-89ff-696c4dbd7397"
+            },
+            {
+              "doc_id": "4fce309e-cc19-44a9-9306-cf2bd13d3f54"
+            },
+            {
+              "doc_id": "7ebd9318-bcf2-48ba-8efa-09a35923c5ab"
+            },
+            {
+              "doc_id": "8051f052-e6a8-491a-83fe-07c1f86b8fc4"
+            },
+            {
+              "doc_id": "d2492a5c-fd41-42aa-a144-e31454b1b4aa"
+            },
+            {
+              "doc_id": "d2da2239-905d-4624-8d39-3915f43a7aee"
+            },
+            {
+              "doc_id": "d5c940e7-9f36-4fc8-9d45-b3ed3be638e5"
+            }
+          ]
+        },
+        "Documentary-style fiction": {
+          "answer": "Documentary-style fiction",
+          "references": [
+            {
+              "doc_id": "1d23ba04-52cb-4473-93bf-d20926fe0da0"
+            },
+            {
+              "doc_id": "d2da2239-905d-4624-8d39-3915f43a7aee"
+            }
+          ]
+        },
+        "Telegraph style": {
+          "answer": "Telegraph style",
+          "references": [
+            {
+              "doc_id": "5af7356e-0211-4991-8e33-0aa790920a37"
+            },
+            {
+              "doc_id": "a0357da9-dbdd-47af-a2db-14e909d0b217"
+            }
+          ]
+        },
+        "Iceberg style": {
+          "answer": "Iceberg style",
+          "references": [
+            {
+              "doc_id": "27e25847-3503-41f1-b5a3-bf1e42b9c7f1"
+            },
+            {
+              "doc_id": "a713b5ba-ccde-40f3-9777-6b5f89f6c858"
+            },
+            {
+              "doc_id": "c6221000-0c03-4799-ac0d-ad4b76583b9f"
+            },
+            {
+              "doc_id": "d2527482-f75e-4888-bc9c-beed0028ead9"
+            }
+          ]
+        }
+      },
+      "question_id": "02b075108a32e70061c6690f692d85ab",
+      "aggregator_type": "OR",
+      "query_id": "383",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.735376+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Who did Ernest Hemingway once have a bet with?": {
+      "question": "Who did Ernest Hemingway once have a bet with?",
+      "answers": {
+        "Francis Scott Fitzgerald": {
+          "answer": "Francis Scott Fitzgerald",
+          "references": [
+            {
+              "doc_id": "d2da2239-905d-4624-8d39-3915f43a7aee"
+            }
+          ]
+        }
+      },
+      "question_id": "d506d5c0dcfc8ae409824d8325419b71",
+      "aggregator_type": "OR",
+      "query_id": "383",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.735399+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What did Ernest Hemingway do on a bet with Francis Scott Fitzgerald?": {
+      "question": "What did Ernest Hemingway do on a bet with Francis Scott Fitzgerald?",
+      "answers": {
+        "wrote a short story": {
+          "answer": "wrote a short story",
+          "references": [
+            {
+              "doc_id": "7258db57-8e54-4a4a-958a-fa2fe794ee97"
+            },
+            {
+              "doc_id": "d2da2239-905d-4624-8d39-3915f43a7aee"
+            }
+          ]
+        }
+      },
+      "question_id": "688aa576682ca19f3ad35b54cdaedecc",
+      "aggregator_type": "OR",
+      "query_id": "383",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.735419+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How many words were in the short story Ernest Hemingway wrote on a bet with Francis Scott Fitzgerald?": {
+      "question": "How many words were in the short story Ernest Hemingway wrote on a bet with Francis Scott Fitzgerald?",
+      "answers": {
+        "Six": {
+          "answer": "Six",
+          "references": [
+            {
+              "doc_id": "7258db57-8e54-4a4a-958a-fa2fe794ee97"
+            },
+            {
+              "doc_id": "a0357da9-dbdd-47af-a2db-14e909d0b217"
+            },
+            {
+              "doc_id": "d2da2239-905d-4624-8d39-3915f43a7aee"
+            }
+          ]
+        }
+      },
+      "question_id": "f496ce5799b52ffd8dcfe5b714c3bbae",
+      "aggregator_type": "OR",
+      "query_id": "383",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.735438+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What was the text of the short story Ernest Hemingway wrote on a bet with Francis Scott Fitzgerald?": {
+      "question": "What was the text of the short story Ernest Hemingway wrote on a bet with Francis Scott Fitzgerald?",
+      "answers": {
+        "\u201cFor sale: baby shoes, never worn\u201d": {
+          "answer": "\u201cFor sale: baby shoes, never worn\u201d",
+          "references": [
+            {
+              "doc_id": "7258db57-8e54-4a4a-958a-fa2fe794ee97"
+            },
+            {
+              "doc_id": "a0357da9-dbdd-47af-a2db-14e909d0b217"
+            },
+            {
+              "doc_id": "d2da2239-905d-4624-8d39-3915f43a7aee"
+            }
+          ]
+        }
+      },
+      "question_id": "53e4d546e9b73c76ef916af52b312448",
+      "aggregator_type": "OR",
+      "query_id": "383",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.735456+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What is the name of the generation that Hemingway is considered to be the voice of?": {
+      "question": "What is the name of the generation that Hemingway is considered to be the voice of?",
+      "answers": {
+        "The 'lost generation'": {
+          "answer": "The 'lost generation'",
+          "references": [
+            {
+              "doc_id": "1b3c76c4-e851-455b-a677-6cbedcdb1c4b"
+            },
+            {
+              "doc_id": "27e25847-3503-41f1-b5a3-bf1e42b9c7f1"
+            },
+            {
+              "doc_id": "631ca42c-eed7-437b-a761-162946f23403"
+            },
+            {
+              "doc_id": "84209201-7215-4209-ac79-a399468d95c7"
+            },
+            {
+              "doc_id": "9b3b4570-22a9-4a72-a7b4-0fc5325a3bec"
+            },
+            {
+              "doc_id": "af3db37f-5ad5-4331-8fc1-442de84c71f8"
+            },
+            {
+              "doc_id": "d4bb785c-1067-4a4f-a706-a559c8010616"
+            }
+          ]
+        }
+      },
+      "question_id": "204a77e8cdf8e754e68b5170dcd2ccfd",
+      "aggregator_type": "OR",
+      "query_id": "383",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.735479+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What feeling was the \"lost generation\" experiencing?": {
+      "question": "What feeling was the \"lost generation\" experiencing?",
+      "answers": {
+        "Disappointment": {
+          "answer": "Disappointment",
+          "references": [
+            {
+              "doc_id": "27e25847-3503-41f1-b5a3-bf1e42b9c7f1"
+            },
+            {
+              "doc_id": "84209201-7215-4209-ac79-a399468d95c7"
+            }
+          ]
+        }
+      },
+      "question_id": "e5ea8e3062273dcda2e09fe0161748dc",
+      "aggregator_type": "OR",
+      "query_id": "383",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.735496+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Where does the action in The Sun Also Rises take place?": {
+      "question": "Where does the action in The Sun Also Rises take place?",
+      "answers": {
+        "Spain": {
+          "answer": "Spain",
+          "references": [
+            {
+              "doc_id": "1b3c76c4-e851-455b-a677-6cbedcdb1c4b"
+            },
+            {
+              "doc_id": "631ca42c-eed7-437b-a761-162946f23403"
+            },
+            {
+              "doc_id": "84209201-7215-4209-ac79-a399468d95c7"
+            },
+            {
+              "doc_id": "e9cf69b7-7415-4a36-80a4-d9eb27d03290"
+            }
+          ]
+        },
+        "France": {
+          "answer": "France",
+          "references": [
+            {
+              "doc_id": "e9cf69b7-7415-4a36-80a4-d9eb27d03290"
+            }
+          ]
+        }
+      },
+      "question_id": "fdd8e9ee788f76b207821b4d9b8f7580",
+      "aggregator_type": "OR",
+      "query_id": "383",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.735525+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What feature of life in Spain did Hemingway show in The Sun Also Rises?": {
+      "question": "What feature of life in Spain did Hemingway show in The Sun Also Rises?",
+      "answers": {
+        "Bullfighting": {
+          "answer": "Bullfighting",
+          "references": [
+            {
+              "doc_id": "1b3c76c4-e851-455b-a677-6cbedcdb1c4b"
+            },
+            {
+              "doc_id": "84209201-7215-4209-ac79-a399468d95c7"
+            },
+            {
+              "doc_id": "d4bb785c-1067-4a4f-a706-a559c8010616"
+            },
+            {
+              "doc_id": "e9cf69b7-7415-4a36-80a4-d9eb27d03290"
+            }
+          ]
+        },
+        "Long walks through the streets": {
+          "answer": "Long walks through the streets",
+          "references": [
+            {
+              "doc_id": "84209201-7215-4209-ac79-a399468d95c7"
+            }
+          ]
+        },
+        "The bright scorching sun": {
+          "answer": "The bright scorching sun",
+          "references": [
+            {
+              "doc_id": "84209201-7215-4209-ac79-a399468d95c7"
+            }
+          ]
+        },
+        "Beautiful sunsets": {
+          "answer": "Beautiful sunsets",
+          "references": [
+            {
+              "doc_id": "84209201-7215-4209-ac79-a399468d95c7"
+            }
+          ]
+        }
+      },
+      "question_id": "8812619be75bbb6081561e705335caf6",
+      "aggregator_type": "OR",
+      "query_id": "383",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.735569+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Which Soviet historian met Hemingway in Cuba?": {
+      "question": "Which Soviet historian met Hemingway in Cuba?",
+      "answers": {
+        "Sergo Mikoyan": {
+          "answer": "Sergo Mikoyan",
+          "references": [
+            {
+              "doc_id": "f3c99fff-dc38-40e7-ab7f-cc2e0c4ac908"
+            }
+          ]
+        },
+        "Anastas Mikoyan": {
+          "answer": "Anastas Mikoyan",
+          "references": [
+            {
+              "doc_id": "8c9b522a-522b-4e3b-b62d-a83280055a6c"
+            },
+            {
+              "doc_id": "f3c99fff-dc38-40e7-ab7f-cc2e0c4ac908"
+            },
+            {
+              "doc_id": "ff1da241-23c0-458b-a988-93cc121e2744"
+            }
+          ]
+        }
+      },
+      "question_id": "93ed47d5d1040722498be19c40bf91a8",
+      "aggregator_type": "OR",
+      "query_id": "383",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.735595+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Where did the Soviet historian Sergo Mikoyan meet Hemingway?": {
+      "question": "Where did the Soviet historian Sergo Mikoyan meet Hemingway?",
+      "answers": {
+        "Cuba": {
+          "answer": "Cuba",
+          "references": [
+            {
+              "doc_id": "f3c99fff-dc38-40e7-ab7f-cc2e0c4ac908"
+            },
+            {
+              "doc_id": "ff1da241-23c0-458b-a988-93cc121e2744"
+            }
+          ]
+        }
+      },
+      "question_id": "6e6e78c22d32c1cd4e28c98d9c8730c1",
+      "aggregator_type": "OR",
+      "query_id": "383",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.735613+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How did the Soviet historian Sergo Mikoyan characterize Hemingway\u2019s writing style?": {
+      "question": "How did the Soviet historian Sergo Mikoyan characterize Hemingway\u2019s writing style?",
+      "answers": {
+        "realism": {
+          "answer": "realism",
+          "references": [
+            {
+              "doc_id": "f3c99fff-dc38-40e7-ab7f-cc2e0c4ac908"
+            }
+          ]
+        },
+        "romanticism": {
+          "answer": "romanticism",
+          "references": [
+            {
+              "doc_id": "f3c99fff-dc38-40e7-ab7f-cc2e0c4ac908"
+            }
+          ]
+        }
+      },
+      "question_id": "f38135b72a55a9d30085856857c4dfbb",
+      "aggregator_type": "OR",
+      "query_id": "383",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.735637+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How did the Soviet historian Sergo Mikoyan characterize Hemingway\u2019s personality?": {
+      "question": "How did the Soviet historian Sergo Mikoyan characterize Hemingway\u2019s personality?",
+      "answers": {
+        "fair": {
+          "answer": "fair",
+          "references": [
+            {
+              "doc_id": "f3c99fff-dc38-40e7-ab7f-cc2e0c4ac908"
+            }
+          ]
+        },
+        "able to enjoy life": {
+          "answer": "able to enjoy life",
+          "references": [
+            {
+              "doc_id": "f3c99fff-dc38-40e7-ab7f-cc2e0c4ac908"
+            }
+          ]
+        },
+        "sincere": {
+          "answer": "sincere",
+          "references": [
+            {
+              "doc_id": "f3c99fff-dc38-40e7-ab7f-cc2e0c4ac908"
+            }
+          ]
+        },
+        "youthful": {
+          "answer": "youthful",
+          "references": [
+            {
+              "doc_id": "f3c99fff-dc38-40e7-ab7f-cc2e0c4ac908"
+            }
+          ]
+        },
+        "cheerful": {
+          "answer": "cheerful",
+          "references": [
+            {
+              "doc_id": "f3c99fff-dc38-40e7-ab7f-cc2e0c4ac908"
+            }
+          ]
+        }
+      },
+      "question_id": "af4fe286102f8ee6390138b0114cbeef",
+      "aggregator_type": "OR",
+      "query_id": "383",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.735683+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}

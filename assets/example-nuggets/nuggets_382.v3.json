@@ -1,0 +1,2579 @@
+{
+  "query_id": "382",
+  "title_query": "Japan's Restarting of Whale Hunting",
+  "full_query": "I want a report that lists all the reasons that Japan has started hunting whales again.",
+  "full_background": "I am a research assistant to a documentary film director who is planning to make a film on whaling around the world. I need information on Japan\u2019s resumption of whale hunting.",
+  "test_collection": "neuclir",
+  "format_version": "v3",
+  "nugget_bank": {
+    "When did Japan resume commercial whale hunting?": {
+      "question": "When did Japan resume commercial whale hunting?",
+      "answers": {
+        "July 1 2019": {
+          "answer": "July 1 2019",
+          "references": [
+            {
+              "doc_id": "1a2155ac-4c24-48d9-b981-7e470035a84e"
+            },
+            {
+              "doc_id": "28c4ff25-dd87-450d-95bc-84af873027be"
+            },
+            {
+              "doc_id": "297dc1ba-f77c-4f51-a3e2-f583b005d69f"
+            },
+            {
+              "doc_id": "5558db0c-206d-4f4d-b429-479ece44c4f5"
+            },
+            {
+              "doc_id": "66bbdbbc-b013-4d10-b0ce-313d4341dfff"
+            },
+            {
+              "doc_id": "68dca17a-5c6f-4e30-8711-629ffa72adaa"
+            },
+            {
+              "doc_id": "6d5d3f6b-9387-478b-8989-a4c4b56a23e3"
+            },
+            {
+              "doc_id": "731b10c2-29c1-42ae-891a-8dbf676deb65"
+            },
+            {
+              "doc_id": "8219c0ba-c023-49be-9cfd-12c806f10549"
+            },
+            {
+              "doc_id": "87f4bb84-5e1d-403e-a416-ab557d601ad5"
+            },
+            {
+              "doc_id": "a7713e2b-af41-4981-9d3f-ef92cfed873a"
+            },
+            {
+              "doc_id": "ab398032-ad01-49e8-989b-a75a6b9df0b1"
+            },
+            {
+              "doc_id": "b4e80063-957d-4b3f-8721-6ac039e61f28"
+            },
+            {
+              "doc_id": "b7eac35c-58dc-4ba2-b529-0f602ccc8f28"
+            },
+            {
+              "doc_id": "bc720429-f690-46bd-8d2e-17b430ef21e8"
+            },
+            {
+              "doc_id": "bce6847f-e678-4e19-add4-40984a9e05b1"
+            },
+            {
+              "doc_id": "c7361c85-a220-4282-b394-83f364a96026"
+            },
+            {
+              "doc_id": "ca4ad247-415d-4236-ab9e-cd141b7aecfe"
+            },
+            {
+              "doc_id": "cf314b12-01c5-4ea9-96dc-22c52ec5f3fb"
+            },
+            {
+              "doc_id": "d0d3d2d2-f09c-4030-8173-3d0180b1bb95"
+            },
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            },
+            {
+              "doc_id": "debbf3d2-3930-4a84-980b-2cfc42c111a3"
+            },
+            {
+              "doc_id": "e439983b-e0bd-4841-ac86-6c339c0e2dd7"
+            },
+            {
+              "doc_id": "e44b1794-b193-48a4-9d2e-2e59eb8b897f"
+            },
+            {
+              "doc_id": "e7dfaf3a-56fb-454a-a0ff-f685ad2909fa"
+            }
+          ]
+        },
+        "2019": {
+          "answer": "2019",
+          "references": [
+            {
+              "doc_id": "55f03ae7-157e-4e63-a0df-4d6d9cb8de74"
+            },
+            {
+              "doc_id": "56c26fb3-d378-4233-a987-bc49b08c1528"
+            }
+          ]
+        },
+        "In 2019": {
+          "answer": "In 2019",
+          "references": [
+            {
+              "doc_id": "2c258f82-f1d8-4c65-a893-1f571d3216ba"
+            },
+            {
+              "doc_id": "45b51853-3cb2-4bb6-a8a1-70e0078aa5b1"
+            },
+            {
+              "doc_id": "56413e55-0f89-45e1-94f9-7626dd17cbe2"
+            },
+            {
+              "doc_id": "87ca1ec7-7b3f-4ebe-85ec-3b618fbdb4b0"
+            },
+            {
+              "doc_id": "cfcb8855-67df-407c-acd0-5257109cfe55"
+            },
+            {
+              "doc_id": "d15bf400-5da0-472c-a567-83dafc7334c1"
+            }
+          ]
+        },
+        "June 30": {
+          "answer": "June 30",
+          "references": []
+        },
+        "July 1": {
+          "answer": "July 1",
+          "references": []
+        },
+        "Japan claims it will resume it in July next year": {
+          "answer": "Japan claims it will resume it in July next year",
+          "references": []
+        },
+        "Japan announced it would resume it in July 2019": {
+          "answer": "Japan announced it would resume it in July 2019",
+          "references": [
+            {
+              "doc_id": "0e44f38c-fffb-4550-b294-3de9d5e310f8"
+            },
+            {
+              "doc_id": "16a0ac92-8680-47a2-bad3-a08e64f7e0e9"
+            },
+            {
+              "doc_id": "1a2155ac-4c24-48d9-b981-7e470035a84e"
+            },
+            {
+              "doc_id": "485b6353-3487-40e2-a2a4-c63731e274ee"
+            },
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            },
+            {
+              "doc_id": "5d5792ec-8053-43ad-948c-2ca1de7d4ea8"
+            },
+            {
+              "doc_id": "6874a99d-df06-44d6-a609-818868b63f20"
+            },
+            {
+              "doc_id": "76c60a14-17db-44a0-b6a6-52dc35aacc77"
+            },
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            },
+            {
+              "doc_id": "9b735597-f340-4ed1-9f79-2ad9b932ef3f"
+            },
+            {
+              "doc_id": "a03a2768-7423-4fac-aec2-18b3a6433a15"
+            },
+            {
+              "doc_id": "aecaf37a-62e8-42fc-a88b-db707dd394dd"
+            },
+            {
+              "doc_id": "b76bd80d-1d68-440c-be2f-6b8140b389a9"
+            },
+            {
+              "doc_id": "d21376bd-4be5-4afd-9277-cd766c752b35"
+            },
+            {
+              "doc_id": "d4c71ed0-e36c-443d-9baf-2b0f4e71d4e8"
+            }
+          ]
+        },
+        "After a suspension of over 30 year": {
+          "answer": "After a suspension of over 30 year",
+          "references": [
+            {
+              "doc_id": "45b51853-3cb2-4bb6-a8a1-70e0078aa5b1"
+            },
+            {
+              "doc_id": "4d90a629-8bfa-4128-866c-1d70f93cc6e9"
+            },
+            {
+              "doc_id": "56413e55-0f89-45e1-94f9-7626dd17cbe2"
+            },
+            {
+              "doc_id": "71bb2e4e-27b7-4cfd-bd8b-93ee05602a28"
+            },
+            {
+              "doc_id": "796bbbd7-bc18-4a82-86c0-c211dc14c8bf"
+            },
+            {
+              "doc_id": "87ca1ec7-7b3f-4ebe-85ec-3b618fbdb4b0"
+            },
+            {
+              "doc_id": "87f4bb84-5e1d-403e-a416-ab557d601ad5"
+            },
+            {
+              "doc_id": "a7713e2b-af41-4981-9d3f-ef92cfed873a"
+            },
+            {
+              "doc_id": "b7eac35c-58dc-4ba2-b529-0f602ccc8f28"
+            },
+            {
+              "doc_id": "bc720429-f690-46bd-8d2e-17b430ef21e8"
+            },
+            {
+              "doc_id": "ca4ad247-415d-4236-ab9e-cd141b7aecfe"
+            },
+            {
+              "doc_id": "cb2db92c-04b2-4554-8467-6573c019e348"
+            },
+            {
+              "doc_id": "cf314b12-01c5-4ea9-96dc-22c52ec5f3fb"
+            },
+            {
+              "doc_id": "cfcb8855-67df-407c-acd0-5257109cfe55"
+            },
+            {
+              "doc_id": "d15bf400-5da0-472c-a567-83dafc7334c1"
+            },
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            }
+          ]
+        },
+        "Japan threatens to withdraw from International Whaling Commission in 2019": {
+          "answer": "Japan threatens to withdraw from International Whaling Commission in 2019",
+          "references": [
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            }
+          ]
+        },
+        "Japan announced in 2018 that it had decided to restart whaling": {
+          "answer": "Japan announced in 2018 that it had decided to restart whaling",
+          "references": [
+            {
+              "doc_id": "f4da1948-0190-44ba-a2ef-f929d937a809"
+            }
+          ]
+        }
+      },
+      "question_id": "b0ce57f3047166bbc3969d24642f1f23",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.728285+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What organization did Japan withdraw from prior to resuming commercial whale hunting?": {
+      "question": "What organization did Japan withdraw from prior to resuming commercial whale hunting?",
+      "answers": {
+        "International Whaling Commission": {
+          "answer": "International Whaling Commission",
+          "references": [
+            {
+              "doc_id": "0e44f38c-fffb-4550-b294-3de9d5e310f8"
+            },
+            {
+              "doc_id": "14366427-1989-44bf-b090-2a60f2e838fa"
+            },
+            {
+              "doc_id": "16a0ac92-8680-47a2-bad3-a08e64f7e0e9"
+            },
+            {
+              "doc_id": "1a2155ac-4c24-48d9-b981-7e470035a84e"
+            },
+            {
+              "doc_id": "28c4ff25-dd87-450d-95bc-84af873027be"
+            },
+            {
+              "doc_id": "297dc1ba-f77c-4f51-a3e2-f583b005d69f"
+            },
+            {
+              "doc_id": "2c258f82-f1d8-4c65-a893-1f571d3216ba"
+            },
+            {
+              "doc_id": "2f7bf39b-697d-45ae-b760-ad559ea7a3dc"
+            },
+            {
+              "doc_id": "35f5f730-74c6-4aea-84fd-ad1a5aaada8c"
+            },
+            {
+              "doc_id": "45b51853-3cb2-4bb6-a8a1-70e0078aa5b1"
+            },
+            {
+              "doc_id": "4628c8d1-c267-450c-9b30-1f21644cf85f"
+            },
+            {
+              "doc_id": "485b6353-3487-40e2-a2a4-c63731e274ee"
+            },
+            {
+              "doc_id": "49a869b9-a5bb-4a26-99b7-4318621e252a"
+            },
+            {
+              "doc_id": "4d90a629-8bfa-4128-866c-1d70f93cc6e9"
+            },
+            {
+              "doc_id": "527be2e4-188c-4b13-8679-3e24183d08a8"
+            },
+            {
+              "doc_id": "52a3aadd-99c2-450e-ad41-9d45003f0781"
+            },
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            },
+            {
+              "doc_id": "5558db0c-206d-4f4d-b429-479ece44c4f5"
+            },
+            {
+              "doc_id": "56413e55-0f89-45e1-94f9-7626dd17cbe2"
+            },
+            {
+              "doc_id": "56c26fb3-d378-4233-a987-bc49b08c1528"
+            },
+            {
+              "doc_id": "5d119ee3-cc2b-4f65-8ac6-4a5b03ca91d5"
+            },
+            {
+              "doc_id": "66bbdbbc-b013-4d10-b0ce-313d4341dfff"
+            },
+            {
+              "doc_id": "6874a99d-df06-44d6-a609-818868b63f20"
+            },
+            {
+              "doc_id": "68dca17a-5c6f-4e30-8711-629ffa72adaa"
+            },
+            {
+              "doc_id": "6d5d3f6b-9387-478b-8989-a4c4b56a23e3"
+            },
+            {
+              "doc_id": "71bb2e4e-27b7-4cfd-bd8b-93ee05602a28"
+            },
+            {
+              "doc_id": "731b10c2-29c1-42ae-891a-8dbf676deb65"
+            },
+            {
+              "doc_id": "76c60a14-17db-44a0-b6a6-52dc35aacc77"
+            },
+            {
+              "doc_id": "796bbbd7-bc18-4a82-86c0-c211dc14c8bf"
+            },
+            {
+              "doc_id": "80f9211e-712c-4b24-8558-5c2ef1f3023f"
+            },
+            {
+              "doc_id": "8219c0ba-c023-49be-9cfd-12c806f10549"
+            },
+            {
+              "doc_id": "87ca1ec7-7b3f-4ebe-85ec-3b618fbdb4b0"
+            },
+            {
+              "doc_id": "87f4bb84-5e1d-403e-a416-ab557d601ad5"
+            },
+            {
+              "doc_id": "9226b21d-c811-4860-95e2-b75fdc0c185d"
+            },
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            },
+            {
+              "doc_id": "9b735597-f340-4ed1-9f79-2ad9b932ef3f"
+            },
+            {
+              "doc_id": "a03a2768-7423-4fac-aec2-18b3a6433a15"
+            },
+            {
+              "doc_id": "a50e63e2-c3ae-41e3-bc15-6ccda429ed61"
+            },
+            {
+              "doc_id": "a7713e2b-af41-4981-9d3f-ef92cfed873a"
+            },
+            {
+              "doc_id": "ab398032-ad01-49e8-989b-a75a6b9df0b1"
+            },
+            {
+              "doc_id": "aecaf37a-62e8-42fc-a88b-db707dd394dd"
+            },
+            {
+              "doc_id": "b4e80063-957d-4b3f-8721-6ac039e61f28"
+            },
+            {
+              "doc_id": "b76bd80d-1d68-440c-be2f-6b8140b389a9"
+            },
+            {
+              "doc_id": "b7eac35c-58dc-4ba2-b529-0f602ccc8f28"
+            },
+            {
+              "doc_id": "bc720429-f690-46bd-8d2e-17b430ef21e8"
+            },
+            {
+              "doc_id": "bce6847f-e678-4e19-add4-40984a9e05b1"
+            },
+            {
+              "doc_id": "be99c199-caf6-4c58-a26f-d735c227528a"
+            },
+            {
+              "doc_id": "be9df8d4-c5cf-4c2b-b402-7e28340c9f33"
+            },
+            {
+              "doc_id": "c0ac2e3a-7c2b-483d-8a19-712d0eccff2c"
+            },
+            {
+              "doc_id": "c0f3a212-1abe-4d1b-b813-4e1aaeb77392"
+            },
+            {
+              "doc_id": "c7361c85-a220-4282-b394-83f364a96026"
+            },
+            {
+              "doc_id": "c90de5da-f0b7-42ea-88a0-293447e03e99"
+            },
+            {
+              "doc_id": "ca4ad247-415d-4236-ab9e-cd141b7aecfe"
+            },
+            {
+              "doc_id": "cf314b12-01c5-4ea9-96dc-22c52ec5f3fb"
+            },
+            {
+              "doc_id": "cfcb8855-67df-407c-acd0-5257109cfe55"
+            },
+            {
+              "doc_id": "d15bf400-5da0-472c-a567-83dafc7334c1"
+            },
+            {
+              "doc_id": "d21376bd-4be5-4afd-9277-cd766c752b35"
+            },
+            {
+              "doc_id": "d4c71ed0-e36c-443d-9baf-2b0f4e71d4e8"
+            },
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            },
+            {
+              "doc_id": "dd4b36d4-aab4-4b92-95b3-f1baa057d142"
+            },
+            {
+              "doc_id": "debbf3d2-3930-4a84-980b-2cfc42c111a3"
+            },
+            {
+              "doc_id": "e439983b-e0bd-4841-ac86-6c339c0e2dd7"
+            },
+            {
+              "doc_id": "e44b1794-b193-48a4-9d2e-2e59eb8b897f"
+            },
+            {
+              "doc_id": "e7dfaf3a-56fb-454a-a0ff-f685ad2909fa"
+            },
+            {
+              "doc_id": "eab30833-665e-4a3c-b32e-e3f5d51cbd0b"
+            },
+            {
+              "doc_id": "ed09131c-efd4-4573-9d85-957085dc7ba3"
+            },
+            {
+              "doc_id": "ef38008d-4d8e-4136-9ea1-8448f5e39800"
+            },
+            {
+              "doc_id": "f4da1948-0190-44ba-a2ef-f929d937a809"
+            }
+          ]
+        },
+        "Japan claimed it might withdraw from it in 2019": {
+          "answer": "Japan claimed it might withdraw from it in 2019",
+          "references": [
+            {
+              "doc_id": "afd9ab67-25b1-426b-817b-1daf20a2b794"
+            }
+          ]
+        }
+      },
+      "question_id": "7f0471e35383c32a60f743347d57d934",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.728394+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "When did Japan become a member of the International Whaling Commission?": {
+      "question": "When did Japan become a member of the International Whaling Commission?",
+      "answers": {
+        "1951": {
+          "answer": "1951",
+          "references": [
+            {
+              "doc_id": "45b51853-3cb2-4bb6-a8a1-70e0078aa5b1"
+            },
+            {
+              "doc_id": "485b6353-3487-40e2-a2a4-c63731e274ee"
+            },
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            },
+            {
+              "doc_id": "56c26fb3-d378-4233-a987-bc49b08c1528"
+            },
+            {
+              "doc_id": "731b10c2-29c1-42ae-891a-8dbf676deb65"
+            },
+            {
+              "doc_id": "80f9211e-712c-4b24-8558-5c2ef1f3023f"
+            },
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            },
+            {
+              "doc_id": "afd9ab67-25b1-426b-817b-1daf20a2b794"
+            },
+            {
+              "doc_id": "c0ac2e3a-7c2b-483d-8a19-712d0eccff2c"
+            },
+            {
+              "doc_id": "d21376bd-4be5-4afd-9277-cd766c752b35"
+            },
+            {
+              "doc_id": "d4c71ed0-e36c-443d-9baf-2b0f4e71d4e8"
+            }
+          ]
+        },
+        "1982": {
+          "answer": "1982",
+          "references": [
+            {
+              "doc_id": "16a0ac92-8680-47a2-bad3-a08e64f7e0e9"
+            }
+          ]
+        }
+      },
+      "question_id": "a2a3049fdda6e0dd4760e3bd00da9b55",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.728434+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Why did Japan stop commercial whale hunting?": {
+      "question": "Why did Japan stop commercial whale hunting?",
+      "answers": {
+        "moratorium on hunting adopted by the International Whaling commission": {
+          "answer": "moratorium on hunting adopted by the International Whaling commission",
+          "references": [
+            {
+              "doc_id": "16a0ac92-8680-47a2-bad3-a08e64f7e0e9"
+            },
+            {
+              "doc_id": "28c4ff25-dd87-450d-95bc-84af873027be"
+            },
+            {
+              "doc_id": "297dc1ba-f77c-4f51-a3e2-f583b005d69f"
+            },
+            {
+              "doc_id": "2c258f82-f1d8-4c65-a893-1f571d3216ba"
+            },
+            {
+              "doc_id": "2f7bf39b-697d-45ae-b760-ad559ea7a3dc"
+            },
+            {
+              "doc_id": "6874a99d-df06-44d6-a609-818868b63f20"
+            },
+            {
+              "doc_id": "80f9211e-712c-4b24-8558-5c2ef1f3023f"
+            },
+            {
+              "doc_id": "8219c0ba-c023-49be-9cfd-12c806f10549"
+            },
+            {
+              "doc_id": "87f4bb84-5e1d-403e-a416-ab557d601ad5"
+            },
+            {
+              "doc_id": "ab398032-ad01-49e8-989b-a75a6b9df0b1"
+            },
+            {
+              "doc_id": "afd9ab67-25b1-426b-817b-1daf20a2b794"
+            },
+            {
+              "doc_id": "b4e80063-957d-4b3f-8721-6ac039e61f28"
+            },
+            {
+              "doc_id": "b76bd80d-1d68-440c-be2f-6b8140b389a9"
+            },
+            {
+              "doc_id": "bce6847f-e678-4e19-add4-40984a9e05b1"
+            },
+            {
+              "doc_id": "c0ac2e3a-7c2b-483d-8a19-712d0eccff2c"
+            },
+            {
+              "doc_id": "c7361c85-a220-4282-b394-83f364a96026"
+            },
+            {
+              "doc_id": "ca4ad247-415d-4236-ab9e-cd141b7aecfe"
+            },
+            {
+              "doc_id": "cf314b12-01c5-4ea9-96dc-22c52ec5f3fb"
+            },
+            {
+              "doc_id": "f4da1948-0190-44ba-a2ef-f929d937a809"
+            }
+          ]
+        }
+      },
+      "question_id": "fcd483dd13d7ba5ca1aff7412e500d5e",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.728473+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "When did International Whaling Commission adopt a moratorium on whale hunting?": {
+      "question": "When did International Whaling Commission adopt a moratorium on whale hunting?",
+      "answers": {
+        "In 1982": {
+          "answer": "In 1982",
+          "references": [
+            {
+              "doc_id": "1a2155ac-4c24-48d9-b981-7e470035a84e"
+            },
+            {
+              "doc_id": "28c4ff25-dd87-450d-95bc-84af873027be"
+            },
+            {
+              "doc_id": "2c258f82-f1d8-4c65-a893-1f571d3216ba"
+            },
+            {
+              "doc_id": "2f7bf39b-697d-45ae-b760-ad559ea7a3dc"
+            },
+            {
+              "doc_id": "527be2e4-188c-4b13-8679-3e24183d08a8"
+            },
+            {
+              "doc_id": "55f03ae7-157e-4e63-a0df-4d6d9cb8de74"
+            },
+            {
+              "doc_id": "56413e55-0f89-45e1-94f9-7626dd17cbe2"
+            },
+            {
+              "doc_id": "56c26fb3-d378-4233-a987-bc49b08c1528"
+            },
+            {
+              "doc_id": "71bb2e4e-27b7-4cfd-bd8b-93ee05602a28"
+            },
+            {
+              "doc_id": "731b10c2-29c1-42ae-891a-8dbf676deb65"
+            },
+            {
+              "doc_id": "80f9211e-712c-4b24-8558-5c2ef1f3023f"
+            },
+            {
+              "doc_id": "87f4bb84-5e1d-403e-a416-ab557d601ad5"
+            },
+            {
+              "doc_id": "afd9ab67-25b1-426b-817b-1daf20a2b794"
+            },
+            {
+              "doc_id": "b4e80063-957d-4b3f-8721-6ac039e61f28"
+            },
+            {
+              "doc_id": "b7eac35c-58dc-4ba2-b529-0f602ccc8f28"
+            },
+            {
+              "doc_id": "c0ac2e3a-7c2b-483d-8a19-712d0eccff2c"
+            },
+            {
+              "doc_id": "cf314b12-01c5-4ea9-96dc-22c52ec5f3fb"
+            },
+            {
+              "doc_id": "d4c71ed0-e36c-443d-9baf-2b0f4e71d4e8"
+            },
+            {
+              "doc_id": "f4da1948-0190-44ba-a2ef-f929d937a809"
+            }
+          ]
+        },
+        "1986": {
+          "answer": "1986",
+          "references": [
+            {
+              "doc_id": "c90de5da-f0b7-42ea-88a0-293447e03e99"
+            },
+            {
+              "doc_id": "ed09131c-efd4-4573-9d85-957085dc7ba3"
+            }
+          ]
+        },
+        "In 1986": {
+          "answer": "In 1986",
+          "references": [
+            {
+              "doc_id": "0e44f38c-fffb-4550-b294-3de9d5e310f8"
+            },
+            {
+              "doc_id": "16a0ac92-8680-47a2-bad3-a08e64f7e0e9"
+            },
+            {
+              "doc_id": "1be0df90-9adc-4515-9b31-70a05ea7fc3c"
+            },
+            {
+              "doc_id": "21458e62-b53e-404a-8d6c-94899f822338"
+            },
+            {
+              "doc_id": "297dc1ba-f77c-4f51-a3e2-f583b005d69f"
+            },
+            {
+              "doc_id": "2f7bf39b-697d-45ae-b760-ad559ea7a3dc"
+            },
+            {
+              "doc_id": "45b51853-3cb2-4bb6-a8a1-70e0078aa5b1"
+            },
+            {
+              "doc_id": "485b6353-3487-40e2-a2a4-c63731e274ee"
+            },
+            {
+              "doc_id": "4bfea42c-a3af-4c42-b9bf-09160b84ec58"
+            },
+            {
+              "doc_id": "4d90a629-8bfa-4128-866c-1d70f93cc6e9"
+            },
+            {
+              "doc_id": "5558db0c-206d-4f4d-b429-479ece44c4f5"
+            },
+            {
+              "doc_id": "6d5d3f6b-9387-478b-8989-a4c4b56a23e3"
+            },
+            {
+              "doc_id": "89d63f7f-768d-4762-842c-7f0f3e0fbf56"
+            },
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            },
+            {
+              "doc_id": "a7713e2b-af41-4981-9d3f-ef92cfed873a"
+            },
+            {
+              "doc_id": "ab398032-ad01-49e8-989b-a75a6b9df0b1"
+            },
+            {
+              "doc_id": "bc720429-f690-46bd-8d2e-17b430ef21e8"
+            },
+            {
+              "doc_id": "bce6847f-e678-4e19-add4-40984a9e05b1"
+            },
+            {
+              "doc_id": "c7361c85-a220-4282-b394-83f364a96026"
+            },
+            {
+              "doc_id": "ca4ad247-415d-4236-ab9e-cd141b7aecfe"
+            },
+            {
+              "doc_id": "e44b1794-b193-48a4-9d2e-2e59eb8b897f"
+            },
+            {
+              "doc_id": "fcde98d9-8025-4528-b66a-08d4848dbfc7"
+            },
+            {
+              "doc_id": "ff8c4d1c-c825-4ecd-9fac-b96aac27fdb7"
+            }
+          ]
+        },
+        "Adopted in 1982 and became effective in 1986": {
+          "answer": "Adopted in 1982 and became effective in 1986",
+          "references": [
+            {
+              "doc_id": "2f7bf39b-697d-45ae-b760-ad559ea7a3dc"
+            },
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            }
+          ]
+        },
+        "In the 1980s": {
+          "answer": "In the 1980s",
+          "references": [
+            {
+              "doc_id": "6874a99d-df06-44d6-a609-818868b63f20"
+            }
+          ]
+        }
+      },
+      "question_id": "81ac63a26166bd6c225283f59e9c368f",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.728641+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "For what purposes was a whale hunting used in Japan after 1982?": {
+      "question": "For what purposes was a whale hunting used in Japan after 1982?",
+      "answers": {
+        "For research purposes": {
+          "answer": "For research purposes",
+          "references": [
+            {
+              "doc_id": "0e44f38c-fffb-4550-b294-3de9d5e310f8"
+            },
+            {
+              "doc_id": "16a0ac92-8680-47a2-bad3-a08e64f7e0e9"
+            },
+            {
+              "doc_id": "1a2155ac-4c24-48d9-b981-7e470035a84e"
+            },
+            {
+              "doc_id": "1be0df90-9adc-4515-9b31-70a05ea7fc3c"
+            },
+            {
+              "doc_id": "21458e62-b53e-404a-8d6c-94899f822338"
+            },
+            {
+              "doc_id": "28c4ff25-dd87-450d-95bc-84af873027be"
+            },
+            {
+              "doc_id": "2c258f82-f1d8-4c65-a893-1f571d3216ba"
+            },
+            {
+              "doc_id": "2f7bf39b-697d-45ae-b760-ad559ea7a3dc"
+            },
+            {
+              "doc_id": "485b6353-3487-40e2-a2a4-c63731e274ee"
+            },
+            {
+              "doc_id": "4bfea42c-a3af-4c42-b9bf-09160b84ec58"
+            },
+            {
+              "doc_id": "4d90a629-8bfa-4128-866c-1d70f93cc6e9"
+            },
+            {
+              "doc_id": "510289bd-a9e2-4f0a-ad9d-51d8451cc13c"
+            },
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            },
+            {
+              "doc_id": "5558db0c-206d-4f4d-b429-479ece44c4f5"
+            },
+            {
+              "doc_id": "55f03ae7-157e-4e63-a0df-4d6d9cb8de74"
+            },
+            {
+              "doc_id": "56413e55-0f89-45e1-94f9-7626dd17cbe2"
+            },
+            {
+              "doc_id": "66bbdbbc-b013-4d10-b0ce-313d4341dfff"
+            },
+            {
+              "doc_id": "6874a99d-df06-44d6-a609-818868b63f20"
+            },
+            {
+              "doc_id": "6d5d3f6b-9387-478b-8989-a4c4b56a23e3"
+            },
+            {
+              "doc_id": "71bb2e4e-27b7-4cfd-bd8b-93ee05602a28"
+            },
+            {
+              "doc_id": "731b10c2-29c1-42ae-891a-8dbf676deb65"
+            },
+            {
+              "doc_id": "80f9211e-712c-4b24-8558-5c2ef1f3023f"
+            },
+            {
+              "doc_id": "8219c0ba-c023-49be-9cfd-12c806f10549"
+            },
+            {
+              "doc_id": "87f4bb84-5e1d-403e-a416-ab557d601ad5"
+            },
+            {
+              "doc_id": "89d63f7f-768d-4762-842c-7f0f3e0fbf56"
+            },
+            {
+              "doc_id": "9226b21d-c811-4860-95e2-b75fdc0c185d"
+            },
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            },
+            {
+              "doc_id": "a7713e2b-af41-4981-9d3f-ef92cfed873a"
+            },
+            {
+              "doc_id": "ab398032-ad01-49e8-989b-a75a6b9df0b1"
+            },
+            {
+              "doc_id": "aecaf37a-62e8-42fc-a88b-db707dd394dd"
+            },
+            {
+              "doc_id": "afd9ab67-25b1-426b-817b-1daf20a2b794"
+            },
+            {
+              "doc_id": "b76bd80d-1d68-440c-be2f-6b8140b389a9"
+            },
+            {
+              "doc_id": "b7eac35c-58dc-4ba2-b529-0f602ccc8f28"
+            },
+            {
+              "doc_id": "bc720429-f690-46bd-8d2e-17b430ef21e8"
+            },
+            {
+              "doc_id": "bce6847f-e678-4e19-add4-40984a9e05b1"
+            },
+            {
+              "doc_id": "c0ac2e3a-7c2b-483d-8a19-712d0eccff2c"
+            },
+            {
+              "doc_id": "c7361c85-a220-4282-b394-83f364a96026"
+            },
+            {
+              "doc_id": "ca4ad247-415d-4236-ab9e-cd141b7aecfe"
+            },
+            {
+              "doc_id": "cf314b12-01c5-4ea9-96dc-22c52ec5f3fb"
+            },
+            {
+              "doc_id": "d0d3d2d2-f09c-4030-8173-3d0180b1bb95"
+            },
+            {
+              "doc_id": "d15bf400-5da0-472c-a567-83dafc7334c1"
+            },
+            {
+              "doc_id": "d4c71ed0-e36c-443d-9baf-2b0f4e71d4e8"
+            },
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            },
+            {
+              "doc_id": "e44b1794-b193-48a4-9d2e-2e59eb8b897f"
+            },
+            {
+              "doc_id": "e7dfaf3a-56fb-454a-a0ff-f685ad2909fa"
+            },
+            {
+              "doc_id": "f4da1948-0190-44ba-a2ef-f929d937a809"
+            },
+            {
+              "doc_id": "fcde98d9-8025-4528-b66a-08d4848dbfc7"
+            },
+            {
+              "doc_id": "ff8c4d1c-c825-4ecd-9fac-b96aac27fdb7"
+            }
+          ]
+        },
+        "For scientific research purpose as a cover for commercial whaling": {
+          "answer": "For scientific research purpose as a cover for commercial whaling",
+          "references": [
+            {
+              "doc_id": "0e44f38c-fffb-4550-b294-3de9d5e310f8"
+            },
+            {
+              "doc_id": "1be0df90-9adc-4515-9b31-70a05ea7fc3c"
+            },
+            {
+              "doc_id": "21458e62-b53e-404a-8d6c-94899f822338"
+            },
+            {
+              "doc_id": "28c4ff25-dd87-450d-95bc-84af873027be"
+            },
+            {
+              "doc_id": "2f7bf39b-697d-45ae-b760-ad559ea7a3dc"
+            },
+            {
+              "doc_id": "485b6353-3487-40e2-a2a4-c63731e274ee"
+            },
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            },
+            {
+              "doc_id": "6874a99d-df06-44d6-a609-818868b63f20"
+            },
+            {
+              "doc_id": "89d63f7f-768d-4762-842c-7f0f3e0fbf56"
+            },
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            },
+            {
+              "doc_id": "ab398032-ad01-49e8-989b-a75a6b9df0b1"
+            },
+            {
+              "doc_id": "aecaf37a-62e8-42fc-a88b-db707dd394dd"
+            },
+            {
+              "doc_id": "ff8c4d1c-c825-4ecd-9fac-b96aac27fdb7"
+            }
+          ]
+        },
+        "Survey whale populations to assess whether they are endangered": {
+          "answer": "Survey whale populations to assess whether they are endangered",
+          "references": [
+            {
+              "doc_id": "0e44f38c-fffb-4550-b294-3de9d5e310f8"
+            },
+            {
+              "doc_id": "21458e62-b53e-404a-8d6c-94899f822338"
+            },
+            {
+              "doc_id": "2f7bf39b-697d-45ae-b760-ad559ea7a3dc"
+            },
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            },
+            {
+              "doc_id": "afd9ab67-25b1-426b-817b-1daf20a2b794"
+            },
+            {
+              "doc_id": "b7eac35c-58dc-4ba2-b529-0f602ccc8f28"
+            },
+            {
+              "doc_id": "f4da1948-0190-44ba-a2ef-f929d937a809"
+            }
+          ]
+        },
+        "To have  younger generations experience whale cuisine to continue the culture of whaling": {
+          "answer": "To have  younger generations experience whale cuisine to continue the culture of whaling",
+          "references": []
+        }
+      },
+      "question_id": "9aab58b17b6cf1bc7d8a633c7d3b1fe9",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.728759+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Why did the international community criticize Japan hunting whales for research purposes?": {
+      "question": "Why did the international community criticize Japan hunting whales for research purposes?",
+      "answers": {
+        "They believed it was  cover for commercial whaling": {
+          "answer": "They believed it was  cover for commercial whaling",
+          "references": [
+            {
+              "doc_id": "0e44f38c-fffb-4550-b294-3de9d5e310f8"
+            },
+            {
+              "doc_id": "14366427-1989-44bf-b090-2a60f2e838fa"
+            },
+            {
+              "doc_id": "17b07cf1-354b-4557-a977-393191bb25c7"
+            },
+            {
+              "doc_id": "1be0df90-9adc-4515-9b31-70a05ea7fc3c"
+            },
+            {
+              "doc_id": "21458e62-b53e-404a-8d6c-94899f822338"
+            },
+            {
+              "doc_id": "2f7bf39b-697d-45ae-b760-ad559ea7a3dc"
+            },
+            {
+              "doc_id": "485b6353-3487-40e2-a2a4-c63731e274ee"
+            },
+            {
+              "doc_id": "4d90a629-8bfa-4128-866c-1d70f93cc6e9"
+            },
+            {
+              "doc_id": "510289bd-a9e2-4f0a-ad9d-51d8451cc13c"
+            },
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            },
+            {
+              "doc_id": "6874a99d-df06-44d6-a609-818868b63f20"
+            },
+            {
+              "doc_id": "731b10c2-29c1-42ae-891a-8dbf676deb65"
+            },
+            {
+              "doc_id": "8219c0ba-c023-49be-9cfd-12c806f10549"
+            },
+            {
+              "doc_id": "87f4bb84-5e1d-403e-a416-ab557d601ad5"
+            },
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            },
+            {
+              "doc_id": "ab398032-ad01-49e8-989b-a75a6b9df0b1"
+            },
+            {
+              "doc_id": "aecaf37a-62e8-42fc-a88b-db707dd394dd"
+            },
+            {
+              "doc_id": "b76bd80d-1d68-440c-be2f-6b8140b389a9"
+            },
+            {
+              "doc_id": "bc720429-f690-46bd-8d2e-17b430ef21e8"
+            },
+            {
+              "doc_id": "bce6847f-e678-4e19-add4-40984a9e05b1"
+            },
+            {
+              "doc_id": "d0d3d2d2-f09c-4030-8173-3d0180b1bb95"
+            },
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            },
+            {
+              "doc_id": "f4da1948-0190-44ba-a2ef-f929d937a809"
+            },
+            {
+              "doc_id": "fcde98d9-8025-4528-b66a-08d4848dbfc7"
+            },
+            {
+              "doc_id": "ff8c4d1c-c825-4ecd-9fac-b96aac27fdb7"
+            }
+          ]
+        },
+        "Accused it of violating its commitments and destroying the natural ecology, and its inhumane whaling methods": {
+          "answer": "Accused it of violating its commitments and destroying the natural ecology, and its inhumane whaling methods",
+          "references": [
+            {
+              "doc_id": "6874a99d-df06-44d6-a609-818868b63f20"
+            }
+          ]
+        },
+        "Because of its inhumane whaling practices": {
+          "answer": "Because of its inhumane whaling practices",
+          "references": [
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            },
+            {
+              "doc_id": "6874a99d-df06-44d6-a609-818868b63f20"
+            },
+            {
+              "doc_id": "ff8c4d1c-c825-4ecd-9fac-b96aac27fdb7"
+            }
+          ]
+        }
+      },
+      "question_id": "648ae3180aa0521cfa2231204e1d4c19",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.728823+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What whale species did Japan lobby to resume commercial hunting on?": {
+      "question": "What whale species did Japan lobby to resume commercial hunting on?",
+      "answers": {
+        "Minke whales": {
+          "answer": "Minke whales",
+          "references": [
+            {
+              "doc_id": "21458e62-b53e-404a-8d6c-94899f822338"
+            },
+            {
+              "doc_id": "731b10c2-29c1-42ae-891a-8dbf676deb65"
+            }
+          ]
+        }
+      },
+      "question_id": "461af163d49b8f6b84693d7bd4c93b73",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.728843+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How long did Japan lobby for to resume minke whale commercial hunting?": {
+      "question": "How long did Japan lobby for to resume minke whale commercial hunting?",
+      "answers": {
+        "For 30 years": {
+          "answer": "For 30 years",
+          "references": [
+            {
+              "doc_id": "731b10c2-29c1-42ae-891a-8dbf676deb65"
+            },
+            {
+              "doc_id": "be99c199-caf6-4c58-a26f-d735c227528a"
+            },
+            {
+              "doc_id": "d0d3d2d2-f09c-4030-8173-3d0180b1bb95"
+            },
+            {
+              "doc_id": "e439983b-e0bd-4841-ac86-6c339c0e2dd7"
+            }
+          ]
+        }
+      },
+      "question_id": "98c07b1c2a9ff7e2ba5d6a972186e694",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.728864+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Where was the meat of the whales sold?": {
+      "question": "Where was the meat of the whales sold?",
+      "answers": {
+        "On the domestic market": {
+          "answer": "On the domestic market",
+          "references": [
+            {
+              "doc_id": "1be0df90-9adc-4515-9b31-70a05ea7fc3c"
+            },
+            {
+              "doc_id": "21458e62-b53e-404a-8d6c-94899f822338"
+            },
+            {
+              "doc_id": "28c4ff25-dd87-450d-95bc-84af873027be"
+            },
+            {
+              "doc_id": "485b6353-3487-40e2-a2a4-c63731e274ee"
+            },
+            {
+              "doc_id": "527be2e4-188c-4b13-8679-3e24183d08a8"
+            },
+            {
+              "doc_id": "56413e55-0f89-45e1-94f9-7626dd17cbe2"
+            },
+            {
+              "doc_id": "71bb2e4e-27b7-4cfd-bd8b-93ee05602a28"
+            },
+            {
+              "doc_id": "731b10c2-29c1-42ae-891a-8dbf676deb65"
+            },
+            {
+              "doc_id": "796bbbd7-bc18-4a82-86c0-c211dc14c8bf"
+            },
+            {
+              "doc_id": "80f9211e-712c-4b24-8558-5c2ef1f3023f"
+            },
+            {
+              "doc_id": "a7713e2b-af41-4981-9d3f-ef92cfed873a"
+            },
+            {
+              "doc_id": "b76bd80d-1d68-440c-be2f-6b8140b389a9"
+            },
+            {
+              "doc_id": "b7eac35c-58dc-4ba2-b529-0f602ccc8f28"
+            },
+            {
+              "doc_id": "bce6847f-e678-4e19-add4-40984a9e05b1"
+            },
+            {
+              "doc_id": "c0ac2e3a-7c2b-483d-8a19-712d0eccff2c"
+            },
+            {
+              "doc_id": "ca4ad247-415d-4236-ab9e-cd141b7aecfe"
+            },
+            {
+              "doc_id": "cf314b12-01c5-4ea9-96dc-22c52ec5f3fb"
+            },
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            },
+            {
+              "doc_id": "debbf3d2-3930-4a84-980b-2cfc42c111a3"
+            }
+          ]
+        }
+      },
+      "question_id": "1e61ae0138dea531744793419fc5c8b0",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.728902+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How was the meat of the whales used?": {
+      "question": "How was the meat of the whales used?",
+      "answers": {
+        "In school meals": {
+          "answer": "In school meals",
+          "references": [
+            {
+              "doc_id": "1be0df90-9adc-4515-9b31-70a05ea7fc3c"
+            },
+            {
+              "doc_id": "28c4ff25-dd87-450d-95bc-84af873027be"
+            },
+            {
+              "doc_id": "510289bd-a9e2-4f0a-ad9d-51d8451cc13c"
+            },
+            {
+              "doc_id": "5d5792ec-8053-43ad-948c-2ca1de7d4ea8"
+            },
+            {
+              "doc_id": "80f9211e-712c-4b24-8558-5c2ef1f3023f"
+            },
+            {
+              "doc_id": "bce6847f-e678-4e19-add4-40984a9e05b1"
+            }
+          ]
+        },
+        "In restaurants": {
+          "answer": "In restaurants",
+          "references": [
+            {
+              "doc_id": "1be0df90-9adc-4515-9b31-70a05ea7fc3c"
+            }
+          ]
+        },
+        "As pet food": {
+          "answer": "As pet food",
+          "references": [
+            {
+              "doc_id": "1be0df90-9adc-4515-9b31-70a05ea7fc3c"
+            }
+          ]
+        },
+        "For food consumption": {
+          "answer": "For food consumption",
+          "references": [
+            {
+              "doc_id": "0e44f38c-fffb-4550-b294-3de9d5e310f8"
+            },
+            {
+              "doc_id": "28c4ff25-dd87-450d-95bc-84af873027be"
+            },
+            {
+              "doc_id": "2f7bf39b-697d-45ae-b760-ad559ea7a3dc"
+            },
+            {
+              "doc_id": "45b51853-3cb2-4bb6-a8a1-70e0078aa5b1"
+            },
+            {
+              "doc_id": "485b6353-3487-40e2-a2a4-c63731e274ee"
+            },
+            {
+              "doc_id": "56413e55-0f89-45e1-94f9-7626dd17cbe2"
+            },
+            {
+              "doc_id": "5d5792ec-8053-43ad-948c-2ca1de7d4ea8"
+            },
+            {
+              "doc_id": "71bb2e4e-27b7-4cfd-bd8b-93ee05602a28"
+            },
+            {
+              "doc_id": "76c60a14-17db-44a0-b6a6-52dc35aacc77"
+            },
+            {
+              "doc_id": "796bbbd7-bc18-4a82-86c0-c211dc14c8bf"
+            },
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            },
+            {
+              "doc_id": "a7713e2b-af41-4981-9d3f-ef92cfed873a"
+            },
+            {
+              "doc_id": "b76bd80d-1d68-440c-be2f-6b8140b389a9"
+            },
+            {
+              "doc_id": "b7eac35c-58dc-4ba2-b529-0f602ccc8f28"
+            },
+            {
+              "doc_id": "ca4ad247-415d-4236-ab9e-cd141b7aecfe"
+            },
+            {
+              "doc_id": "cf314b12-01c5-4ea9-96dc-22c52ec5f3fb"
+            },
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            },
+            {
+              "doc_id": "f4da1948-0190-44ba-a2ef-f929d937a809"
+            },
+            {
+              "doc_id": "fcde98d9-8025-4528-b66a-08d4848dbfc7"
+            },
+            {
+              "doc_id": "ff8c4d1c-c825-4ecd-9fac-b96aac27fdb7"
+            }
+          ]
+        },
+        "To use whale oil for pesticide, bones for carvings, and ambergris for perfume": {
+          "answer": "To use whale oil for pesticide, bones for carvings, and ambergris for perfume",
+          "references": [
+            {
+              "doc_id": "56413e55-0f89-45e1-94f9-7626dd17cbe2"
+            }
+          ]
+        }
+      },
+      "question_id": "4202a44b2782972137ae2a687376dea3",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.728979+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How many minke whales did Japan allegedly kill annually during the moratorium?": {
+      "question": "How many minke whales did Japan allegedly kill annually during the moratorium?",
+      "answers": {
+        "More than 900": {
+          "answer": "More than 900",
+          "references": [
+            {
+              "doc_id": "510289bd-a9e2-4f0a-ad9d-51d8451cc13c"
+            },
+            {
+              "doc_id": "52a3aadd-99c2-450e-ad41-9d45003f0781"
+            },
+            {
+              "doc_id": "55f03ae7-157e-4e63-a0df-4d6d9cb8de74"
+            }
+          ]
+        },
+        "Between 200 5to 1200": {
+          "answer": "Between 200 5to 1200",
+          "references": []
+        },
+        "2000 50 6000 tons annually in 1990s": {
+          "answer": "2000 50 6000 tons annually in 1990s",
+          "references": []
+        },
+        "2000 to 5000 tons in 1990s": {
+          "answer": "2000 to 5000 tons in 1990s",
+          "references": []
+        },
+        "Between 200 to 1200": {
+          "answer": "Between 200 to 1200",
+          "references": []
+        }
+      },
+      "question_id": "31511fe708152ee0d145c7e8e05e441a",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.729024+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Why did Japan allow the killing of whales for meat?": {
+      "question": "Why did Japan allow the killing of whales for meat?",
+      "answers": {
+        "it is part of the country's culture": {
+          "answer": "it is part of the country's culture",
+          "references": [
+            {
+              "doc_id": "1a2155ac-4c24-48d9-b981-7e470035a84e"
+            },
+            {
+              "doc_id": "28c4ff25-dd87-450d-95bc-84af873027be"
+            },
+            {
+              "doc_id": "2f7bf39b-697d-45ae-b760-ad559ea7a3dc"
+            },
+            {
+              "doc_id": "44bbd758-cab3-4d9c-968f-72940bc1f1e1"
+            },
+            {
+              "doc_id": "45b51853-3cb2-4bb6-a8a1-70e0078aa5b1"
+            },
+            {
+              "doc_id": "485b6353-3487-40e2-a2a4-c63731e274ee"
+            },
+            {
+              "doc_id": "527be2e4-188c-4b13-8679-3e24183d08a8"
+            },
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            },
+            {
+              "doc_id": "5558db0c-206d-4f4d-b429-479ece44c4f5"
+            },
+            {
+              "doc_id": "55f03ae7-157e-4e63-a0df-4d6d9cb8de74"
+            },
+            {
+              "doc_id": "56413e55-0f89-45e1-94f9-7626dd17cbe2"
+            },
+            {
+              "doc_id": "6f9b5f63-238b-4c41-9624-ec4c5da8d166"
+            },
+            {
+              "doc_id": "76c60a14-17db-44a0-b6a6-52dc35aacc77"
+            },
+            {
+              "doc_id": "796bbbd7-bc18-4a82-86c0-c211dc14c8bf"
+            },
+            {
+              "doc_id": "80f9211e-712c-4b24-8558-5c2ef1f3023f"
+            },
+            {
+              "doc_id": "9226b21d-c811-4860-95e2-b75fdc0c185d"
+            },
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            },
+            {
+              "doc_id": "a03a2768-7423-4fac-aec2-18b3a6433a15"
+            },
+            {
+              "doc_id": "a7713e2b-af41-4981-9d3f-ef92cfed873a"
+            },
+            {
+              "doc_id": "ab398032-ad01-49e8-989b-a75a6b9df0b1"
+            },
+            {
+              "doc_id": "b7eac35c-58dc-4ba2-b529-0f602ccc8f28"
+            },
+            {
+              "doc_id": "bc720429-f690-46bd-8d2e-17b430ef21e8"
+            },
+            {
+              "doc_id": "bce6847f-e678-4e19-add4-40984a9e05b1"
+            },
+            {
+              "doc_id": "c0f3a212-1abe-4d1b-b813-4e1aaeb77392"
+            },
+            {
+              "doc_id": "ca4ad247-415d-4236-ab9e-cd141b7aecfe"
+            },
+            {
+              "doc_id": "cf314b12-01c5-4ea9-96dc-22c52ec5f3fb"
+            },
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            },
+            {
+              "doc_id": "ef38008d-4d8e-4136-9ea1-8448f5e39800"
+            },
+            {
+              "doc_id": "f4da1948-0190-44ba-a2ef-f929d937a809"
+            },
+            {
+              "doc_id": "fcde98d9-8025-4528-b66a-08d4848dbfc7"
+            }
+          ]
+        },
+        "Because it believes that the number of some whale species has returned to a level suitable for hunting.": {
+          "answer": "Because it believes that the number of some whale species has returned to a level suitable for hunting.",
+          "references": [
+            {
+              "doc_id": "0e44f38c-fffb-4550-b294-3de9d5e310f8"
+            },
+            {
+              "doc_id": "45b51853-3cb2-4bb6-a8a1-70e0078aa5b1"
+            },
+            {
+              "doc_id": "4d90a629-8bfa-4128-866c-1d70f93cc6e9"
+            },
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            },
+            {
+              "doc_id": "6874a99d-df06-44d6-a609-818868b63f20"
+            },
+            {
+              "doc_id": "87ca1ec7-7b3f-4ebe-85ec-3b618fbdb4b0"
+            },
+            {
+              "doc_id": "89d63f7f-768d-4762-842c-7f0f3e0fbf56"
+            },
+            {
+              "doc_id": "d4c71ed0-e36c-443d-9baf-2b0f4e71d4e8"
+            }
+          ]
+        },
+        "To have  younger generations experience whale cuisine to continue the culture of whaling": {
+          "answer": "To have  younger generations experience whale cuisine to continue the culture of whaling",
+          "references": [
+            {
+              "doc_id": "28c4ff25-dd87-450d-95bc-84af873027be"
+            },
+            {
+              "doc_id": "5558db0c-206d-4f4d-b429-479ece44c4f5"
+            },
+            {
+              "doc_id": "71bb2e4e-27b7-4cfd-bd8b-93ee05602a28"
+            },
+            {
+              "doc_id": "ab398032-ad01-49e8-989b-a75a6b9df0b1"
+            }
+          ]
+        },
+        "To revitalize the economy in some regions": {
+          "answer": "To revitalize the economy in some regions",
+          "references": [
+            {
+              "doc_id": "56413e55-0f89-45e1-94f9-7626dd17cbe2"
+            },
+            {
+              "doc_id": "796bbbd7-bc18-4a82-86c0-c211dc14c8bf"
+            },
+            {
+              "doc_id": "a7713e2b-af41-4981-9d3f-ef92cfed873a"
+            },
+            {
+              "doc_id": "ca4ad247-415d-4236-ab9e-cd141b7aecfe"
+            }
+          ]
+        },
+        "For political reasons": {
+          "answer": "For political reasons",
+          "references": [
+            {
+              "doc_id": "56413e55-0f89-45e1-94f9-7626dd17cbe2"
+            },
+            {
+              "doc_id": "5d5792ec-8053-43ad-948c-2ca1de7d4ea8"
+            },
+            {
+              "doc_id": "796bbbd7-bc18-4a82-86c0-c211dc14c8bf"
+            },
+            {
+              "doc_id": "a7713e2b-af41-4981-9d3f-ef92cfed873a"
+            },
+            {
+              "doc_id": "ca4ad247-415d-4236-ab9e-cd141b7aecfe"
+            }
+          ]
+        },
+        "Because it believes most species of whales are not endangered": {
+          "answer": "Because it believes most species of whales are not endangered",
+          "references": [
+            {
+              "doc_id": "bc720429-f690-46bd-8d2e-17b430ef21e8"
+            }
+          ]
+        }
+      },
+      "question_id": "c6d421e0d136e2ca13c8e1d4dcd977d2",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.729159+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What role did whale meat play in Japan\u2019s nutrition in the post-war period?": {
+      "question": "What role did whale meat play in Japan\u2019s nutrition in the post-war period?",
+      "answers": {
+        "main source of nutrition for the country's residents": {
+          "answer": "main source of nutrition for the country's residents",
+          "references": [
+            {
+              "doc_id": "14366427-1989-44bf-b090-2a60f2e838fa"
+            },
+            {
+              "doc_id": "1be0df90-9adc-4515-9b31-70a05ea7fc3c"
+            },
+            {
+              "doc_id": "28c4ff25-dd87-450d-95bc-84af873027be"
+            },
+            {
+              "doc_id": "297dc1ba-f77c-4f51-a3e2-f583b005d69f"
+            },
+            {
+              "doc_id": "485b6353-3487-40e2-a2a4-c63731e274ee"
+            },
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            },
+            {
+              "doc_id": "56413e55-0f89-45e1-94f9-7626dd17cbe2"
+            },
+            {
+              "doc_id": "5d5792ec-8053-43ad-948c-2ca1de7d4ea8"
+            },
+            {
+              "doc_id": "6f9b5f63-238b-4c41-9624-ec4c5da8d166"
+            },
+            {
+              "doc_id": "796bbbd7-bc18-4a82-86c0-c211dc14c8bf"
+            },
+            {
+              "doc_id": "80f9211e-712c-4b24-8558-5c2ef1f3023f"
+            },
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            },
+            {
+              "doc_id": "a7713e2b-af41-4981-9d3f-ef92cfed873a"
+            },
+            {
+              "doc_id": "b76bd80d-1d68-440c-be2f-6b8140b389a9"
+            },
+            {
+              "doc_id": "b7eac35c-58dc-4ba2-b529-0f602ccc8f28"
+            },
+            {
+              "doc_id": "bce6847f-e678-4e19-add4-40984a9e05b1"
+            },
+            {
+              "doc_id": "c0f3a212-1abe-4d1b-b813-4e1aaeb77392"
+            },
+            {
+              "doc_id": "ca4ad247-415d-4236-ab9e-cd141b7aecfe"
+            },
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            },
+            {
+              "doc_id": "f4da1948-0190-44ba-a2ef-f929d937a809"
+            }
+          ]
+        }
+      },
+      "question_id": "44cbef06ab5b1e478dbf30f256164158",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.729201+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "How much whale meat did the Japanese annually eat in the 1960s?": {
+      "question": "How much whale meat did the Japanese annually eat in the 1960s?",
+      "answers": {
+        "Up to 200 thousand tons": {
+          "answer": "Up to 200 thousand tons",
+          "references": [
+            {
+              "doc_id": "16a0ac92-8680-47a2-bad3-a08e64f7e0e9"
+            },
+            {
+              "doc_id": "80f9211e-712c-4b24-8558-5c2ef1f3023f"
+            },
+            {
+              "doc_id": "bce6847f-e678-4e19-add4-40984a9e05b1"
+            },
+            {
+              "doc_id": "d0d3d2d2-f09c-4030-8173-3d0180b1bb95"
+            },
+            {
+              "doc_id": "d21376bd-4be5-4afd-9277-cd766c752b35"
+            },
+            {
+              "doc_id": "f4da1948-0190-44ba-a2ef-f929d937a809"
+            }
+          ]
+        },
+        "23.3 tons in 1962": {
+          "answer": "23.3 tons in 1962",
+          "references": [
+            {
+              "doc_id": "56413e55-0f89-45e1-94f9-7626dd17cbe2"
+            }
+          ]
+        },
+        "24000 whales in 1964": {
+          "answer": "24000 whales in 1964",
+          "references": [
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            },
+            {
+              "doc_id": "796bbbd7-bc18-4a82-86c0-c211dc14c8bf"
+            }
+          ]
+        },
+        "2000 to 3000 tons": {
+          "answer": "2000 to 3000 tons",
+          "references": [
+            {
+              "doc_id": "56413e55-0f89-45e1-94f9-7626dd17cbe2"
+            }
+          ]
+        }
+      },
+      "question_id": "fa7d51e3e1214656fe5d46f37289a853",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.729260+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Who criticized the decision of the Japanese authorities to resume commercial whale hunting?": {
+      "question": "Who criticized the decision of the Japanese authorities to resume commercial whale hunting?",
+      "answers": {
+        "Activists": {
+          "answer": "Activists",
+          "references": [
+            {
+              "doc_id": "14366427-1989-44bf-b090-2a60f2e838fa"
+            },
+            {
+              "doc_id": "35f5f730-74c6-4aea-84fd-ad1a5aaada8c"
+            },
+            {
+              "doc_id": "68dca17a-5c6f-4e30-8711-629ffa72adaa"
+            },
+            {
+              "doc_id": "731b10c2-29c1-42ae-891a-8dbf676deb65"
+            },
+            {
+              "doc_id": "8219c0ba-c023-49be-9cfd-12c806f10549"
+            },
+            {
+              "doc_id": "9226b21d-c811-4860-95e2-b75fdc0c185d"
+            },
+            {
+              "doc_id": "bce6847f-e678-4e19-add4-40984a9e05b1"
+            },
+            {
+              "doc_id": "c0f3a212-1abe-4d1b-b813-4e1aaeb77392"
+            },
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            },
+            {
+              "doc_id": "eab30833-665e-4a3c-b32e-e3f5d51cbd0b"
+            },
+            {
+              "doc_id": "ef38008d-4d8e-4136-9ea1-8448f5e39800"
+            }
+          ]
+        },
+        "Countries that are not involved in whaling": {
+          "answer": "Countries that are not involved in whaling",
+          "references": [
+            {
+              "doc_id": "527be2e4-188c-4b13-8679-3e24183d08a8"
+            },
+            {
+              "doc_id": "68dca17a-5c6f-4e30-8711-629ffa72adaa"
+            },
+            {
+              "doc_id": "731b10c2-29c1-42ae-891a-8dbf676deb65"
+            },
+            {
+              "doc_id": "8219c0ba-c023-49be-9cfd-12c806f10549"
+            },
+            {
+              "doc_id": "bce6847f-e678-4e19-add4-40984a9e05b1"
+            },
+            {
+              "doc_id": "c0f3a212-1abe-4d1b-b813-4e1aaeb77392"
+            },
+            {
+              "doc_id": "c7361c85-a220-4282-b394-83f364a96026"
+            },
+            {
+              "doc_id": "d0d3d2d2-f09c-4030-8173-3d0180b1bb95"
+            },
+            {
+              "doc_id": "eab30833-665e-4a3c-b32e-e3f5d51cbd0b"
+            },
+            {
+              "doc_id": "f6f3e49b-32da-456e-8719-c81745c3ab6d"
+            }
+          ]
+        },
+        "Local green peace organization": {
+          "answer": "Local green peace organization",
+          "references": [
+            {
+              "doc_id": "16a0ac92-8680-47a2-bad3-a08e64f7e0e9"
+            },
+            {
+              "doc_id": "2c258f82-f1d8-4c65-a893-1f571d3216ba"
+            }
+          ]
+        },
+        "International Court of Justice": {
+          "answer": "International Court of Justice",
+          "references": [
+            {
+              "doc_id": "1be0df90-9adc-4515-9b31-70a05ea7fc3c"
+            }
+          ]
+        },
+        "Environmental groups": {
+          "answer": "Environmental groups",
+          "references": [
+            {
+              "doc_id": "1be0df90-9adc-4515-9b31-70a05ea7fc3c"
+            },
+            {
+              "doc_id": "28c4ff25-dd87-450d-95bc-84af873027be"
+            },
+            {
+              "doc_id": "2f7bf39b-697d-45ae-b760-ad559ea7a3dc"
+            },
+            {
+              "doc_id": "4d90a629-8bfa-4128-866c-1d70f93cc6e9"
+            },
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            },
+            {
+              "doc_id": "56413e55-0f89-45e1-94f9-7626dd17cbe2"
+            }
+          ]
+        },
+        "animal protection activists": {
+          "answer": "animal protection activists",
+          "references": []
+        },
+        "President of Humane Society International": {
+          "answer": "President of Humane Society International",
+          "references": [
+            {
+              "doc_id": "2c258f82-f1d8-4c65-a893-1f571d3216ba"
+            },
+            {
+              "doc_id": "2f7bf39b-697d-45ae-b760-ad559ea7a3dc"
+            },
+            {
+              "doc_id": "4d90a629-8bfa-4128-866c-1d70f93cc6e9"
+            },
+            {
+              "doc_id": "b7eac35c-58dc-4ba2-b529-0f602ccc8f28"
+            }
+          ]
+        },
+        "Anti-whaling countries and advocates": {
+          "answer": "Anti-whaling countries and advocates",
+          "references": [
+            {
+              "doc_id": "297dc1ba-f77c-4f51-a3e2-f583b005d69f"
+            },
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            }
+          ]
+        },
+        "Foreign media": {
+          "answer": "Foreign media",
+          "references": [
+            {
+              "doc_id": "28c4ff25-dd87-450d-95bc-84af873027be"
+            }
+          ]
+        },
+        "Anthropologist Jane Goodall": {
+          "answer": "Anthropologist Jane Goodall",
+          "references": [
+            {
+              "doc_id": "2c258f82-f1d8-4c65-a893-1f571d3216ba"
+            }
+          ]
+        },
+        "Australia": {
+          "answer": "Australia",
+          "references": [
+            {
+              "doc_id": "2f7bf39b-697d-45ae-b760-ad559ea7a3dc"
+            },
+            {
+              "doc_id": "485b6353-3487-40e2-a2a4-c63731e274ee"
+            },
+            {
+              "doc_id": "6874a99d-df06-44d6-a609-818868b63f20"
+            },
+            {
+              "doc_id": "76c60a14-17db-44a0-b6a6-52dc35aacc77"
+            },
+            {
+              "doc_id": "796bbbd7-bc18-4a82-86c0-c211dc14c8bf"
+            },
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            },
+            {
+              "doc_id": "b76bd80d-1d68-440c-be2f-6b8140b389a9"
+            }
+          ]
+        },
+        "Many countries": {
+          "answer": "Many countries",
+          "references": [
+            {
+              "doc_id": "2f7bf39b-697d-45ae-b760-ad559ea7a3dc"
+            }
+          ]
+        },
+        "Australian Foreign Minister Marise Payne": {
+          "answer": "Australian Foreign Minister Marise Payne",
+          "references": [
+            {
+              "doc_id": "485b6353-3487-40e2-a2a4-c63731e274ee"
+            },
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            },
+            {
+              "doc_id": "b76bd80d-1d68-440c-be2f-6b8140b389a9"
+            }
+          ]
+        },
+        "Australian Environment Minister Melissa Price": {
+          "answer": "Australian Environment Minister Melissa Price",
+          "references": [
+            {
+              "doc_id": "485b6353-3487-40e2-a2a4-c63731e274ee"
+            },
+            {
+              "doc_id": "b76bd80d-1d68-440c-be2f-6b8140b389a9"
+            }
+          ]
+        },
+        "Nicola Beynon of Humane Society International ": {
+          "answer": "Nicola Beynon of Humane Society International ",
+          "references": [
+            {
+              "doc_id": "485b6353-3487-40e2-a2a4-c63731e274ee"
+            },
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            }
+          ]
+        },
+        "Scientists": {
+          "answer": "Scientists",
+          "references": [
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            }
+          ]
+        },
+        "Film director Ali Ttabrizi": {
+          "answer": "Film director Ali Ttabrizi",
+          "references": []
+        },
+        "Many countries and organizations": {
+          "answer": "Many countries and organizations",
+          "references": [
+            {
+              "doc_id": "6874a99d-df06-44d6-a609-818868b63f20"
+            }
+          ]
+        },
+        "Greenpeace International": {
+          "answer": "Greenpeace International",
+          "references": [
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            },
+            {
+              "doc_id": "6874a99d-df06-44d6-a609-818868b63f20"
+            },
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            }
+          ]
+        },
+        "Animal protection groups": {
+          "answer": "Animal protection groups",
+          "references": [
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            }
+          ]
+        },
+        "Many Japanese people": {
+          "answer": "Many Japanese people",
+          "references": [
+            {
+              "doc_id": "b7eac35c-58dc-4ba2-b529-0f602ccc8f28"
+            }
+          ]
+        },
+        "International conservation organizations": {
+          "answer": "International conservation organizations",
+          "references": [
+            {
+              "doc_id": "d15bf400-5da0-472c-a567-83dafc7334c1"
+            }
+          ]
+        },
+        "Australian government and environmentalists": {
+          "answer": "Australian government and environmentalists",
+          "references": [
+            {
+              "doc_id": "d21376bd-4be5-4afd-9277-cd766c752b35"
+            }
+          ]
+        },
+        "Countries against whaling": {
+          "answer": "Countries against whaling",
+          "references": [
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            }
+          ]
+        },
+        "Australian Marine Conservation Society CEO Darren Kindleysides": {
+          "answer": "Australian Marine Conservation Society CEO Darren Kindleysides",
+          "references": [
+            {
+              "doc_id": "f4da1948-0190-44ba-a2ef-f929d937a809"
+            }
+          ]
+        },
+        "Conservation groups": {
+          "answer": "Conservation groups",
+          "references": [
+            {
+              "doc_id": "5558db0c-206d-4f4d-b429-479ece44c4f5"
+            },
+            {
+              "doc_id": "f4da1948-0190-44ba-a2ef-f929d937a809"
+            }
+          ]
+        },
+        "TV host Bakshar": {
+          "answer": "TV host Bakshar",
+          "references": [
+            {
+              "doc_id": "4d90a629-8bfa-4128-866c-1d70f93cc6e9"
+            }
+          ]
+        },
+        "New Zealand": {
+          "answer": "New Zealand",
+          "references": [
+            {
+              "doc_id": "6874a99d-df06-44d6-a609-818868b63f20"
+            }
+          ]
+        }
+      },
+      "question_id": "e27c2cdacd0ac17dbe8bf7f04b977f75",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.729529+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Who welcomed the decision of the Japanese authorities to resume commercial whale hunting?": {
+      "question": "Who welcomed the decision of the Japanese authorities to resume commercial whale hunting?",
+      "answers": {
+        "Japanese whaling community": {
+          "answer": "Japanese whaling community",
+          "references": [
+            {
+              "doc_id": "1a2155ac-4c24-48d9-b981-7e470035a84e"
+            },
+            {
+              "doc_id": "297dc1ba-f77c-4f51-a3e2-f583b005d69f"
+            },
+            {
+              "doc_id": "68dca17a-5c6f-4e30-8711-629ffa72adaa"
+            },
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            },
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            }
+          ]
+        },
+        "Many Japanese people": {
+          "answer": "Many Japanese people",
+          "references": [
+            {
+              "doc_id": "1be0df90-9adc-4515-9b31-70a05ea7fc3c"
+            },
+            {
+              "doc_id": "56413e55-0f89-45e1-94f9-7626dd17cbe2"
+            }
+          ]
+        },
+        "President of Japan Small Whaling Association": {
+          "answer": "President of Japan Small Whaling Association",
+          "references": [
+            {
+              "doc_id": "56413e55-0f89-45e1-94f9-7626dd17cbe2"
+            },
+            {
+              "doc_id": "71bb2e4e-27b7-4cfd-bd8b-93ee05602a28"
+            },
+            {
+              "doc_id": "b4e80063-957d-4b3f-8721-6ac039e61f28"
+            },
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            }
+          ]
+        },
+        "Japanese fishermen": {
+          "answer": "Japanese fishermen",
+          "references": [
+            {
+              "doc_id": "71bb2e4e-27b7-4cfd-bd8b-93ee05602a28"
+            },
+            {
+              "doc_id": "aecaf37a-62e8-42fc-a88b-db707dd394dd"
+            }
+          ]
+        },
+        "Some countries that support whaling": {
+          "answer": "Some countries that support whaling",
+          "references": [
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            }
+          ]
+        },
+        "Masayuki Komatsu, senior fellow at the Tokyo Foundation and former Japanese negotiator at the International Whaling Commission": {
+          "answer": "Masayuki Komatsu, senior fellow at the Tokyo Foundation and former Japanese negotiator at the International Whaling Commission",
+          "references": [
+            {
+              "doc_id": "b76bd80d-1d68-440c-be2f-6b8140b389a9"
+            }
+          ]
+        },
+        "Japanese Defense Minister Itsunori Onodera": {
+          "answer": "Japanese Defense Minister Itsunori Onodera",
+          "references": [
+            {
+              "doc_id": "d21376bd-4be5-4afd-9277-cd766c752b35"
+            }
+          ]
+        },
+        "23-year-old taxi driver Sachiko Sakai": {
+          "answer": "23-year-old taxi driver Sachiko Sakai",
+          "references": []
+        },
+        "66-year-old taxi driver Sachiko Sakai": {
+          "answer": "66-year-old taxi driver Sachiko Sakai",
+          "references": [
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            }
+          ]
+        },
+        "23-year-old whale fisherman Hideki Abe": {
+          "answer": "23-year-old whale fisherman Hideki Abe",
+          "references": [
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            }
+          ]
+        }
+      },
+      "question_id": "962fd1c98bacb40dc1f7c9024c045f93",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.729622+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "What was the 2019 annual limit set by the Fisheries Agency?": {
+      "question": "What was the 2019 annual limit set by the Fisheries Agency?",
+      "answers": {
+        "227 whales": {
+          "answer": "227 whales",
+          "references": [
+            {
+              "doc_id": "297dc1ba-f77c-4f51-a3e2-f583b005d69f"
+            },
+            {
+              "doc_id": "45b51853-3cb2-4bb6-a8a1-70e0078aa5b1"
+            },
+            {
+              "doc_id": "52a3aadd-99c2-450e-ad41-9d45003f0781"
+            },
+            {
+              "doc_id": "5558db0c-206d-4f4d-b429-479ece44c4f5"
+            },
+            {
+              "doc_id": "68dca17a-5c6f-4e30-8711-629ffa72adaa"
+            },
+            {
+              "doc_id": "80f9211e-712c-4b24-8558-5c2ef1f3023f"
+            },
+            {
+              "doc_id": "87ca1ec7-7b3f-4ebe-85ec-3b618fbdb4b0"
+            },
+            {
+              "doc_id": "ab398032-ad01-49e8-989b-a75a6b9df0b1"
+            },
+            {
+              "doc_id": "aecaf37a-62e8-42fc-a88b-db707dd394dd"
+            },
+            {
+              "doc_id": "c90de5da-f0b7-42ea-88a0-293447e03e99"
+            },
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            },
+            {
+              "doc_id": "ef38008d-4d8e-4136-9ea1-8448f5e39800"
+            }
+          ]
+        },
+        "383 whales": {
+          "answer": "383 whales",
+          "references": []
+        },
+        "383, including 171 minke whales, 187 Bryde's whales and 25 northern baleen whales": {
+          "answer": "383, including 171 minke whales, 187 Bryde's whales and 25 northern baleen whales",
+          "references": [
+            {
+              "doc_id": "71bb2e4e-27b7-4cfd-bd8b-93ee05602a28"
+            }
+          ]
+        },
+        "227, including 52 minke whales, 150 Bryde's whales and 25 sei whales": {
+          "answer": "227, including 52 minke whales, 150 Bryde's whales and 25 sei whales",
+          "references": [
+            {
+              "doc_id": "297dc1ba-f77c-4f51-a3e2-f583b005d69f"
+            },
+            {
+              "doc_id": "5558db0c-206d-4f4d-b429-479ece44c4f5"
+            },
+            {
+              "doc_id": "87ca1ec7-7b3f-4ebe-85ec-3b618fbdb4b0"
+            },
+            {
+              "doc_id": "ab398032-ad01-49e8-989b-a75a6b9df0b1"
+            },
+            {
+              "doc_id": "b4e80063-957d-4b3f-8721-6ac039e61f28"
+            },
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            }
+          ]
+        }
+      },
+      "question_id": "5fbc8d3a0576c26e852654b96530cce9",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.729847+00:00",
+          "format": "v2"
+        }
+      ]
+    },
+    "Which waters did Japan plan to limit whale hunting to?": {
+      "question": "Which waters did Japan plan to limit whale hunting to?",
+      "answers": {
+        "Japan's territorial waters": {
+          "answer": "Japan's territorial waters",
+          "references": [
+            {
+              "doc_id": "16a0ac92-8680-47a2-bad3-a08e64f7e0e9"
+            },
+            {
+              "doc_id": "1a2155ac-4c24-48d9-b981-7e470035a84e"
+            },
+            {
+              "doc_id": "485b6353-3487-40e2-a2a4-c63731e274ee"
+            },
+            {
+              "doc_id": "527be2e4-188c-4b13-8679-3e24183d08a8"
+            },
+            {
+              "doc_id": "52a3aadd-99c2-450e-ad41-9d45003f0781"
+            },
+            {
+              "doc_id": "56c26fb3-d378-4233-a987-bc49b08c1528"
+            },
+            {
+              "doc_id": "66bbdbbc-b013-4d10-b0ce-313d4341dfff"
+            },
+            {
+              "doc_id": "6874a99d-df06-44d6-a609-818868b63f20"
+            },
+            {
+              "doc_id": "6d5d3f6b-9387-478b-8989-a4c4b56a23e3"
+            },
+            {
+              "doc_id": "71bb2e4e-27b7-4cfd-bd8b-93ee05602a28"
+            },
+            {
+              "doc_id": "731b10c2-29c1-42ae-891a-8dbf676deb65"
+            },
+            {
+              "doc_id": "76c60a14-17db-44a0-b6a6-52dc35aacc77"
+            },
+            {
+              "doc_id": "80f9211e-712c-4b24-8558-5c2ef1f3023f"
+            },
+            {
+              "doc_id": "8219c0ba-c023-49be-9cfd-12c806f10549"
+            },
+            {
+              "doc_id": "9226b21d-c811-4860-95e2-b75fdc0c185d"
+            },
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            },
+            {
+              "doc_id": "9b735597-f340-4ed1-9f79-2ad9b932ef3f"
+            },
+            {
+              "doc_id": "b76bd80d-1d68-440c-be2f-6b8140b389a9"
+            },
+            {
+              "doc_id": "bce6847f-e678-4e19-add4-40984a9e05b1"
+            },
+            {
+              "doc_id": "c0f3a212-1abe-4d1b-b813-4e1aaeb77392"
+            },
+            {
+              "doc_id": "c7361c85-a220-4282-b394-83f364a96026"
+            },
+            {
+              "doc_id": "c90de5da-f0b7-42ea-88a0-293447e03e99"
+            },
+            {
+              "doc_id": "d0d3d2d2-f09c-4030-8173-3d0180b1bb95"
+            },
+            {
+              "doc_id": "d15bf400-5da0-472c-a567-83dafc7334c1"
+            },
+            {
+              "doc_id": "e44b1794-b193-48a4-9d2e-2e59eb8b897f"
+            },
+            {
+              "doc_id": "e7dfaf3a-56fb-454a-a0ff-f685ad2909fa"
+            }
+          ]
+        },
+        "In Japan\u2019s territorial waters and 323 kilometers of exclusive coastal waters": {
+          "answer": "In Japan\u2019s territorial waters and 323 kilometers of exclusive coastal waters",
+          "references": [
+            {
+              "doc_id": "16a0ac92-8680-47a2-bad3-a08e64f7e0e9"
+            }
+          ]
+        },
+        "In Japan's offshore waters": {
+          "answer": "In Japan's offshore waters",
+          "references": [
+            {
+              "doc_id": "28c4ff25-dd87-450d-95bc-84af873027be"
+            },
+            {
+              "doc_id": "2f7bf39b-697d-45ae-b760-ad559ea7a3dc"
+            },
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            },
+            {
+              "doc_id": "76c60a14-17db-44a0-b6a6-52dc35aacc77"
+            },
+            {
+              "doc_id": "a03a2768-7423-4fac-aec2-18b3a6433a15"
+            }
+          ]
+        },
+        "Japan's Exclusive Economic Zone": {
+          "answer": "Japan's Exclusive Economic Zone",
+          "references": [
+            {
+              "doc_id": "1a2155ac-4c24-48d9-b981-7e470035a84e"
+            },
+            {
+              "doc_id": "2f7bf39b-697d-45ae-b760-ad559ea7a3dc"
+            },
+            {
+              "doc_id": "485b6353-3487-40e2-a2a4-c63731e274ee"
+            },
+            {
+              "doc_id": "54d5a567-e8ed-48d0-b42a-328b029cecfa"
+            },
+            {
+              "doc_id": "6874a99d-df06-44d6-a609-818868b63f20"
+            },
+            {
+              "doc_id": "71bb2e4e-27b7-4cfd-bd8b-93ee05602a28"
+            },
+            {
+              "doc_id": "87ca1ec7-7b3f-4ebe-85ec-3b618fbdb4b0"
+            },
+            {
+              "doc_id": "950af4b0-1f67-4f91-b764-77d5b8b1621f"
+            },
+            {
+              "doc_id": "a03a2768-7423-4fac-aec2-18b3a6433a15"
+            },
+            {
+              "doc_id": "b4e80063-957d-4b3f-8721-6ac039e61f28"
+            },
+            {
+              "doc_id": "b76bd80d-1d68-440c-be2f-6b8140b389a9"
+            },
+            {
+              "doc_id": "d15bf400-5da0-472c-a567-83dafc7334c1"
+            },
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            }
+          ]
+        },
+        "Far from conservation waters": {
+          "answer": "Far from conservation waters",
+          "references": [
+            {
+              "doc_id": "87f4bb84-5e1d-403e-a416-ab557d601ad5"
+            },
+            {
+              "doc_id": "aecaf37a-62e8-42fc-a88b-db707dd394dd"
+            },
+            {
+              "doc_id": "d6c78e79-37d9-4f0a-898e-f323b4936b42"
+            }
+          ]
+        }
+      },
+      "question_id": "74211829522ea27d924bfacfcd2076dd",
+      "aggregator_type": "OR",
+      "query_id": "382",
+      "creator": [
+        {
+          "is_human": true,
+          "creation_date": "2025-07-02T20:10:37.729947+00:00",
+          "format": "v2"
+        }
+      ]
+    }
+  }
+}
