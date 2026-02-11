@@ -39,7 +39,7 @@ To run with arbitrary outputs from `auto-argue`, you will need to provide the fo
 Owing to the way Streamlit parses command line arguments, these arguments must be offset with a `--`, like so:
 
 ```
-streamlit run src/streamlit_app.py -- --topic-data <my_topic_data> --nuggets-dir <my_nuggets_dir> --judgments-jsonl <my_judgments_jsonl> --scores-tsv <my_scores_tsv>
+streamlit run src/streamlit_app.py -- --topic-data <my_topic_data> --nuggets-dir <my_nuggets_dir> --judgments-data <my_judgments_jsonl> --scores-data <my_scores_tsv>
 ```
 
 ## Understanding the Visualization
