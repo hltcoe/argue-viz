@@ -1,4 +1,4 @@
-# ARGUE Visualizer
+# ARGUE-Viz: A visualizer for Auto-ARGUE
 
 This app provides a means of visualizing ARGUE scores and judgments produced by the [auto-argue](https://github.com/hltcoe/auto-argue) package.
 
